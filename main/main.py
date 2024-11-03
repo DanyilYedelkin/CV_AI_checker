@@ -8,16 +8,38 @@ import numpy as np
 # Пример текстовых данных резюме и описаний вакансий
 resumes = [
     "Experienced data scientist skilled in Python, SQL, and machine learning.",
-    "Software engineer with expertise in Java and project management.",
-    "Financial analyst with experience in investment analysis and data visualization.",
-    "Marketing specialist with strong background in social media and digital marketing."
+    "Software engineer with expertise in Java, C++, and project management.",
+    "Financial analyst with experience in investment analysis, financial modeling, and data visualization.",
+    "Marketing specialist with strong background in social media, SEO, and digital marketing.",
+    "Machine learning engineer with a focus on neural networks, deep learning, and computer vision.",
+    "Business analyst proficient in data analysis, Tableau, and SQL with experience in reporting.",
+    "HR manager with expertise in recruitment, employee training, and performance management.",
+    "Project manager with 5+ years of experience in Agile, Scrum, and cross-functional team management.",
+    "Cybersecurity specialist experienced in network security, intrusion detection, and risk management.",
+    "Frontend developer skilled in HTML, CSS, JavaScript, and React with a strong UX/UI focus.",
+    "Backend developer with knowledge of Node.js, Python, databases, and microservices architecture.",
+    "Customer support representative with experience in CRM, customer satisfaction analysis, and resolution management.",
+    "Operations manager with skills in logistics, supply chain management, and process optimization.",
+    "Data analyst with strong skills in SQL, R, and Python, specializing in data cleaning and visualization.",
+    "Healthcare data specialist with knowledge of medical terminology, EMR systems, and patient data privacy.",
 ]
 
 job_descriptions = [
     "Looking for a data scientist with experience in Python, SQL, and machine learning.",
-    "Seeking software engineer with Java skills and project management experience.",
-    "Hiring financial analyst with expertise in investment and data visualization.",
-    "Searching for a digital marketer with a focus on social media and digital marketing."
+    "Seeking software engineer with Java, C++ skills and project management experience.",
+    "Hiring financial analyst with expertise in financial modeling and data visualization.",
+    "Searching for a digital marketer with experience in social media, SEO, and online advertising.",
+    "Machine learning engineer needed with experience in deep learning and computer vision.",
+    "Business analyst required with strong SQL and Tableau skills for data-driven insights.",
+    "We are hiring an HR manager with a background in recruitment, onboarding, and team engagement.",
+    "Project manager with Agile and Scrum experience needed to lead cross-functional teams.",
+    "Seeking a cybersecurity expert with experience in network security and risk assessment.",
+    "Frontend developer needed with skills in JavaScript, React, and UX/UI best practices.",
+    "Backend developer position open for candidates with Node.js, Python, and database management skills.",
+    "Customer support representative needed to handle CRM, issue resolution, and customer feedback.",
+    "Looking for an operations manager experienced in logistics and supply chain management.",
+    "Data analyst required with expertise in SQL, R, and data visualization techniques.",
+    "Hiring healthcare data specialist knowledgeable in EMR systems and patient data compliance.",
 ]
 
 # Шаг 1: Преобразование текста с помощью TF-IDF

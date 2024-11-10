@@ -59,7 +59,7 @@ def load_job_descriptions(data_job_folder):
                 # Разделим текст на различные разделы (например, Core Responsibilities, Required Skills и т.д.)
                 job_data = {}
                 sections = ["Core Responsibilities", "Required Skills", "Educational Requirements",
-                            "Experience Level", "Preferred Qualifications", "Compensation and Benefits"]
+                            "Experience Level", "Preferred Qualifications"]
 
                 # Парсим каждый раздел в вакансии
                 for section in sections:

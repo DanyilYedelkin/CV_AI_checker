@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for leading the company, fundraising, developing go-to-market strategy, financial management, business growth, building partnerships and alliances.",
+  "Required Skills": "10+ years in senior leadership roles, CEO/COO experience, fundraising track record ($1M+), sales and marketing experience, financial management, startup experience, business and corporate development skills, capital raising experience, negotiation skills.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "10+ years experience in a senior leadership role, 2+ years as a CEO/COO",
+  "Preferred Qualifications": "Background in cannabis, agriculture, horticulture, wellness, CPG or medical products industries. Existing investor network.",
+  "Compensation and Benefits": "Equity compensation. Small monthly salary until fundraising milestones are met."
+}

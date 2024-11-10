@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "As strategic business partner to the CEO, provide day-to-day operational leverage, lead initiatives to help inform medium to long term strategic decisions, and drive strategy/implementation of key company systems and processes that help scale.",
+  "Required Skills": "2+ years experience in high growth technology strategy, business operations, VC, IB, consulting, or related fields; Excellent written/verbal communication skills; Analytical and data-driven; Strategic thinker able to speak intelligently about business models, industries, and technology trends; Able to influence and partner across functions to drive initiatives; Strong attention to detail; Bias toward action and ability to operate quickly in a changing environment; Collaborative team player.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years experience required",
+  "Preferred Qualifications": "Experience in consumer marketplace business; Highly curious consumer of tech news and content; MBA from top program; Proficient with SQL, data analysis and visualization tools",
+  "Compensation and Benefits": "Competitive salary and equity in a high-growth company; Remote work with hub-based in-person collaboration; Financial planning assistance; Paid parental leave; Mental health benefits; Home office stipend; Learning & development stipend; Team bonding events; Healthcare, 401k match, paid time off, and other benefits detailed in description."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Establish business intelligence and data analytics infrastructure, generate insights through exploring data sets, build dashboards and visualizations, lead data projects, collaborate with engineers and product teams, provide analysis and recommendations to clients based on data.",
+  "Required Skills": "SQL, Python, Excel, GitHub, Google Sheets, experience with analytics and BI tools like Looker, Tableau, PowerBI, Google Data Studio, statistical analysis and data science skills.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years of relevant work experience in data analysis, business analysis, engineering, consulting, statistics, mathematics or other analytical roles.",  
+  "Preferred Qualifications": "Experience with databricks, Jupyter Notebook, R or other scripting languages, working in fast-paced environments, presenting technical concepts to varied audiences.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Communicating with project team to resolve issues, reviewing documents, tracking expenses and budget, preparing reports, performing site inspections, obtaining permits",
+  "Required Skills": "Construction knowledge, communication skills, problem-solving, Microsoft Office, Procore, Google Drive",
+  "Educational Requirements": "N/A",
+  "Experience Level": "Minimum 5 years experience",
+  "Preferred Qualifications": "Office experience with Procore, Google Drive, Microsoft Office",
+  "Compensation and Benefits": "Salary based on experience, paid holidays, PTO, health benefits, vacation time"
+}

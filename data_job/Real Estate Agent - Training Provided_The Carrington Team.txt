@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handling the entire real estate purchase process for clients, including showing properties, negotiating offers, and guiding clients through closing.",
+  "Required Skills": "Excellent communication, problem-solving, negotiation, and presentation skills. Knowledge of the local real estate market. Proficient with real estate software and technology.", 
+  "Educational Requirements": "New York real estate license or willingness to obtain one.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Prior real estate sales experience. Existing client network.",
+  "Compensation and Benefits": "Commission-based pay, earning potential of $50,000+ per year. Flexible schedule. Energetic, supportive team environment."
+}

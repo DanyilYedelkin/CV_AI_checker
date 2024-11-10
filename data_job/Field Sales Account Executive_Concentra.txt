@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Facilitate customer and prospect meetings to identify and sell services. Continue customers through the buying cycle. Gain formal commitment from customers to utilize services. Coordinate timely setup of service packages for customers.",
+  "Required Skills": "Bachelor's degree or equivalent experience. 4+ years of sales experience. Solution and value-based selling experience. Proficiency in MS Office and CRM software. Strong negotiation, analytical, problem-solving, organization, leadership and communication skills.", 
+  "Educational Requirements": "Bachelor's degree or equivalent experience",
+  "Experience Level": "4+ years of sales experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "401(k) with employer match, medical, dental, vision, life, disability insurance, paid time off, extended illness days, tuition reimbursement, commuter benefits, dependent care spending account, employee discounts."
+}

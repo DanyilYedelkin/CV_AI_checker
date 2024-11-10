@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Project manage select complex crossfunctional initiatives that span talent strategy, people experience and COE's; Develop and implement project management best practices; Facilitate annual HR lifecycle process calendar; Lead agenda and materials development for internal HR communications",
+  "Required Skills": "2+ years of professional experience, 1+ years focused on project management, Exceptional writing and communication skills, Demonstrated experience with data analysis, Demonstrated experience establishing trust with senior leaders, Demonstrated ability to work independently with strong judgment",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of professional experience",
+  "Preferred Qualifications": "HR project management experience, Experience with HR technology, Proficiency in Google Suite, Experience indirectly influencing others to action",
+  "Compensation and Benefits": "N/A"
+}

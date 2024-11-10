@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform financial analysis and due diligence, write investment-driven research reports, develop and field industry surveys, undertake industry analyses and competitive assessments.",
+  "Required Skills": "Strong writing and analytical skills, basic understanding of accounting and financial modeling, ability to work efficiently in a fast-paced environment, willing to relocate to NYC area.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Advanced degree in the basic sciences, prior equity research or industry experience.",
+  "Compensation and Benefits": "N/A"
+}

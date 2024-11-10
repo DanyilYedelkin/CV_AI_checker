@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "maintain business cleanliness and appearance, ensure safety regulations are met, coordinate and facilitate maintenance and repairs",
+  "Required Skills": "capable of learning new skills quickly, able to use hand and mechanical tools to ensure safety and completion of tasks",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$15/hour"
+}

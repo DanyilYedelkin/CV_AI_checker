@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Listing and selling real estate properties, hosting open houses, coordinating transactions, conducting showings",
+  "Required Skills": "Real estate license, sales skills, outgoing personality, self-motivated, multitasking, follow-up skills, communication skills",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "Experience in real estate industry",
+  "Compensation and Benefits": "$20,000 per year, flexible schedule, work from home, commission pay"
+}

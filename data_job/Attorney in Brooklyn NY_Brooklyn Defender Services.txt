@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Meet clients and arraign new cases on intake, work collaboratively with staff to develop case strategy, investigate facts, build relationships with clients, communicate with clients, represent clients at various hearings, write motions and legal documents, maintain case files and notes, additional responsibilities as assigned",
+  "Required Skills": "N/A", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

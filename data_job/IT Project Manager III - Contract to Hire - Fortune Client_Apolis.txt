@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Managing IT projects throughout their full lifecycle, including initiation, planning, execution, and reporting. Coordinating work requests and communicating status with stakeholders.",
+  "Required Skills": "3-5 years IT and/or business experience. 2+ years managing IT projects. Experience with infrastructure, software development, and/or retail technology projects. Proficiency in Microsoft Office and project management tools.",  
+  "Educational Requirements": "Bachelor's degree in IT, business, or related field.",
+  "Experience Level": "3-5 years IT and/or business experience. Minimum 2 years managing IT projects.",
+  "Preferred Qualifications": "Experience with Oracle Xstore, Sterling OMS, or other large enterprise ecommerce systems. Understanding of various essential business functions.", 
+  "Compensation and Benefits": "N/A"
+}

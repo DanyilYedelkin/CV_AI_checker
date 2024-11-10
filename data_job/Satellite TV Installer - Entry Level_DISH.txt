@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Install and manage customer products while creating opportunities to sell them on new personalized technology. Relocate power and place mounts, satellite dishes, televisions, routers, cameras, receivers and whole-home connectivity technology in customer homes. Conduct site surveys and in-person home assessments.",
+  "Required Skills": "High energy, resourcefulness and ability to multitask. An eye for opportunities to sell customers on new personalized technology. Strong customer advocacy skills - friendly, communicative with a high degree of integrity. Sales, electrical, maintenance/repair, cable, military and/or customer service experience preferred.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$18.00 per hour plus a promotion at 6 months with a $2.00 per hour pay increase. Paid incentive with potential for up to $5,000 in your first year and $10,000 each year after that based on your performance. Paid time off - 5 vacation and 5 sick time. Free DISH TV programming at a value of $30/month at your home plus deeply discounted SlingTV and Boost Mobile plans. Paid training, tools and uniforms."
+}

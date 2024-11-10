@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Craft conceptually powerful, visually stunning art direction for multichannel campaigns. Manage one full-time retoucher. Collaborate with creative team to create on-brief art direction. Deliver artfully crafted assets that elevate each brand and channel.",
+  "Required Skills": "Mastery of integrated multichannel art direction. Proven experience creating big ideas and photo/video art direction for all channels. Photo and video production and editing experience. Excellent problem solving, critical thinking, collaboration and communication skills. Familiarity with history of photography, film and art.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years of experience in integrated multichannel art direction",
+  "Preferred Qualifications": "Creative agency or publication experience. Brand-side experience. Experience art directing TV commercials. Established relationships with photographers, videographers and agents.",
+  "Compensation and Benefits": "Company match retirement plan. Generous parental leave and child care stipend. Unlimited PTO. Annual training stipend. Monthly mental health days. Product discount. Wellness stipend. WFH stipend."
+}

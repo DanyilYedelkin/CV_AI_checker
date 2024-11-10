@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Representing the brand and providing excellent customer service. Offering product knowledge and friendly help to customers to create a space they love. Contributing to overall store sales.",
+  "Required Skills": "2 years retail sales experience. Sales driven and customer focused. Passionate about interior decor. Strong communication and listening. Self-motivated and vibrant.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2 years retail sales experience",  
+  "Preferred Qualifications": "Open availability and flexibility to work varied shifts including evenings, weekends, and holidays. Talent for establishing rapport with customers. Proficient on sales registers and computer systems. Ability to lift up to 50 lbs.",
+  "Compensation and Benefits": "Competitive salary with incentives and bonuses. Generous employee discount. Fun, collaborative work environment."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Applying principles and methods of physiological response assessment (e.g. polygraph assessment) including test techniques, scoring methods, and regulations; Applying techniques of interviewing, elicitation, debriefing, and/or interrogation in a systematic manner; Preparing accurate and complete reports that document processes, outcomes, and findings; Creating a product based on analysis of security and/or counterintelligence data",
+  "Required Skills": "Ability to maintain polygraph examiner certification, including completing continuing education requirements; Willingness and ability to qualify to carry a firearm and maintain federal firearms certification annually; Successful completion of background investigation and polygraph; Valid driver's license with responsible driving record", 
+  "Educational Requirements": "Bachelor's degree required, master's degree preferred",
+  "Experience Level": "0-2 years of relevant experience for entry level; 2+ years of relevant experience for full performance level",
+  "Preferred Qualifications": "Degree in criminology, behavioral science, law enforcement, psychology or political science; Relevant experience in security, law enforcement, behavioral science, counterintelligence, investigations, or polygraph; Certification as a special agent or equivalent investigative certification",
+  "Compensation and Benefits": "Salary range based on education and experience; Benefits include annual paid time off, sick leave, health/life insurance, retirement plans, fitness facilities, childcare services, diversity and inclusion programs; Monday-Friday schedule with flexibility between 6AM-6PM; Travel may be required"
+}

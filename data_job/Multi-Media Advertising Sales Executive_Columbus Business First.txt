@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work with market leaders and influential professionals to create and maximize revenue generation. Prospect and generate high-quality targets, meet key performance metrics and goals, diversify client base, develop customized solutions, manage sales pipeline and gaps, network and attend events.",
+  "Required Skills": "2 years sales experience, strategic thinking, relationship building, communication and influencing skills, ability to manage short and long-term opportunities, strong organizational, analytical and communication skills, ability to work independently in a changing environment, proficiency with Microsoft Office products.",
+  "Educational Requirements": "College degree or comparable work experience.", 
+  "Experience Level": "2 years sales experience preferred, recent graduates considered.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Base salary plus uncapped commission with guaranteed minimum commission for the first 6 months. Competitive benefits including health, dental, vision, 401k with match, paid parental leave, employee assistance program, commuter benefits, lifestyle programs, scholarships, and more."
+}

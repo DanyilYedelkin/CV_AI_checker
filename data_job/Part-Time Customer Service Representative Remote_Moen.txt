@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handles and resolves general product or service calls from consumers by identifying the issue, determining the cause of the problem and selecting and explaining the best resolution. Escalates complex issues to the lead product consultants.",
+  "Required Skills": "High school diploma or equivalent. Business/professional communication skills. Customer service experience. Working knowledge of Microsoft Office systems. Ability to thrive in a fast-paced work environment with low mobility and high observation. Ability to maintain a positive approach and demonstrate flexibility and teamwork.",
+  "Educational Requirements": "High school diploma or equivalent.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Bilingual capabilities.",
+  "Compensation and Benefits": "N/A"
+}

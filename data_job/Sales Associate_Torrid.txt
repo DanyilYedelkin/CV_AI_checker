@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide an amazing shopping experience, perform register functions, cover the sales floor, assist in stockroom organization, help ensure visual standards are met",
+  "Required Skills": "Previous sales or customer service experience, ability to multitask in a fast-paced environment, committed to creating an amazing customer experience, be fashion focused and stay on top of current trends",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Flexible schedules, associate discount + additional monthly discount coupon, mental health resources, tuition reimbursement, employee stock purchase program"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Make 80+ outbound sales calls and emails per day to prospective clients; qualify prospects; schedule appointments for sales team; manage CRM database; prepare daily/weekly/monthly reports; achieve monthly activity and lead generation metrics; send follow-up info to prospects; manage email and social media campaigns",
+  "Required Skills": "High school diploma (college degree preferred); 2+ years outbound call center or prospecting experience; highly organized; customer service-oriented; effective communicator; detailed-oriented; independent worker; proficient with MS Office; prior CRM experience",  
+  "Educational Requirements": "High school diploma (college degree preferred)",
+  "Experience Level": "2+ years outbound call center or prospecting experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Incentive compensation plan; individual health care; paid vacation; paid sick time; part of nationwide brand; corporate awards programs"
+}

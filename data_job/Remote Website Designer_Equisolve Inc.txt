@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide design support for client and internal website projects. Collaborate with content and development teams. Ensure high-quality implementation of designs. Use and evolve the design system.",
+  "Required Skills": "2+ years experience in web or product design. Portfolio showcasing typography, interaction and visual design skills. Understanding of responsive design and modular design systems. Figma and design tools proficiency. Strong communication skills. Self-starter.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years experience as an individual contributor on a web or product design team",
+  "Preferred Qualifications": "Personal projects displaying design aesthetic and passions. ADA and accessibility certification. Experience facilitating visual design adoption. Ability to communicate design decisions.",
+  "Compensation and Benefits": "Remote work. Generous PTO. Education/training allowance. Apple hardware. Insurance benefits. Company-sponsored life insurance."
+}

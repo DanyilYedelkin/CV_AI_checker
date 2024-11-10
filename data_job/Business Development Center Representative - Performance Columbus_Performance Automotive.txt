@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer inbound service calls professionally and schedule appointments; Generate appointments by means of incoming and outgoing calls (no cold calling); Attract potential clients and retain current clientele by answering product and service questions received via phone and/or internet; Contribute to high scores for the manufacturers customer satisfaction index (CSI); Check email frequently and respond to inquiries immediately; Meet and exceed goals each month and quarter; Handle customer complaints with integrity and poise; Make customer satisfaction number one",
+  "Required Skills": "Proven customer service experience (minimum 2 years); Demonstrate excellent phone and verbal communication skills; Experience with heavy inbound and outbound calls; Maintain an energetic, positive attitude and work well with others; Organized, efficient with an attention to detail; High school diploma or GED; Valid driver's license with an acceptable driving record; Pass a pre-employment drug screening",
+  "Educational Requirements": "High school diploma or GED",
+  "Experience Level": "Minimum 2 years proven customer service experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

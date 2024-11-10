@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Working with and advising corporate clients directly as well as the ability to provide entrepreneurial pragmatic business-oriented advice. The ability to thrive in a large fast-paced environment with a high level of professionalism and outstanding business judgment. Maintain strong collaborative relationships with internal business partners and stakeholders.",
+  "Required Skills": "5+ years of significant transactional experience preferably in an in-house environment negotiating a wide variety of commercial contracts including but not limited to procurement, customer/sales agreements, NDAs and MSAs. Experience working independently and cross-functionally. Experience taking on complex projects. Excellent interpersonal skills. Active membership and good standing in the state in which you currently reside.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years of significant transactional experience",
+  "Preferred Qualifications": "Experience creating contract templates and/or experience managing contract databases is a plus",
+  "Compensation and Benefits": "This role offers competitive compensation and a highly competitive benefits package in the alternative legal services marketplace that includes health benefits and more. Axiomites also get access to professional development tools and resources and learning and development programs. Axiomites predominately work remotely with the exception that some clients require onsite presence."
+}

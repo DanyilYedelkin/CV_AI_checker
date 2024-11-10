@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Resident care and assisting with activities of daily living like bathing, hygiene, meals, activities, appointments, and other daily needs.",
+  "Required Skills": "Experience working in senior living. Cheerful disposition and love of seniors.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

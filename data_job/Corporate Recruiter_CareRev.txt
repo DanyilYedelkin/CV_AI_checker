@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "run a successful full life cycle recruiting process for high-volume and non-high volume positions; develop and update job descriptions and job specifications; partner with hiring managers and teams as a consultative partner; source and recruit candidates; screen all qualified candidates and organize the holistic interview process; foster an amazing candidate and hiring manager experience; monitor and apply recruiting best practices; be awesome; support other talent acquisition and people ops functions as needed",
+  "Required Skills": "2+ years of staffing/recruiting experience, high-volume preferred; experience with Greenhouse (ATS) is preferred but not required; demonstrated ability to work independently and completely crush it; superior negotiation and closing skills; excellent communication and consulting skills; ability to work in a fast-paced environment and multitask",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of staffing/recruiting experience",
+  "Preferred Qualifications": "Experience with Greenhouse (ATS)",
+  "Compensation and Benefits": "remote company; comprehensive medical, dental and vision benefits; short term disability – covered by carerev; life insurance – covered by carerev; paid parental leave; generous paid holidays – unlimited PTO; 401k and company match; office equipment stipend; learning reimbursement program"
+}

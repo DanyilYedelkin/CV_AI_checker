@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintain officer training records in database system. Process public records requests. Greet visitors and assist with registration and badging. Monitor facility security. Provide clerical support to other departments.",
+  "Required Skills": "Proficiency with telecommunication systems. Customer service skills. Computer skills including Microsoft Office. Attention to detail. Ability to multitask.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Salary starts at $35,000/year but may be higher based on experience. Benefits include medical, dental, vision, retirement, leave time, tuition reimbursement, etc."
+}

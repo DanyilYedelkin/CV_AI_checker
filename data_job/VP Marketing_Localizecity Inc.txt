@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Set brand strategy and ensure execution across brand and performance channels. Lead creative and media strategy. Manage brand ID, content marketing, social media, paid and organic marketing, CRM, SEM. Drive new customer acquisition and retention.",
+  "Required Skills": "5+ years marketing experience with 2+ years in strategic marketing leadership role at a SaaS company. Experience building successful CRM programs. Ability to lead and grow a high-performing marketing team.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years marketing experience with 2+ years in strategic marketing leadership role",
+  "Preferred Qualifications": "Experience with web/SaaS products. Analytical thinker driven by data. Intellectually curious and motivated by the product and team. Trustworthy with ability to collaborate cross-functionally.",
+  "Compensation and Benefits": "N/A"
+}

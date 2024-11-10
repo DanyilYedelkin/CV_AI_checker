@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist with running the restaurant, leading shifts, developing team members and shift managers.",
+  "Required Skills": "Leadership, management, high energy, high standards.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Monthly bonuses, paid time off, 401k with company match, daily pay, medical, dental, vision, life insurance."
+}

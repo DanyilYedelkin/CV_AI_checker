@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Set the strategic goals and supports performance targets of techopts in collaboration with CMO and functionalsite leaders; Orchestrate the sustainable transformation of techopts; Lead the design, orchestration and execution of techopts strategic initiatives; Execute the digital and data transformation of techopts; Identify, evaluate and implement innovation across all industries; Manage the business storyline and cases for strategic investments; Lead techopts level business continuity and risk management processes; Drive global-level operational excellence agenda; Design and manage governance including business process management and key capability programs; Drive and sustain program management office (PMO) capabilities, processes and digital platform; Lead a team of professionals to drive all techopts business processes",
+  "Required Skills": "Strategic thinking and planning, leadership and influence, program and project management, change management, continuous improvement, budget management, risk management",
+  "Educational Requirements": "Higher education preferably PhD and/or MBA in pharmaceutical or business sciences", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Lean and MAIC training and establish record; Master black belt preferred",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide administrative support to the CEO including managing calendar, preparing documents, organizing meetings and events, handling correspondence, and additional ad-hoc tasks.",
+  "Required Skills": "Proficiency in Microsoft Office (Word, Excel, PowerPoint, Outlook), excellent written and verbal communication, organizational skills, attention to detail, ability to prioritize and multi-task.", 
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "Minimum 2 years of experience in an office environment",
+  "Preferred Qualifications": "Experience with Workshare Compare, ability to anticipate needs and take initiative, passion for continuous improvement",
+  "Compensation and Benefits": "Competitive pay based on experience. Company-provided health, dental, vision, life insurance, retirement plan, paid time off."
+}

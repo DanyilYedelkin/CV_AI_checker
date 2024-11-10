@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform inbound and outbound communication with members to address healthcare inquiries, utilization, benefit inquiries, and gaps in care. Support members in disease management activities through interventions. Provide member health education regarding conditions. Field members to appropriate health promotion programs.",
+  "Required Skills": "Experience with customized database systems for documentation of member contact status and outcomes.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

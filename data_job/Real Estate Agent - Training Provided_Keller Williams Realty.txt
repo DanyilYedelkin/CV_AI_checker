@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Selling and listing real estate properties, generating leads, showing homes to prospective buyers, guiding clients through negotiations and paperwork.",
+  "Required Skills": "Real estate license, sales and negotiation skills, communication and networking abilities, work independently, motivated and driven.",
+  "Educational Requirements": "State accredited real estate license.",
+  "Experience Level": "Open to new and experienced agents.",
+  "Preferred Qualifications": "Previous real estate experience, established professional network.",
+  "Compensation and Benefits": "Commission-based pay with unlimited earning potential, flexible schedule, free training and support."
+}

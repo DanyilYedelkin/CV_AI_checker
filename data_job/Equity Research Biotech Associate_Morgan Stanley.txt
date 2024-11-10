@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Writing research reports, creating and maintaining earnings, valuation and industry models, analyzing data, earnings results and industry news, interacting with investors and company management.",
+  "Required Skills": "2-5 years of experience in investment banking, equity research, accounting, finance, or healthcare/biotech industry. Advanced Excel skills for financial modeling. PowerPoint skills. Professional writing experience such as equity research notes or reports. Strong attention to detail. Ability to work under pressure.",
+  "Educational Requirements": "Bachelor's degree, preferably in biology.",  
+  "Experience Level": "2-5 years of relevant work experience",
+  "Preferred Qualifications": "Interest and ability to leverage available resources to create differentiated research reports and content. Relationships with investor relations and management.",
+  "Compensation and Benefits": "N/A"
+}

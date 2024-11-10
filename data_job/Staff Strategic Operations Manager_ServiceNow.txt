@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "- Lead multiple initiatives and partnerships to build future state org and capabilities\n- Establish and execute operational cadence for org health via processes like strategy, change management, and annual planning \n- Lead annual planning and budget change management \n- Enable executive engagement like business cases and QBRs\n- Partner to establish strategic operations for the experience org\n- Participate in M&A activities \n- Implement and manage change management procedures",
+  "Required Skills": "- Strong leadership and influence\n- Data analytics and problem-solving skills\n- Ability to synthesize information into insights and practical solutions\n- Excellent communication and presentation skills\n- Cross-functional project management \n- Ability to work in fast-paced environments",  
+  "Educational Requirements": "Bachelors or equivalent degree with specialization in engineering, finance, business, mathematics or related field",
+  "Experience Level": "5 years in strategy consulting, tech, private equity, or corporate product strategy",
+  "Preferred Qualifications": "MBA or advanced degree",
+  "Compensation and Benefits": "N/A"
+}

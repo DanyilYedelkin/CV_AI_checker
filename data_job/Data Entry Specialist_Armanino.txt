@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform data entry and maintenance within CRM system based on updates provided to you; Conduct searches to reveal missing information and inconsistencies in data and then eliminate issues including merging duplicate records and populating missing data; Conduct research to verify the accuracy of information as well as create and organize spreadsheets; Test new CRM features integrations and prepare supporting documentation; Responsible for creating and managing the company's target lists; Summarizing and compiling data for standardized reports",
+  "Required Skills": "Associates or Bachelor's degree in business administration or related field preferred; At least 1 year of experience in data entry or relevant experience; Excellent knowledge of Microsoft Office suite, particularly Excel; Knowledge and experience working in a CRM (Microsoft Dynamics 365 is a plus)",  
+  "Educational Requirements": "Associates or Bachelor's degree in business administration or related field preferred",
+  "Experience Level": "At least 1 year of experience in data entry or relevant experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

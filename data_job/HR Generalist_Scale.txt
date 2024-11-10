@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Partnering cross-functionally to drive and manage process and system improvements that will improve the employee experience, increase the efficiency of the HR team, keep us compliant and improve the quality of our data. Acting as the first point of contact for employees with people operations questions. Onboarding new hires. Administering benefits programs. Processing HR documentation.",
+  "Required Skills": "2+ years of HR coordinator or HR generalist experience. Highly collaborative. Strong verbal and written communication skills. Highly detail-oriented, excellent organizational skills and ability to prioritize effectively. Strong critical thinking skills and ability to propose meaningful solutions. Highly analytical with advanced Excel skills. Able to identify gaps and drive operational improvements. Excellent judgment and discretion maintaining confidentiality. Flexible mindset and ability to navigate ambiguity. Action-oriented and able to work independently with minimal supervision. Knowledge of California employment laws and regulatory requirements.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of HR coordinator or HR generalist experience",
+  "Preferred Qualifications": "Knowledge of employment laws and regulatory requirements in states/countries beyond California.",
+  "Compensation and Benefits": "N/A"
+}

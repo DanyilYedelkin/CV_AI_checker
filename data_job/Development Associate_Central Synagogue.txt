@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manages all aspects of annual appeal including acknowledgments, solicitation mailings, and listing. Assists with event management, donor recognition, committee activities, calendar management, travel, and administrative tasks.",
+  "Required Skills": "Bachelor's degree. 2+ years office experience. Event planning experience preferred. Proficient in Microsoft Office. Knowledge of Salesforce, Zoom, and Microsoft Teams preferred.",
+  "Educational Requirements": "Bachelor's degree",  
+  "Experience Level": "2+ years office experience",
+  "Preferred Qualifications": "Fundraising experience. Microsoft Office experience.",
+  "Compensation and Benefits": "N/A"
+}

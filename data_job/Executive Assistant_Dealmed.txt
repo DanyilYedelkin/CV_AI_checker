@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Running CEO's calendar, managing schedules and meetings, taking notes and following up on action items, managing projects, coordinating travel and expenses, providing personal assistance to CEO when required",
+  "Required Skills": "2+ years experience as an executive/personal assistant, ability to juggle multiple projects, strong communication and organizational skills",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "2+ years experience as executive/personal assistant",
+  "Preferred Qualifications": "Experience working in fast-paced environment",
+  "Compensation and Benefits": "Competitive compensation and wide variety of health and other benefits"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Supervise logistic staff, take inventory, develop methods to optimize shipping efficiency, arrange for shipping logistics",
+  "Required Skills": "Warehouse management experience, leadership skills, computer and typing skills, verbal and written communication skills, ability to work under pressure",
+  "Educational Requirements": "Bachelor's degree preferred", 
+  "Experience Level": "Minimum 5 years experience in warehouse management role",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$50,000 per year, full time schedule"
+}

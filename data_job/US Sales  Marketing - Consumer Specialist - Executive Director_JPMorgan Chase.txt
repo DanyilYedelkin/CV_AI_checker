@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Working with trading to help monetize research calls, working closely with research to commercialize research calls, preparing daily market commentary on key newsflow, client calls and meetings on the sector, working with banking on IPO pitches, primary capital raises and secondary market blocks within the sector coverage.",
+  "Required Skills": "Strong knowledge of the consumer sector, excellent understanding of equity market valuations, good working knowledge of derivatives, excellent time management skills, the ability to write well and be highly articulate",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "A background in equity research or sector trading or investment banking is useful though not essential",
+  "Compensation and Benefits": "N/A"
+}

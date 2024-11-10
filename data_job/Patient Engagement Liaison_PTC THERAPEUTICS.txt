@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Identify and build relationships with patient advocacy organizations (PAOs). Represent the patient voice during drug development. Support patient recruitment, retention and engagement for clinical trials. Facilitate sharing of best practices among PAOs.",
+  "Required Skills": "At least 5 years experience working directly with or within PAOs. Knowledge of pharmaceutical industry drug development and healthcare delivery. Experience working with a clinical development team.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Minimum of 5 years experience working directly with or within patient advocacy organizations.",
+  "Preferred Qualifications": "Experience working with a clinical development team is a plus.",
+  "Compensation and Benefits": "N/A"
+}

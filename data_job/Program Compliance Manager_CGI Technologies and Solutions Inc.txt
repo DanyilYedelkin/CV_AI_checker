@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Monitor compliance, oversee quality control processes, develop training materials, provide consultation, ensure adherence to regulations, maintain policies and procedures, conduct audits and reviews, develop corrective action plans, interface with auditors and regulators.",
+  "Required Skills": "Bachelor's degree preferred, 3+ years experience in affordable housing industry, extensive knowledge of data analysis tools and techniques, proficiency in Microsoft Office, knowledge of federal/state/local housing statutes and regulations, must obtain HCV certification within one year.",
+  "Educational Requirements": "Bachelor's degree preferred.",
+  "Experience Level": "3+ years experience in affordable housing industry.",
+  "Preferred Qualifications": "Certified HCV Specialist.",
+  "Compensation and Benefits": "N/A"
+}

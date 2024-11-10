@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for maintaining systems, deploying and managing endpoint solutions, implementing new systems and services, assisting with helpdesk requests, and serving as escalation point.",
+  "Required Skills": "Bachelor's degree or 4+ years relevant experience, experience managing systems, proficiency with Windows administration, networking concepts, communication skills.",
+  "Educational Requirements": "Bachelor's degree or 4+ years relevant experience.", 
+  "Experience Level": "4+ years relevant experience.",
+  "Preferred Qualifications": "Certifications like Network+, Security+, AWS.",
+  "Compensation and Benefits": "Salary range of $70k-$90k. Comprehensive benefits package including health insurance, retirement plan, paid time off, professional development, and remote work."
+}

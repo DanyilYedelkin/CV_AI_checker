@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "defining and managing data models and data dictionaries to support data and analytics platforms",
+  "Required Skills": "5+ years experience in data management, analytics and transformation; Proficiency in SQL, Python", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Financial services background",
+  "Compensation and Benefits": "Competitive, based on experience"
+}

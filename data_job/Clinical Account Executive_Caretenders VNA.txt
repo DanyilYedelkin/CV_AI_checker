@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Coordinates patient referrals, evaluates patient suitability for home health services, acts as a liaison between patients/caregivers and physicians/nurses, schedules and coordinates physician follow-ups, communicates physician orders and patient reports, facilitates DME equipment and services, meets admission and performance goals, participates in sales calls and inservices.",
+  "Required Skills": "Licensed clinical experience, current driver's license and vehicle, computer skills including Microsoft Outlook and CRM software, presentation, negotiation and relationship building skills, ability to work independently with minimal supervision.",  
+  "Educational Requirements": "Formalized clinical training from an accredited institution.",
+  "Experience Level": "Prior home health experience required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

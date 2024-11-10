@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide basic patient care under direction of nursing staff. Maintain patient rooms, equipment, supplies. Assist patients with activities of daily living.",
+  "Required Skills": "CNA or nursing assistant certification. Understanding of safety/infection control procedures. Compassion and patience working with patients.", 
+  "Educational Requirements": "High school diploma or equivalent. Completion of a state-approved CNA training program.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in inpatient mental health or psychiatric care. Strong communication skills.",
+  "Compensation and Benefits": "N/A"
+}

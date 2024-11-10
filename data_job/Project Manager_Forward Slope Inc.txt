@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Managing an agile software development team, planning and implementing software systems for the DoD, managing cost/schedule/performance and staffing, delivering mission-critical software systems for the US Navy.",
+  "Required Skills": "2+ years management experience with agile methodologies, generating project management processes, providing technical leadership, maintaining costs/resources, developing schedules, using SDLC tools like Atlassian/Azure DevOps, supervising personnel, communication skills, proficiency with Microsoft Office.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "2+ years management experience",
+  "Preferred Qualifications": "PMP certification, familiarity with US Navy/NAVWAR programs",
+  "Compensation and Benefits": "Telework, flexible hours, benefits package including 401k match and PTO, professional development opportunities."
+}

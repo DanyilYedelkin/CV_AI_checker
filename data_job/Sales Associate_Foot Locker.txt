@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Providing excellent customer service, achieving sales and productivity goals, delivering outstanding customer experience, maintaining product knowledge.",
+  "Required Skills": "1 year of retail experience, ability to engage customers, motivation, initiative, flexible availability.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "1 year of retail experience",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "N/A"
+}

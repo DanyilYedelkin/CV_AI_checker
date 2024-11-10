@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Review testing procedures and ensure compliance, coordinate lab testing and print approvals, provide technical support during sample and bulk production, manage communications between company and vendors regarding testing and compliance.",
+  "Required Skills": "Textile technology degree or related field, knowledge of textile testing procedures and compliance, strong communication and project management skills.",
+  "Educational Requirements": "Textile technology or comparable degree with knowledge of testing compliance and customer service.",
+  "Experience Level": "2 years of related work experience.",
+  "Preferred Qualifications": "Textile knowledge of raw materials, yarns, knitting, weaving, dyeing, finishing, QC/QA inspection.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work from home remote. Utilize all social media platforms with static or video content to drive lead generation. Execute social media advocate marketing campaigns when asked by management.",
+  "Required Skills": "Ability to work remote efficiently. Experience in social media posting. Graphic/video design is a plus. Show initiatives coupled with accuracy and attention to detail. A strong work ethic.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive pay day benefit package that includes dental, vision, hearing, prescription, life, accidental death and dismemberment, identity theft protection, legal document creation and web based resources for financial future planning."
+}

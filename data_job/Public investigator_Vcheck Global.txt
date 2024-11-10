@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct detailed public record due diligence investigations on individuals and entities for investment and lending purposes; Confirm identities and search for aliases through various third-party resources; Identify, analyze and intelligently summarize complex legal documents including liens, judgments, bankruptcies, criminal records, complaints and other recorded documents; Conduct research on social media profiles, derogatory news and general online presence; Create detailed, well-written reports for clients based on findings; Produce accurate, precise reporting in a timely manner; Communicate with the client relations team to ensure deliverables and timelines are achievable; Collaborate with outside third-party firms for document retrieval, court runner services and additional research",
+  "Required Skills": "Public record investigation experience of criminal and civil records; FCRA regulation knowledge; Tech-savvy with strong computer skills; Sense of urgency in accomplishing goals and objectives; Excellent oral and written communication skills; Experience with confidential and sensitive information (PII); Knowledge of due diligence databases such as Lexis Nexis, WestLaw, Clear and TLO; Bilingual preferred but not required; Bachelor's degree in Criminal Justice, Political Science or International Studies", 
+  "Educational Requirements": "Bachelor's degree in Criminal Justice, Political Science or International Studies",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Bilingual preferred but not required",
+  "Compensation and Benefits": "Full-time remote; Flexible hours"
+}

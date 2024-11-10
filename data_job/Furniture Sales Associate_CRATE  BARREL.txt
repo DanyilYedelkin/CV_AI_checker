@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide excellent customer service, build relationships with customers, prospect for new business, drive sales of furniture and housewares, conduct in-store and in-home design consultations, utilize digital tools and technology to showcase products to customers.",
+  "Required Skills": "Previous customer service experience, ability to build client relationships, competitive sales or interior design experience preferred, good communication and interpersonal skills, proficient in English, good time management and organizational skills, ability to lift up to 50 pounds with assistance.",
+  "Educational Requirements": "High school diploma, GED or equivalent.", 
+  "Experience Level": "6-12 months competitive sales or interior design service experience preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

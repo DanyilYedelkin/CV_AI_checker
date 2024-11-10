@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serve as the executive-level strategist responsible for guiding diversity, equity, inclusion and belonging practices and initiatives. Oversee, develop and lead DEIB strategy across the university. Provide leadership and oversight for offices of Institutional Equity, Diversity and Inclusion, and the Kirwan Institute.",
+  "Required Skills": "PhD, JD or equivalent terminal degree. Understanding of higher education and faculty, staff and student experiences. Commitment to DEIB in higher ed. Title IX and affirmative action compliance experience. Data analysis skills. Organizational development experience.",  
+  "Educational Requirements": "PhD, JD or equivalent terminal degree",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience with strategic DEIB planning and implementation in higher ed. Understanding of best practices in DEIB. Experience with recruitment, hiring, promotion and retention of diverse faculty, staff and students.",
+  "Compensation and Benefits": "N/A"
+}

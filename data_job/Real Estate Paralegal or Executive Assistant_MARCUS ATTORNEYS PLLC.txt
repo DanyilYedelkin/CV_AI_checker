@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work with attorneys on real estate transactions, handle direct client relations, assist with commercial transactions, nonprofit organizations, community/economic development, and housing matters.",
+  "Required Skills": "Experience with residential/commercial real estate and mortgage lending, excellent communication and analytical skills, ability to work independently and on a team, attention to detail, proficiency with Excel/Outlook/Practice Panther software.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Notary public in NY, knowledge of Excel/Outlook/Practice Panther.",
+  "Compensation and Benefits": "N/A"
+}

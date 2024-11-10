@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for the design and development of software products including requirements analysis, design, implementation, integration and testing. Develops software test procedures, programs and documentation.",
+  "Required Skills": "3-5 years of embedded software engineering experience, 3+ years experience with C and/or Ada, 3+ years real time operating systems experience. BS in computer science, electrical engineering or related field. Ability to obtain secret security clearance.", 
+  "Educational Requirements": "BS in computer science, electrical engineering or related engineering field.",
+  "Experience Level": "3-5 years of embedded software engineering experience",
+  "Preferred Qualifications": "EW background, capable of working on both high and low-level software, VxWorks or similar embedded OS experience, UML design experience",
+  "Compensation and Benefits": "N/A"
+}

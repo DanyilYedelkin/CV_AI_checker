@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Actively and consistently support all efforts to simplify and enhance the customer experience. Place orders through order management software, work with account coordinator to ensure necessary admin work to support sales is done accurately and timely. Hand off customer service inquiries to customer service team. Focus on selling.",
+  "Required Skills": "Ability to read, write, speak and understand English. Knowledge of communications technologies and services with emphasis on telephone and internet fundamentals. Valid driver's license with satisfactory driving record.",  
+  "Educational Requirements": "Bachelor's degree in business, marketing or related field or equivalent experience.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Outside sales experience in a high transaction, short closing cycle model (2+ years). Business to business sales experience. Proven sales history of meeting or exceeding targets.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform data entry into web-based database program in compliance with established policies and procedures. Ensure timely and accurate processing of all designated data entry. Identify discrepant data both in writing and verbally to supervisor. File, copy, and other general clerical duties as necessary.",
+  "Required Skills": "Proficiency in data entry. Attention to detail and accuracy. Ability to identify and flag discrepant data. Communication skills to relay issues verbally and in writing.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Flexible scheduling. Benefits for the whole family. Generous PTO."
+}

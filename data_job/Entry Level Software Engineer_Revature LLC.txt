@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Training program to become an entry level software engineer. Work on real world projects in a team environment. No prior professional experience required.",
+  "Required Skills": "College degree (associates or bachelors). Authorized to work in the US. Desire to learn to code. Problem solving skills. Team player. Adaptable. Communication and interpersonal skills.", 
+  "Educational Requirements": "College degree (associates or bachelors).",
+  "Experience Level": "No prior professional experience required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive salary. Relocation & housing assistance. Paid time off. Industry certifications. Mentoring program. Experience with large US companies. Career acceleration opportunities."
+}

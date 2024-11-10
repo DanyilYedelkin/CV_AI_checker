@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Contribute to requirements analysis design code and unit test integration and test requirements sell off and operations and maintenance of embedded software systems. Ensure that products/projects delivered meet customer requirements and specifications. Drive process improvements to aid in team coordination and maintain delivery schedule. Communicate with leadership on status issues milestones and successes.",
+  "Required Skills": "Bachelor's degree in computer science, electrical engineering, or similar field. Prior experience with embedded software engineering with C and real time operating systems.", 
+  "Educational Requirements": "Bachelor's degree in computer science, electrical engineering, or similar field.",
+  "Experience Level": "3-5 years",
+  "Preferred Qualifications": "Active secret clearance. Electronic warfare background. Capable of working on both high and low level software. VxWorks or similar embedded OS experience. UML design experience.",
+  "Compensation and Benefits": "N/A"
+}

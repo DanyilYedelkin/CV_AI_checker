@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assisting with social media marketing content creation, newsletter writing, market research, advertising",
+  "Required Skills": "Experience with social media, excellent communication skills, driven, eager to learn, passionate about travel",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "Marketing or business major",
+  "Compensation and Benefits": "N/A"
+}

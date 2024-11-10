@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Use SEO tools, data and analytics, customer research to create insights and data driven recommendations; Conduct keyword research, search behavior analysis, technical audits and content gap analysis; Present recommendations and advocate for SEO improvements; Provide technical SEO requirements and ensure optimal SEO; Partner with teams to influence SEO strategy implementation; Develop onpage and offpage recommendations; Educate stakeholders on SEO best practices; Provide technical support; Track and report SEO performance",
+  "Required Skills": "2+ years marketing, ebusiness, digital platforms, mobile or social media experience; SEO knowledge and experience with SEO tools like Google Analytics, SEMrush, Search Console, etc.; Project management skills",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years marketing, ebusiness, digital platforms, mobile or social media experience",
+  "Preferred Qualifications": "2+ years managing SEO initiatives; Expert knowledge of SEO best practices; Expert technical SEO knowledge; Exceptional project management skills; Excellent communication skills; Strategic thinking and problem solving skills; Ability to manage multiple initiatives; Knowledge of marketing concepts and approaches",
+  "Compensation and Benefits": "Pay range: $100,000 - $110,000 annual; Benefits include health insurance, retirement plans, and other perks"
+}

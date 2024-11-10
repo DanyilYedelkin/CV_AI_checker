@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Filing summonses and complaints primarily against tenants, preparing and drafting summary judgment motions, completing discovery, general litigation tasks",
+  "Required Skills": "Proficiency in landlord-tenant law",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2 years or more experience",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "Competitive hourly rate"
+}

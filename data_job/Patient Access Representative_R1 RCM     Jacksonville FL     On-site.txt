@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Help patients check into the hospital by collecting their registration information accurately and quickly. Build trust through compassionate listening and addressing patient concerns during the registration process.",
+  "Required Skills": "High school diploma or GED. Excellent customer service skills. Comfortable working across multiple computer programs and typing quickly.",
+  "Educational Requirements": "High school diploma or GED.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "Competitive benefits package including comprehensive medical, dental, vision, Rx coverage, paid time off, volunteer time off with company match, company-paid life insurance, short-term disability, long-term disability, tuition reimbursement, parental leave."
+}

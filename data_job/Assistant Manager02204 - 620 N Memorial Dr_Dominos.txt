@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Learning and operating all functions within the Dominos Pizza store, following Dominos procedures and standards",
+  "Required Skills": "Ability to work in a fast-paced environment, work well in teams, operate all job functions in the Dominos system", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

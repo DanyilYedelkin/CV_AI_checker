@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for maintenance, configuration and operation of systems and servers. Provides technical support to staff. Troubleshoots issues related to software, hardware and infrastructure.",
+  "Required Skills": "Knowledge of IT concepts, practices and procedures. Proficiency in Windows Server, Office 365, TCP/IP networking, virtualization, programming and scripting.", 
+  "Educational Requirements": "Bachelor's degree in computer science or related field.",
+  "Experience Level": "2-5 years experience supporting and managing systems and infrastructure.",
+  "Preferred Qualifications": "Experience with AWS, Azure, SAN storage, and multi-tiered client-server systems.",
+  "Compensation and Benefits": "N/A"
+}

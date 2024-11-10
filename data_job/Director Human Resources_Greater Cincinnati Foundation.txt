@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead recruiting processes, employee relations, compensation and benefits, HR strategy and culture, staff development and training initiatives. Provide HR guidance and support to managers. Oversee HR policies, procedures and compliance.",
+  "Required Skills": "3-5 years of HR leadership experience. Strong communication, decision-making, and problem-solving skills. Knowledge of HR best practices, talent development, and employment laws.",
+  "Educational Requirements": "Undergraduate degree required. PHR, SPHR, or CPC certification preferred but not required.",
+  "Experience Level": "Minimum 3-5 years of hands-on HR leadership and talent development experience required.",
+  "Preferred Qualifications": "Experience in a fast-paced, growing organization with lean HR resources. Demonstrated record of supporting organizational growth through innovative HR solutions. DEI and change management experience.",
+  "Compensation and Benefits": "Competitive salary based on qualifications and experience. Details about benefits not provided."
+}

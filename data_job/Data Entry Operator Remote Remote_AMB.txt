@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Data entry, customer service, information entry, social media posting, reviewing products",
+  "Required Skills": "Self-motivated, ability to work independently from home, computer with internet access, quiet workspace", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Entry-level, open to those without experience",
+  "Preferred Qualifications": "Experience in fields like customer service, sales, clerical, administrative, receptionist, call center, retail",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Build a legacy in your local community by growing an agency that protects families, friends, and businesses in your area. Leverage Allstate's tools and resources to promote and sell insurance products to new and existing customers. Empower and lead an agency team.",
+  "Required Skills": "Insurance sales and networking experience. Self-motivated and proactive. Strong communication and team leadership abilities.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Prior insurance or business/franchise ownership experience preferred but not required.",
+  "Preferred Qualifications": "Previous insurance experience a plus but not required. Experience in business management, operations, budgeting, planning and staffing strategies.",
+  "Compensation and Benefits": "Control your earning potential through commissions, bonuses, and policy renewal revenue. No franchise fees or royalties. Build equity in your business that can be passed down or sold."
+}

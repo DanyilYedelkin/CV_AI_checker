@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for building strong customer relations through knowledge and exemplary customer service, planning and carrying out all sales activities on assigned accounts, ensuring customer satisfaction, managing quality of products and services, obtaining orders, developing sales proposals, generating leads, sourcing referrals, maintaining customer database, collaborating with sales manager on action plans, communicating with buyers, developing promotional materials, monitoring competitors, aiding with transportation solutions, following up on sales, performing quality checks, resolving complaints",
+  "Required Skills": "Knowledge of customer service principles, floral experience a plus, sales experience, ability to achieve sales targets, team player, ability to stand/walk/crouch/kneel, lift up to 50 lbs, flexible schedule, office experience, Excel, Word, MS Office",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Sales experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive wage, sales commissions, health, dental, vision, life/LTD benefits, 401k available"
+}

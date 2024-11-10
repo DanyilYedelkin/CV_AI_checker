@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Implement ways to gain exposure and increase sales for their furniture/home goods area. Work with store managers and put together incentives ideas to increase traffic and interest. Support the sales team. Coordinate with the wood shop and retail stores ordering products.",
+  "Required Skills": "Design and retail furniture sales experience for a manufacturer, or interior design experience. Strong coordination skills. Thorough understanding of furniture.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience designing and selling unique, high-end furniture pieces and home accessories.",
+  "Compensation and Benefits": "N/A"
+}

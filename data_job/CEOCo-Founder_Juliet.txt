@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Refine existing product, drive product roadmap, lead development meetings, iterate and pivot as needed, project management of team, determine future hires, meet with clients to understand needs, help develop target markets and features",
+  "Required Skills": "Startup experience in C-suite role, real estate experience in leasing/revenue management, product management experience, ability to build no-code solutions", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Experienced startup operator in C-suite role or early employee preferred",
+  "Preferred Qualifications": "Previous founder of a seed stage startup, ability to attract top sales talent",
+  "Compensation and Benefits": "Competitive compensation and benefits, equity, fun and supportive work environment"
+}

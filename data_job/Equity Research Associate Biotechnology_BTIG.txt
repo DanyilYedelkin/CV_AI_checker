@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Prepare financial models, keep senior analysts updated on news, conduct industry/company research, assist in writing reports, maintain relationships with management teams, industry contacts, sales personnel, and investors",
+  "Required Skills": "PhD or MD preferred, 2+ years experience in investment banking or equity research, strong work ethic, ability to think critically and creatively, financial modeling and forecasting skills, interest in biotechnology, excellent written and verbal communication skills, ability to thrive in fast-paced environment, solid work ethic, attention to detail, Series 7/63 licensing preferred",
+  "Educational Requirements": "PhD or MD preferred", 
+  "Experience Level": "2+ years in investment banking or equity research preferred",
+  "Preferred Qualifications": "Series 7/63 licensing",
+  "Compensation and Benefits": "N/A"
+}

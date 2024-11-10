@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Performing first aid care, health screenings, health promotion and disease prevention, COVID-19 screening and testing, hearing conservation program, silica medical surveillance, respiratory health program, drug and alcohol testing",
+  "Required Skills": "Excellent nurse-client relationship skills, ability to apply nursing process, commitment to professional practice standards, ability to work collaboratively, exceptional documentation and reporting skills, knowledge of occupational health and safety code, understanding of registered nurse competencies", 
+  "Educational Requirements": "Bachelor of Science in Nursing",
+  "Experience Level": "2 years working in an industrial setting",
+  "Preferred Qualifications": "Certifications requested for the role",
+  "Compensation and Benefits": "Competitive wage based on experience and credentials/certifications, group benefit plan - health/vision/dental"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage all front office functions including patient relations, check-in/check-out, scheduling, insurance verification, and answering phones. Manage filing and retrieving medical records and patient information. Assist with collecting and recording copays, cash, and/or charge including balancing the day in the computer.",
+  "Required Skills": "Experience using an EHR system is highly preferred.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "One year of experience in a medical office setting is preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

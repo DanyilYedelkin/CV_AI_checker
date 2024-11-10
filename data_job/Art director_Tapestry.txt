@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "- Create proof of concept branding for global campaigns and activations across digital and physical touchpoints\n- Develop store graphics, window vinyls and visuals for pop-ups and retail/outlet locations\n- Leverage customer data and insights to inform creative approach\n- Incorporate Coach brand values and DNA into concepts and designs",
+  "Required Skills": "- BFA, BA in art direction, graphic design or related field\n- 3+ years experience in related field\n- Extensive knowledge of culture - music, art, fashion, film \n- Strong graphic design skills for digital and physical formats\n- Expertise in branding, art direction, typography, logo design, color trends\n- Proficiency in Keynote, Photoshop, Illustrator, InDesign",  
+  "Educational Requirements": "BFA, BA in art direction, graphic design, fine art or related field",
+  "Experience Level": "Minimum 3 years experience in related field",
+  "Preferred Qualifications": "- Experience at retail/fashion brand or ad agency\n- Illustration and CGI skills",
+  "Compensation and Benefits": "N/A"
+}

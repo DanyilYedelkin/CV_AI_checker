@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Utilize our lead generation system, direct-to-consumer link, and digital dialer to connect with clients and determine their insurance needs. Submit business weekly. Maintain a lead inventory to generate new clients.",
+  "Required Skills": "Insurance license or ability to acquire one. Sales experience preferred. Proficient computer and communication skills. Ability to establish rapport over the phone.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Sales experience preferred.",
+  "Preferred Qualifications": "Ambitious, business/entrepreneurial mindset. Team-oriented and system-driven. Passion for helping others.",
+  "Compensation and Benefits": "Commission only. Bonuses and benefits like exclusive leads system, discounted health insurance, free life insurance, and personal mentorship."
+}

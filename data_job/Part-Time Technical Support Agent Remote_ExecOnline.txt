@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide quick and effective technical support to worldwide participants in online development programs via email, chat, phone and web-based tools. Troubleshoot technical and non-technical issues in a timely manner. Monitor live online video conferencing events and provide live assistance to participants.",
+  "Required Skills": "2+ years of work experience preferably with a SaaS company or product/technology division. Strong communication skills - written and verbal. Familiarity with CRM, website backend, cloud-based tools and helpdesk software. Outstanding task management skills in fast paced environment.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of relevant work experience",
+  "Preferred Qualifications": "Poise and professionalism to respond to high-level leaders from around the world. Executive support experience a plus. Well versed and comfortable with email, phone and video etiquette.",
+  "Compensation and Benefits": "Stock options, 401k, paid time off, parental leave, medical/dental/vision benefits, employee resource groups."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide exceptional customer service to public safety professionals. Interact with customers on sales floor, process sales, assist with uniform sizing, and help customers select right products. Replenish merchandise and monitor floor stock. Complete necessary housekeeping to present clean and orderly store. Provide sizing, fittings and measuring for customer alterations. Communicate with branch operations, sales and corporate teams. Commit to company's proud to serve mission, policies, procedures and practices.",
+  "Required Skills": "Previous retail and/or customer service experience desired. High school diploma or GED equivalent. Friendly, honest and dependable. Solid communication and interpersonal skills. Resourcefulness. Ability to operate POS systems and willing to learn new programs. Confident working with little supervision. Ability to stand for extended periods, operate store equipment, lift up to 50 lbs.",  
+  "Educational Requirements": "High school diploma or GED equivalent",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Previous retail and/or customer service experience desired",
+  "Compensation and Benefits": "Full benefit package including medical/dental/vision coverage (FT only). Life and disability insurance (FT only). Vacation and personal time. Seven paid holidays. 401k plan with company match. Day shifts only. Employee discount."
+}

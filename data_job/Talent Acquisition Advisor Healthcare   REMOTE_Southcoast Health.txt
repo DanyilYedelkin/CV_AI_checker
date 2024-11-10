@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Carry out recruiting and hiring for various clinical and non-clinical positions across the health system. Source candidates through job boards, networking, referrals. Conduct phone screens, interviews, make hiring recommendations, extend offers, onboard new hires.",
+  "Required Skills": "3+ years recruiting experience in healthcare. Proficient with ATS and HR systems. Excellent communication and networking skills.", 
+  "Educational Requirements": "Bachelor's degree required.",
+  "Experience Level": "3+ years professional recruiting experience required, including 1+ year recruiting clinical roles.",
+  "Preferred Qualifications": "Healthcare industry experience. Experience sourcing passive candidates.",
+  "Compensation and Benefits": "N/A"
+}

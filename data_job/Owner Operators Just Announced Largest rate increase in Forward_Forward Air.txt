@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Driving trucks to deliver freight for Forward Air. Responsibilities likely involve safely operating a truck, adhering to driving regulations, completing paperwork and inspections, following delivery schedules, and providing excellent customer service.",
+  "Required Skills": "Valid commercial driver's license (CDL), clean driving record, ability to pass DOT inspections and drug screenings, proficiency in operating tractor trailers, strong communication and customer service skills.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Hazmat endorsement, experience driving for a freight or transportation company.",
+  "Compensation and Benefits": "Up to $.52 per mile depending on experience and truck ownership. $5,000 sign-on bonus for solo drivers and $10,000 for team drivers. Referral bonuses up to $1,000 for referring other drivers."
+}

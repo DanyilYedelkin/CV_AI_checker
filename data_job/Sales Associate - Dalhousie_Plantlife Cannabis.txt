@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Working in the retail store, providing excellent customer service, handling cash and POS system, educating customers, hitting sales targets.",
+  "Required Skills": "Proven sales or customer service experience, cash handling, using POS systems, customer service oriented with ability to handle complaints, results driven.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Passion for the cannabis industry, ability to work in a team or independently, drive to set and achieve goals.",
+  "Compensation and Benefits": "Staff discounts to the Canadian Brewhouse and Plantlife, flexible working hours, company events, social hours, wellness programs."
+}

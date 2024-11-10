@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Design and execute the business development strategy for the Americas. Act as a strategic consultant to customers thereby helping them design business solutions using the company's expertise in AI, ML, blockchain and IoT. Manage a small team of account executives and business development representatives.",
+  "Required Skills": "Software, SaaS, technical solutions sales experience. Track record of closing institutional clients. Experience of leading a team. Keen interest in the tech sector as a whole.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

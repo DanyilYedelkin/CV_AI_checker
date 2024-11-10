@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide day-to-day HR support to employees and management across assigned service areas, business units or departments as HR business partner. Participate in HR initiatives like redesigns, mergers & acquisitions, and reorganizations. Conduct reviews and propose recommendations on policies, procedures, systems, etc.",
+  "Required Skills": "Bachelor's degree. 2+ years HR generalist experience. Knowledge of local employment laws. Coaching, counseling, leadership, problem solving, presentation and influencing skills. Advanced Excel skills including data analysis. Strong communication and interpersonal skills. Discretion and confidentiality.",  
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "2+ years experience as HR generalist",
+  "Preferred Qualifications": "Professional HR accreditation",
+  "Compensation and Benefits": "N/A"
+}

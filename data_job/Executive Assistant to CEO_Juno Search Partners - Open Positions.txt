@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Act as an extension of the CEO by providing administrative support, managing their calendar, travel, email correspondence, board meetings, internal communications, implementing new processes and systems, project management.",
+  "Required Skills": "Proficiency in Microsoft Office, PowerPoint, project management software, MS Teams, Zoom. Excellent organizational and communication skills.",
+  "Educational Requirements": "Bachelor's degree or equivalent.", 
+  "Experience Level": "At least 10 years of experience working with senior leaders, preferably in pharmaceutical, biotech or life sciences.",
+  "Preferred Qualifications": "Experience working remotely/virtually across time zones.",
+  "Compensation and Benefits": "N/A"
+}

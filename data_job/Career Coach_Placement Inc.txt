@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Coach Placement clients to achieve their career goals; Conduct remote video sessions with clients; Complete asynchronous asset reviews on time; Manage a roster of clients as if it is your own business; Leverage the Placement platform to engage and communicate with clients; Retain clients by providing maximum value; Deliver quality guidance to each client",
+  "Required Skills": "Career coaching certifications from an ICF or CCE accredited organization; College degree in psychology, counseling, or related field; 2+ years of coaching, counseling or relevant experience; 2+ years in talent, HR, recruiting, hiring manager or relevant experience; A passion for coaching entry to midlevel professionals; Career coaching skills including career transition, career direction, resume, LinkedIn, cover letter assistance, job search strategy, interview prep, technical mock interviews, negotiation, networking and personal brand development",
+  "Educational Requirements": "College degree in psychology, counseling, or related field",
+  "Experience Level": "2+ years of coaching, counseling or relevant experience; 2+ years in talent, HR, recruiting, hiring manager or relevant experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Flexible work; Set your own hours anywhere from 10 to 30 hours per week; Create a profile to match with clients needing your coaching expertise; Highly competitive hourly rates; Sign-on bonus opportunity; No hardcore sales or marketing to grow your roster of clients; Join a community of coaches; Remote WFH"
+}

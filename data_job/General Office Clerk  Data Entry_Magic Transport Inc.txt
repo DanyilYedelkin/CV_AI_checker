@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "General office work and data entry",
+  "Required Skills": "Computer literate, communication skills", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "1 year office work preferred",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Pay from $15 per hour"
+}

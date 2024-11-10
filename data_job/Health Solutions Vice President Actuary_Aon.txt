@@ -1,0 +1,13 @@
+ {
+  "Core Responsibilities": "Lead actuary on client teams leading actuarial projects and client relationship. Influence clients overall strategic and financial direction in benefits frame results in the context of the marketplace. Project saving/costs related to health benefits and applicable changes. Mentor and leverage work to less experienced actuaries. Review health care budgets and contribution setting. Make statements of actuarial opinion and lead analysis behind them directly responsible for all actuarial deliverables. Communicate actuarial results to clients lead all financial meetings explaining actuarial results and potential alternatives. Assist in benchmarking discussions with clients including strategy evolution as a result of benchmarking data. Perform IBNP reserve development. Review models to evaluate cost-saving scenarios. Seek and provide peer review to ensure high quality client deliverables. Develop general consulting skills knowledge and exposure.",
+
+  "Required Skills": "FSA/ASA (Fellow of the Society of Actuaries or Associate of the Society of Actuaries) designation required. Health and welfare consulting experience – 5+ years of industry experience (carrier or health care consulting). Project/client/financial management experience. Broad business knowledge/perspective. Business development experience including competitor and market knowledge a plus. Additional formal or informal responsibilities may include people management or mentoring.",
+  
+  "Educational Requirements": "Bachelor's degree",
+  
+  "Experience Level": "5+ years",
+  
+  "Preferred Qualifications": "N/A",
+
+  "Compensation and Benefits": "N/A"
+}

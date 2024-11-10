@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Administer medications and treatments, receive and carry out physician orders, identify and report changes in patient condition, supervise nursing personnel.",
+  "Required Skills": "RN license in state, 1 year nursing experience preferred",
+  "Educational Requirements": "RN license",
+  "Experience Level": "1 year preferred",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Sign-on bonus, shift pick-up bonuses, shift and weekend premiums, daily pay, health coverage, time off, education benefits, student loan repayment assistance"
+}

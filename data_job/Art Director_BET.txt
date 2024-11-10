@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead in all stages of the creative process from interpreting the creative brief research and development storyboarding through final production. Direct all aspects of design development for deliverables ranging from campaign key art and out-of-home executions to animated show opens from custom-branded pieces and digital assets to animated promo packages.",
+  "Required Skills": "8 years of design, media and/or related entertainment industry experience. 5 years of art direction & project lead experience. Advanced skills in motion, digital and print design demonstrating strong creative and art direction abilities. Expert knowledge of Adobe Creative Suite (Photoshop, Illustrator, After Effects, InDesign). Working knowledge of 3D. Advanced photo retouching and compositing skills.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "8 years of design, media and/or related entertainment industry experience. 5 years of art direction & project lead experience.",
+  "Preferred Qualifications": "Experience managing teams of 2-5 animators. Flawless communication and presentation skills. Ability to mentor junior staff. Knowledge of printing processes and principles including paper and press specification, prepress, proofing, etc. Experience directing photo shoots and working with celebrity talent.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide group and individual college and career advising services to high school students. Guide students through the college admissions, financial aid, and scholarship application processes. Promote and advocate for postsecondary educational opportunities.",
+  "Required Skills": "Bachelor's degree. Experience working with adolescents. Strong communication and interpersonal skills. Proficient with Microsoft Office and able to enter data in a database.", 
+  "Educational Requirements": "Bachelor's degree preferred.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Teaching certificate and/or experience working in education.",
+  "Compensation and Benefits": "Starting salary at $35,000 with increases based on experience. Benefits not specified."
+}

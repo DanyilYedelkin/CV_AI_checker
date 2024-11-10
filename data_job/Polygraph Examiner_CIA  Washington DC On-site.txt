@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct two polygraph sessions per day, assess credibility of individuals to support CIA's mission",
+  "Required Skills": "Federally certified polygraph examiner or able to complete CIA polygraph examiner program, excellent verbal and written communication skills, analytic skills, strong interpersonal skills",
+  "Educational Requirements": "Bachelor's degree in biology, criminal justice, education, forensic psychology, forensic science, or psychology. Minimum 3.0 GPA preferred.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Professional experience or training, certification in interviewing, investigation or elicitation, current or previously qualified federal polygraph examiner certification, knowledge of counterintelligence arena, experience working with ICD 704",
+  "Compensation and Benefits": "Polygraph premium pay added to base salary. Alternate work schedule - 1 week 8 hour days, 1 week 3 10-hour days and Friday off. Domestic and foreign travel opportunities."  
+}

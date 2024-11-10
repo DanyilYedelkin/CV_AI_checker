@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and implement communications strategies and materials to engage members and raise awareness of the organization. Support website, newsletter, social media, and events.",
+  "Required Skills": "Proficiency in Microsoft Office. Excellent organizational, written, and verbal communication skills. Working knowledge of social media platforms including Facebook, LinkedIn, and Twitter.", 
+  "Educational Requirements": "Currently enrolled in an undergraduate program at a Cleveland area college/university.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Exposure to marketing automation.",
+  "Compensation and Benefits": "$1500/month stipend for 10-15 hours per week."
+}

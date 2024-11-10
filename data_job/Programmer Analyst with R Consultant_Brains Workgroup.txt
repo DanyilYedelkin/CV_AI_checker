@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Translate methodology code from SAS to R and confirm that the resulting translation is equivalent to the original. Receive task assignments and track time spent on each task. Review existing code and data and ask for clarifications prior to translating code. Prepare test cases for each module prior to translation. Follow example coding patterns and programming style guides when translating code.",
+  "Required Skills": "2+ years of R programming experience. Experience with dplyr and testthat R packages preferred. Ability to read and understand SAS code is required. Experience with SQL is helpful.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "2+ years of R programming experience",
+  "Preferred Qualifications": "Experience with sparklyr or dbplyr R packages. Experience with other languages like C. Experience with agile, kanban, lean, scrum methodologies.",
+  "Compensation and Benefits": "N/A"
+}

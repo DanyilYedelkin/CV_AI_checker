@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the development and execution of a multiplatform marketing strategy to grow the MSNBC brand and the consumption of products within the MSNBC media ecosystem. Lead the development of communications across TV, streaming, audio, digital, social, events and advertising.",
+  "Required Skills": "Deep knowledge of news and information media. Proven experience building brands and developing marketing communications. Ability to thrive in a fast-paced, high-pressure environment.",  
+  "Educational Requirements": "Bachelor's degree or equivalent.",
+  "Experience Level": "Minimum 5 years of experience in advertising, TV/media/digital marketing, or related field.",
+  "Preferred Qualifications": "Experience with political strategy. Knowledge of evolving media consumption trends.",
+  "Compensation and Benefits": "N/A"
+}

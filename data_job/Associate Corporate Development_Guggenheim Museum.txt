@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide day-to-day administrative support for corporate prospect development, donor stewardship and sponsor benefit fulfillment; coordinate sponsored events and meetings; maintain accurate donor records in databases; assist with identifying and soliciting corporate sponsors; prepare materials for funding proposals.",
+  "Required Skills": "2+ years office experience; project management skills; written, verbal and interpersonal communication skills; collaboration; handling situations, priorities and deadlines diplomatically", 
+  "Educational Requirements": "High school diploma or equivalent required; Bachelor's degree or equivalent experience desirable",
+  "Experience Level": "Minimum 2 years office support experience",
+  "Preferred Qualifications": "Experience in arts/culture/education organizations; CRM, fundraising and prospect research tools experience",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Evaluating and coaching fellows through career prep curriculum and personalized career roadmaps; tracking fellow data; developing, revising and delivering content for career prep seminars and webinars; collaborating with corporate partners.",
+  "Required Skills": "Bachelor's degree; 2+ years experience in corporate, professional services, financial institution or professional association setting; demonstrated understanding of success profiles in top private sector organizations; experience coaching college students/professionals; experience tracking data and using Salesforce.", 
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "MBA; experience recruiting and admitting fellows into career prep program.",
+  "Compensation and Benefits": "N/A"
+}

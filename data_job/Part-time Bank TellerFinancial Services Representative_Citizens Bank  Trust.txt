@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assessing and handling customers' banking needs and transactions, cross-selling products and services that meet their financial needs.",
+  "Required Skills": "High school degree or equivalent, minimum 2 years of retail experience, cash handling experience, ability to sell bank products and process transactions, strong customer service skills, ability to multitask, available to work a flexible schedule",
+  "Educational Requirements": "High school degree or equivalent",
+  "Experience Level": "Minimum 2 years of retail experience",
+  "Preferred Qualifications": "Excellent problem resolution ability, knowledge of banking operations, understanding of sales and new business development, excellent verbal and written communication skills, sales industry experience",
+  "Compensation and Benefits": "Competitive salary and benefits, 401k, 401k matching, dental insurance, employee assistance program, life insurance, referral program, vision insurance"
+}

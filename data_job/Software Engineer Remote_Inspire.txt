@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Be an integral contributor within a product-design-engineering squad. Write code, write tests, ship code to production multiple times per week. Own your features from inception to completion - participate in grooming sessions, code reviews, QA, and post-deploy monitoring.",
+  "Required Skills": "Experience that provides a foundational knowledge in software engineering concepts with a focus on web technologies. Our tech stack includes a monolith serving a JSON API backed by PostgreSQL and a React frontend. Experience or interest in Ruby, Rails, Sinatra, RSpec, PostgreSQL, React, NextJS, Cypress, Git, GitHub, and deploying to Heroku/AWS.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in a mission-driven team or renewable energy.",
+  "Compensation and Benefits": "Health, dental, and vision coverage. Summer Fridays and wellness days. Mental health benefits. Company paid parental leave. Flexible time off. 401k up to 4% matching. Employee resource groups. Semi-annual performance bonuses. Dog-friendly workplace. Fun company events."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Collaborates on talent acquisition initiatives, researches TA tools/systems/principles, identifies and hires qualified diverse candidates, provides best practices in recruiting that align with corporate objectives/workflows/processes.",
+  "Required Skills": "Good understanding of TA tools (LinkedIn, ATS) and strategies, deep knowledge of TA programs/policies/processes/labor law, interviewing, compensation negotiation, business/industry factors.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

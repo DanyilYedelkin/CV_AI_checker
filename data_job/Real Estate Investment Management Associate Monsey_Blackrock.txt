@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Underwrite potential real estate acquisitions, assist during due diligence and closing processes, support disposition process, assist with leasing, marketing initiatives, budgeting, valuation, and financing efforts.",
+  "Required Skills": "Bachelor's degree in finance, accounting, economics, real estate finance or related field, 2+ years of experience in real estate principal investing, asset management, financing, development or investment banking, proficiency with Microsoft Office and Argus software, strong written and verbal communication skills, attention to detail.", 
+  "Educational Requirements": "Bachelor's degree in finance, accounting, economics, real estate finance or related field preferred.",
+  "Experience Level": "2+ years of experience in real estate principal investing, asset management, financing, development or investment banking.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

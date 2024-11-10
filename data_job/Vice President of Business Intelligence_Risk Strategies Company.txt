@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide leadership, vision and direction to the architecture and user interface design of business intelligence. Oversight for day-to-day functions of business intelligence department including establishing objectives and success factors, performance reviews, and providing hands-on training. Interpret business requirements and determine optimum BI solutions to meet needs.",
+  "Required Skills": "Bachelor's degree in actuarial science, applied statistics/mathematics or related degree. 5 years of experience in a similar environment highly preferred, with 2 years hands-on managerial experience. Designated actuary (ACAS or ASA). Experience with data analytics software (Tableau, Qlik or Power BI). Computer programming experience (SQL preferred). Experience in both ratemaking and reserving.", 
+  "Educational Requirements": "Bachelor's degree in actuarial science, applied statistics/mathematics or related degree",
+  "Experience Level": "5 years of experience in a similar environment highly preferred, with 2 years hands-on managerial experience",
+  "Preferred Qualifications": "Designated actuary (ACAS or ASA). Experience with data analytics software (Tableau, Qlik or Power BI). Computer programming experience (SQL preferred). Experience in both ratemaking and reserving.",
+  "Compensation and Benefits": "N/A"
+}

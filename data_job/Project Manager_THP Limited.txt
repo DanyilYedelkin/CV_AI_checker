@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Coordinate and manage projects of various sizes and complexity. Act as primary contact and lead structural engineer. Perform analysis and design of structural systems. Oversee and direct staff. Conduct assessments of existing structures.",
+  "Required Skills": "Licensed professional engineer or structural engineer. 5+ years experience designing buildings and structural systems. Experience with analytical modeling and Revit. Excellent communication skills.", 
+  "Educational Requirements": "Master's degree preferred in structural or civil engineering.",
+  "Experience Level": "5+ years experience in structural engineering and building design.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

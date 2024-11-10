@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Defining and implementing new RESTful APIs and JSON schemas, code reviews and discussions on design patterns, working extensively with various JavaScript frameworks, supporting integration efforts with mobile and web portal development teams, contributing to design discussions and backlog grooming, testing and debugging integration issues, supporting release activities such as CI/CD pipelines and reviewing security scan results",
+  "Required Skills": "Agile mindset, passion for writing clean, high-quality code, experience designing, implementing and integrating production-ready web services, able to contribute to design activities and code reviews, familiarity with test automation frameworks and debugging, knowledge of Docker, YAML, JSON, TypeScript or similar JS frameworks, foundational cryptography and blockchain knowledge",
+  "Educational Requirements": "Bachelor's degree or higher in computer science or STEM with strong CS background", 
+  "Experience Level": "Minimum 5 years as a software developer designing and implementing web services, minimum 3 years hands-on with JavaScript and TypeScript or similar, at least 3 years working on large enterprise distributed systems",
+  "Preferred Qualifications": "Experience with cross-functional agile teams developing enterprise software including API design, writing tests, design docs and deploying to production",
+  "Compensation and Benefits": "N/A"
+}

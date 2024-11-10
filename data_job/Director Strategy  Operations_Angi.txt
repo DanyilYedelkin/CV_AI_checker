@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the design, implementation and operation of a prospect feeder capability for the Angis marketplace businesses including Ads and Leads. Day-to-day tasks include growing the prospect database, enhancing data quality, integrating databases, defining lead management guidelines, overseeing metrics, guiding infrastructure design.",
+  "Required Skills": "Experience with prospect development/administration in a sales environment. Proficiency in SQL, database reporting tools, and web scraping software.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Proven success developing and leading high performing teams. Excellent communication, analytical, and problem-solving skills. Ability to analyze, interpret, and organize large amounts of data quickly.",
+  "Compensation and Benefits": "Salary commensurate with experience. Eligible for performance bonus and equity package. Full benefits package including medical, dental, vision, vacation, retirement plan with company match."
+}

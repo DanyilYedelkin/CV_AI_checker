@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develops customer-based shopper marketing strategies and activation across omnichannel retailer platforms. Represents commerce marketing discipline with customers as needed inclusive of connectivity with retailer marketing teams, regular business reviews, joint business planning, and top-to-top meetings. Works within other customer-focused support teams to ensure program objectives are aligned with key internal and customer stakeholders.",
+  "Required Skills": "Kroger retailer expertise, competitive understanding, and industry trends. Ability to translate brand vision and sales objectives into a tactical support plan. Excellent communicator with the ability to partner with cross-functional partners. Flawless project management and ability to prioritize multiple demands. Relationship builder with internal and external stakeholders.",
+  "Educational Requirements": "Bachelor's degree required. MBA preferred.", 
+  "Experience Level": "Minimum of 5 years of experience in consumer packaged goods industry or a related industry.",
+  "Preferred Qualifications": "Shopper marketing, retailer marketing, omnichannel customer marketing, ecommerce marketing, consumer promotions, brand marketing or digital marketing experience.",
+  "Compensation and Benefits": "N/A"
+}

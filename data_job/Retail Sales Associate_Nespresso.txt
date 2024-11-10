@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Drive sales, provide excellent customer service and education, collaborate with team, ensure store safety and cleanliness.",
+  "Required Skills": "High school diploma or GED, 1+ years retail/sales/hospitality experience, passion for coffee and sustainability.",
+  "Educational Requirements": "High school diploma or GED.",
+  "Experience Level": "1+ years retail/sales/hospitality experience.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Flexible hours, opening/closing shifts, weekends, holidays. Veterans and people with disabilities are encouraged to apply."
+}

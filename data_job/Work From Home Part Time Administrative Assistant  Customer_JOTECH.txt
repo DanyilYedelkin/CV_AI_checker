@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day tasks include administrative assistant, customer service, and receptionist duties. Main responsibilities are providing support remotely.",
+  "Required Skills": "No specific technical or soft skills listed.", 
+  "Educational Requirements": "No specific degree or certification required.",
+  "Experience Level": "No experience required, entry level position.",
+  "Preferred Qualifications": "Experience in healthcare, warehouse, delivery, customer service a bonus but not required.",
+  "Compensation and Benefits": "N/A"
+}

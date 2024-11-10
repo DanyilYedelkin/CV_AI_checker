@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answering customer questions, resolving account issues, providing exceptional customer service, gathering information to update accounts, performing routine call center tasks related to products/services",
+  "Required Skills": "High school diploma or equivalent, able to pass background check, reliable internet not on WiFi, availability between 5am-10pm EST, located in specific states",
+  "Educational Requirements": "High school diploma or equivalent",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$15/hour, paid training, full-time schedule, full benefits, career growth opportunities"
+}

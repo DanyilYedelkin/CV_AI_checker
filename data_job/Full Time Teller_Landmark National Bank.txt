@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Greet clients, handle banking transactions like deposits/withdrawals, issue money orders/cashier's checks, process check/debit card orders, address client questions/concerns, maintain proper cash drawer levels, complete other assigned duties and projects.",
+  "Required Skills": "Maintain discretion/confidentiality, work independently and on a team, be detail-oriented/organized, have strong communication and customer service skills, understand basic PC programs like internet/Word/Excel/Outlook",
+  "Educational Requirements": "None", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Group health insurance, health savings account, flexible spending account, dental/vision/life insurance, retirement plan with matching, paid time off, paid holidays, employee discounts on bank services, employee referrals."
+}

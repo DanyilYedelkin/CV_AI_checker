@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Visit, budget, develop plans, conduct bidding, manage construction activities, and administer contracts for new, relocated, and construction projects at existing stores.",
+  "Required Skills": "Knowledge of commercial construction methods, costs, contract documentation and processes; Knowledge of plan reading, basic sketching, and construction terminology; Proficiency in Microsoft Office; Strong negotiation, communication, problem-solving, time management, and interpersonal skills.",
+  "Educational Requirements": "Bachelor's degree in construction management or related field preferred.",
+  "Experience Level": "5 years of related business experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

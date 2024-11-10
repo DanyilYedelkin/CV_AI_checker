@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer phone calls, manage emails, complete tasks, approve customer orders, verify entries in CRM system, help customers with orders, payments, shipments, replacements, warranties, delivery issues, finding installers, getting ETAs for shipments, and solving other issues.",
+  "Required Skills": "Excellent verbal communication, problem solving, computer and CRM system skills, fast and accurate typing, listening, emotional resilience, creativity, initiative, attention to detail, positive attitude, ability to handle routine and metrics, personal integrity, stable home office setup with high speed internet.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in customer service roles.",
+  "Compensation and Benefits": "Compensation DOE. Group health insurance, health savings account, retirement savings plan, life insurance, paid time off, paid training, work from home, computer equipment provided."
+}

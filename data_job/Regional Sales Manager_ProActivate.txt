@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Hunt for new account opportunities while managing manufacturer rep accounts",
+  "Required Skills": "5 years of net new sales experience in the cooling tower/HVAC/pump industry", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5 years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Strong base, uncapped commissions, great benefits"
+}

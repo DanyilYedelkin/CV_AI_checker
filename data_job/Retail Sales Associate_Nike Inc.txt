@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serves customers, builds visual displays, stocks the floor, performs shipping and receiving duties, operates the cash register, maintains product knowledge.",
+  "Required Skills": "Excellent customer service skills, ability to communicate effectively, able to stand for extended periods, accomplish tasks in a fast-paced environment, work in a team-oriented environment.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "One or more years of customer service and/or retail experience preferred.",
+  "Preferred Qualifications": "Passion for Nike products and services, enthusiasm and eagerness to learn, reliability and flexibility.",
+  "Compensation and Benefits": "Starting wage of at least $15 per hour. Benefits package that's among the best, casual work environment, diverse and inclusive culture, professional development opportunities."
+}

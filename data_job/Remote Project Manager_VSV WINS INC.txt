@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Managing various projects remotely as a contractor",
+  "Required Skills": "Experience as a project manager, proficiency in MS Project, experience with specific domains like retail, payroll systems etc. based on the role",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",  
+  "Preferred Qualifications": "CRM, data warehousing experience for some roles",
+  "Compensation and Benefits": "N/A"
+}

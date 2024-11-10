@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assisting customers with selecting jewelry, performing piercings, providing excellent customer service",
+  "Required Skills": "Customer service skills, knowledge of jewelry, ability to perform piercings",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Hourly pay plus bonus potential, paid time off"
+}

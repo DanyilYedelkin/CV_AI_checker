@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the development of marketing plans and strategies. Own site content and metrics. Curate and refine current content. Develop services that comply with company standards. Drive and increase member engagement.",
+  "Required Skills": "Bachelor's degree in marketing, advertising or communications. Successful track record in senior marketing roles and creating marketing campaigns. Excellent leadership, communication and decision-making skills. Experience with digital and print marketing, content marketing, and social media marketing. Proven ability to plan and manage budgets. Experience in planning and executing events.", 
+  "Educational Requirements": "Bachelor's degree in marketing, advertising or communications",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Master's degree. Proficiency with HTML, content management systems and design software. Established portfolio of media and PR contacts. Desire to grow professionally with ongoing education.",
+  "Compensation and Benefits": "Salary is negotiable upon experience level."
+}

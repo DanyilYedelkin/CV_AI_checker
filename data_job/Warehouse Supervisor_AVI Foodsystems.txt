@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee supervision of the warehouse team and effective operation of packing, shipping, receiving, and inventory. Support the branch manager in safe, efficient and economic running of the warehouse. Oversee and participate in the preparation of items for shipping, receiving, storing, and inventory. Oversee and participate in incoming and outgoing shipping activities to ensure accuracy, completeness and condition of shipments, which includes lifting and carrying materials. Review records for accuracy and compliance with established procedures. Review shipping discrepancies as needed and work to rectify problems with relevant team members. Conduct inventory counts. Order warehouse supplies when needed. Develop and maintain an effective department, assist in the selection, training, motivation and review of team members. Perform other related duties as assigned.",
+  "Required Skills": "Warehouse operations management. Shipping and receiving procedures. Inventory control and management. Leadership and team supervision. Supply chain logistics. Organization and multitasking. Communication skills.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

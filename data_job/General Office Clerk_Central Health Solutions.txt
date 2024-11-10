@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "invoice and verify accounts accurately and in a timely manner, verify inbound receipts for accuracy, develop and maintain customer relationships in a professional manner, generate customer reports per customer request ie weekly monthly latebill reports, serve as first point of contact to resolve vendor issues, maintain and file documentation in organized and comprehensive way",
+  "Required Skills": "customer service experience",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "1 year customer service experience preferred",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

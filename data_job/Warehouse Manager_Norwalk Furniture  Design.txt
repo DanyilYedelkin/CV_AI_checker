@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Receiving, inspecting and delivering all shipments. Scheduling and coordinating part-time workers. Scheduling and coordinating deliveries with designers and customers.",
+  "Required Skills": "Able to carry at minimum 50 lbs. Strong organizational and time management skills. Excel proficiency. Ability to drive a box truck. Clean driving record. Ability to pass random drug tests.",
+  "Educational Requirements": "High school diploma or equivalent preferred.", 
+  "Experience Level": "1 year of warehouse experience required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$15 per hour. Health insurance, paid time off, 401k, employee discount, flexible schedule."
+}

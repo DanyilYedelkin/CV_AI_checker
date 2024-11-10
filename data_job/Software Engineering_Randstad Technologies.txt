@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "responsible for research design and development of computer software systems in conjunction with hardware product development primarily responsible for the design and development of software products for a variety software applications participates in all phases of the software development life cycle including requirements analysis design implementation integration and test of software products",
+  "Required Skills": "cad, jira, ada, c, uml, jenkins, bit bucket",
+  "Educational Requirements": "Bachelors", 
+  "Experience Level": "Minimum 3 years of experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

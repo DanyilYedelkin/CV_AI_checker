@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "The bank teller will process transactions accurately and efficiently in a fastpaced environment while introducing products and services that meet the customers needs",
+  "Required Skills": "Previous cash handling experience, customer service experience, strong communication skills and basic computer skills",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "The bank teller can earn medical dental and vision coverage and so much more. Estimated salary to $15 per hour based on qualifications."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead and direct the daily activities of warehouse teammates to ensure the safe and successful completion of all related daily warehouse activities and operations. Verify and ensure all applicable warehouse processes are followed.",
+  "Required Skills": "Ability to lead and motivate a team. Knowledge of warehouse operations and processes.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience leading teams in a warehouse environment. Knowledge of safety procedures.",
+  "Compensation and Benefits": "N/A"
+}

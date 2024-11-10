@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Gathering and analyzing company spend supply market data and other related commercial information to drive value from supply chain activities and develop sourcing/negotiation strategies; building should-cost and total cost of ownership economic models for materials and services; providing analytical support for category sourcing initiatives contract negotiations and bid evaluations; monitoring and evaluating supply risks; supporting the supplier performance management process; developing tools and processes in SAP, Microsoft Excel and Spotfire to improve the efficiency of analytical work",
+  "Required Skills": "Proficiency in SAP, Microsoft Excel and Spotfire; compliance with company policy and industry regulations",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "Senior level, typically 5+ years of experience",
+  "Preferred Qualifications": "Understands advanced aspects of discipline and is viewed as an expert in a given field; applies broad range of competencies to develop solutions to complex problems; influences others to achieve objectives; often provides specialized/technical/functional guidance to others within department and/or business asset",
+  "Compensation and Benefits": "N/A"
+}

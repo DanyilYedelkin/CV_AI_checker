@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsibilities include technical discovery, custom feature builds, custom architecture and development, and large-scale data migrations.",
+  "Required Skills": "Proficiency in PHP, familiarity with WordPress and/or Laravel, JavaScript/React/Node experience, conceptual understanding of web technologies, ability to learn new tech quickly, Unix command line experience, Git and version control skills, Agile/Scrum methodology, excellent written and verbal communication.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "Not an entry-level position, professional experience required.",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "Base salaries starting at $80-90k based on experience and seniority, medical/dental/vision benefits, 401k with company match, profit sharing, monthly lunch allowance, unlimited vacation/sick time, remote work, home office or coworking space provided."
+}

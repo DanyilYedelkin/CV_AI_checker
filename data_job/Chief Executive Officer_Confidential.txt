@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for day-to-day operations of the hospital including oversight, attracting and retaining physicians, collaborating with medical staff, ensuring compliance, representing the hospital, etc.",
+  "Required Skills": "Strong communication, presentation and listening skills. Ability to build strategic alliances. Knowledge of healthcare laws and regulations.", 
+  "Educational Requirements": "Master's degree in business, health administration or related field.",
+  "Experience Level": "At least 5 years of experience in a hospital leadership role.",
+  "Preferred Qualifications": "Proactive approach to healthcare reform issues. Ability to identify budget deviations and take corrective action.",
+  "Compensation and Benefits": "N/A"
+}

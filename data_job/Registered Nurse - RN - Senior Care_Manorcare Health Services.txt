@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Delivering nursing care, coordinating care delivery, ensuring patients' needs are met according to standards, policies and regulations. Supervising nursing personnel.",
+  "Required Skills": "Licensed RN, 1 year nursing experience preferred.", 
+  "Educational Requirements": "Currently holds a RN (Registered Nurse) license in this state.",
+  "Experience Level": "1 year prior nursing experience preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Sign-on bonus, shift and weekend premiums, daily pay, comprehensive health coverage, time off, education benefits such as student loan repayment and discounts."
+}

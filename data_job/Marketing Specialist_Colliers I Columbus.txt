@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Create and distribute marketing content, run online/offline campaigns and events, collaborate with sales team, track and analyze campaign performance",
+  "Required Skills": "2+ years marketing experience, BS degree in marketing or related field, excellent writing and communication skills", 
+  "Educational Requirements": "BS degree in marketing or related field",
+  "Experience Level": "2+ years of marketing experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

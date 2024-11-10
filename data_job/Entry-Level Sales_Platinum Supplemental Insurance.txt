@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Educating customers about products and services through one-on-one meetings, identifying qualified leads, and closing sales.",
+  "Required Skills": "Sales experience, ability to travel, communication and presentation skills.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "At least 18 years old.",
+  "Preferred Qualifications": "Strong product knowledge, confidence, motivation, work ethic.",
+  "Compensation and Benefits": "Average $80,000 annual salary, annual renewal income potential, bonuses, travel incentives."
+}

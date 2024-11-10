@@ -1,0 +1,13 @@
+ {
+  "Core Responsibilities": "Identify and cultivate alliances and partnership opportunities with a focus on improving patients' access to potentially life transforming therapies and advancing SFA's research, awareness and education priorities; Implement a strategy to educate advocates about important sarcoma science and research; Further SFA's patient advocacy relations including support and collaborations in education and research, clinical trials or other participation; Drive, build and enhance strategic alliances with key national and international sarcoma organizations, sarcoma medical professionals, cancer centers and other relevant stakeholders in response to sarcoma research and patient needs; Recognize key opportunities in research, policy and outreach for patient representation and work to generate appropriate representation; Develop and manage SFA's network of Sarcoma Ambassadors and SFA's Patient Advisory Council; Create greater understanding of SFA programs and mission within the sarcoma community; Identify content that may be relevant to health policy advocacy and science education, collaborate on writing and distributing this information through communication channels to educate and engage the sarcoma community",
+  
+  "Required Skills": "Bachelor's degree; At least seven years of experience in a nonprofit, patient advocacy, scientific or medical environment, ideally related to sarcoma or cancer/health issues; Experience engaging constituents in organization priorities; Ability to interact, negotiate and work on complex initiatives with key stakeholders including senior leadership, board members, prominent scientists, corporate executives and patients; Strong analytical, critical thinking and interpersonal skills; Ability to speak and write persuasively and with clarity; Good organization, prioritization and time management skills",
+  
+  "Educational Requirements": "Bachelor's degree",
+  
+  "Experience Level": "At least 7 years of experience",
+  
+  "Preferred Qualifications": "Experience in a nonprofit, patient advocacy, scientific or medical environment related to sarcoma or cancer/health issues",
+  
+  "Compensation and Benefits": "N/A"
+}

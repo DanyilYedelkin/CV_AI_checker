@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform month-end close activities including preparation of journal entries and reconciliations. Review revenue contracts and transactions for compliance with revenue recognition policies. Prepare accounting analyses and memos related to revenue recognition. Create and maintain commission calculation files for compensation plans. Participate in process improvement projects enhancing internal controls.",
+  "Required Skills": "3-5 years of accounting experience including 1-2 years of relevant month-end close experience or audit experience. CPA preferred. Strong knowledge of GAAP. Strong communication, interpersonal, time management, problem solving, analytical and written skills.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "3-5 years of accounting experience including 1-2 years of relevant month-end close experience or audit experience",
+  "Preferred Qualifications": "CPA preferred",
+  "Compensation and Benefits": "N/A"
+}

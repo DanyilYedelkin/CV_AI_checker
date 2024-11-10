@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage all aspects of the VLFD program. Recruit volunteer attorneys. Mentor and support volunteer attorneys, law students and staff. Oversee CLARO clinics. Maintain a caseload of consumer debt and bankruptcy matters. Conduct intake and provide advice to pro se litigants. Conduct community outreach and know your rights presentations. Prepare program reports and grant proposals.",
+  "Required Skills": "Admission to NYS bar. Experience litigating consumer debt cases in New York preferred. Experience with Chapter 7 and/or Chapter 13 bankruptcy filings preferred. Passion for social justice and pro bono. Exceptional attention to detail. Strong negotiation and litigation skills. Strong problem solving, interpersonal, and communication skills. Flexibility, creativity, and sense of humor. Ability to prioritize and work under pressure. Professional demeanor.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience litigating consumer debt cases in New York. Experience with Chapter 7 and/or Chapter 13 bankruptcy filings. Fluency in Spanish helpful but not required.",
+  "Compensation and Benefits": "Competitive salary commensurate with experience. Benefits include medical, dental, vision, life, accidental death and disability insurance. 401k plan with employer match. Flexible spending accounts. Pretax transit program. Liberal paid time off policy."
+}

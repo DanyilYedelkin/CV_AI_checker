@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Build relationships in the ecosystem requiring knowledge of advertising, targeting, attribution and measurement data services and advertising technology providers. Develop, manage and drive to conclusion the comprehensive negotiation of contract terms.",
+  "Required Skills": "5 years of direct contract negotiation, customer and vendor management and ad technology/advertising experience in both addressable TV and digital video.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5 years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Salary between $150,000 - $200,000. Health insurance, tuition reimbursement, paid time off, employee discounts."
+}

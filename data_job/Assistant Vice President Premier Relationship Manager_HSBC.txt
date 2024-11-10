@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Engaging with clients and prospects in person, on the phone or by email to develop relationships, perform business development, and assist them with financial needs through products and services offered",
+  "Required Skills": "Experience in a similar client-facing, relationship management role at a bank or financial institution; State insurance license, SI Series 6 securities license, Series 7 securities license",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive pay and benefits including options to improve health, finances, and lifestyle."
+}

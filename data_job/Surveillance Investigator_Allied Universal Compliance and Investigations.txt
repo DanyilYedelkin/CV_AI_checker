@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct surveillance and investigations on insurance claims such as workers compensation, liability, property, disability, etc. Collect information through personal observation, video, photos, interviews, and other methods.",
+  "Required Skills": "Investigation skills, surveillance skills. Valid driver's license and private investigator license.",
+  "Educational Requirements": "Associate's degree in criminal justice, accounting, engineering, or related field. Or bachelor's degree in a related field.",
+  "Experience Level": "2 years of experience in investigations or law enforcement if only an Associate's degree. Not specified if Bachelor's degree.",
+  "Preferred Qualifications": "Meaningful and verifiable work history in investigations.",
+  "Compensation and Benefits": "N/A"
+}

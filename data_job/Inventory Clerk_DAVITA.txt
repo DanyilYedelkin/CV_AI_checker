@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintain inventory records, order and receive supplies, stock treatment areas, ensure no expired items, print and review reports, maintain organization and cleanliness of stock room.",
+  "Required Skills": "High school diploma or equivalent, 1 year of related experience, attention to detail, familiarity with computerized inventory systems, basic computer skills.",
+  "Educational Requirements": "High school diploma or equivalent", 
+  "Experience Level": "1 year of related experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

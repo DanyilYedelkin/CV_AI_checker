@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Creating, developing and implementing strategic messaging through all available channels including social media, print, radio and television to support and increase patient population recruiting and retention. Playing an active role in fundraising marketing projects and grant writing opportunities for local, state and federal funding sources.",
+  "Required Skills": "Bachelor's degree in business administration, marketing, communications or a related field. Strong knowledge of various marketing and analytic tools such as Google Analytics, CRM systems (e.g. Blackbaud) and content management systems. Strong written and verbal communication skills. Thorough understanding of state, local and federal funding sources and the ability to locate potential sources for funding.",  
+  "Educational Requirements": "Bachelor's degree in business administration, marketing, communications or a related field",
+  "Experience Level": "2 years of experience in marketing (preferred)", 
+  "Preferred Qualifications": "2 years of experience in grant writing (highly preferred)",
+  "Compensation and Benefits": "Salary commensurate with experience. Medical, vision & dental benefits. Paid time off including 5 paid holidays and 2(b) retirement savings plan. Continuing education and tuition reimbursement options. A well-funded and managed nonprofit organization driven not by the bottom line but by helping its customers."
+}

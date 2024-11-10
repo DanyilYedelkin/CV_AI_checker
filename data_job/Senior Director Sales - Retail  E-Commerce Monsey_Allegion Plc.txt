@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Leads the sales team in meeting revenue, profitability, program and expense goals. Identifies and pursues new opportunities within the channel for business development. Supports merchandising execution and collaboration in conjunction with channel marketing.",
+  "Required Skills": "10+ years of retail sales, marketing or related experience including experience leading large teams. Strong business acumen with proven strategic planning and a track record of profitable growth. Experience with the implementation of growth, new business development and marketing initiatives that lead to stronger market advantages.",  
+  "Educational Requirements": "Bachelor's degree in Marketing, Business or related field. MBA preferred.",
+  "Experience Level": "10+ years",
+  "Preferred Qualifications": "Experience with the implementation of growth, new business development and marketing initiatives that lead to stronger market advantages. Strong organizational skills with the ability to execute/implement on strategic design. Ability to develop compelling reasons for action that radically improve customer experience delivery.",
+  "Compensation and Benefits": "N/A"
+}

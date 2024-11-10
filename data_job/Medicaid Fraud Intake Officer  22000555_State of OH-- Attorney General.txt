@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Receive complaints of Medicaid fraud, patient abuse/neglect, collect preliminary data on allegations, provide information to public, correspond with agencies, assist with search warrants.",
+  "Required Skills": "Bachelor's degree in criminology, criminal justice, accounting, finance or related field.", 
+  "Educational Requirements": "Bachelor's degree in criminology, criminal justice, accounting, finance or related field.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

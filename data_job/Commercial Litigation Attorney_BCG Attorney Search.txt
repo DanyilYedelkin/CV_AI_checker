@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handling complex litigation cases in state and federal courts on behalf of businesses, insurance companies, and individuals.",
+  "Required Skills": "3+ years of litigation experience, NY bar admission, experience in NY federal courts",
+  "Educational Requirements": "N/A",
+  "Experience Level": "3+ years",
+  "Preferred Qualifications": "Experience in Southern and Eastern NY federal districts", 
+  "Compensation and Benefits": "N/A"
+}

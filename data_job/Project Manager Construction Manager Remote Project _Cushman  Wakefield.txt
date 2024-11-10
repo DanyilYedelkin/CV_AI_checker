@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Management of project deliverables including developing scope of work, scheduling, project reports, managing the development of drawings for clients and property/facility management team, designing and development and constructions phases for assigned project",
+  "Required Skills": "Project management, construction management",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

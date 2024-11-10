@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Engaging with customers, providing product knowledge, understanding product features to recommend items, processing transactions, ensuring a positive customer experience.",
+  "Required Skills": "Strong communication and customer service skills, passion for boating/water activities, ability to lift up to 50 lbs, flexible availability",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive benefits including healthcare coverage, merchandise discounts, paid time off"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Participate in on-call rotation. Interface with other teams to roll out features and infrastructure. Design and implement scalable architectures. Find enhancements and cost savings. Evaluate new technologies, vendors, and initiatives. Offer support for development team deployments.",
+  "Required Skills": "3+ years systems engineering/admin experience, preferably in web/ecommerce. Strong background with configuration management, containerization, AWS. Unix/Linux administration. Configuration management knowledge. Bash/shell scripting. AWS DynamoDB. Automation workflows, CI/CD pipelines. Git/GitHub workflows. Docker/Kubernetes or similar containerization. Mac OS X familiarity.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "3+ years",
+  "Preferred Qualifications": "NodeJS/NPM administration. Varnish or caching proxy. Terraform and/or Hashicorp systems. Jira. Jenkins.",
+  "Compensation and Benefits": "N/A"
+}

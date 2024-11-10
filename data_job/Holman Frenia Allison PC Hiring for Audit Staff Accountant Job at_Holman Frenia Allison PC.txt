@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Reconcile client records to trial balance, complete testing on internal controls and single audit funds, confirm cash/legal/insurance/revenue accounts, use the firm's software to automate the process from trial balance to financial statements, perform other accounting/auditing/tax/consulting duties as needed in engagements",
+  "Required Skills": "Bachelor's degree in accounting, finance, business or related field, CPA within 2 years of hire, prior internship with public accounting firm preferred, knowledge of general accounting principles, proficient in Microsoft Excel and Word, ability to communicate clearly and concisely, reliable transportation to/from client locations",  
+  "Educational Requirements": "Bachelor's degree in accounting, finance, business or related field",
+  "Experience Level": "Prior internship with public accounting firm preferred",
+  "Preferred Qualifications": "CPA within 2 years of hire, prior internship with public accounting firm",
+  "Compensation and Benefits": "Medical, dental and vision plans, health savings account with employer contribution, safe harbor 401k plan, commission policy, firm provided life insurance, continuing professional education, tuition reimbursement, professional dues reimbursement, mentoring program, vacation time, paid holidays, summer Fridays"
+}

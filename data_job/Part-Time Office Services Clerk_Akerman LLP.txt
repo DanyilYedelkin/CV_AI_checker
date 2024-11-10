@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Mail sorting and delivery, pickup and delivery of documents to courts and state agencies, meeting room set up and cleanup, kitchen cleanup, document copying, supply inventory maintenance, special projects as assigned",
+  "Required Skills": "High school diploma, 1 year of related experience in a professional work environment preferably a law firm, working knowledge of Microsoft Word, Excel and Outlook, ability to lift up to 50 lbs",
+  "Educational Requirements": "High school diploma", 
+  "Experience Level": "1 year of related experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Excellent compensation and benefits package including salary and health benefits"
+}

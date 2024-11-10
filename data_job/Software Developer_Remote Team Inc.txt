@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Designing, building and maintaining Rails and React applications. Work intensively with multiple teams like product, engineering, design, legal, data, and business.",
+  "Required Skills": "Ability to work with modern frameworks like ReactJS or VueJS. Familiarity with version control systems like Git. Experience with test-driven development (TDD).",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience giving talks, blogging, or open source engagement. Self-motivated and interested in the community.",
+  "Compensation and Benefits": "Competitive salary, empowering team culture, experienced lead developers, open source work time."
+}

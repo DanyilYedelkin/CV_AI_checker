@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage data capture and reporting processes in EMR system, provide end user support, manage system issues, create reports, facilitate meetings and workgroups.",
+  "Required Skills": "2+ years experience with EMR/EHR applications, knowledge of ticketing systems, ability to analyze issues and develop solutions, expertise in report writing and data management.", 
+  "Educational Requirements": "Bachelor's degree in computer science, information technology, informatics or business. Master's degree preferred.",
+  "Experience Level": "2+ years experience with EMR/EHR applications.",
+  "Preferred Qualifications": "Experience with Netsmart EMR, knowledge of remote desktop services, VPN, firewalls, networking, security and backup technologies.",
+  "Compensation and Benefits": "N/A"
+}

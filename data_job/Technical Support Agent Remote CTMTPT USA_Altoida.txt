@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "review and respond to customer emails, support participants in trials and studies, work with engineering to resolve technical issues, work with the designers to design solutions based on users feedback, support the qa team to reproduce issues when needed, create reports on customer satisfaction",
+  "Required Skills": "2+ years of related experience, strong communication skills both verbal and written, familiarity with any issue tracking software, experience with application system and database monitoring methodologies backup software internet technologies and system security",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of related experience",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "The full-time salary range is commensurate with experience. Benefits include 401k with matching, dental insurance, flexible schedule, flexible spending account, health insurance, life insurance, paid time off, vision insurance."
+}

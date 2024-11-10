@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Own FP&A budgeting processes including creating ongoing process beginning with monthly updates. Build concrete path to becoming EBITDA positive and profitable. Run ad hoc scenario analysis. Run scenario analysis for M&A exploration over different time periods and assumptions. Run all financial analytics. Perform other duties as needed.",
+  "Required Skills": "5+ years of strong FP&A experience. Bachelors degree. Experience with FP&A modeling, budgeting, forecasting and planning. Previous experience in a leadership and/or supervisory role. Solid analytical, mathematical and research skills. Great interpersonal skills. Excellent communication skills (written and verbal). Strong attention to detail. Highly organized.",  
+  "Educational Requirements": "Bachelors degree",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

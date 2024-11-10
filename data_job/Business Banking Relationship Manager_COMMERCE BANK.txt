@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage and service a portfolio of commercial customers including expanding, building and maintaining strong customer relationships. Handle customer service requests including loan renewals and modifications. Complete loan booking requirements including negotiating terms, reviewing documentation and assisting in the closing process. Handle reporting on loans and ensure compliance with bank policies, procedures, regulations and laws.",
+  "Required Skills": "Strong knowledge of commercial products, credit policies, procedures and terminology. Valid driver's license with clean driving record. Excellent analytical and problem-solving skills. Strong negotiation skills. Independent decision-making skills. Organized with strong attention to detail. Inquisitive, agile and strong team player with excellent communication skills. Intermediate Microsoft Office skills.",  
+  "Educational Requirements": "Bachelor's degree or equivalent experience.",
+  "Experience Level": "5 years of commercial banking experience.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

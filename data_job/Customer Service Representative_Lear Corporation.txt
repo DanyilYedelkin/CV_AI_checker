@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responding promptly to customer inquiries, communicating with customers through various channels, acknowledging and resolving customer complaints, processing orders forms applications and requests, keeping records of customer interactions transactions comments and complaints, communicating and coordinating with colleagues as necessary, providing feedback on the efficiency of the customer service process, managing a team of junior customer service representatives, ensuring customer satisfaction and providing professional customer support",
+  "Required Skills": "Ability to stay calm when customers are stressed or upset, comfortable using computers, experience working with customer support",
+  "Educational Requirements": "High school diploma, general education degree or equivalent", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

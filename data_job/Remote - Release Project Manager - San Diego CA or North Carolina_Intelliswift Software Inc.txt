@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work cross-functionally with other engineering project managers and engineers to deliver all preproduction and production deployments successfully. Ability to drive and lead multiple releases across the organization from start to finish with a strong focus of delivering on time. Be the communicator, comfortable speaking to groups and can clearly and effectively provide status at any point.",
+  "Required Skills": "Self-starter with 5+ years experience as a project or release manager within a software development team (internet or iOS applications). Great communication and able to drive complex problems to resolution across various levels of the organization. Exceptional attention to detail, organized, and great at follow through on issues that emerge across multiple teams. Strong multitasking aptitude that will allow you to manage multiple releases concurrently that are in different states. Strong project management fundamentals that allow you to adapt rapidly and continue to make progress even when ambiguity is high.",
+  "Educational Requirements": "Degree in computer science related field or equivalent work experience is highly desirable",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Great documentation skills and ability to educate teams on new or evolving processes. Release management, continuous integration and delivery, deployment experience a plus.",
+  "Compensation and Benefits": "N/A"
+}

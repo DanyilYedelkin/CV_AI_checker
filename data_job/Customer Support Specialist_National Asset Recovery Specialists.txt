@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Submit daily reports to clients via email and web portals, handle incoming phone calls, enter data on Excel, scan and file documents, perform basic accounting tasks, handle team time management and reporting tasks",
+  "Required Skills": "High school diploma or equivalent, minimum 1 year customer service and data entry experience, ability to work in a team, excellent data entry and PC skills, ability to type at least 55 wpm, internet and CRM skills, active listening, customer service skills, ability to work in a fast-paced environment under deadlines, organization and filing skills",
+  "Educational Requirements": "High school diploma or equivalent, college degree preferred", 
+  "Experience Level": "Minimum of 1 year of customer service and data entry experience",
+  "Preferred Qualifications": "Experience with office support, clerical, customer service, administrative, receptionist, accounting, payroll, time management, knowledge of recovery database network portal",
+  "Compensation and Benefits": "N/A"
+}

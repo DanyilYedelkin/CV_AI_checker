@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Daily engagement with customers including heavy use of phones to properly qualify and screen customers based on landlord requirements; selecting listings for customers based on their search criteria and move in date; showing apartments for landlord accounts; providing excellent service keeping renters engaged and happy in their touring experience and rental process; following up with customers that have not yet rented regularly to see if they are still engaged with their rental search; gathering information from tours and submit feedback to improve the process for next time",
+  "Required Skills": "Real estate license; ability to move quickly around the city to meet clients for many tours; car is preferred; must have an android/iOS device; organized and computer savvy able to keep sales data up-to-date",  
+  "Educational Requirements": "2 year college degree preferred but not required",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Hungry, sales-oriented, creative, people-friendly agents who are passionate about real estate or fresh faces willing to learn about real estate; strong time management skills; ability to manage your own schedule",
+  "Compensation and Benefits": "Potential to earn between $1500 to $2500 per week based on performance and season; hands on training department that will get you fully prepared on how to do the job and help you feel confident meeting your first client through weekly training sessions; access to our network of prequalified buyers as well; easy to screen and qualify all buyers and renters as well as closing deals"
+}

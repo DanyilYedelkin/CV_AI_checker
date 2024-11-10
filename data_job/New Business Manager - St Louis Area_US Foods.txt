@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and pursue sales leads to grow new accounts and meet annual sales targets. Onboard new accounts and transition them to a territory manager.",
+  "Required Skills": "Minimum 3 years sales experience opening new accounts in the foodservice industry. Strong communication, negotiation, and presentation skills. Proficient with MS Office.",  
+  "Educational Requirements": "High school diploma or equivalent. Bachelor's degree preferred.",
+  "Experience Level": "Minimum 3 years sales experience required.",
+  "Preferred Qualifications": "Foodservice distribution or food and beverage industry experience. Existing relationships with key decision makers.",
+  "Compensation and Benefits": "N/A"
+}

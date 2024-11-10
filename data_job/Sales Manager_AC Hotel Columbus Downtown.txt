@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and foster hotel business through direct sales, marketing, telemarketing, direct mail, and tours of the hotel for both guest rooms and event space. Provide excellent customer service and follow through on details. Represent the hotel at industry events.",
+  "Required Skills": "Proactive planning, organizational skills, pricing and revenue management knowledge. Ability to meet monthly revenue and sales goals.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in the hospitality industry.",
+  "Compensation and Benefits": "Competitive wages, comprehensive benefits package including medical, dental, vision, life insurance, disability, tuition assistance, discounted hotel rates, training and career development opportunities."
+}

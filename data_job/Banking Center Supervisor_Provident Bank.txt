@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Meet customer sales referrals and cross-selling goals. Promotes bank products, refer or resolve customer inquiries. Helps maintain cost efficiency to achieve goals of the branch. Assures quality of customer service and adherence to sales and brand standards. Performs audits. Participates in daily branch opening and closing procedures. Assists with training, assigning and disciplining employees in the branch.",
+  "Required Skills": "Good interpersonal, written and verbal communication skills. Solid math and analytical skills. Ability to understand and follow safety and security practices. Proven ability to identify customer needs and translate to sales opportunities. Strong customer service skills. Good organizational and time management skills. Proficiency in Microsoft Office.", 
+  "Educational Requirements": "High school diploma or GED",
+  "Experience Level": "2 years retail banking experience",
+  "Preferred Qualifications": "Supervisory experience preferred",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for expanding Google Workspace product adoption across an assigned territory. Build relationships with customers to understand needs and provide Google Workspace solutions. Partner with account teams to construct solutions and grow business for Google Workspace.",
+  "Required Skills": "Bachelor's degree or equivalent experience. Experience managing enterprise SaaS accounts and sales cycles.", 
+  "Educational Requirements": "Bachelor's degree or equivalent experience.",
+  "Experience Level": "Experience managing enterprise SaaS accounts and sales cycles.",
+  "Preferred Qualifications": "Experience building strategic partnerships with enterprise customers. Ability to work through a reseller ecosystem. Excellent communication and strategic thinking skills.",
+  "Compensation and Benefits": "N/A"
+}

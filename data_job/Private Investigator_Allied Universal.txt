@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct insurance claim investigations through surveillance, recorded statements, scene investigations, and collecting information. Work independently under supervision to investigate claims for workers compensation, liability, property, disability, life, and healthcare insurance.",
+  "Required Skills": "Investigative skills, ability to collect information through observation and interviews. Valid driver's license. Must complete training program. Preferred to have PI license or qualifications to obtain one.", 
+  "Educational Requirements": "Associate's or Bachelor's degree in criminal justice, accounting, engineering, computer science, foreign language, or related field.",
+  "Experience Level": "2 years of experience in law enforcement, military law enforcement, or investigations preferred for candidates with an Associate's degree.",
+  "Preferred Qualifications": "Meaningful and verifiable work history if previously employed.",
+  "Compensation and Benefits": "Medical, dental, vision, disability, life insurance offered. Fixed auto allowance. Company credit card. Paid training and education opportunities. Career advancement paths. Competitive pay and bonuses. Guaranteed minimum hours. Overtime opportunities. Job stability with large employer. Relocation opportunities."
+}

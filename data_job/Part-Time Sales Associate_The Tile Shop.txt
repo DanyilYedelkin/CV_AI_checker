@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Proactively greet customers, develop customer relationships, conduct followup communication, sell tile products, understand installation/use of products, understand and track sales goals, track store orders, present professionally, work evenings/weekends, other duties as assigned",
+  "Required Skills": "Strong work ethic, excellent people skills, ability to work in fast paced commission sales environment, openness to learning/growing, ability to work under pressure and multitask, detail oriented, highly organized, design sense, basic math and computer skills, ability to read/write/speak English",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Great pay, exceptional training, individual career growth opportunities"
+}

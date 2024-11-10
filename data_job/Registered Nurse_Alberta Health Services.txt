@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide nursing care to pediatric patients in the emergency department. Participate in assessment, planning, implementation and evaluation of patient care. Utilize nursing processes through critical thinking, problem solving and decision making. Teach, counsel and advocate for patients and families.",
+  "Required Skills": "Active registration with the College of Registered Nurses of Alberta (CRNA). Minimum 1 year nursing experience in the past 5 years. Minimum 6 months pediatric emergency department experience in the last 3 years. Basic cardiac life support certification.",  
+  "Educational Requirements": "Completion of an accredited nursing education program.",
+  "Experience Level": "Minimum 1 year nursing experience in the past 5 years. Minimum 6 months pediatric emergency department experience in the last 3 years.",
+  "Preferred Qualifications": "Bachelor's degree in nursing. 1 year pediatric experience in the last 5 years. 1 year emergency, urgent care or critical care experience in the last 5 years. Trauma triage, charge experience. Current PALS, ACLS, ENPC, TNCC certification. Current NVCI training. Connect Care superuser. Infocism asset training. Central line trained.",
+  "Compensation and Benefits": "N/A"
+}

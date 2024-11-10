@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serve as a career advisor to help clients negotiate job offers, promotions, new projects, and more. Provide guidance to even the information asymmetry between workers and employers.",
+  "Required Skills": "3+ years experience in technical recruiting, compensation, or managing teams in tech. Passion for career coaching. Self-awareness and personal development.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "3+ years experience in technical recruiting, compensation, or managing teams in tech",
+  "Preferred Qualifications": "Experience in sales",
+  "Compensation and Benefits": "N/A"
+}

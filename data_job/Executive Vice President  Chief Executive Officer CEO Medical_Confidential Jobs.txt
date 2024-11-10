@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "N/A",
+  "Required Skills": "N/A",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

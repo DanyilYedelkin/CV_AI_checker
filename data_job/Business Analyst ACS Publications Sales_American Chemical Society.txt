@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assimilates, validates and analyzes business data to help senior management make informed decisions; participates in developing systems and tools for business monitoring and data analysis; responds to ad-hoc requests about data or analysis; compiles management reports and tracks/evaluates results.",
+  "Required Skills": "Bachelor's degree in accounting, finance or related field; 2+ years relevant experience; experience with BI tools like Tableau, Qlik Sense, Business Objects; understanding of SQL and relational databases; strong communication, interpersonal and project leadership skills; proficiency with Microsoft Office and business systems; ability to work with minimal supervision, learn quickly, multitask and adjust priorities.", 
+  "Educational Requirements": "Bachelor's degree in accounting, finance or related field",
+  "Experience Level": "2+ years of relevant professional experience",
+  "Preferred Qualifications": "MBA or advanced degree",
+  "Compensation and Benefits": "N/A"
+}

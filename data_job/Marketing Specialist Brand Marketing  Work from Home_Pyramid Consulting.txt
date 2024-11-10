@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assists with the development, execution and management of advertising, promotions and/or sponsorships to drive awareness, consideration and brand image for client. Assists with the development of local marketing campaigns, sports advertising development/implementation, market activation programs in priority markets, development/implementation of sweepstakes/contests, and onsite activation programs for sports events.",
+  "Required Skills": "Proficient in marketing, advertising, media and promotions concepts and practices. Well demonstrated creative judgment and familiarity developing advertising creative and/or sports marketing promotions. An ability to think both creatively and strategically. Ability to effectively manage multiple projects simultaneously, perform under pressure and pay close attention to detail while staying focused on the big picture. Excellent organizational and written/verbal communication skills while focusing on project completion and cross-functional management.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Typically 2 or more years of related experience in marketing, advertising, media or promotions management. Advertising/promotions agency experience is preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

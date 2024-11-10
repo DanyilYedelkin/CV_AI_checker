@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Process sales, greet customers, manage after-sale issues, assist with opening/closing procedures, review open invoices, engage in deescalation techniques, maintain a clean showroom, support warehouse and delivery drivers, respond to communications, occasional travel to assist other locations",
+  "Required Skills": "Customer service, teamwork, ability to lift up to 50 lbs, sales experience",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$30,000 per year, 401k matching, dental, employee discount, health insurance, life insurance, professional development assistance, tuition reimbursement, vision insurance"
+}

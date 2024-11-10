@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Execute and report on digital marketing campaigns for continuity clients across various channels like email, paid search, social media, SEO, etc.; Develop and manage schedules for ongoing campaigns; Research industry trends and best practices",
+  "Required Skills": "1-2 years digital marketing experience; Experience managing projects with multiple departments; Passion for digital marketing; Awareness of new marketing tactics; Problem-solving, time management, strategic thinking; SEO knowledge; Organizational, communication and presentation skills",  
+  "Educational Requirements": "Bachelor's degree in marketing, communications, or related field preferred",
+  "Experience Level": "1-2 years of digital marketing experience",
+  "Preferred Qualifications": "Google Analytics and Google Ads certification",
+  "Compensation and Benefits": "N/A"
+}

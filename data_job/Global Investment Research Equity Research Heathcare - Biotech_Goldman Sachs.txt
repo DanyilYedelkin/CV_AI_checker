@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Contribute to the generation and execution of investment ideas, write reports/notes on companies under coverage, communicate with the equities sales force and traders clients and company managements, plan content for and support conference events hosted for clients featuring corporate and scientific expert leaders, assist in company vetting and conduct scientific clinical commercial and intellectual property due diligence with key opinion leaders, monitor news flow and analyze clinical data updates from both covered and non-covered companies, interpret data and perform analysis on market economic and technology trends, develop financial models",
+  "Required Skills": "PhD, MD, MS or other advanced life sciences degree, excellent analytical skills, strong verbal and written communication skills, proficiency in Excel, attention to detail, strong team orientation",
+  "Educational Requirements": "PhD, MD, MS or other advanced life sciences degree",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "2+ years of experience in investment research, financial modelling and analysis, working knowledge of accounting, finance and valuation, demonstrated interest or previous experience in the biotech/pharmaceutical sector, ability to work in a fast-paced high-energy environment, comfortable taking initiative and being resourceful/entrepreneurial, ability to multitask and work with numerous teams, progress toward earning the CFA designation",
+  "Compensation and Benefits": "N/A"
+}

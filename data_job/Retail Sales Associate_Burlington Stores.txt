@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assisting customers, maintaining sales floor, supporting management with day-to-day store operations",
+  "Required Skills": "Outgoing, upbeat, great organizational skills, ability to work flexible schedule including nights, weekends, and holidays",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive wage, flexible hours, associate discount, benefits package including dental and vision coverage, life insurance, paid time off, paid holidays, 401k plan"
+}

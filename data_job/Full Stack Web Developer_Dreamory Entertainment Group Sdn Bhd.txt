@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "work on development tasks assigned by the rd manager; work diligently with other web developers operation and creative team in developing web application; handling features development enhancement and maintaining inhouse virtual event application; assist in writing technical and functional documentation",
+  "Required Skills": "html, css, javascript, bootstrap, tailwind, php, jquery, mysql, nodejs, reactjs, mongodb; can speak read and write in mandarin english; possesses experience in using cloud infrastructure platforms eg aws alibaba cloud azure etc; possesses experience in serverside setup maintenance familiar with linuxbash command",
+  "Educational Requirements": "bachelors degree in information systems software engineering computer science or equivalent", 
+  "Experience Level": "minimum of 5 years working experience as a full stack web app developer",
+  "Preferred Qualifications": "having experience in react nativeswift mobile app development will be a bonus",
+  "Compensation and Benefits": "high basic salary let us know how well you can perform; epf socso eis and annual leaves; maybe theres more lets find out during the interview"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop design concepts and layouts for multichannel marketing campaigns for AARP. Provide art direction and oversight for designers. Take campaigns from concept to completion while adhering to objectives, accuracy, and timelines. Identify process improvements.",
+  "Required Skills": "3+ years experience as an Art Director. Proficiency with design tools like Adobe Creative Suite. Ability to lead and manage projects end-to-end. Strong project management and organizational skills. Collaborative team player.",  
+  "Educational Requirements": "Bachelor's degree in Art, Design or related field.",
+  "Experience Level": "3+ years of advertising/design/art director experience in print and digital.",
+  "Preferred Qualifications": "Experience with video editing. Strong quality control skills.",
+  "Compensation and Benefits": "Competitive pay and benefits including 401k, health insurance, paid time off, and tuition reimbursement."
+}

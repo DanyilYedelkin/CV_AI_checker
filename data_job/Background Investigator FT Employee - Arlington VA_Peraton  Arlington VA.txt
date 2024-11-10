@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct background investigations through interviews, record searches, etc. to determine employment suitability. Prepare investigation reports.",
+  "Required Skills": "Valid driver's license and reliable transportation. Ability to travel locally and outside of primary work area. Proficient writing and communication skills. Intermediate typing and computer skills.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "Candidates with DCSA/NBIB or other federal background investigation experience preferred. Otherwise, candidates with 2+ years of general work experience or a bachelor's degree may be considered.",  
+  "Preferred Qualifications": "Experience conducting DCSA/NBIB or other federal background investigations. Ability to interact professionally and effectively with various individuals and personalities. Ability to work in a fast-paced, changing environment with limited supervision. Excellent organizational, scheduling and prioritization skills. High level of confidentiality, ethics and integrity.",
+  "Compensation and Benefits": "N/A"
+}

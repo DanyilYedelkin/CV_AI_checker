@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responds to all internet leads and website live chats. Assists customers by communicating via email, text, phone to answer questions. Sets solid appointments for sales consultants at the dealership. Follows up with missed appointments to try to reschedule within 24 hours.",
+  "Required Skills": "Outgoing personality with expertise at developing relationships. Basic MS Office knowledge. Computer software and internet proficiency. Excellent appearance, verbal/written communication, strong negotiation and presentation skills.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Prior auto sales experience is not required but may be a plus. Bilingualism is not required but can be very helpful.",
+  "Compensation and Benefits": "Medical insurance, dental insurance, vision insurance, life insurance, short and long-term disability insurance, paid time off, employee discounts, state of the art technology."
+}

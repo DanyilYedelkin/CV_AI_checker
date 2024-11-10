@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "think beyond the numbers to deliver actionable outcomes and opportunities that address client shopper growth questions; develop, manage and mentor colleagues to build client understanding across all disciplines; deliver specific revenue targets as well as plan and forecast future revenue growth",
+  "Required Skills": "Bachelor's degree; 5+ years of market research experience; excellent leadership skills and experience in mentoring/managing others; excellent verbal and written communication skills; ability to think creatively and strategically; natural curiosity, highly motivated and comfort with ambiguity",
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "5+ years of market research experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive benefits including medical, dental, vision, life insurance, disability insurance, FSA, commuter/parking benefits, retirement plan, paid time off, unlimited sick time, annual bonus incentives, tuition reimbursement"
+}

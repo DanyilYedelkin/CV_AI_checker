@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer phone calls, schedule meetings, filing, emailing, typing, scanning, online research, and making telephone inquiries. Provide administrative support to ensure efficient operation of office.",
+  "Required Skills": "Reporting skills, administrative writing skills, Microsoft Office skills, managing processes, organization, analyzing information, professionalism, problem solving, verbal communication",
+  "Educational Requirements": "High school diploma or equivalent education required",  
+  "Experience Level": "Prior administrative assistant experience is important",
+  "Preferred Qualifications": "Knowledge of appropriate software including Microsoft Word, Excel and Outlook, Microsoft PowerPoint, and Adobe Acrobat",
+  "Compensation and Benefits": "Work from home - no need to visit office. Above average compensation for qualified applicant."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Review, draft and negotiate commercial contracts like NDAs and vendor agreements. Advise departments on contract terms and implications. Resolve contract issues. Manage contract workflow and resources.",
+  "Required Skills": "JD from top law school. Licensed to practice law in NY. 2+ years drafting and negotiating contracts at a law firm or in-house. General technical aptitude. Ability to work independently but also collaborate with stakeholders. Attention to detail and follow through.",  
+  "Educational Requirements": "Law degree from top-tier law school.",
+  "Experience Level": "2+ years of contract drafting/negotiating experience at a law firm or in-house.",
+  "Preferred Qualifications": "Located in New York City area.",
+  "Compensation and Benefits": "N/A"
+}

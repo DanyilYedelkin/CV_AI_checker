@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct business process analysis, needs assessments, and cost-benefit analysis to align IT solutions with business initiatives. Serve as a liaison between business units and IT. Formulate and define software and application specifications. Analyze, evaluate, and improve existing systems. Develop coding logic, flowcharts, and diagrams.",
+  "Required Skills": "High school diploma or GED with 7 years of experience, or bachelor's degree with 3 years of experience. Experience with systems and software development. Communication and customer service skills. Organizational and analytical skills. Problem solving and priority management.",
+  "Educational Requirements": "High school diploma or GED with 7 years of experience, or bachelor's degree with 3 years of experience.",
+  "Experience Level": "7 years with high school diploma/GED, or 3 years with bachelor's degree.",
+  "Preferred Qualifications": "Experience providing application support and troubleshooting. Banking or financial services industry experience.",
+  "Compensation and Benefits": "Salary ranges based on job, experience, skills, knowledge, and performance. Incentive pay plans not available for this role. Benefits include paid time off, 401k with match, health insurance, disability insurance, health savings account, flexible spending account, life insurance, parental leave, employee assistance program, and more."
+}

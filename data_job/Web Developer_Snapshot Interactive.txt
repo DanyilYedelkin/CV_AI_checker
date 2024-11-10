@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Creating amazing WordPress websites that reflect client brand and objectives. Executing updates and troubleshooting client websites. Integrating HubSpot features and plugins. Tracking project progress and communicating professionally with team.",
+  "Required Skills": "3+ years professional experience. Understanding of object-oriented programming and MVC. Custom scripting and API integration experience. WordPress theming expertise (Sage preferred). Custom REST API development. Expert CSS, PHP, MySQL. Knowledge of responsive and mobile-first design. Ability to debug cross-browser issues. Self-motivated with strong organizational skills.",  
+  "Educational Requirements": "Bachelor's degree or equivalent experience.",
+  "Experience Level": "3+ years backend development experience required.",
+  "Preferred Qualifications": "Experience with Laravel, command line, deploying websites, Git/version control. Knowledge of CSS preprocessors like SASS and LESS.",
+  "Compensation and Benefits": "Salary based on experience. Health, life, and disability insurance. Paid time off and holidays. Retirement plan."
+}

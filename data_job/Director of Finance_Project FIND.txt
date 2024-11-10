@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for the financial operations and infrastructure of Project Find. Oversees budgeting, forecasting, reporting, policies and procedures, and team management. Primary contact for funding and contracts. Provides financial counsel to leadership on business decisions.",
+  "Required Skills": "Bachelor's degree required, CPA or Master's preferred. 5+ years management experience at $5M+ nonprofits. Financial operations experience. Budgeting, forecasting, financial analysis and reporting skills. Supervisory experience. Strong communication and analytical skills.",
+  "Educational Requirements": "Bachelor's degree required, CPA or Master's preferred.",  
+  "Experience Level": "5+ years management experience at $5M+ nonprofits.",
+  "Preferred Qualifications": "CPA or Master's degree. Experience in regulated industry or nonprofits. Finance director experience at nonprofits.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide helpdesk and technical support, troubleshoot hardware/software issues, manage systems and networks, oversee IT projects, upgrade and maintain systems.",
+  "Required Skills": "2+ years experience in IT/network support, Windows server knowledge, networking, hardware/software troubleshooting, Microsoft certifications preferred.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "Creative problem-solving, ability to prioritize and multi-task, team player.",
+  "Compensation and Benefits": "N/A"
+}

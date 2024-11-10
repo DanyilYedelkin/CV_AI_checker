@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee and monitor operational and financial performance of properties, establish and execute operations strategies, build/train/develop property management team, direct oversight of regional managers, ensure properties are well maintained",
+  "Required Skills": "2+ years property management experience, financial analysis/budgeting skills, strong communication and leadership skills, ability to multitask and meet deadlines, knowledge of industry software like Yardi, RentCafe, etc.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

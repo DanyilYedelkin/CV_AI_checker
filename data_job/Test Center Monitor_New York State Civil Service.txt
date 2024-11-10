@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Administer civil service examinations to candidates in a designated area, including understanding and complying with exam guidelines and procedures, reading instructions to candidates, distributing and collecting exam materials, assisting with computer-based testing devices if needed, virtually proctoring remote exams, completing required paperwork, reporting any irregularities.",
+  "Required Skills": "High school diploma or GED, ability to operate a PC and perform basic functions, effective communication and public speaking skills, ability to work calmly with diverse populations under stressful conditions.",
+  "Educational Requirements": "High school diploma or GED.",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

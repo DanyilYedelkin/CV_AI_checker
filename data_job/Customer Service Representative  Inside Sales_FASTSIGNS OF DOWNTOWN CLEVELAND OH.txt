@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Sells consultatively and makes recommendations to prospects and clients using various Fastsigns products; follows up on new leads and referrals; prepares estimates and establishes/maintains estimate followup procedures; communicates with customers on order status and changes; executes marketing functions; helps with required paperwork; identifies and resolves customer satisfaction issues; establishes effective team relationships.",
+  "Required Skills": "2 years post secondary education; experience in retail or inside sales with excellent customer service; proven record of consistently hitting/exceeding sales targets; experience resolving customer satisfaction issues; experience working under pressure with multiple tasks/projects; proficient computer and internet skills including Microsoft Office Suite; strong verbal and written communication skills; basic math skills; strong organizational and time management skills.",  
+  "Educational Requirements": "Minimum of associate's degree required",
+  "Experience Level": "2 years experience in retail or inside sales",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Eligible for medical and dental plan after 90 days; paid long term disability insurance after 90 days; eligible for monthly team bonus after 90 days; paid holidays; 2 week paid vacation after 1 year of service; parking in private lot."
+}

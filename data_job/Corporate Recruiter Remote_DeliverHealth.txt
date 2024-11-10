@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Source candidates using a variety of search methods to build a robust candidate pipeline. Design and manage a positive candidate experience. Screen candidates by reviewing resumes and job applications and performing phone screenings. Partner with hiring managers to understand business objectives and align recruitment efforts to support key competencies and skills needed. Facilitate the interview process with hiring managers. Assist managers in developing compelling offers within our compensation philosophy and position budgets. Facilitate the offer process by extending the offer and negotiating employment terms.",
+  "Required Skills": "2+ years of recruiting experience, technical recruiting experience preferred. Experience leveraging the capabilities of applicant tracking systems (ATS), ICIMS is a plus. Ability to source passive candidates in addition to active job seekers. Strong project management skills with ability to manage multiple projects. Excellent communication and interpersonal skills. Strong networking skills both internally and externally including on platforms like LinkedIn.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of recruiting experience",
+  "Preferred Qualifications": "Technical recruiting experience preferred. Prior experience developing talent acquisition strategies for multiple functions and at all organization levels strongly preferred.",
+  "Compensation and Benefits": "N/A"
+}

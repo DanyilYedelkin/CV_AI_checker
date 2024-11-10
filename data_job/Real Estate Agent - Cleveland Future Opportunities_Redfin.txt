@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Build relationships with customers and help them buy and sell homes. Handle advertising, logistics, pricing, negotiations and closing.",
+  "Required Skills": "Active real estate license, interpersonal and communication skills, ability to learn and use new technology, reliable transportation.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "New and experienced agents welcome.", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Base salary, transaction bonuses, event pay, performance bonuses, stock options, benefits including medical, dental, vision, paid vacation, mileage reimbursement, etc."
+}

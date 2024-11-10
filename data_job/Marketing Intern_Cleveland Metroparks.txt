@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provides support to the department and assists with related functions and special projects as assigned. Serves as customer support liaison between public and internal staff. Assists with corporate partnership activation as needed and provides client support.",
+  "Required Skills": "Must be currently enrolled in college and pursuing coursework in marketing or communication. Ability to develop and maintain effective working relationships with stakeholders including employees and the general public. Ability to speak and write clearly, concisely and persuasively using correct grammar, spelling and punctuation with ability to communicate one-on-one or in group settings. Ability to perform work with a high degree of accuracy and organization. Ability to work cooperatively with others. Ability to perform with considerable independence and initiative. Proficient in the Microsoft Office and Adobe Creative Suite.",  
+  "Educational Requirements": "Must be currently enrolled in college and pursuing coursework in marketing or communication.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

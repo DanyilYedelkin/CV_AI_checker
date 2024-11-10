@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Applying customer payments, writing refund checks, invoicing customers, printing and preparing invoices/statements, providing customer service, reviewing invoices, taking payments over the phone",
+  "Required Skills": "Organizational skills, attention to detail, teamwork, positive attitude, accounts receivable experience preferred but not required",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Entry-level",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive compensation and comprehensive benefits package including health, vision, dental, disability, life insurance, PTO, and paid holidays"
+}

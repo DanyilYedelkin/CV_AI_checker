@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Operate and drive a dump truck. Transport materials from work sites to disposal sites safely and efficiently. Perform routine maintenance and inspect vehicles. Adhere to all safety policies and procedures.",
+  "Required Skills": "Valid commercial driver's license. Strong communication and interpersonal skills. Awareness of budgets, efficiency, ethics, time management, dependability, safety, professionalism, adaptability, punctuality, self-motivation.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

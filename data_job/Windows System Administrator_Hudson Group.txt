@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Monitoring systems, troubleshooting issues, responding to service requests, maintaining IT infrastructure, coordinating with teams, administering activities as guided by management, evaluating system capacity.",
+  "Required Skills": "2+ years Windows server/Active Directory administration experience, Azure AD, SCCM, Office 365", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years Windows server/Active Directory administration experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Health/dental/vision insurance, paid time off, parental leave, life insurance, retirement matching, employee discount, recognition programs, training/development opportunities, tuition assistance."
+}

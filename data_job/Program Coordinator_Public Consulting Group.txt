@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Program management, including mentoring instructors, monitoring program implementation, conducting observations, coaching instructors, substituting for absent instructors, overseeing reports and surveys, reviewing timecards. Program matching, including initiating kickoff meetings, recommending/confirming instructors, communicating with instructors.",
+  "Required Skills": "2-3 years experience in educational settings preferred. Passion for helping children succeed required. Supervisory, project management, and marketing experience preferred. Understanding of instructional pedagogies and methodologies. Effective oral and written communication skills. Excellent interpersonal skills. Strong computer and organizational skills.",
+  "Educational Requirements": "Bachelor's degree and teaching certification.", 
+  "Experience Level": "2-3 years experience in educational settings preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

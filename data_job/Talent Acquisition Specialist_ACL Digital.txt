@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for full life cycle recruiting with a focus on technical roles such as software engineering and hardware engineering. Will source, interview, and hire talent.",
+  "Required Skills": "2+ years experience in fast-paced recruiting/sourcing environment. Able to navigate complex recruiting scenarios. Proficiency in technical recruiting and sourcing.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

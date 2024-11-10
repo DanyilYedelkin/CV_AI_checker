@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer incoming calls and emails from TMs, research and provide order information. Process orders including new, cancellation or additions. Enter and update vendor drop ship orders. Back orders if item is out of stock, check ETA. Research and obtain ETA, proof of delivery, shipment tracking and returns info as needed. Prepare and send order acknowledgements. Inform TM and customer of procedures, order status and resolution of problems.",
+  "Required Skills": "Working knowledge of shipping procedures and practices, inventory control processes and procedures, call center experience. Excellent communication, interpersonal and professional skills. Ability to work with internal staff from other departments. Customer service skills. Planning and organizational skills. Problem solving skills. Judgment skills. Detail oriented.",
+  "Educational Requirements": "High school diploma or GED required, college degree preferred", 
+  "Experience Level": "2 years customer service experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

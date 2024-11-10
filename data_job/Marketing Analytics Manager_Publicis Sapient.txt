@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Bringing together data, analytics and insights across channels, teams and tools to uncover insights and tell a story that shapes strategy. Preparing weekly, monthly and quarterly reports analyzing performance. Developing models for attribution, forecasting, and lead/pipeline movement.",
+  "Required Skills": "Proficiency in analytics and ability to synthesize data insights. Strong communication skills to present insights to marketing team and executives.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience with marketing analytics and campaign performance analysis. Knowledge of trends in marketing analytics space.",
+  "Compensation and Benefits": "N/A"
+}

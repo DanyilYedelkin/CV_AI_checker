@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide teller services such as handling deposits/withdrawals, payments, greeting customers, maintaining accounts. Engage with customers to explore needs and recommend appropriate products/services. Make referrals to other business units when suitable.",
+  "Required Skills": "Basic math, computer, oral/written communication skills. Judgement, integrity, ability to handle confidential information. Quick and accurate working style, analytical thinking, decision making. Ability to operate standard office equipment.",  
+  "Educational Requirements": "High school diploma or equivalent.",
+  "Experience Level": "Cash handling and customer service experience preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

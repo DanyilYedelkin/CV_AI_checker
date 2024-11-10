@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Schedule appointments and meet with potential clients, make product recommendations to help clients meet their financial goals, provide ongoing service and support to existing policyholders",
+  "Required Skills": "Outgoing personality with the ability to develop relationships, fearless positive attitude and willingness to be accountable for results, organized and detail-oriented with excellent time-management skills, good communicator with ability to explain complex information simply",
+  "Educational Requirements": "4 year degree",
+  "Experience Level": "Entry level or new college graduate",
+  "Preferred Qualifications": "Highly self-motivated and self-disciplined with ability to work with little supervision, desire for continuous learning",
+  "Compensation and Benefits": "Comprehensive benefits package including health/dental/life/disability insurance, 401k plan after one year, defined pension plan, discounts on wireless carriers and gym memberships" 
+}

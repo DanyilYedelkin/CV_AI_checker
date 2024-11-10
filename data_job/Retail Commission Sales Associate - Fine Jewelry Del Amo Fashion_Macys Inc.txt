@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Providing outstanding customer service in the jewelry & watch department, meeting hourly sales and rewards goals, demonstrating product knowledge",
+  "Required Skills": "Retail and sales experience, knowledge of jewelry and watches", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

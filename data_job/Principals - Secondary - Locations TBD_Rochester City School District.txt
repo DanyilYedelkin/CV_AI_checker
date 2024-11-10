@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist in selection and assignment of personnel, lead curriculum development, implement district curriculum, monitor student progress, utilize test results to improve teaching and learning, evaluate progress towards goals.",
+  "Required Skills": "Instructional leadership, curriculum knowledge, data analysis, budget management, communication, technology/computer skills.",
+  "Educational Requirements": "Master's degree, NY state certification as School Administrator/Supervisor or School Building Leader.", 
+  "Experience Level": "Minimum 3 years teaching experience, minimum 3 years leadership experience as school administrator, assistant principal experience preferred.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

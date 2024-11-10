@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Define an integrated marketing strategy for owned and paid channels personalized for client segments. Lead a team for digital, events, content marketing, paid media, partnerships, etc. Develop lead generation and nurturing strategy. Manage campaign strategy and calendar. Own digital roadmap including website and email. Elevate retirement platform using owned, earned and paid channels. Innovate new ways to reach target audiences. Build data-driven measurement framework with sales. Support agency/vendor relationships and budget.",
+  "Required Skills": "5+ years in marketing, preferably in defined contribution/asset management or strong retirement industry knowledge. Proven success building and executing integrated marketing strategies. Strong creative marketer with campaign messaging experience. Team leader experience with ability to coach and manage. Series 6 and 63 preferred.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "Minimum 5 years related experience in marketing, preferably in the defined contribution industry/asset management. Experience as a team leader.",
+  "Preferred Qualifications": "Creative marketer. Experience developing campaign messaging and partnering with agencies. Solutions oriented, adaptable, collaborative. Enthusiastic about digital marketing. Forward-thinking and willing to experiment with innovative ideas.",
+  "Compensation and Benefits": "Competitive retirement plan, tuition reimbursement, healthcare, working parent support, flexible time off."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and maintain client relationships, understand client needs, make staffing recommendations, work with recruiters to identify and deliver top talent, provide coaching and feedback to recruiters, source candidates through networks and referrals.",
+  "Required Skills": "3+ years staffing experience, proven track record, sourcing expertise, ability to match job descriptions and candidates, time management, teamwork, communication skills, negotiation and presentation skills, Bachelor's degree", 
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "Minimum 3 years staffing experience",
+  "Preferred Qualifications": "Services/consulting/sales experience, formal leadership experience",
+  "Compensation and Benefits": "N/A"
+}

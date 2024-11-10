@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Designs and builds complex graphics, page layouts and animation for web pages. Creates detailed drafts of website outlines based on client needs. Provides thorough testing and review of final website designs.",
+  "Required Skills": "Proficiency in HTML, CSS, JavaScript, Drupal, Adobe Photoshop, Illustrator, After Effects and Lightroom.", 
+  "Educational Requirements": "Bachelor's degree or equivalent experience.",
+  "Experience Level": "2+ years of experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

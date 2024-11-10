@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee data systems and reporting, ensure billing compliance, create and implement new data systems, develop and oversee reporting metrics, monitor billing and claims data, supervise data systems team, collaborate on technology solutions, provide data analysis, oversee documentation quality assurance, manage relationships with lead health home partners.",
+  "Required Skills": "Knowledge of data management systems and statistical reporting, ability to leverage external data sources, skills to recruit/hire/train/coach staff, understanding of billing compliance and QA processes, proficiency in identifying and implementing technology solutions.",
+  "Educational Requirements": "Bachelor's degree",  
+  "Experience Level": "5 years experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

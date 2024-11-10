@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsibilities include working weekends part-time, receiving on-the-job training, and participating in a week long management internship program to gain experience and prepare for a future management role.",
+  "Required Skills": "No specific technical or soft skills listed.", 
+  "Educational Requirements": "No specific educational requirements listed.",
+  "Experience Level": "No specific years of experience listed.",
+  "Preferred Qualifications": "No additional preferred qualifications listed beyond the basic requirements.",
+  "Compensation and Benefits": "Compensation includes extra pay on weekends, store discount, profit sharing, discounts on gyms, car dealerships, cell phone plans, dental plan, and on-the-job training."
+}

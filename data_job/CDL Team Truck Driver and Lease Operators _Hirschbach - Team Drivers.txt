@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Transport freight and operate a tractor trailer for long distances safely and on time. Work closely with co-driver as a team.",
+  "Required Skills": "Valid Class A CDL license. 6 months of tractor trailer driving experience.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "6 months of tractor trailer driving experience required", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Company drivers start at $.49/mile. Monthly safety and performance bonuses. Vacation, health insurance, paid time off. Lease operators earn $1,600/week minimum pay. Fuel program, maintenance plan, savings plan."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serve as HR contact for designated teams across the country. Handle employee questions and issues. Maintain documentation and ensure compliance with laws. Assist with onboarding, orientation, HR projects, exit interviews.", 
+  "Required Skills": "Bachelor's degree in HR or related field. Working knowledge of HR compliance and employment laws. Proficient in HRIS (Workday preferred) and Microsoft Office.",
+  "Educational Requirements": "Bachelor's degree in human resources or related field.",
+  "Experience Level": "2 years of employee relations experience.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive compensation, benefits and bonus package. Biannual bonus opportunity. Paid relocation to TQL headquarters in Cincinnati, OH."
+}

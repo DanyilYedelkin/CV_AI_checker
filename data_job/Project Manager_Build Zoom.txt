@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Design solutions and features, create specs and documentation, analyze data to identify opportunities, measure impact of new features",
+  "Required Skills": "2+ years product management experience, excellent communication skills, user-centered design skills, ability to interpret data and translate insights into action", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years in a product role",
+  "Preferred Qualifications": "Experience with marketplaces or construction",
+  "Compensation and Benefits": "$120,000 - $150,000 per year salary range"
+}

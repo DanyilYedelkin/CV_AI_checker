@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide excellent customer service and internal support to an assigned team. Act as a liaison between customers and team members. Provide detailed notes on calls, track and code documentation. Educate and inform customers on processes, timelines and status. Resolve issues with one call/one person. Direct calls to appropriate escalation path. Track trends, investigate feedback, assist with corrective/preventative actions. Perform administrative tasks.",
+  "Required Skills": "Strong oral and written communication skills, computer literacy including Microsoft Office, organizational skills", 
+  "Educational Requirements": "High school diploma or GED required",
+  "Experience Level": "Clerical or customer service experience preferred",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Diverse and comprehensive benefits package including medical, dental, vision, PTO and more"
+}

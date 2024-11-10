@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Delivers patient care and performs basic procedures for an assigned group of patients. Assists patients with activities such as eating, walking, and personal hygiene. Records and reports vital signs and dispenses/retrieves patient care supplies.",
+  "Required Skills": "N/A", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

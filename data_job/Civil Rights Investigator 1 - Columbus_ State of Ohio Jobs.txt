@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conducts intake with charging parties, investigates discrimination complaints, gathers evidence, conducts interviews and fact-finding conferences, prepares legal documents, analyzes case materials, prepares reports, performs clerical tasks related to investigations.",
+  "Required Skills": "Investigation methods and techniques, interviewing, human relations/public relations, operation of personal computer.",
+  "Educational Requirements": "Completion of associate program coursework or undergraduate core coursework in human resources, business administration, public administration, liberal arts, or related field of study.",
+  "Experience Level": "12 mos trg or 12 mos exp in investigation methods and techniques, 12 mos trg or 12 mos exp in interviewing, 12 mos trg or 12 mos exp in human relations/public relations.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

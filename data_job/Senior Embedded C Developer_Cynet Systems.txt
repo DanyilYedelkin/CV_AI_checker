@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for research, design and development of computer software systems in conjunction with hardware product development. Participates in all phases of the software development life cycle including requirements analysis, design, implementation, integration, and test of software products.",
+  "Required Skills": "Experience with C and/or Ada, real time operating systems, embedded software engineering.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years of embedded software engineering experience",
+  "Preferred Qualifications": "Embedded background, electronic warfare knowledge, EW background, capable of working on both high and low level software, VxWorks or similar embedded OS experience, UML design experience",
+  "Compensation and Benefits": "N/A"
+}

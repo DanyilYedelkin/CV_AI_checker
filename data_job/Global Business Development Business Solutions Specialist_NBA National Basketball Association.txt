@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work with global business development team to pursue prospects, develop strategies, create sales materials and presentations, negotiate and execute contracts. Support regional offices and collaborate with internal teams to develop customized programs and bring best ideas to market. Achieve league-wide and regional revenue goals.",
+  "Required Skills": "Strong communication, presentation, storytelling, and conceptualization skills. Proficient with Adobe Creative and Microsoft Office suites. Deep understanding of marketing, sales, partnerships. Self-motivated and able to adapt to changing priorities.", 
+  "Educational Requirements": "Bachelor's degree.",
+  "Experience Level": "2-3 years of sales, business development, and/or marketing experience.",
+  "Preferred Qualifications": "Bilingual",
+  "Compensation and Benefits": "N/A"
+}

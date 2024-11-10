@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Source, engage and recruit passive talent by researching, creating and executing creative sourcing strategies. Screen and qualify prospective candidates. Track leads/candidates and maintain data integrity within ATS. Build strong relationships with teams across various larger hiring business partners to create deliverables, timelines and tracking processes with measurable metrics.",
+  "Required Skills": "1 year of strong sourcing or recruiting experience. Experience using an ATS to source, track and manage candidates. Hands-on experience with strong sourcing techniques including recruiting on various platforms and crafting boolean search strings. Proven organizational skills with attention to detail. Strong work ethic and a sense of personal accountability. Ability to work in a fast-paced environment with evolving priorities.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "1 year of strong sourcing or recruiting experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

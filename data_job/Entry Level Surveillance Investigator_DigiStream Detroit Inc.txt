@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conducting covert surveillance and investigations, monitoring and following subjects, capturing video evidence, crafting pre-surveillance strategies, detailed report writing.",
+  "Required Skills": "High school diploma or GED, 21 years or older, 40 hours per week availability, willingness to travel, confident driving skills, ability to pass background check.",
+  "Educational Requirements": "High school diploma or GED",
+  "Experience Level": "No previous experience required", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$15 per hour starting pay with estimated first year compensation $30,000-$40,000 with overtime, health, dental, vision, life insurance, 401k with company match, company vehicle, paid travel expenses."
+}

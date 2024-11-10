@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist customers in all aspects of service fulfillment, determine customer needs based on personal features and other customer preference related factors, demonstrate knowledge of store products and services to build sales and minimize returns, perform sales support functions related to POS procedures",
+  "Required Skills": "N/A",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

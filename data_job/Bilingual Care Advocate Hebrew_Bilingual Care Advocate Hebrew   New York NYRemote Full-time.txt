@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer user questions about the product, provide online appointment booking support, triage urgent care requests, provide ongoing case management, conduct video appointments with members, relay member insights",
+  "Required Skills": "Background in allied health, human services or healthcare; Motivated and ambitious outlook; Dedication to delivering excellent customer service; Problem-solving skills; Enthusiasm to work independently and collaboratively; Excellent written and verbal communication skills; Empathy for patients",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience working with sensitive health information; Experience in social work, nursing, public health or related field; Experience in insurance navigation, claims advocacy or medical billing; Experience working in a fast-paced startup environment; Experience in family planning and maternal-child health areas",
+  "Compensation and Benefits": "Generous PTO, employer-covered health, dental and insurance plans, access to mental health, reproductive health, family planning, pediatrics specialists, professional development stipend, paid parental leave, flexible time upon return, new parent stipend"
+}

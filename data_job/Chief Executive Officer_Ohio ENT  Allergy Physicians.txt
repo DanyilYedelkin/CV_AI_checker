@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide leadership and strategic planning for the medical practice. Oversee clinical, financial, and organizational operations. Lead and mentor the executive team. Build partnerships and represent the organization externally.",
+  "Required Skills": "Excellent leadership, communication, problem-solving, business acumen, strategic thinking, and people management skills. Ability to work collaboratively and maintain discretion.", 
+  "Educational Requirements": "Bachelor's degree required, MHA or MBA preferred.",
+  "Experience Level": "10+ years of industry experience",
+  "Preferred Qualifications": "Experience training and leading executive teams. Executive presence and ability to remain calm under stress.",
+  "Compensation and Benefits": "N/A"
+}

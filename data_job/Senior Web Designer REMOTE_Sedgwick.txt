@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Create user-friendly designs that improve the overall user experience. Oversee user experience projects to support global marcomm deliverables, ideas and solutions. Create strategic and compelling user experience design solutions that are visually engaging and on-brand to drive an optimized experience.",
+  "Required Skills": "Bachelor's degree in UI/UX or graphic design. 7+ years of UI/UX or graphic design experience. Strong knowledge of Adobe Creative Suite, Sketch, CSS and HTML. Excellent communication, presentation, organizational and interpersonal skills. Ability to work in a fast-paced team environment.",  
+  "Educational Requirements": "Bachelor's degree in UI/UX or graphic design preferred.",
+  "Experience Level": "7+ years of UI/UX or graphic design experience required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

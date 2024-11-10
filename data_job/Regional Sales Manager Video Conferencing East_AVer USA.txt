@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for meeting and exceeding sales goals in the sales territory. Manage and maintain existing accounts and grow new customer base in assigned region. Conduct product presentations and demonstrations to end users and resellers.",
+  "Required Skills": "Proven track record in video conferencing sales. Channel management knowledge. Excellent presentation, verbal and written communication skills. Ability to travel 75% of the time.",  
+  "Educational Requirements": "Bachelor's degree or equivalent.",
+  "Experience Level": "5+ years proven track record in video conferencing sales is required.",
+  "Preferred Qualifications": "Channel management knowledge. Experience in business development, negotiation and closing business.",
+  "Compensation and Benefits": "N/A"
+}

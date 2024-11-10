@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Data entry/keystroke input of documents",
+  "Required Skills": "50+ KPH data entry with 99% accuracy",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Pay rate $13/hour. Temporary assignment for approximately 6 months."
+}

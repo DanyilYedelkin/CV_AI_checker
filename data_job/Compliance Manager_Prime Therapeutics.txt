@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Executes compliance procedures and policy governance, conducts compliance risk assessments and audits, investigates compliance issues, serves as a compliance consultant and subject matter expert, develops and implements compliance initiatives, tracks compliance metrics.",
+  "Required Skills": "Bachelor's degree in business, healthcare or related field. 2+ years experience in legal/compliance for a healthcare or PBM organization. Knowledge of Medicare, Medicaid and ACA regulations. Must be eligible to work in the US without sponsorship.",
+  "Educational Requirements": "Bachelor's degree in business, healthcare or related field.",
+  "Experience Level": "2+ years experience in legal/compliance for a healthcare or PBM organization.",
+  "Preferred Qualifications": "Advanced degree like JD or certified compliance credentials like CCEP, CHC. Leadership experience. Knowledge of NCQA/URAC accreditation standards.",
+  "Compensation and Benefits": "Salary range of $95k-$125k based on location, experience and skills. Benefits include health insurance, 401k, paid time off."
+}

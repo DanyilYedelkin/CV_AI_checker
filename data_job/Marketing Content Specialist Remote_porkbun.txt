@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Write much of the copy for the brand including website updates, landing pages, newsletters, email campaigns, digital paid media campaigns, blog posts, social media posts, video scripts and partner content. Optimize drip email marketing campaigns, landing pages and the website. Creative and strategic collaboration with the marketing, business and support teams. Coordinate with the digital marketing manager to help enhance and optimize ad buy campaigns. Implement an editorial calendar to plan timely content. Create and post engaging social media content.",
+  "Required Skills": "Demonstrated history of creating amazing ad copy. Experience with email and/or blog marketing via tools like Mailchimp, WordPress, etc. Writing both long and short form content. Demonstrated ability to manage multiple projects simultaneously. Analytical mindset.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Junior-level",
+  "Preferred Qualifications": "Experience writing scripts for video or audio production. Video or audio editing experience. Expertise optimizing emails and webpages to increase conversion rate. Understanding of marketing psychology to drive sales.",
+  "Compensation and Benefits": "Health/dental/vision insurance after 6 months. Simple IRA match of 3% available after 1 year employment. Paid federal holidays plus an extra day at Thanksgiving and Christmas. 2 weeks paid PTO to start, additional earned. Paid parental leave. Salary starts at $40k, negotiable for more experienced candidates."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Collaborate in real-time with other engineers through mob programming over Zoom. Take ownership of a product as part of an empowered product team. Leverage technology to research, understand, and solve customer problems.",
+  "Required Skills": "2+ years experience working on a software development team. Proficiency in object-oriented programming languages like Java, .NET, C, PHP. Strong programming skills in JavaScript. Understanding of relational databases like MySQL and PostgreSQL. Experience building scalable, performant, and modular solutions. Knowledge of cloud technologies like AWS and Google Cloud. Experience with microservices and service-oriented architecture.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years experience working on a software development team",
+  "Preferred Qualifications": "Understanding of NoSQL datastores like Elasticsearch and MongoDB. Knowledge of ML technologies. Knowledge of basic visual and user experience principles.",
+  "Compensation and Benefits": "N/A"
+}

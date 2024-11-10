@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "follow up on existing leads, create and manage relationships, assist customers with any issues or concerns",
+  "Required Skills": "pharmacy experience, sales experience, customer relation experience, ability to generate leads and land new accounts, excellent verbal and written communication skills, basic computer knowledge, outgoing and personable, organizational skills, ability to multitask prioritize and manage time effectively",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "1-2 years marketing experience preferred",
+  "Preferred Qualifications": "pharmacy experience a plus",
+  "Compensation and Benefits": "$35,000/year + commission opportunity"
+}

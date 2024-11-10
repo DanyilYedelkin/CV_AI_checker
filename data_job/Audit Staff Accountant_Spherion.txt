@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Reconcile client records to trial balance which may include analytical procedures and performs schedule computations of prepaid accruals, property, equipment and calculates depreciation expense. Complete testing on internal controls, single audit and other various funds. Confirm cash, legal, insurance, revenue etc accounts. Use the firm's software programs to automate the process from trial balance and financial statements. Perform other accounting, auditing, tax and consulting duties as needed in engagements.",
+  "Required Skills": "Proficient in use of computers. Proficient in Microsoft Excel and Word. Ability to communicate clearly and concisely.",  
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "1-2 years",
+  "Preferred Qualifications": "CPA within 2 years of date of hire. Prior internship with public accounting firm preferred. Knowledge of general accounting principles. Reliable transportation to and from client locations.",
+  "Compensation and Benefits": "Medical, dental and vision plans. Health savings account with employer contribution. Safe harbor 401k plan. Commission policy. Firm provided life insurance. Continuing professional education. Tuition reimbursement. Professional dues reimbursement. Mentoring program. Vacation time. Paid holidays. Summer Fridays."
+}

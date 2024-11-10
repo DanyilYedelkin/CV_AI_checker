@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead performance improvement initiatives in manufacturing, supply chain, logistics, quality management, business process transformations, mergers and acquisitions. Develop solutions through data analysis, process mapping, and workshops.",
+  "Required Skills": "Bachelor's degree. 2+ years of consulting or relevant industry experience. Critical thinking, problem solving, communication, and project management skills. Ability to work independently and on a team.",
+  "Educational Requirements": "Bachelor's degree required, MBA preferred",
+  "Experience Level": "2+ years of professional consulting or relevant industry experience",
+  "Preferred Qualifications": "MBA, APICS or project management certifications, Lean Six Sigma training",
+  "Compensation and Benefits": "N/A"
+}

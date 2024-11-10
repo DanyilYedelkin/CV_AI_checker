@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform monthly, quarterly and annual book close cycles, prepare financial statements and reports, research and resolve accounting discrepancies, provide customer service to internal and external groups.",
+  "Required Skills": "Accounting expertise, analytical skills, attention to detail, communication skills, ability to meet deadlines.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Business acumen, process improvement and innovation skills.",
+  "Compensation and Benefits": "Dependent on experience and location. Salary range not specified."
+}

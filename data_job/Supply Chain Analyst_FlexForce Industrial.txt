@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Monitor schedule to stay ahead of construction, obtain plans, selections, scopes of work, estimates, competitors pricing, establish subcontractors, manage vendors and warranty requests, generate work orders and purchase orders, process option requests, maintain files and database, observe material utilization, process invoices, create feedback system, establish lead times, attend meetings, develop new processes, enhance PO system",
+  "Required Skills": "Construction experience, purchasing experience, business and computing skills, Microsoft Office, spreadsheet, word processing", 
+  "Educational Requirements": "High school diploma",
+  "Experience Level": "2 years purchasing experience",
+  "Preferred Qualifications": "Some college, 5 or more years purchasing experience in construction industry",
+  "Compensation and Benefits": "N/A"
+}

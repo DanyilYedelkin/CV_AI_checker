@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Sourcing, coaching and billing clients for individual career advancement",
+  "Required Skills": "2 years of coaching or mentoring experience, Bachelor's degree required, Masters degrees preferred in fields like business, marketing, human resources, or communications", 
+  "Educational Requirements": "Bachelor's degree required, Masters degree preferred",
+  "Experience Level": "2 years of coaching or mentoring experience",
+  "Preferred Qualifications": "Experience as a LinkedIn ProFinder participant, PhD degree in communications, human resources, instructional design or counseling",
+  "Compensation and Benefits": "Take home pay ranges from $50 to $150 per hour on a 1099 basis"
+}

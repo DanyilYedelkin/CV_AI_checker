@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead and grow the international unit team, set goals, develop strategy, oversee operations and performance, ensure financial stewardship, provide thought leadership.",
+  "Required Skills": "10+ years leadership experience in global organization, expertise in international development sectors, business development and proposal experience, master's/PhD preferred, networking and communication skills.",
+  "Educational Requirements": "Master's or doctorate degree in social science or relevant discipline.",
+  "Experience Level": "10+ years",
+  "Preferred Qualifications": "Experience in a research organization, engaging with clients in business development.",
+  "Compensation and Benefits": "N/A"
+}

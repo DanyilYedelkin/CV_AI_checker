@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Design, develop, test and implement software components, equipment and systems. Analyze requirements to meet product/system demand and performance.",
+  "Required Skills": "Proficiency in programming languages like Python, Java, C; knowledge of software development lifecycle, object-relational mapping frameworks, networking, telecommunications industry.", 
+  "Educational Requirements": "College degree in a technical or related software development field.",
+  "Experience Level": "2 years professional experience in software development.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

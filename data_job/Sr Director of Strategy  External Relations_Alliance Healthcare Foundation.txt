@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day tasks and responsibilities are not specified.",
+  "Required Skills": "Commitment to social/racial justice and health equity, based in San Diego, strategic thought partnership abilities, project management skills, independent leadership and operations management, senior-level external relationship building, management/coaching/mentoring experience",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive salary and benefits. Salary range available upon request."
+}

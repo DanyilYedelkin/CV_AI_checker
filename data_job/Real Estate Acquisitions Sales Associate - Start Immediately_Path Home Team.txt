@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Reply quickly to all incoming leads and client requests for information; ensure a smooth transaction between buyers and sellers; perform analysis on property value using comps data, site walks, market trends, and research; gain trust with prospects to overcome objections and facilitate a signed contract; prepare letters of intent, real estate market research reports, partnership models, contracts, due diligence documents, and other business administration paperwork in advance of real estate transactions",
+  "Required Skills": "Enthusiastic passion for real estate asset sales and goal-oriented personality; exceptional communication skills, both oral and written, with extremely strong phone skills, ability to set and close appointments over the phone; preference for a bachelor's degree in real estate, business, sales, marketing or equivalent work; 2+ years of experience as a real estate specialist in real estate acquisitions, land acquisition or real estate sales is highly desired",
+  "Educational Requirements": "Preference for a bachelor's degree in real estate, business, sales, marketing or equivalent work",
+  "Experience Level": "2+ years of experience as a real estate specialist in real estate acquisitions, land acquisition or real estate sales is highly desired",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive salary; company offers great benefits; company offers career progression opportunities"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for financial planning, marketing strategy, sales planning, competitive analysis, pricing, product development, and customer relationships. Creates business cases, job procedures, process procedures, and quality specifications for products, programs, and model developments.",
+  "Required Skills": "4+ years sales and marketing experience including key account management. Leadership skills. Automotive aftermarket experience preferred but not required.", 
+  "Educational Requirements": "BSBA or equivalent in communications, business, or related major preferred.",
+  "Experience Level": "4+ years",
+  "Preferred Qualifications": "Automotive aftermarket experience.",
+  "Compensation and Benefits": "N/A"
+}

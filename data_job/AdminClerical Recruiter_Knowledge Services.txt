@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Analyze candidate information to determine match between candidates and job openings. Screen and identify administrative/medical talent through passive and active sources including postings, social networking, job boards and internet research. Submit qualified candidates and manage them through the full recruitment process utilizing ATS for documentation.",
+  "Required Skills": "Prior administrative healthcare and/or similar recruiting and sourcing experience required. Ability to work in a fast-paced environment while staying organized and efficient. Demonstrate professionalism, strong communication skills and follow-up. Self-motivated and able to work independently and as part of a team. Possess strong networking and relationship building skills. Experience with recruiting tools such as Indeed and LinkedIn Recruiter.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience submitting candidates and interacting with clients though VMS technologies a plus.",
+  "Compensation and Benefits": "Brand new HQ office full of amenities - gym, rec room, coffee bars, bike room. Personal modern work stations with standing desks and top of the line technology. Mindful environment with touchless door entry and hospital grade air filtration system. Comprehensive health insurance including dental and vision coverage. Company funded life insurance. Very generous company provided 401k match program - Roth and traditional options. Established wellness program with quarterly monetary participation awards. Competitive PTO schedule. Extra PTO day during your birthday month and work anniversary month. Paid floating holiday. Maternity/paternity benefits."
+}

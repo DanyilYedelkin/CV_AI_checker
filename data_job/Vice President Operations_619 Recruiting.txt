@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee general operations within the division and lead each key operational function. Manage full life cycle business operations including subcontractor negotiations, procurement, business development, and strategy. Provide guidance in hiring and termination processes. Coach, train, and educate junior operations staff.",
+  "Required Skills": "Bachelor's degree in construction management or related field. 5+ years proven experience in the construction field. Excellent organizational, written, and verbal communication skills. Ability to perform in a fast-paced, deadline-oriented environment. Ability to work as a team member and independently. Proficient communication and interpersonal skills with timely follow up.",
+  "Educational Requirements": "Bachelor's degree in construction management or related field",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Proven success organizing, managing, and operating a general contracting sector division or office. Ability to develop existing and new clients and increase work acquisition and revenue.",
+  "Compensation and Benefits": "Competitive salary and benefits package including healthcare, sick pay"
+}

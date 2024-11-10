@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Help organize and run events in addition to sales responsibilities.",
+  "Required Skills": "Sales experience in the events industry.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

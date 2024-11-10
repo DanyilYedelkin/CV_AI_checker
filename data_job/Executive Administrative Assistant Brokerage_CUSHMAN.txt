@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Meet or exceed broker administrative and marketing support expectations; identify and meet needs of internal and external clients; ability to take direction, research projects and work independently; create emails, letters and notes on behalf of brokers; coordinate and update broker calendars and itineraries, keep broker on time for appointments, ensure meeting materials are prepared, transportation and travel arrangements, reservations, etc.; update broker contacts especially current telephone numbers and email addresses; organize and input broker expenses and charitable contributions, track payments and allowances; produce error-free correspondence and presentation materials; update and enter deals in Engage; create invoices, proposals",
+  "Required Skills": "2+ years of EAA experience, real estate background preferred; Bachelors degree desirable; excellent oral and written communication skills; advanced people skills; Adobe Creative Suite and Microsoft Power user skills; organized; takes initiative; team player; early workday start with a flexible schedule; multitasker; sense of urgency about tasks or assignments; great phone skills, alert brokers when calls come in; stable employment background; appropriate work ethic/commitment level",
+  "Educational Requirements": "Bachelors degree desirable",
+  "Experience Level": "2+ years of EAA experience",
+  "Preferred Qualifications": "Real estate background preferred",
+  "Compensation and Benefits": "N/A"
+}

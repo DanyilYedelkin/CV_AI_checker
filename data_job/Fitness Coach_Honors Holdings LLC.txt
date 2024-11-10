@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead up to 24 participants through OTF specific group training sessions. Responsible for organization and cleanliness of the training floor. Responsible for marketing OTF training services inside and outside the studio. Responsible for building OTF attendance and retaining current clientele.",
+  "Required Skills": "Intermediate level knowledge of physiology, exercise technique and body mechanics. Experience in training clients through functional training techniques. Must have the ability to progress and regress exercises on the fly in real time. Positive, motivating and effective interpersonal communication skills. Must have the desire and capacity to train all fitness levels. Must hold a current fitness certification from an OTF approved education company. CPR/AED certification.", 
+  "Educational Requirements": "Bachelor's degree in an exercise related field is preferred.",
+  "Experience Level": "2+ years of professional experience teaching groups and/or personal training in the fitness industry.",
+  "Preferred Qualifications": "Experience in group exercise and training settings is highly desirable.",
+  "Compensation and Benefits": "Major medical benefits, long-term & short-term disability and life insurance options. Free OTF membership and discounts on merchandise & apparel. Partner with Cooleaf employee incentive program that awards points redeemable for gift cards."
+}

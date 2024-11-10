@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work hands-on with projects involving social media management, video production, client relations, branding, and creative marketing campaigns.",
+  "Required Skills": "Experience with social media, video production, client relations, branding, and/or marketing.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

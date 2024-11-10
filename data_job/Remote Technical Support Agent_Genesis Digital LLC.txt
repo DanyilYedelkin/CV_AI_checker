@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide written assistance to customers as an account and product expert. Resolve basic to complex support problems for customer inquiries received via email help desk and live chat. Recognize complex issues and report or escalate them to your supervisor. Work under limited supervision with integrity autonomy initiative and independent judgment. Crosstrain on multiple products. Assist in additional customer success jobs such as video training with clients or development of strategies to better assist customers.",
+  "Required Skills": "Technical support experience dealing with troubleshooting and problem resolution preferably with software. Exceptional writing abilities to provide clear and empathetic support through email and live chat. Strong communication and interpersonal skills. Strong web and mobile app navigational experience and the ability to pick up new technology quickly. Ability to efficiently manage time when working from home. Passion for and responsibility to the customer. Passion for what you do and drive to improve. Personal and professional integrity.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Paid training - no product knowledge necessary we train you from the ground up. Medical dental and vision benefits. Paid vacation and holidays. Work from home - no commute no dress code no constant zoom meetings. Dynamic and dedicated team who act like a geeky family. Access to internal marketing training and sandbox accounts. Clear path for professional development."
+}

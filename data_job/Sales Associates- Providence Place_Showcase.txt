@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "greeting customers, responding to questions, improving engagement with merchandise, providing outstanding customer service, operating cash registers, managing financial transactions, balancing drawers, achieving established goals, directing customers to merchandise, increasing in store sales, maintaining an orderly appearance, introducing promotions and opportunities to customers, cross-selling products",
+  "Required Skills": "superior product knowledge, ability to stand and walk for extended periods, ability to demo products, ability to read, write and perform basic math", 
+  "Educational Requirements": "high school diploma or associate's degree",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "retail sales experience",
+  "Compensation and Benefits": "N/A"
+}

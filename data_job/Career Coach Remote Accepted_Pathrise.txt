@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide career mentoring and coaching to help fellows develop their soft skills and personal brand through workshops and 1-on-1 sessions. Work cross-functionally with other teams to promote engagement, process improvements, and data tracking.",
+  "Required Skills": "Coaching and mentoring experience. Strong communication and interpersonal skills.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in recruiting, career counseling, education, or a related field.",
+  "Compensation and Benefits": "Base salary plus potential bonuses. Remote work available."
+}

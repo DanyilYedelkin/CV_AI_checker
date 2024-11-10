@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist with executing the property's marketing plan and day-to-day operations of the marketing department, including coordinating promotions, contests, events, and managing marketing materials.",
+  "Required Skills": "Excellent customer service skills, proficiency in Microsoft Office, 1-2 years experience in promotions.",
+  "Educational Requirements": "High school diploma or equivalent required, college degree preferred.",  
+  "Experience Level": "1-2 years experience in promotions.",
+  "Preferred Qualifications": "College degree preferred.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Mentor and coach other pharmacists on career development topics including resume writing, cover letters, networking, interview preparation, etc. Guide clients to achieve career goals and job search success.",
+  "Required Skills": "Previous mentoring/coaching experience in pharmacy. Passion for helping others. Strong communication skills. Expert knowledge of resumes, cover letters, LinkedIn, networking, interviewing, etc.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Managerial experience. Ability to work with pharmacists at various skill levels and career stages.",
+  "Compensation and Benefits": "Competitive pay. Flexible/remote schedule. Ongoing training and career development opportunities. Contract role."
+}

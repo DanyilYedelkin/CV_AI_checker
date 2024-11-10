@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintaining schedules, planning meetings, making travel arrangements, managing correspondence, conducting research, providing customer support, and other administrative tasks.",
+  "Required Skills": "Proficiency in tools like Google Drive, Outlook, and Zoom. Excellent written and verbal communication skills. Strong time management and organizational skills.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Minimum of 5 years of experience in a related executive assistance or administration role.",
+  "Preferred Qualifications": "Ability to work independently and under pressure. A proactive, flexible, results-oriented team player.",
+  "Compensation and Benefits": "N/A"
+}

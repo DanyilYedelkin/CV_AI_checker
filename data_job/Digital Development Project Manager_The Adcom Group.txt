@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage digital projects end-to-end, including requirements gathering, resource allocation, delivery planning, stakeholder management, and team leadership. Optimize workflows and drive practice area growth.",
+  "Required Skills": "Project management, agile methodologies, digital marketing knowledge, marketing technology expertise, problem solving, communication and team leadership skills.",
+  "Educational Requirements": "Undergraduate degree required.",
+  "Experience Level": "Minimum of 5 years of experience in project management role.",
+  "Preferred Qualifications": "Experience in digital or marketing agency, certification in project management.",
+  "Compensation and Benefits": "Medical, dental, vision, life insurance, retirement benefits, PTO, parking subsidy."
+}

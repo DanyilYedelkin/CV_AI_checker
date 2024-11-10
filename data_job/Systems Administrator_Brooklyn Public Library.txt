@@ -1,0 +1,13 @@
+ {
+  "Core Responsibilities": "Manage backend configurations for the ILS including users, APIs and logins. Provide organizational and custom reports and/or data for Tableau users. Analyze web reports and log files for troubleshooting system issues. Technical lead for third party vendors. Assist with ILS tasks including preparing and sending notices and paging lists, holds procedures, tracking of overrides and auto-notices as needed. Assist with preparation of maintenance lists on missing, claims returned, long-in-transit, on-the-fly and in process status material as needed. Perform item record suppressions, unsuppressions and deletions as needed. Generate, view, print, export reports and statistics and maintain fields for statistics Lyrcirc, YTDcirc, Internal Use. Create and update circulation parameters and ILS rules, loan rules, floating table, etc. Conduct uncollectible or amnestied outstanding fines and inactive patron record purges as needed. Assist with maintaining the Sierra database of item, patron and checkin records. Item records, patron data, create list, cleanup holds and various other cleanups. Create and analyze monthly report data. Training of team members. Create and maintain ILS related procedures and codes such as item format, statistical and location codes. Provide data for branch inventories. Stay abreast of software enhancements and solutions and make implementation recommendations. Coordinate software upgrade and data migration testing before and after implementation. Provide help desk/call center support (phone, email, face-to-face), respond to customer and staff inquiries.",
+
+  "Required Skills": "HS diploma required, BA degree preferred. Minimum of 3 years experience working with integrated library systems. Excellent interpersonal, organizational and problem solving skills. Strong technical skills including advanced knowledge of Sierra and proficiency with Postgre SQL and/or MS SQL. Working knowledge of Tableau. Strong oral and written communication skills. Commitment to quality. Demonstrated delegation and teamworking skills. Professionalism, ethical conduct and sense of ownership. Ability to work under the pressure of time constraints and deadlines.",
+  
+  "Educational Requirements": "HS diploma required, BA degree preferred",
+  
+  "Experience Level": "Minimum of 3 years experience working with integrated library systems",
+  
+  "Preferred Qualifications": "Prior public service experience in a large public library system preferred. Ability to work onsite at a BPL location",
+  
+  "Compensation and Benefits": "N/A"
+}

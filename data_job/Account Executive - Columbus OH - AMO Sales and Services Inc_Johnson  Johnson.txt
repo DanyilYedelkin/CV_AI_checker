@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Achieves assigned sales goals through execution of US marketing plans. Demonstrates an independent, creative and consultative/value-based sales approach to selling IOLs, phaco equipment, viscoelastics and surgical adjuncts. Works synergistically with counterpart sales reps. Provides expert product knowledge and technical product support. Leverages and utilizes all JJ resources and sales personnel to enhance field productivity.",
+  "Required Skills": "Bachelor's degree. 2+ years of professional selling experience required. Surgical experience preferred but not required. Ability to work independently and as part of a team. Ability to travel overnight/weekends.", 
+  "Educational Requirements": "Bachelor's degree from an accredited college/university",
+  "Experience Level": "2+ years of professional selling experience",
+  "Preferred Qualifications": "Surgical experience preferred but not required",
+  "Compensation and Benefits": "N/A"
+}

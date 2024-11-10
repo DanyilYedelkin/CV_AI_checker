@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform routine clerical duties, handle routine matters personally, route nonroutine business to proper staff, maintain calendar/schedule appointments, act as liaison between manager and staff, maintain correspondence log, receive/send mail.",
+  "Required Skills": "Administrative skills, customer service skills.",
+  "Educational Requirements": "High school diploma or equivalent.",
+  "Experience Level": "1 year admin assistant experience required.", 
+  "Preferred Qualifications": "1 year customer service experience preferred.",
+  "Compensation and Benefits": "Hourly pay, 401k, dental insurance, employee assistance program, health insurance, life insurance, paid time off, vision insurance."
+}

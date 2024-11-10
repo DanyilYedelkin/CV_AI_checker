@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work closely with orthopedic physicians and physician assistants to coordinate the care and needs of patients. Assist with clerical duties such as completing forms and charting. Check physician schedules and prepare charts for needed test results. Organize patient flow to keep physician on schedule. Assist patients to exam room, collect patient history and conduct screening per physician guidelines. Record patients medical history, vital statistics or information such as test results in medical records.",
+  "Required Skills": "Valid medical assistant certification (AAMA or FL CNA license). Valid CPR certification. High school diploma or GED required. Minimum 2 years medical assistant experience. Orthopaedic experience a plus. Proficiency with triaging patient care issues. Ability to work efficiently in a fast paced clinic. Knowledge of HIPAA and safety guidelines/regulations. Excellent communication and customer service skills. Computer proficient.", 
+  "Educational Requirements": "High school diploma or GED required",
+  "Experience Level": "Minimum 2 years medical assistant experience",
+  "Preferred Qualifications": "Orthopaedic experience a plus",
+  "Compensation and Benefits": "N/A"
+}

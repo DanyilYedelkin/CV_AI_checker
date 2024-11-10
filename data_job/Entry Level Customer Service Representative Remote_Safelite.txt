@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answer inbound sales calls to guide customers, resolve issues, present products/services, schedule appointments, and close sales while maintaining professionalism and building rapport.",
+  "Required Skills": "High school diploma or equivalent, minimum 2 years of age, upbeat personality, high integrity, ability to build rapport and credibility, persuade/educate customers, close sales, schedule appointments, knowledge of computer and phone systems, ability to read optional scripts conversationally, ability to operate computer/phone systems while seated for extended periods", 
+  "Educational Requirements": "High school diploma or equivalent",
+  "Experience Level": "2 years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

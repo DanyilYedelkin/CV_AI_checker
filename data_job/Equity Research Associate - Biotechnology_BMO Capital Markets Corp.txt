@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Support the senior analyst with research and analysis of biotechnology companies; Create and maintain detailed financial models; Acquire in-depth industry expertise; Contribute to written research reports and client presentations",
+  "Required Skills": "2+ years of work experience in biopharma, equity research, investment banking or consulting; Strong financial modeling, financial analysis and due diligence skills; Excellent written and verbal communication abilities", 
+  "Educational Requirements": "Advanced scientific degree (MD, PhD) or MBA/CFA desired but not required",
+  "Experience Level": "2+ years of relevant work experience",
+  "Preferred Qualifications": "SIE Series 7 and 63 licenses viewed favorably",
+  "Compensation and Benefits": "N/A"
+}

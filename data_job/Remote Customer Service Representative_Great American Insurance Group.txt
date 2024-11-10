@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Respond to customer inquiries and requests via phone, email, and mail. Resolve routine issues and escalate more complex ones. Process transactions on customer accounts. Maintain and update customer account information in databases.",
+  "Required Skills": "Customer service skills. Ability to communicate effectively. Basic computer skills. Attention to detail. Product knowledge.",
+  "Educational Requirements": "High school diploma or equivalent.",  
+  "Experience Level": "1-3 years of experience.",
+  "Preferred Qualifications": "Insurance industry experience. Experience with insurance tracking databases.",
+  "Compensation and Benefits": "Competitive pay. Medical, dental and vision benefits (full-time). 401k plan. Paid time off and holidays."
+}

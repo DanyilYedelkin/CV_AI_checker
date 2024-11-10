@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Write software for healthcare systems using modern development methodologies, user-centered design, analytics, and machine learning. Invent better ways to reduce medical errors, streamline record sharing, and improve patient care quality.",
+  "Required Skills": "Proficiency in JS, TS, C and other leading-edge technologies and languages. Academic excellence or professional success in computer science, software engineering, or related fields.",
+  "Educational Requirements": "BSBA or greater in computer science, mathematics, software engineering, computer engineering, or a related field.", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Comprehensive benefits including merit-based compensation with annual raises and bonuses, stock grants, 4-week paid sabbatical after 5 years, and relocation reimbursement."
+}

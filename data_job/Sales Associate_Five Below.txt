@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "- Adhere to all standard operating procedures and policies\n- Responsible for cash handling procedures \n- Review and be responsible for all corporate communications \n- Assist in merchandising procedures\n- Maintain assigned area\n- Assist with execution of company data integrity process\n- Deliver exceptional customer service\n- Interact with and assist customers\n- Assist in receiving and stocking procedures \n- Unload merchandise from trucks\n- Check in shipments\n- Stage merchandise for the sales floor\n- Pack out merchandise\n- Perform store maintenance",
+  "Required Skills": "- Excellent verbal and written communication skills\n- Ability to multitask\n- Creative thinking\n- Ability to maintain composure under pressure",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

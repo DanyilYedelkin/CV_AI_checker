@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide accounting support and training to communities, assist and support community executive directors and office managers, prepare journal entries maintain accounts and facilitate monthly financial calls, accounts payable and receivable account reconciliation and filing, process and maintain community payrolls in compliance with company policies and state regulations",
+  "Required Skills": "Prior accounting or bookkeeping experience, ability to communicate effectively and concisely by both written and oral means with communities associates and vendors, proficiency in accounting software and tools such as yardi quickbooks and microsoft excel, organized able to prioritize and work as part of a team in an informal environment",
+  "Educational Requirements": "Associate or bachelors degree preferred or at least 3 years accounting experience",
+  "Experience Level": "At least 3 years accounting experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive wages, health insurance for those eligible, voluntary benefits disability accident life, generous paid time off"
+}

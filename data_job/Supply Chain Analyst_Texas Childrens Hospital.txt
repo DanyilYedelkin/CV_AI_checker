@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide analytical support to supply chain domains including sourcing, purchasing, inventory, warehouse and demand planning. Support vendor onboarding and management. Generate reports and presentations to aid in decision making.",
+  "Required Skills": "Bachelor's degree in business, healthcare or supply chain. 2+ years experience in business, project management, supply chain and/or healthcare.",  
+  "Educational Requirements": "Bachelor's degree in business, healthcare or supply chain related field.",
+  "Experience Level": "2+ years business, project management, supply chain and/or healthcare experience.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

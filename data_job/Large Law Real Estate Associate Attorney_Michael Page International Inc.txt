@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handling a wide variety of real estate transactions including financing, acquisition and development transactions; Drafting and negotiating sophisticated loan and transaction documents; Conducting real estate due diligence review including title & survey review, corporate governance and authority review, opinion review and negation; Speaking to clients and opposing counsel on real estate related transactions",
+  "Required Skills": "Experienced in handling real estate transactions; Familiarity with loan agreements, notes, mortgages, assignments and related documents; Understanding of real estate due diligence review; Ability to speak to clients and opposing counsel; JD degree; NY state bar admission",
+  "Educational Requirements": "Juris Doctor (JD) degree; New York state bar admission",
+  "Experience Level": "Commercial real estate experience; Transactional legal background",
+  "Preferred Qualifications": "Effective and persuasive writing and oral communication skills; Ability to manage multiple priorities",
+  "Compensation and Benefits": "Compensation based on the Cravath scale; Opportunity to join an Am Law top 100 firm; Exposure to complex commercial real estate transactions; Option to work remotely; Mentorship from firm partners; Well established track to partnership; Excellent benefits package including medical, life insurance, and retirement plan; Paid vacation, maternity and paternity leave"
+}

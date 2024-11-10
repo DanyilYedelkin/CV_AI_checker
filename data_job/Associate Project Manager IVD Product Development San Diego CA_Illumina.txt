@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manages projects including developing budgets, timelines, documentation, and quality processes. Serves as liaison with auditors. Assists primary PM on regulated or RUO product development projects.",
+  "Required Skills": "Proficiency in MS Office applications like Word, Excel, PowerPoint, Visio. Experience with project management tools like MS Project. Strong communication, interpersonal, organizational, time management, and facilitation skills.",
+  "Educational Requirements": "Bachelor's degree in science or engineering.",
+  "Experience Level": "Not specified",
+  "Preferred Qualifications": "Experience managing cross-functional resources and forecasting using enterprise resource management systems like Planisware.",
+  "Compensation and Benefits": "Not specified"
+}

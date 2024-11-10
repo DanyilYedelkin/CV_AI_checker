@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage and deliver ecommerce projects. Develop project leads, contribute to proposals, and support overall project management. Support client relationships and become a trusted advisor. Identify opportunities for new projects, qualify leads, and guide clients through sales. Lead projects utilizing resources within Kantar to deliver solutions for clients.",
+  "Required Skills": "2-3 years experience in retail, ecommerce, sales, marketing, consulting, or related fields. Knowledge of sales, marketing, category management, ecommerce, and insights.",
+  "Educational Requirements": "Bachelor's degree required.",
+  "Experience Level": "2-3 years experience in retail, ecommerce, sales, marketing, consulting, or related fields.",
+  "Preferred Qualifications": "Experience across retail, CPG, consulting, traditional retail, service agencies, media, financial services, etc. Consultative operating style with strong communication, presentation, listening, and influencing skills.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work on multiple software engineering projects across Intel in areas like AI, VR, cloud, IoT, autonomous driving, etc. Develop system-level software in Linux, Windows, firmware, drivers, optimization, computer vision, machine learning, etc.",
+  "Required Skills": "C/C++ programming, data structures and algorithms, operating systems, memory/resource management", 
+  "Educational Requirements": "Bachelor's or Master's degree in computer science, computer engineering, electrical engineering or related technical discipline",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Embedded systems, microcontrollers, version control/CI, Linux kernel, device drivers, RTOS, open source embedded software, virtual simulation platforms, Python, Java, Bash, assembly, software containerization, machine learning frameworks, parallel graphics/compute, FPGA/Verilog/RTL design",
+  "Compensation and Benefits": "N/A"
+}

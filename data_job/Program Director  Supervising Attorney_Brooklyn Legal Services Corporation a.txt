@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Supervise and coach staff attorneys and program staff. Oversee client intake, case management, and high-quality legal services. Ensure program compliance, reporting, and data management. Manage the commercial lease assistance program.",
+  "Required Skills": "Admission to NY bar or eligibility. 3+ years experience in legal aid, nonprofit law, or serving low-income communities. Supervisory and legal experience in commercial leasing and nonprofit transactional law. Excellent legal writing and advocacy skills.",  
+  "Educational Requirements": "Juris Doctorate/Law degree.",
+  "Experience Level": "Minimum 3 years experience",
+  "Preferred Qualifications": "Experience with grant reporting and budget management. Bilingual in English and another language.",
+  "Compensation and Benefits": "N/A"
+}

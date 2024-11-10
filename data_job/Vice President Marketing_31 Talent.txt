@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop, manage and hire for the marketing department spanning product, content, design, demand generation, communications and more. Be responsible for meeting and measuring KPIs and quotas across the marketing department. Some KPIs and quotas will be tied to the sales department as well. Allocate, track and manage budget spend accordingly to reach KPI goals.",
+  "Required Skills": "5+ years experience at a top-tier, preferably enterprise SaaS company or equivalent marketing role at top-tier organization. Experience bringing new complex products to market and scaling brands. A track record of building successful ABM, competitive positioning, demand generation, and sales enablement strategies. High proficiency with Google Analytics, HubSpot, and the Microsoft Office suite (Excel, PowerPoint, Word). High capacity to learn and incorporate new technology tools into workflow (Slack, Wrike, GitHub, ZenHub, Webflow, etc.). Demonstrated excellent written and verbal communications skills.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Passion for building a world-class company and marketing organizations that will always be chasing excellence.",
+  "Compensation and Benefits": "N/A"
+}

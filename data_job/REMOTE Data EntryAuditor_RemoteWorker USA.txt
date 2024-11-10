@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "You will be responsible for audits, check name pictures and taxonomy. You will research and write descriptions for SKUs. You will creatively problem solve to find and append UPC codes for SKUs.",
+  "Required Skills": "Experience with Google Sheets, Excel, data entry, auditing, reporting. Strong communication skills. High attention to detail and accuracy. Tech-savvy, able to multitask well.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Competitive review experience across brands and retailers. Independent thinker and self-starter. Ownership mindset and ability to creatively problem solve.",
+  "Compensation and Benefits": "Pay is $XX/hour based on experience. Benefits include health insurance, retirement plans, and other perks."
+}

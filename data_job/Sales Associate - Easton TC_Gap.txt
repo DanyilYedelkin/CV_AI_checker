@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Acknowledge and assist customers, locate merchandise efficiently, answer questions, offer style/outfit suggestions, promote loyalty programs, support sales floor, fitting room, checkout and back of house processes",
+  "Required Skills": "Good communication, ability to utilize technology effectively, engage with customers and team, problem solving, focus on continuous improvement and learning, handle customer interactions professionally",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Merchandise discount, paid time off, 401k with matching, employee stock purchase plan, medical, dental, vision and life insurance"
+}

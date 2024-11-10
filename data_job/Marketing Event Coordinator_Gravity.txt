@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assisting in the collaboration and organization of events, working with brand ambassadors during events, setting up/breaking down displays, interacting with clients and customers, training and motivating brand ambassadors, providing feedback on events",
+  "Required Skills": "Computer literacy (MacOS, Windows, iOS, Android), ability to demonstrate products, strong interpersonal and communication skills, ability to set up displays and booths, generate product buzz, complete client applications, track marketing data", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

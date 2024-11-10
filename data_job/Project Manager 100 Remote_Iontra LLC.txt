@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Managing projects that support organizational goals, coordinating ongoing operations activities driving timely completion of tasks, driving assigned projects and tasks to closure by bringing together stakeholders for decision-making, reporting progress and status of projects to leadership, aligning and tracking projects and tasks, utilizing standard project management processes to deliver innovation quickly with excellent quality",
+  "Required Skills": "Minimum 5 years of demonstrated success in a project manager role leading complex technical development projects, excellent project management skills, ability to organize and prioritize multiple tasks and meet deadlines, excellent negotiating and persuasive skills, ability to identify engineering problems and drive resolution",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Minimum 5 years in a project manager role leading complex technical development projects",
+  "Preferred Qualifications": "Experience working as an agile product owner or product manager, ability to elicit high-level requirements from business and technical stakeholders and translate into detailed prioritized backlog",
+  "Compensation and Benefits": "N/A"
+}

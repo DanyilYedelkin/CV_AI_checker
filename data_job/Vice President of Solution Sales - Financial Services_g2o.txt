@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the financial services vertical sales strategy and team. Develop relationships with financial services clients and collaborate with them to understand their business needs. Present solutions and negotiate contracts to win new business in the financial services vertical.",
+  "Required Skills": "Minimum 5 years of sales experience in information technology services and/or product sales. Strong executive relationship building and presentation skills. Must be comfortable communicating, presenting and negotiating with C-level executives.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Minimum 5 years of sales experience in information technology services and/or product sales",
+  "Preferred Qualifications": "Experience leading financial services customers through envisioning, consensus-building and contract execution for transformative digital solutions.",
+  "Compensation and Benefits": "N/A"
+}

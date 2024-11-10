@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Welcoming visitors to the store, providing directions and answering questions to help customers efficiently get to their desired location. Having a strong working knowledge of the store, designers it carries, and services offered to provide personalized assistance.",
+  "Required Skills": "Ability to build teams and bring others together when needed. Create a sense of community and build morale in their team. Be a top performer and elevate performance of others. Innovative problem-solving skills. Proficient in MS Office suite. Fluency in multiple languages, especially Mandarin.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Technologically savvy. Exposure to rewarding career advancement opportunities from retail to supply chain to digital or corporate.",
+  "Compensation and Benefits": "Benefits package including medical, vision, dental. Amazing employee discounts."
+}

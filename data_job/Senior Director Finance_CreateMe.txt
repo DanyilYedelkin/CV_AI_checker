@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage accounting and finance activities. Lead monthly and yearly financial close processes. Manage vendor relationships and negotiate terms. Implement new systems and processes. Provide guidance to accounting and finance teams.",
+  "Required Skills": "CPA/CFA certification. 5+ years finance and accounting experience. Knowledge of US GAAP and IFRS. Proficient in Excel and Word.",  
+  "Educational Requirements": "Bachelor's degree in accounting.",
+  "Experience Level": "5+ years experience in finance and accounting roles.",
+  "Preferred Qualifications": "Startup experience.",
+  "Compensation and Benefits": "Retirement plan with employer match. Medical, dental, and vision insurance. Flexible PTO. Parental leave. Continuing education opportunities." 
+}

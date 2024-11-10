@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Actively greet and engage with customers, process stock, merchandise and replenish sales floor, handle transactions at register, promote loyalty program, share product knowledge with customers, maintain sales floor, unload trucks, improve team environment.",
+  "Required Skills": "Customer service, multitasking, teamwork, flexibility, ability to lift over 25 lbs, stand for long periods, climb ladder, flexible schedule.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Passion for customer service, creative, inclusive, positive attitude, willingness to learn on job.",
+  "Compensation and Benefits": "Discount at HM stores, medical/dental/vision/pharmacy coverage, PTO, holiday and parental pay, commuter benefits, health/dependent care FSA, voluntary benefits. Seasonal employees are not benefits eligible."
+}

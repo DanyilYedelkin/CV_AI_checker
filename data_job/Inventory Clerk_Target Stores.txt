@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day tasks include general merchandising, stocking shelves, managing inventory, fulfilling online orders, pricing and signing products.",
+  "Required Skills": "Proficiency in retail operations, inventory management, merchandising, stocking shelves.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in retail operations, merchandising, inventory management.",
+  "Compensation and Benefits": "Benefits include medical, dental, vision insurance, stock options."
+}

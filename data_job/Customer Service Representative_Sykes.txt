@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "handle inbound service calls, understand and strive to meet or exceed metrics while providing excellent customer service, drive customer satisfaction through voice chat and/or email communications, multitask and navigate through multiple systems",
+  "Required Skills": "high school diploma or GED equivalent, able to pass a criminal background check and drug screening, eager to advance your career with a reliable company, work well with a team or independently",
+  "Educational Requirements": "high school diploma or GED equivalent", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "paid training, benefits including medical dental life and vision insurance company matched 401k, generous paid time off, tuition assistance, work from home benefits include saving time money and the environment"
+}

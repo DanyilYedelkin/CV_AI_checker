@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Take a key role in the design and layout of our consumer facing webpages. Creating wireframes for initial review by the greater marketing team. Create high-fidelity comps for the visual layout and design of web pages.",
+  "Required Skills": "Proficient in Adobe Creative Suite. Ability to prototype designs in interactive formats like Figma, Adobe XD, or Sketch. Understanding of responsive web design and mobile-first principles. Visual design skills including color, layout, typography, and composition.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "2 years experience as a UX/UI designer including design, development, implementation, and production deployment.",
+  "Preferred Qualifications": "Portfolio of webpage design examples.",
+  "Compensation and Benefits": "N/A"
+}

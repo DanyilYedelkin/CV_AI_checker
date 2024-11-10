@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and deploy new features, procedures and tools. Troubleshoot, test and maintain the core product software and databases. Provide technical leadership to the team.",
+  "Required Skills": "5+ years of PHP development experience with modern PHP practices, frameworks and deployment. Proficient with Git, Linux, SSH, the command line and agile methodologies. BS degree in computer science, engineering or related subject.",  
+  "Educational Requirements": "BS degree in computer science, engineering or related subject",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Experience with dynamic DNS, VueJS, Laravel, responsive frontend frameworks like Bootstrap/Foundation, scaling technologies like containerization/microservices, nonSQL databases like columnar stores/graph databases. MS degree in computer science, engineering or related subject.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Writing, preparing proposals, presentations, graphics design, marketing, and social media. Reporting to director of business development.",
+  "Required Skills": "Bachelor's degree in marketing, communications, graphic design, or related field. Microsoft Office suite, Adobe Creative Suite experience. Strong graphics and content skills. Excellent communication and collaboration abilities.",
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "Starting position for recent graduate, will provide training",
+  "Preferred Qualifications": "Adobe InDesign, Photoshop experience", 
+  "Compensation and Benefits": "Medical, dental, vision, 401k matching, profit sharing plan, paid time off"
+}

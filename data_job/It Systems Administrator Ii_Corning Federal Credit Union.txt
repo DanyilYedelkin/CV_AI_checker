@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Ensure stable operation of computer systems, including planning, installing, configuring, maintaining, supporting and optimizing server hardware, software and network storage.",
+  "Required Skills": "Self-motivation, self-direction, prioritization skills, ability to work in teams, Bachelor's degree in computer science or related technical discipline, or commensurate work experience.", 
+  "Educational Requirements": "Bachelor's degree in computer science or related technical discipline preferred.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

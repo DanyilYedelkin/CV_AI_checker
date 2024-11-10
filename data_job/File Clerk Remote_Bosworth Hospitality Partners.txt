@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Organize and maintain files and paperwork; Track and manage incoming paperwork; Make copies and distribute paperwork; Sort paperwork alphabetically or by date, type, etc.; Create and update records; Store paperwork; Enter paperwork into electronic systems; Manage file access requests and logs; Develop efficient filing systems; Follow data protection policies",
+  "Required Skills": "Knowledge of filing systems; Proficient in MS Office and office equipment; Teamwork skills; Time management skills; Communication skills; Attention to detail",
+  "Educational Requirements": "High school degree or equivalent",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

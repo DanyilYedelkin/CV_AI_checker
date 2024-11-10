@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage marketing strategies and tactics for the Denver and Columbus markets; Identify and lead local marketing events (hosted and sponsored); Cultivate local partnerships with key real estate decision makers; Identify local advertising/sponsorship opportunities to raise brand awareness; Optimize marketing programs with a focus on measurable performance; Work with internal teams and external vendors to achieve results; Implement test and learn methodologies across all programs",
+  "Required Skills": "BA or BS degree required; 2+ years of relevant experience; Performance oriented marketing background; Analytical problem solving mindset; Effective communicator (written and spoken); Enthusiasm for new technology and the internet space",  
+  "Educational Requirements": "BA or BS degree required",
+  "Experience Level": "2+ years of relevant experience",
+  "Preferred Qualifications": "Experience with a high growth startup; Experience using Salesforce",
+  "Compensation and Benefits": "N/A"
+}

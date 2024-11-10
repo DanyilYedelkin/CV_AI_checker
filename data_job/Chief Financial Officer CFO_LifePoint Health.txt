@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "- Provides leadership and direction to financial departments for overall fiscal responsibility of the hospital\n- Administers accounting, patient business services, financial/statistical reporting\n- Develops long and short-range budgets, cash flow analyses, budget variance analyses\n- Monitors, interprets and analyzes hospital financial performance \n- Identifies and reports trends, opportunities, recommends actions\n- Prepares internal financial reports and workpapers for annual audit\n- Ensures timely and accurate financial reporting\n- Reduces hospital operating costs and increases revenues\n- Submits required financial reports to regulatory agencies",
+  "Required Skills": "- Bachelor's degree in accounting or finance\n- Knowledge of GAAP and strong quantitative skills\n- Minimum 5 years experience as a CFO in an acute care hospital \n- Minimum 3 years in healthcare management\n- Strong leadership, teamwork and communication skills",
+  "Educational Requirements": "Bachelor's degree in accounting or finance. CPA or Master's degree preferred.",
+  "Experience Level": "Minimum 5 years as a CFO in an acute care hospital. Minimum 3 years in healthcare management.",
+  "Preferred Qualifications": "CPA or Master's degree, healthcare management experience",
+  "Compensation and Benefits": "N/A"
+}

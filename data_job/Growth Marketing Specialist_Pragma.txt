@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Own all aspects of paid social across platforms including Facebook and Instagram including ideation, setup, execution, reporting and optimization; Manage budgets and drive campaigns to sales and revenue targets; Respond to all inbound affiliate requests and onboard new partners; Collaborate with the current creative, marketing, analytics, and product teams to scale, test and grow revenue; Proactively increase the scale and effectiveness of campaign performance",
+  "Required Skills": "2+ years experience actively managing biddable campaigns and ideally a specialist in paid social/search; Experience launching ROI positive for an ecommerce business; Analytical mindset with the ability to optimize campaigns based on data and solve complex problems; Experience in a very fast-paced startup environment with the ability to quickly get up to speed, iterate and take on different projects; Experience launching new accounts including building tracking, scaling and optimizing; Experience in tracking multivariate attribution, A/B testing and campaign reporting; Ability to work independently; Strong attention to detail and organization skills",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

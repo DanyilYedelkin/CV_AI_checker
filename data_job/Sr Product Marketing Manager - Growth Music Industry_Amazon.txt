@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Design and operate a sales and marketing leads pipeline with support from product and engineering. This includes requirements building, marketing automation to enable lead acquisition, nurturing and conversion including lead grading and scoring, and day-to-day sales/marketing ops.",
+  "Required Skills": "2+ years of experience with end to end product delivery, experience owning roadmap strategy and definition, experience owning feature delivery and tradeoffs of a product, experience with product cycles of 6-12 months, 2+ years of experience in product or program management, product marketing, business development or technology",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years experience in growth marketing for a digital or tech company with an emphasis on leveraging ABM (account based marketing) strategies aimed at sourcing and progressing pipeline to drive business",
+  "Preferred Qualifications": "Proven ability to initiate and drive complex projects with minimal guidance and then communicate insights with senior stakeholders, experience with Salesforce Marketing Cloud and Sales Cloud and/or similar products, you have owned growth marketing channels and driven demonstrable results owning and achieving core growth and engagement KPIs, you understand marketing funnels and know how to optimize and drive each stage, extremely organized with strong project management skills with a bias towards action and proactive communications, experience working with product and engineering teams influencing roadmaps, an understanding of the music ecosystem & the value chain, the key players, what motivates them and how they operate is a plus but not required",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform financial statement audits and attest engagements for top CPA firms across the United States.",
+  "Required Skills": "Experience in auditing financial statements at a public accounting firm at the level of senior associate or above; B.A./B.S. in business with an emphasis in accounting; CPA preferred; Strong verbal and written communication skills; Strong interpersonal, supervisory, and customer service skills required.",
+  "Educational Requirements": "B.A./B.S. in business with an emphasis in accounting; CPA preferred",
+  "Experience Level": "Experience in auditing financial statements at a public accounting firm at the level of senior associate or above",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive pay with freelancer rates that increase seasonally; Exclusively remote role(s); Work wherever and whenever."
+}

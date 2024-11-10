@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Demonstrate the value and impact of Impella products to physicians and hospital staff; Advise cardiologists on patient selection and provide training; Attend implants and consult on appropriate use of Impella devices",
+  "Required Skills": "Clinical/technical degree required, RN preferred; 2+ years of direct patient support experience in a cath lab, ICU or CCU; Hands-on Impella support experience; Strong interpersonal skills; Ability to travel within territory",  
+  "Educational Requirements": "Clinical/technical, radiology, CVT, perfusion degree required; RN preferred",
+  "Experience Level": "2+ years of direct patient support in a cath lab, ICU or CCU",
+  "Preferred Qualifications": "Experience delivering clinical training",
+  "Compensation and Benefits": "N/A"
+}

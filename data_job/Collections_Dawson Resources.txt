@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Researching past due balances, preparing reports, maintaining general ledger accounts, collecting agency and direct billed premiums, reconciling statements, coordinating with collection agencies, administering commission payments.",
+  "Required Skills": "Accounting, bookkeeping, insurance knowledge, collections experience, writing, communication, organization, problem solving, computer skills.",
+  "Educational Requirements": "High school diploma, accounting/finance/bookkeeping courses desired.", 
+  "Experience Level": "1 year prior experience in insurance and/or collections required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Hourly pay, yearly bonus, competitive benefits, unlimited PTO, 401k match, tuition assistance, stock purchase plan."
+}

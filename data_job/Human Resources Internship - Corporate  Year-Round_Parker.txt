@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist in general HR functions like onboarding, record keeping, audits, event planning, recognition programs, administer HRIS, process resumes, schedule interviews, maintain recruiting site, plan info sessions, market opportunities, assist with intern events, research and reporting, track projects, provide customer service.",
+  "Required Skills": "Pursuing Bachelor's degree in HR or business, 2+ years of undergraduate coursework, reside within 50 miles of location, proficient in MS Office, customer service skills, project management skills.",
+  "Educational Requirements": "Pursuing Bachelor's degree in HR or business field.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "N/A"
+}

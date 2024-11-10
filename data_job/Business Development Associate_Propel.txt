@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day tasks include identifying and building a pipeline of potential advertising partner customers, conducting research to understand their needs, creating proposals and pitches, and closing deals. Will also work on projects and with teams across the organization.",
+  "Required Skills": "Experience building relationships, problem solving, quantitative analytical skills. Preferred experience in digital advertising. Excellent written and verbal communication skills. Excellent project management and organizational skills. Team-oriented. Comfortable navigating external customers and internal teams.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience or interest in the digital advertising industry.",
+  "Compensation and Benefits": "Competitive compensation including equity and excellent benefits. Salary range of $80-100K depending on experience."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintain financial reporting dashboard, perform complex financial analyses, prepare related presentations and present results, compile and review financial plans and budgets",
+  "Required Skills": "Bachelor's degree in finance or accounting, 2 years of experience, exceptional presentation/communication skills, advanced working knowledge of Excel, experience with ERP systems (strongly preferred)", 
+  "Educational Requirements": "Bachelor's degree in finance or accounting",
+  "Experience Level": "2 years of experience",
+  "Preferred Qualifications": "Experience with ERP systems",
+  "Compensation and Benefits": "N/A"
+}

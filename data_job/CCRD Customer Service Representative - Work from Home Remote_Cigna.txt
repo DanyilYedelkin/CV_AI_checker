@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Respond to inquiries from healthcare professionals regarding medication prior authorizations via phone, fax and online. Collect clinical data, conduct initial screening of requests, approve requests if criteria is met, and refer complex cases to pharmacists.",
+  "Required Skills": "Proficient computer and Microsoft Office skills. Excellent communication and interpersonal skills. Critical thinking and problem solving skills.",  
+  "Educational Requirements": "High school diploma or GED required.",
+  "Experience Level": "1-5 years of contact center/customer service experience.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Hourly rate anticipated to be $15/hour depending on experience and location. Eligible for annual bonus plan. Benefits include health insurance, 401k with match, paid time off, and other standard employee benefits."
+}

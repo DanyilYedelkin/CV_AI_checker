@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and execute marketing strategies to drive audience growth, engagement and revenue across linear, OTT and digital platforms. Lead positioning, messaging and creative development. Manage teams and budget. Develop partnerships and campaigns.",
+  "Required Skills": "5+ years experience in media/network marketing and team management. Strong project management, communication, presentation and strategy skills. Solid understanding of analytics and metrics. Collaborative and creative thinker.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "Experience in broadcast/cable news, streaming or related media/marketing fields. Understanding of media and telecommunications landscape.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage safety compliance and foster a culture of safety, document control and review, manage scope of work, basic schedule management and field resources, procurement management + coordination, estimation, financial management, develop + build + maintain relationships, support sales process",
+  "Required Skills": "Bachelor degree preferred or equivalent years experience, 2-5 years knowledge or experience in the building and construction industry, strong understanding of mechanical systems design techniques tools and principles, proven ability to read and comprehend construction documents, proficient knowledge of Microsoft Office suite and estimating software, PMP certification and OSHA 30 a plus, LEED accredited knowledge a plus, ability to travel and relocate to different project sites as needed", 
+  "Educational Requirements": "Bachelor degree preferred or equivalent years experience",
+  "Experience Level": "2-5 years knowledge or experience in the building and construction industry",
+  "Preferred Qualifications": "PMP certification and OSHA 30 a plus, LEED accredited knowledge a plus",
+  "Compensation and Benefits": "N/A"
+}

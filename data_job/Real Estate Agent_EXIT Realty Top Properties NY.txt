@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Motivate and lead a team of real estate agents, generate leads, market properties, facilitate real estate transactions.",
+  "Required Skills": "Real estate license, sales and communication skills, knowledge of local real estate market.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Existing network of real estate agents and clients.",
+  "Compensation and Benefits": "Generous commission splits. Residuals for agents brought into the company. Ongoing lead generation provided."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide customer support via phone and email, respond to customer inquiries, process orders and returns, coordinate order fulfillment and delivery, maintain records of customer interactions, identify solutions to resolve customer issues.",
+  "Required Skills": "2+ years customer service experience, proficiency in Microsoft Office Suite, effective communication and interpersonal skills, analytical and problem solving skills.",
+  "Educational Requirements": "High school diploma required.",  
+  "Experience Level": "2 years",
+  "Preferred Qualifications": "Experience using JD Edwards, automotive experience.",
+  "Compensation and Benefits": "N/A"
+}

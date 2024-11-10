@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "planning, developing and supporting IT strategy resulting in industry-leading mobile applications",
+  "Required Skills": "Bachelor's degree, 5+ years IT experience, 5+ years management and/or supervisory experience, 5+ years managing software engineers, 5+ years managing applications and/or systems management, experience with current mobile technologies and trends, experience with software quality practices, experience with architectural patterns and paradigms, good project management skills",
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "5+ years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Work remotely, casual dress, medical, dental, free lunch on Friday, flexible start times, performance bonus opportunities, generous time off for holidays, personal MSDN subscription, private indoor swimming pool, private indoor basketball court"
+}

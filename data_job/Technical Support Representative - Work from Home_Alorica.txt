@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Providing technical support to users via various channels, resolving issues, managing cases, collaborating with internal teams, and providing status updates.",
+  "Required Skills": "High school diploma, 3+ years experience in technical support or customer service, customer service skills, critical thinking, active listening, technical troubleshooting, multitasking, knowledge of browsers and Microsoft Office.",
+  "Educational Requirements": "High school diploma or GED required, college degree preferred.",  
+  "Experience Level": "Minimum of 3 years experience in technical support, customer service, or similar roles.",
+  "Preferred Qualifications": "College degree, customer service experience, phone-related customer service experience, bilingual skills.",
+  "Compensation and Benefits": "N/A"
+}

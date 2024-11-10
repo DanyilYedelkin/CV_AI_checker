@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Researching ownership records, prospecting new client relationships, attending networking events, presenting marketing proposals, negotiating agreements, marketing exclusive listings, advising clients.",
+  "Required Skills": "Bachelor's or Associate's degree, excellent communication skills, entrepreneurial drive, ability to build relationships, strong computer skills.",
+  "Educational Requirements": "Bachelor's or Associate's degree.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Sales experience, leadership experience.",
+  "Compensation and Benefits": "Commission-based sales position with significant earning potential."
+}

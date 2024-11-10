@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage CEO's calendar, schedule meetings, draft communications, organize logistics for meetings, provide research and support for CEO's meetings, develop presentations, manage board relations and meetings, provide backup to operations team.",
+  "Required Skills": "Exceptional written, interpersonal and presentation skills, ability to interface with CEOs and corporate leaders, commitment to excellence and accuracy, attention to detail, critical thinking, self-motivated, passion for learning, ability to work with teams and leadership, proficiency in Microsoft Office Suite.",
+  "Educational Requirements": "Bachelor's degree preferred.",
+  "Experience Level": "Minimum 3 years of relevant experience required.",
+  "Preferred Qualifications": "Knowledge of Salesforce CRM, familiarity with HR processes, knowledge of QuickBooks.",
+  "Compensation and Benefits": "Competitive salary between $70K and $90K based on experience. Benefits package reflecting high expectations and responsibility. Remote work flexibility."
+}

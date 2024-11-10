@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform daily duties like showings, open houses, lead follow up, drafting leases, and closing rentals. Act as an intermediary between tenants and landlords.",
+  "Required Skills": "Real estate license, communication skills, tech savvy.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Open to entry-level and experienced agents.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive compensation with bonus incentives. Benefits include flexible scheduling, branding assistance, crm software, and more."
+}

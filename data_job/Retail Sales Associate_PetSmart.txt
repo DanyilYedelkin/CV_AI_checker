@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Engaging with customers to provide solutions for their pets, cashiering, merchandising, inventory management, pet care",
+  "Required Skills": "Customer service, cashiering, merchandising, inventory management, ability to care for animals",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "Experience in retail or with animals/pets",
+  "Compensation and Benefits": "N/A"
+}

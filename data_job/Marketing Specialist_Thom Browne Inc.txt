@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Support the marketing team with execution of brand digital retail and wholesale product campaigns; Communicate detailed campaign updates directly to internal teams; Uphold email and product marketing briefs and deliveries",
+  "Required Skills": "Bachelors degree in business administration, marketing, communications or a related field; 2 years of experience in marketing; Excellent analytical skills and a knack for data analysis; Excellent written and verbal communication skills; Skilled in writing and editing content with an attention to detail; Strong prioritization, organization and project management skills; Ability to travel as necessary",  
+  "Educational Requirements": "Bachelors degree in business administration, marketing, communications or a related field",
+  "Experience Level": "2 years of experience in marketing",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive pay; Comprehensive benefits package – 401k company match; Thom Browne uniform – uniform allowance; Diverse and inclusive working environment"
+}

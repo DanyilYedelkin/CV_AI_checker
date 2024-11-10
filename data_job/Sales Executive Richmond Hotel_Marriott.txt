@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Drive revenue to achieve hotels' topline goals by proactively soliciting all business segments to include new business, focusing on properties' pricing strategy, coordinating and executing property internal mining efforts, soliciting new business from non-deployed small business accounts, leads, resoliciting past business, conducting customer-facing sales activities.",
+  "Required Skills": "High school diploma or GED, 2+ years experience in sales/marketing, guest services, front desk, or related area, or 1 year degree in related field.",
+  "Educational Requirements": "High school diploma or GED, 1 year degree in business administration, marketing, hotel management, or related field preferred.",
+  "Experience Level": "2+ years experience in sales/marketing, guest services, front desk, or related professional area.",
+  "Preferred Qualifications": "1 year college degree, previous experience in proactive lead generation in hospitality and sales, knowledge of property-specific business segments like group/catering/transient, knowledge of the hospitality industry.",
+  "Compensation and Benefits": "N/A"
+}

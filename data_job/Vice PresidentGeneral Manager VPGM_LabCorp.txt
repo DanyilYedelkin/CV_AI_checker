@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the region to obtain strategic and operating goals; set comprehensive goals for performance and growth; evaluate performance by analyzing data and metrics; oversee day-to-day operations to meet business goals; identify and resolve operational issues.",
+  "Required Skills": "Bachelor's degree with at least 5 years experience in clinical diagnostics, life sciences or healthcare; profit and loss management experience; developing and delivering budgets; strategic planning and business development; selling healthcare products/services; data analysis; operations procedures; inspiring and optimizing productivity.",  
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "5 years",
+  "Preferred Qualifications": "Advanced degree; mergers and acquisitions experience",
+  "Compensation and Benefits": "N/A"
+}

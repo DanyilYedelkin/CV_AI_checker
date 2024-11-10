@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Call carriers to provide service updates, gather missing documents, assist in billing disputes, respond to communications from customers and carriers, upload documents, enter and maintain information in TMS, work in a team to resolve problems, ensure data is entered accurately.",
+  "Required Skills": "1-2 years experience in customer service, experience in transportation industry a plus, experience with TMS a plus, strong negotiating and problem-solving skills, excellent verbal and written communication, ability to work independently and on a team, flexible schedule, time management, organizational, typing and multitasking skills, customer service approach, ability to work in a fast-paced environment, ability to provide exceptional customer service, working knowledge of MS Office Suite.",  
+  "Educational Requirements": "BA or equivalent experience preferred, will accept any reasonable combination of education, training and experience.",
+  "Experience Level": "1-2 years experience in a fast-paced customer service environment.",
+  "Preferred Qualifications": "Experience in the transportation industry, experience navigating TMS.",
+  "Compensation and Benefits": "N/A"
+}

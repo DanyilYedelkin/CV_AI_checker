@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct research, teach and mentor students, provide leadership in professional/college/university organizations",
+  "Required Skills": "Doctorate in nursing or related field, successful record of extramural funding, publications/presentations, mentoring and teaching experience, expertise in quantitative and qualitative research methods",
+  "Educational Requirements": "Doctorate in nursing or related field", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Commitment to being a collaborative team member, supporting the mission of the school, working collegially with healthcare professionals and researchers external to the university",
+  "Compensation and Benefits": "N/A"
+}

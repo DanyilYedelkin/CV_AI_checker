@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage all aspects of commercial construction projects including costs, planning, scheduling, engineering, supervision of personnel, and quality control. Conduct site visits and ensure safety standards are met.",
+  "Required Skills": "BS in engineering, construction management or related field. 5+ years experience managing and estimating commercial projects. OSHA certification. Microsoft Office and Adobe proficiency.",  
+  "Educational Requirements": "Bachelor's degree required, preferably in engineering, construction management or related field.",
+  "Experience Level": "5+ years of experience managing commercial construction projects required.",
+  "Preferred Qualifications": "Experience managing union personnel and projects in the Champaign-Urbana area.",
+  "Compensation and Benefits": "Negotiable salary. Company vehicle or reimbursement for personal vehicle use. Paid holidays, medical, dental, vision benefits."
+}

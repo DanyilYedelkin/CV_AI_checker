@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintains calendar, schedules meetings and appointments, generates correspondence, answers phones and email, meets regularly with director, coordinates meetings and events, cross-covers for other staff, arranges travel, assists with manuscripts and correspondence, performs related duties as assigned",
+  "Required Skills": "Bachelor's degree or equivalent, 3+ years related experience, ability to manage multiple tasks, work independently and as part of a team, strong interpersonal, writing and organizational skills, administrative skills to support senior faculty, advanced typing skills, expert English and medical/scientific terminology, exceptional organizational skills, analytical and problem-solving skills, excellent interpersonal and communication skills", 
+  "Educational Requirements": "Bachelor's degree or equivalent",
+  "Experience Level": "3+ years related experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Commensurate with experience"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct criminal and social history investigations; locate, contact and interview witnesses, other suspects, family members, employers and medical or psychological service providers to obtain information pertaining to the case; travel throughout Ohio and outside the state as necessary to locate, interview and investigate witnesses, evidence, materials and records; review case materials; conduct interviews with clients, witnesses and other parties; create reports, presentations and record findings; gather and organize records, evidence, materials pertinent to case; meet with defense team to brainstorm, collaborate and identify case strategy based on investigative findings.",
+  "Required Skills": "Passion for working with a large team and assisting diverse clientele facing challenges of poverty and beyond just socioeconomic factors.", 
+  "Educational Requirements": "Bachelor's degree or above in criminal justice, psychology, sociology, criminology, social work or related humanities field.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Professional or volunteer experience helping to pursue a fair justice system.",
+  "Compensation and Benefits": "N/A"
+}

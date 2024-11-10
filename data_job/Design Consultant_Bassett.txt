@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Designing furniture solutions for customers based on their needs and preferences through in-home design consultations. Building relationships with customers and providing excellent service.",
+  "Required Skills": "Passion for design, sales experience, communication and interpersonal skills, coordination of colors and textures, computer proficiency.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Proven track record of success in sales, polished image, career-minded professionalism, ability to listen and translate customer wants into design choices.",
+  "Compensation and Benefits": "Starting guaranteed salary of $20/hour, incredible bonus opportunities, positive family work environment, retail hours with flexible work schedule, health coverage, tuition assistance, generous employee discounts."
+}

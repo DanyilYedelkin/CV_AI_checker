@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Take ownership of the company's ecommerce website and drive feature enhancements, optimizations, funnels, and more. Lead the marketing department's efforts to build high-converting sales funnels. Manage the execution of A/B testing. Collaborate with IT and vendors on analytics and data collection. Manage site content including promotions and SEO.",
+  "Required Skills": "Bachelor's degree in a relevant field. At least 5 years of managerial experience in ecommerce, digital marketing, and project management. Proficiency in Google Analytics, PPC, CMS platforms, HTML, email marketing, heatmapping, and user testing. Track record of using data to devise sales-enhancing online strategies. Highly analytical with data analysis skills. Passion for motorsports preferred.",
+  "Educational Requirements": "Bachelor's degree in marketing, management, business, information systems, or a relevant field.", 
+  "Experience Level": "Minimum 5 years of managerial experience",
+  "Preferred Qualifications": "Experience with headless ecommerce. Extensive experience with project management software. Experience with Shopify, Mandrill, Mailchimp. Coding/development skills.",
+  "Compensation and Benefits": "Full-time position with competitive salary. Medical, dental, and vision benefits. Company matching 401k. Stock options. Paid vacation and holidays. Reimbursements for motorsports event registration fees. Access to company shop, lift, and tools. Discounts on company products. Casual dress code."
+}

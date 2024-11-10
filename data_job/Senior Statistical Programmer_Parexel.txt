@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Support the programming and reporting process for clinical trials. Lead a statistical programming team. Ensure timelines and budgets are met. Maintain documentation and ensure regulatory compliance.",
+  "Required Skills": "Proficiency in SAS programming. Knowledge of CDISC/SDTM standards. Strong leadership skills. Excellent analytical and time management skills.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years of SAS programming experience. 2+ years experience with ADaM, CDISC, or SDTM. Lead experience in a pharma setting.",
+  "Preferred Qualifications": "Attention to detail. Ability to be self-driven and organized. Excellent verbal and written communication skills.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Washing dishes, cleaning the kitchen, maintaining sanitation and health codes",
+  "Required Skills": "Familiarity with cleaning and sanitation regulations, knowledge of health codes, previous kitchen experience", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "Previous kitchen or restaurant experience required",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

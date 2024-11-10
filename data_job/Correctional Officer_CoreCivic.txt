@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Perform routine duties of a correctional officer to maintain order and provide for the safety, security, care and supervision of inmates. Work any shift and be assigned to various posts like housing units, kitchen, visitation.",
+  "Required Skills": "High school diploma or GED. Able to complete pre-service correctional officer training and obtain required licensing. Valid driver's license.",  
+  "Educational Requirements": "High school diploma, GED or equivalent.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive wages, comprehensive benefits package, PTO, paid holidays."
+}

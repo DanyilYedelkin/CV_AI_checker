@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Meet with clients only two days per week, all leads provided no cold calling or prospecting. Learn and understand the products available and maintain high level of customer service with clients.",
+  "Required Skills": "Self-motivation, integrity, willingness to be coached, reliable transportation, life insurance license or ability to obtain one.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Ranges from entry level to experienced professionals.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$75,000 annual salary, bonus/commission, luxury all expense paid vacations, free world-class travel rewards, decreasing agent population, clear blueprint for income goals, team culture focused on work-life balance."
+}

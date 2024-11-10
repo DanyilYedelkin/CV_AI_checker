@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide support and care for patients in a psychiatric facility. This may include monitoring patient behavior, assisting with daily living activities, administering medications, and ensuring a safe environment.",
+  "Required Skills": "Certified Nursing Assistant (CNA) certification required. Strong communication and interpersonal skills. Ability to work well under pressure in a fast-paced environment.", 
+  "Educational Requirements": "CNA certification required.",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience working in mental health or psychiatric facilities preferred.",
+  "Compensation and Benefits": "Up to $30/hour. Full-time employees are eligible for health insurance, dental, vision, disability benefits."
+}

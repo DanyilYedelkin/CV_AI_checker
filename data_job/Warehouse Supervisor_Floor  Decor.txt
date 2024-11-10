@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for directing and overseeing warehouse operations, supervising warehouse personnel, managing daily freight schedules, ensuring proper inventory control and storage procedures, coordinating with other departments, completing reports, resolving discrepancies, executing audits, overseeing product rotation, etc.",
+  "Required Skills": "2+ years of supervisory experience in a warehouse/distribution environment, strong interpersonal and team management skills, mathematical and computer skills, ability to meet deadlines in a fast-paced environment",
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years of previous supervisory experience required, preferably in a warehouse or distribution center environment",
+  "Preferred Qualifications": "N/A", 
+  "Compensation and Benefits": "Bonus opportunities, career advancement, relocation opportunities, 401(k) with company match, employee stock purchase plan, referral bonus program, corporate discount programs, medical/dental/vision/life insurance"
+}

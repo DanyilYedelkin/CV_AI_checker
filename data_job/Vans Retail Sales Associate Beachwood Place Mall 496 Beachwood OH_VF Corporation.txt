@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "You will build sales by maintaining a consumer centric mindset and using selling behaviors through genuine interactions with consumers. Through teamwork and productive relationships within the team you will ensure the store is consistently recovered and consumer ready by meeting brand standards.",
+  "Required Skills": "Strong verbal and nonverbal communication skills, ability to work with a team to exceed sales results, provide a high level of customer service, adhere to policies, procedures and practices that align with company directives",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "1 year preferred but not required",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

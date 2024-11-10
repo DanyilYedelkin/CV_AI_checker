@@ -1,0 +1,13 @@
+ {
+  "Core Responsibilities": "Engage with clients to build sales on the sales floor. Provide highest level of customer service by presenting products to customers, explaining benefits, features, quality, prices and product care. Achieve given sales and KPI targets through initiating cross-selling and add-ons. Maintain client book & actively gain new customers for database. Merchandise the boutique including window decos & in-store visuals, ensure that all products are perfectly displayed, efficiently organized and within corporate guidelines. Preparation of merchandise orders, handling of product deliveries and receipt of merchandise. Maintain all areas in pristine condition at all times including shelves, modules, floor, cash counter, dressing room, stock room, etc. Take part in regular training & team meetings regarding product knowledge, customer service, promotions and visual merchandising. Handle the POS and cash system. Maintain cash handling records, reports and opening and closing procedures. Ensure compliance with health and safety regulations as well as federal, state and local laws and requirements. Handle product pricing, product reclamations, returns and/or exchanges and prepare the necessary administrative reports. Comply with all brand standards including employee handbook, employee dress code policies, boutique operations manual and other corporate guidelines. Safeguard company property and enforce loss prevention standards. Key holding responsibilities.",
+  
+  "Required Skills": "2 years as a sales associate in a retail environment, luxury retail a plus. Understanding of sales analytics and key performance indicators. Wide client network with proven sales record.",  
+
+  "Educational Requirements": "N/A",
+  
+  "Experience Level": "2 years as a sales associate in a retail environment",
+  
+  "Preferred Qualifications": "Luxury retail experience a plus",
+
+  "Compensation and Benefits": "N/A"
+}

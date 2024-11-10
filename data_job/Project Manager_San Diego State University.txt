@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day oversight of the project, quality improvement and monitoring progress, personnel management including hiring and supervising staff, reporting and meeting coordination, school and community relations.",
+  "Required Skills": "Bachelor's degree in a relevant field, 4 years of experience including 2 years at the program specialist level.", 
+  "Educational Requirements": "Bachelor's degree in appropriate field related to program/project.",
+  "Experience Level": "4 years of progressively responsible experience, including 2 years at the program specialist level.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

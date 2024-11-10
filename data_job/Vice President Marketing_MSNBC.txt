@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "The VP Marketing for MSNBC is the day-to-day marketing lead, working with MSNBC editorial leadership to expand the brand and content offering across platforms like TV, digital, audio, and social. Responsibilities include leading marketing strategy and execution across channels, balancing brand building and tactical communications, and managing a team.",
+  "Required Skills": "Minimum 5 years experience in advertising, TV/digital marketing, or related field; Deep knowledge of news/information media in a multiplatform world; Bachelor's degree or equivalent",  
+  "Educational Requirements": "Bachelor's degree or equivalent",
+  "Experience Level": "Minimum 5 years experience",
+  "Preferred Qualifications": "Direct experience managing on-air promotion area for a network and multiplatform brand expansion; Knowledge of current TV, streaming, and entertainment marketplace; Strong leadership abilities and track record developing forward-thinking vision",
+  "Compensation and Benefits": "N/A"
+}

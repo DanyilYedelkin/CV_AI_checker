@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handling inbound inquiries from internal/external customers, dealers and field service offices. Troubleshooting equipment issues. Responding to emails, voicemails, faxes. Meeting call metrics and schedules.",
+  "Required Skills": "2+ years of customer service experience. Ability to work in a fast-paced call center environment. Intermediate computer skills including typing 45+ WPM. Proficiency in Windows applications and MS Office. Knowledge of order care processes preferred.",  
+  "Educational Requirements": "High school diploma or GED required.",
+  "Experience Level": "2+ years of customer service experience.",
+  "Preferred Qualifications": "Hands on experience troubleshooting depot repair equipment. Knowledge of Salesforce, Atlas ERP, SFDC ServiceMax, OLS, Talkdesk. Leasing/billing experience using multiple software systems.",
+  "Compensation and Benefits": "Competitive hourly compensation. Comprehensive benefits package."
+}

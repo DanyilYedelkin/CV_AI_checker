@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day responsibilities include engaging with customers, supporting a positive store culture, accurately ringing up purchases, preparing merchandise, maintaining store cleanliness and recovery standards, supporting shrink reduction goals, and performing other duties as needed.",
+  "Required Skills": "Excellent customer service, flexible schedule, strong organizational and communication skills, ability to handle multiple tasks, respond to changes, lift heavy objects.",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Retail customer experience preferred.",
+  "Compensation and Benefits": "N/A"
+}

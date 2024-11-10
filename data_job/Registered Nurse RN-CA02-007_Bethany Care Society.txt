@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide nursing care, assessments, interventions, and documentation for residents. Conduct care planning and collaborate with interdisciplinary team. Promote resident-centered care and service excellence.",
+  "Required Skills": "Bachelor's degree in Nursing. Active registration with CARNA. Able to work in physically demanding environment. Strong communication, observation and critical thinking skills.",
+  "Educational Requirements": "Bachelor's degree in Nursing.",
+  "Experience Level": "1 year nursing experience preferred.", 
+  "Preferred Qualifications": "Gerontology nursing experience. Dementia care certificate. Knowledge of RAIMDS 2.0 tool and electronic documentation.",
+  "Compensation and Benefits": "N/A"
+}

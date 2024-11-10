@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assess and lead the organization in understanding their current risk exposure and identify actions required to remain compliant with data privacy regulations like CCPA, GDPR, PIPEDA. Take part in full software development lifecycle including design, development, testing, deployment and maintenance.",
+  "Required Skills": "4 year degree in computer science or equivalent. 2+ years experience as a privacy analyst overseeing programs like CCPA. Strong understanding of retail domain and cloud infrastructure. Experience working with onsite and offsite development teams.",
+  "Educational Requirements": "4 year degree in computer science or equivalent",
+  "Experience Level": "2+ years as a privacy analyst",
+  "Preferred Qualifications": "Experience with GDPR and openness to learning CCPA. Experience with data mapping and creating data flows.",
+  "Compensation and Benefits": "N/A"
+}

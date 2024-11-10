@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work with cross-functional teams to deliver high-quality creative content for Sonneman products and branding across print, digital, social, ecommerce. Lead and provide direction to junior designers and outsource teams.",
+  "Required Skills": "5+ years experience as a graphic designer, expertise in Adobe Creative Suite, knowledge of UX/UI principles and social media platforms, understanding of 3D visualization and architectural spaces.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "At least 5 years as a graphic designer",
+  "Preferred Qualifications": "Experience with XD, Figma, Magento",
+  "Compensation and Benefits": "N/A"
+}

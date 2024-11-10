@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Creating a safe workplace, following company policies and procedures, upholding quality standards, ensuring professional uniform/appearance/communications, adhering to quality expectations and standards, developing positive relationships with other employees, supporting team goals, listening and responding to employee concerns, reporting accidents/injuries/unsafe conditions, moving/lifting/carrying/pushing/pulling/placing objects up to 50 lbs, performing other reasonable duties as requested",
+  "Required Skills": "Ability to lift up to 50 lbs, stand/sit/walk for extended periods, reach overhead and below knees including bending, twisting, pulling, and stooping",
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A", 
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

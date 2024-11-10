@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Developing and executing against strategic account and territory plans, building relationships with executives, developing understanding of accounts and identifying sales opportunities, maintaining knowledge of solutions portfolio, managing complex sales processes, interfacing with implementation and support teams",
+  "Required Skills": "Healthcare provider market expertise, executive presence, account and territory strategy, complex sales process management, revenue cycle familiarity, communication and collaboration skills, presentation skills", 
+  "Educational Requirements": "Bachelor's degree or equivalent experience",
+  "Experience Level": "Minimum of 5 years of revenue cycle sales experience, strong healthcare IT sales experience",
+  "Preferred Qualifications": "Working knowledge of healthcare information systems, new business sales acumen, ability to execute with competing priorities, strong interpersonal and communication skills, ability to build relationships and collaborate, industry and product knowledge, Microsoft Office proficiency",
+  "Compensation and Benefits": "N/A"
+}

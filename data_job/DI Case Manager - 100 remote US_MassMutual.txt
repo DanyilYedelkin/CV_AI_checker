@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Review, coordinate and process disability insurance application submissions in accordance with department quality and efficiency standards as well as regulatory and compliance guidelines.",
+  "Required Skills": "Highly skilled with technology and business systems, ability to think outside the box, results driven problem solver with a meticulous attention to detail, must be able to multitask and work in a fast-paced high pressure environment, ability to contribute to a positive work environment by acting as a team player and assisting others in meeting service standards, flexible and adaptable to changing priorities and competing demands, a sense of urgency in all interactions and an ability to prioritize work effectively, customer-focused mindset, respectful of others attentive to their ideas concerns and time",
+  "Educational Requirements": "High school diploma or GED",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "2+ years of insurance-related experience, college degree preferred, possesses a passion for continuous improvement and for providing a stellar customer experience",
+  "Compensation and Benefits": "Salary range $55k+ with bonus opportunity, salary commensurate with experience. Benefits include regular team meetings, focused one-on-one manager meetings, access to mentorship and networking opportunities, access to learning content on Degreed and other platforms."
+}

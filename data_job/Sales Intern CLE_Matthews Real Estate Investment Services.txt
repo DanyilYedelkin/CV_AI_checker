@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist in sales and marketing activities like direct and channel selling, telemarketing, lead generation, cold calling, identifying promotional opportunities, providing product/service demonstrations, maintaining customer/prospect database",
+  "Required Skills": "Working towards a bachelor's degree in business, real estate or related field, Sales experience preferred but not required, Proficient in Microsoft Office, Ability to learn new systems, Good organizational and communication skills, Comfortable with cold calling and maintaining large database of clients/prospects",  
+  "Educational Requirements": "Working towards a bachelor's degree in business, real estate or related field",
+  "Experience Level": "0-2 years of sales experience preferred but not required",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

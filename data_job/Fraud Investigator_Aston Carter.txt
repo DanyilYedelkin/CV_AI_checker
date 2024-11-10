@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct investigations, interviewing and SAR prep/filing, loss and risk mitigation",
+  "Required Skills": "Minimum 2 years previous experience in risk/compliance, fraud investigation, SAR filing, elder financial exploitation, APS reporting, etc.; Strong analytical skills with ability to reduce findings to clear concise written summaries; Exceptional attention to detail; Demonstrated ability to work independently",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Minimum 2 years previous experience in risk/compliance, fraud investigation, SAR filing, elder financial exploitation, APS reporting, etc.",
+  "Preferred Qualifications": "Actimize/ActOne experience; Bachelor’s degree - Business, Crim Justice, Legal or Communications preferred or related experience; CFE or ACAMS designation preferred; Ability to research and perform routine analysis independently by assessing all available information; Strong written and verbal communication skills with the ability to execute standard writing conventions to employ a clear and concise format when documenting case information, present information in an organized and easy to understand format; Ability to independently arrive at a decision and understand the decision's impact on the department, customer and bank including the risk and exposure; Demonstrates effective time management skills, ensuring time is used efficiently and productively, able to accurately assess how much time is needed to complete tasks; Comprehensive knowledge of banking regulations and Suspicious Activity Reports and regulations; Working knowledge and experience with banking systems; Proficient in Microsoft Word and Excel",
+  "Compensation and Benefits": "N/A"
+}

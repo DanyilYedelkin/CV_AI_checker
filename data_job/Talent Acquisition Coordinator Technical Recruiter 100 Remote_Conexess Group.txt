@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work with recruiters on large interview days, one off interviews and events as needed; Utilize web-based applicant tracking system to maintain candidate data and reporting; Assist with candidate expense reimbursement process; Perform other various administrative responsibilities related to recruiting",
+  "Required Skills": "Minimum of two years recruiting experience preferred, preferably in a technical recruiting capacity (cyber, engineering, data science); Full lifecycle recruiting experience; Prior experience in a professional services firm/big 4 or large corporate recruiting environment preferred; Outstanding client service focus; Strong written and verbal communication skills; Exceptional interpersonal and organizational skills",
+  "Educational Requirements": "Bachelor's degree preferred", 
+  "Experience Level": "Minimum of two years recruiting experience",
+  "Preferred Qualifications": "Prior experience in a professional services firm/big 4 or large corporate recruiting environment preferred; Technical proficiency in MS Office including Word, Excel and Power Point; Experience with Outlook a plus; Experience with applicant tracking systems preferred",
+  "Compensation and Benefits": "N/A"
+}

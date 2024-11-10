@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Make minimum of 100 sales calls daily and followup on leads. Sign up 5 homeowners a month.",
+  "Required Skills": "Ohio real estate license. Knowledge of the Cleveland, OH area and surrounding cities. Real estate agent with enthusiastic personality and strong communication skills. Sales experience preferred.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Sales 1 year required",
+  "Preferred Qualifications": "Experience with CRM. Familiar with workplace communication tools like Slack and Zoom.",
+  "Compensation and Benefits": "$100,000 per year. Dental insurance, health insurance, vision insurance, work from home."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Prospect for qualified local and regional businesses, present and close appropriate marketing solution programs, meet and exceed monthly budgets for all product lines, overachieve annual budgets, follow accountabilities set by sales manager.",
+  "Required Skills": "Track record of exceeding sales goals, proficiency in prospecting and effective listening skills, proficiency in digital products and applications like SEM, SEO, SMM, programmatic display, website development, etc.",  
+  "Educational Requirements": "A college degree is a plus",
+  "Experience Level": "2-3 years of sales experience preferred",
+  "Preferred Qualifications": "Knowledgeable of the local market, marketing concepts and digital media",
+  "Compensation and Benefits": "Competitive pay based on experience, health, dental, vision and life insurance, matching 401k retirement plan, paid holidays and vacation time"
+}

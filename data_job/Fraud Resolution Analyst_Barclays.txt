@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Working reports, making customer contact through inbound and outbound channels to service account needs, identifying root causes and providing effective remediation while adhering to policies and procedures for disputes, fraud detection and investigations.",
+  "Required Skills": "Experience in card fraud or related field, proficiency in MS Word or similar word processing application", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in disputes, fraud investigations or detection",
+  "Compensation and Benefits": "N/A"
+}

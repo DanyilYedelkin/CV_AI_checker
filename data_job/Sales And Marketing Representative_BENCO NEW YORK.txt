@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "customer representation, product demonstrations, brand management, face to face customer service, new customer acquisitions and existing customer upgrades, opportunity to participate in regional and national seminars with campaignspecific specialists travel opportunities",
+  "Required Skills": "enthusiastic, ambitious, creative, proactive",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

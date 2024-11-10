@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee all aspects of facilities and programs; Work with leadership team to guide the organization; Partner with board to create and execute strategic direction for growth; Develop and maintain key community partnerships; Direct fundraising strategy and engage with major donors",
+  "Required Skills": "5+ years senior executive leadership experience in social justice/services; Commitment to eliminating racism and empowering women; Experience in homelessness, racial justice, and other YWCA missions; Strong presentation, relationship management, persuasion, negotiation, diplomacy, and listening skills",
+  "Educational Requirements": "N/A",
+  "Experience Level": "Minimum 5 years senior executive experience",
+  "Preferred Qualifications": "Experience leading amid macroeconomic/external forces and driving business model change (e.g. health/wellness, ECE, pandemic response, racial justice advocacy)", 
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversight of accounting and financial functions; management and leadership of finance teams; integrity, accuracy and timeliness of financial reporting; building financial models and forecasting; collaborating with business leaders; investment management; reporting to rating agencies, insurance departments, and auditors; risk management; long-range planning; ensuring regulatory compliance.",
+  "Required Skills": "Bachelor's degree in finance, accounting or business; 10+ years finance experience including leadership experience; property/casualty insurance knowledge; organizational, communication and teamwork skills; attention to detail.",  
+  "Educational Requirements": "Bachelor's degree in finance, business or accounting.",
+  "Experience Level": "10+ years of experience in increasingly responsible accounting or finance positions including 10+ years of leadership experience.",
+  "Preferred Qualifications": "Advanced education; experience in the property/casualty insurance industry; knowledge of statutory accounting principles, IRS regulations; ability to build financial models and utilize new relevant technology.",
+  "Compensation and Benefits": "Competitive salary; comprehensive benefits package including medical coverage, flexible spending accounts, paid time off, employee life insurance, disability insurance, employee discounts, employee assistance program; full and part time positions."
+}

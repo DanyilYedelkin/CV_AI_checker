@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for promoting great lakes brewing company products and maintaining professional business relations with accounts in assigned territory. Field duties like direct calls on accounts, sell in initiatives, promote additional placements and increased velocity of glbc products, conduct retail samplings and on premise promotions.",
+  "Required Skills": "Self-motivated with ability to work with minimal supervision. Proficiency with Microsoft Office programs. Ability to lift 50 pounds. Ability to operate in a team environment as well as autonomously. Excellent oral and written communication skills. Ability to prioritize and manage multiple tasks while maintaining a high level of organization. Must have reliable transportation and a valid driver's license with a clean record. Willingness to work flexible hours including evenings and weekends.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Minimum two years of relevant experience",
+  "Preferred Qualifications": "Familiarity of the territory. Solid working knowledge of the beer and brewing industry.",
+  "Compensation and Benefits": "N/A"
+}

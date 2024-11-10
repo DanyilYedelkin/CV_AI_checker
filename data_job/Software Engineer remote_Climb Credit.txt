@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Advise on the technical roadmap of the engineering organization. Lead the development effort on the most critical projects and infrastructure. Be a founding member and bring new engineering teams online. Act as an engineer-at-large providing value across the company.",
+  "Required Skills": "Experience leading the development efforts of an at scale product or service. Strong opinions on and a holistic view of product development. Strong experience with JavaScript, databases and fullstack development. Experience mentoring and growing junior engineers into significant contributors. Mastery over Node.js with a DevOps mindset.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Significant experience leading the technical efforts to bring products to market and complex systems online.",
+  "Preferred Qualifications": "Experience in fintech is a major plus. Value diverse, inclusive teams and creating an environment where people of all identities, experiences and backgrounds can thrive.",
+  "Compensation and Benefits": "N/A"
+}

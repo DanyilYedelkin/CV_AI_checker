@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Generate interest in Aspire Partner's solutions and facilitate introductions to your network of contacts.",
+  "Required Skills": "Established relationships with CFOs, CEOs, controllers, or decision makers at companies generating over $10M in revenue annually. Self-motivated with a proven track record of relationship building and influencing.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "Current or former business professional, executive, sales rep, finance executive, CFO, COO or controller.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "$100K+ annual compensation. Receive residual monthly income for the life of each client (average 10 years). No investment, quotas or earning caps required."
+}

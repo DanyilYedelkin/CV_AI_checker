@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serve as the main point of contact and client team lead for larger multi-million dollar clients with millions in ad spend. Manage 5+ dotted line reports - Sr Account Manager to Team Leads across each account. Directly manage a team of more experienced leads acting as a sponsor on their accounts and a mentor in their career growth. Build, manage and maintain the client relationship. Revenue + retention responsibilities for your accounts. Drive overall account strategy, forecasting and planning for your team. Analyze performance data and KPIs. Lead expansion into new digital paid media channels to facilitate growth.",
+  "Required Skills": "5+ years of paid performance digital marketing experience. 1+ year in a supervisory role directly overseeing other digital marketing professionals. Experience working with DTC or lead gen clients. Experience forecasting and allocating digital marketing budgets across channels. You are a communication guru when presenting digital marketing strategy to C-Suite and executive audiences.",
+  "Educational Requirements": "4 year college degree or equivalent work experience", 
+  "Experience Level": "5+ years of paid performance digital marketing experience. 1+ year in a supervisory role directly overseeing other digital marketing professionals.",
+  "Preferred Qualifications": "Comfortable optimizing toward backend metrics from a CRM such as Salesforce.",
+  "Compensation and Benefits": "This role is exempt. Base salary $120-150K. Target annualized cash bonus 15%. Target total cash $140-175K."
+}

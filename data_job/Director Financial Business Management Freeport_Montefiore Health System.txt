@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Managing all functions involving financial and business management for both the medical and radiation oncology departments. Responsible for all aspects of financial management for clinical practice operations. Collaborating with department chairpersons, senior director, and leadership to reach financial and operational goals.",
+  "Required Skills": "Bachelor's degree required, Master's degree preferred. At least 8 years of relevant work experience. Proficiency in SAP, Outlook, Epic, Strata, Aria HCM. High functionality with Excel, data analysis, and word processing.",
+  "Educational Requirements": "Bachelor's degree required, Master's degree preferred", 
+  "Experience Level": "8 years",
+  "Preferred Qualifications": "Experience with managing budgets, contract management, and business proposal planning in healthcare settings.",
+  "Compensation and Benefits": "N/A"
+}

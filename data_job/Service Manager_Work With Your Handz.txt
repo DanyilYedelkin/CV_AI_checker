@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee daily operations, manage staff, develop operational plans, resolve customer issues, assist with administrative tasks, ensure adherence to regulations",
+  "Required Skills": "Experience in residential HVAC, plumbing or electrical service, management/supervisory experience, valid driver's license, leadership skills, customer service skills, organized", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Prior service manager experience",
+  "Compensation and Benefits": "Health, dental, optical, orthodontia, disability, life insurance, 401k with match, PTO, training"
+}

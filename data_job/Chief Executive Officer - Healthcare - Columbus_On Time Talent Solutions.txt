@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provides strategic oversight and leadership for the hospital system. Establishes business strategy, promotes vision/mission, builds senior management team, meets strategic goals set by board. Collaborates with various stakeholders to design services and improve patient outcomes.",
+  "Required Skills": "Bachelor's degree in healthcare (master's preferred). 5+ years management experience in healthcare/hospital setting. Knowledge of healthcare regulations and standards. Organizational, analytical, and conflict management skills.",  
+  "Educational Requirements": "Bachelor's degree in healthcare related field (master's degree highly preferred)",
+  "Experience Level": "5+ years senior management/executive experience in healthcare/hospital setting",
+  "Preferred Qualifications": "Master's degree. Experience managing long-term acute care or specialty hospitals.",
+  "Compensation and Benefits": "N/A"
+}

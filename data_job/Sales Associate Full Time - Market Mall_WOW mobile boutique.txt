@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Identify customers' needs and present a customized wireless solution, generate hype and awareness within a mall environment by being a brand ambassador, actively engage mall shoppers and follow the nonnegotiable selling standards",
+  "Required Skills": "Experience in either retail or hospitality industry where you have a working knowledge of managing cash, point of sale and inventory systems, at ease within a results-oriented environment focused on customer delight, proven effective decision making and problem solving skills, effective communication and presentation skills to build rapport, determine customer needs and present an appropriate product solution",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "1 year of previous sales experience a definite asset",
+  "Preferred Qualifications": "Wireless experience an asset, computer aptitude and high comfort level with modern technology",
+  "Compensation and Benefits": "Competitive salary, excellent commission structure, rewards & recognition based on weekly and monthly targets, competitive group benefit package"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Assist in the museum store; deliver outstanding customer service; provide operational duties that drive sales through product knowledge, merchandising, POS functions and store cleanliness",
+  "Required Skills": "High school diploma or GED; 6 months previous retail experience and/or training; good math skills; ability to communicate effectively with public and staff; ability to efficiently operate a POS system",
+  "Educational Requirements": "High school diploma or GED",
+  "Experience Level": "6 months previous retail experience",
+  "Preferred Qualifications": "Some knowledge of art history",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Monitor employee dashboard, receive shipments, inspect packages, process orders, deliver packages, work from home office.",
+  "Required Skills": "No specific technical skills mentioned. Ability to work independently and as part of a team, work at a fast pace, prioritize tasks.",  
+  "Educational Requirements": "No HS diploma or GED required.",
+  "Experience Level": "Prior experience in retail/wholesale preferred but not required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Hourly pay, flexible hours, health insurance, paid time off, employee benefits, opportunity for advancement."
+}

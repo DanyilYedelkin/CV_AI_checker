@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide quality and safe resident care, promote teamwork and a culture that supports the organization's mission and values, promote health and safety awareness in the workplace",
+  "Required Skills": "Registered Nurse license, 2 years experience in continuing care/gerontology (preferred), knowledge of supportive living, long term care, dementia care, CPR/first aid certified, MDS training, MS Office skills", 
+  "Educational Requirements": "Bachelor's degree in Nursing",
+  "Experience Level": "Minimum 2 years experience in continuing care/gerontology (preferred)",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

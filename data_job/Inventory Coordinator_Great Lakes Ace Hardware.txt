@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Review and transmit Ace replenishment orders and properly receive POS and credit POS from non-Ace vendors. Routinely check Ace net prior to truck delivery for any customer online orders and alert staff to set the merchandise aside for customer pickup. Facilitates receiving the replenishment truck upon arrival at the store. Responsible for receiving the Ace replenishment truck in the Eagle system after the merchandise has arrived. Maintain supply levels for the daily operation of the store. Reconcile defective merchandise on a weekly basis and file AceNet claims. Maintain oversight of price change completion, integrity of location codes, and markdowns.",
+  "Required Skills": "Proficiency in inventory management systems like Eagle. Knowledge of standard inventory processes and procedures.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

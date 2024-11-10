@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Administrative support such as data entry, filing, verifying reports, assisting with various tasks. Provide support to executive staff including office management, personnel records, payroll. Complete any tasks necessary for effective operation of the contracts.",
+  "Required Skills": "Valid driver's license, organized, detail oriented, able to work in a team, follow directions, basic computer knowledge including Microsoft Office. Minimum 2 years experience in this field.",  
+  "Educational Requirements": "High school/GED",
+  "Experience Level": "Minimum 2 years experience in this field",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Health & welfare benefits including medical, dental, vision insurance. Retirement savings plan. Paid time off."
+}

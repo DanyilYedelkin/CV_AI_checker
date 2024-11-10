@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responding to questions via support chat and email, triaging and escalating software bugs, investigating bugs and complex support questions, scheduling frontline support agents, observing live classes.",
+  "Required Skills": "Works well under pressure, quick learner, entrepreneurial perspective, tech savvy, systematic thinker, perceptive, friendly, patient, empathetic, good communication skills, attention to detail.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "2 years in a support agent role for a tech company",
+  "Preferred Qualifications": "Familiarity with Slack, Notion, Google Sheets, Asana, Japanese language skills",
+  "Compensation and Benefits": "N/A"
+}

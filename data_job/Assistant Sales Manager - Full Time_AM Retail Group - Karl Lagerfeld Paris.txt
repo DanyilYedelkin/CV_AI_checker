@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Drive sales performance, provide exemplary customer service, promote operational effectiveness, ensure the store meets visual merchandising standards, provide direction to associates to ensure completion of daily tasks.",
+  "Required Skills": "2 years specialty retail leadership experience, fashion retail experience preferred, excellent communication and leadership skills, ability to work in a fast-paced environment.",
+  "Educational Requirements": "Postsecondary education encouraged, retail management degree a plus.",
+  "Experience Level": "2 years successful specialty retail experience in a leadership role required.",
+  "Preferred Qualifications": "Retail management degree.",
+  "Compensation and Benefits": "Competitive salary and benefits including medical, dental, life, disability and more."
+}

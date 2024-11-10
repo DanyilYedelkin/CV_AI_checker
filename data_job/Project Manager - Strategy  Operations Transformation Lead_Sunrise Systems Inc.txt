@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Day-to-day tasks include managing strategic operations transformation projects, driving business process improvements, and supporting implementations. Main role is to lead strategic initiatives to transform operations and call center environments.",
+  "Required Skills": "5+ years experience in consulting/operational excellence, 3+ years business process improvement experience, 2+ years expertise in operations/call center environments, experience with organizational change management, experience with Genesys/Salesforce implementations (desirable).", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "5+ years in consulting or operational excellence roles",
+  "Preferred Qualifications": "Experience successfully managing multiple strategic projects in a fast-paced environment. Embodies lean practices and can adapt to business strategy changes.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead the marketing, promotion and sales support efforts; ensure the marketing team is high-performing; work with sales on campaigns; collaborate with content leaders; create integrated media plans; work in fast-paced environment",
+  "Required Skills": "5+ years of experience in marketing, especially promotions; understanding of promotions placement; TV experience preferred; college degree in marketing preferred; planner; real-time multi-platform marketing experience; insight-driven; strong management track record; creative portfolio; able to juggle multiple projects",  
+  "Educational Requirements": "College degree in marketing preferred",
+  "Experience Level": "Minimum of 5 years consumer marketing experience",
+  "Preferred Qualifications": "Television experience preferred but not required",
+  "Compensation and Benefits": "N/A"
+}

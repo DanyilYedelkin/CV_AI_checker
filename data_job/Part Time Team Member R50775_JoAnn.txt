@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Interact with customers, process transactions, stock shelves, maintain store appearance, assist other team members.",
+  "Required Skills": "Customer service skills, communication skills, ability to lift up to 50 lbs.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "No experience required. Preferred 1-2 years in customer service.",
+  "Preferred Qualifications": "Previous retail or customer service experience.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Take part in surveys, studies, focus groups, product testing; provide feedback on products and services; follow written and oral instructions.",
+  "Required Skills": "Basic PC skills; internet access; webcam or smartphone camera; basic English reading/writing; basic English speaking; quiet working environment.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "No previous experience necessary.",
+  "Preferred Qualifications": "Previous data entry or customer service experience helpful but not required.",
+  "Compensation and Benefits": "Get paid for surveys and studies; payment options include PayPal, checks, gift cards; earn rewards; get free product samples."
+}

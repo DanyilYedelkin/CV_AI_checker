@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develop and execute data-driven marketing strategies and campaigns, collaborate with leadership, analyze market research and customer insights, manage budget and department operations.",
+  "Required Skills": "Bachelor's degree in marketing, 5+ years experience in marketing management for SaaS/education technology, experience targeting K-12 industry, knowledge of sales processes, experience with marketing automation/CRM tools like Eloqua/Salesforce.", 
+  "Educational Requirements": "Bachelor's degree in marketing strongly preferred.",
+  "Experience Level": "Minimum 5 years experience in marketing management within SaaS and/or education technology solutions required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Base salary $100K+ based on experience, bonus potential up to 15%, full benefit package, advancement opportunities."
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Package and deploy Windows desktop applications using tools like Flexera Admin Studio, VBScript, PowerShell, AppV and Microsoft Configuration Manager. Collaborate with infrastructure teams to provide technically sound packaging solutions. Understand application interaction with OS like registry, COM, variables, and user settings. Translate business requirements into elegant technical packaging solutions. Strong Windows technical skills in physical and virtual environments.",
+  "Required Skills": "Expertise in Windows desktop application packaging using tools like Flexera Admin Studio, VBScript, PowerShell, AppV and Microsoft Configuration Manager. Experience collaborating with infrastructure teams. Knowledge of Windows systems including registry, COM, variables, application settings. Ability to translate business needs into technical solutions. Strong Windows technical skills.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience packaging and deploying Apple applications using Workspace One. Experience virtualizing Windows applications.",
+  "Compensation and Benefits": "N/A"
+}

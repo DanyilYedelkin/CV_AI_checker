@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Work in our Dallas office as a part of our R&D team. Build new dating and social applications. Closely collaborate with product design and other engineering teams. Participate in architecture and design for greenfield projects. Impact and influence the product directly - the best ideas (from any source) are welcome. Take part in research that will directly impact the strategy of Match Group going forward.",
+  "Required Skills": "2+ years of professional software engineer experience. Good knowledge of software development best practices. Excellent communication skills. Strong ability to write readable, testable code. Understanding of the value of unit tests. Familiarity with common software design patterns. Familiarity with multiple programming languages (esp C#, Kotlin, Ruby, Swift). Experience building secure and scalable web APIs. Experience working with databases (esp PostgreSQL, Cassandra). Experience working with cloud infrastructure (AWS, GCP).",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "2+ years of professional software engineer experience",
+  "Preferred Qualifications": "Experience with pub/sub queues (esp Kafka, Kinesis). Mobile development experience (iOS, Android).",
+  "Compensation and Benefits": "Annual training budget for each employee. Employer match on 401(k) contributions. Specific COVID allowance for home office setup. Matched giving to qualified organizations. Paid parental leave for up to 12 weeks. Happy hours and company events."
+}

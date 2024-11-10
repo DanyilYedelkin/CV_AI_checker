@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "manages device lifecycle and access control systems, troubleshoots technical issues, supports business continuity and disaster recovery plans, provides tier 3 systems support",
+  "Required Skills": "experience with device management platforms like Jamf and Google Admin, identity management systems like Okta, MacOS administration, AWS/Azure/GCP, networking, collaboration tools", 
+  "Educational Requirements": "Bachelor's degree in IT or related field",
+  "Experience Level": "3-5 years of IT experience, including enterprise endpoint management and technical support",
+  "Preferred Qualifications": "Experience with IT service management software, Linux/Unix systems administration",
+  "Compensation and Benefits": "N/A"
+}

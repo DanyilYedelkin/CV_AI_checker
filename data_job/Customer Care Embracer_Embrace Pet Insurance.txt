@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responding to 200+ phone calls per day, answering pet parent emails, assisting other departments, helping pet parents understand coverage and options, reviewing claims, maintaining and adjusting policies, providing memorable customer service.",
+  "Required Skills": "Ability to learn and retain large amounts of information, desire to treat each pet parent as a personal responsibility, ability to handle fast pace and organized chaos, authenticity and respect, ability to multitask without distraction.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive compensation model and benefits including health insurance, dental vision, wellness reimbursement program, 401k with company contribution, and flexible paid time off."
+}

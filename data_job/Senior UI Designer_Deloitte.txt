@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Lead or contribute to projects; Create designs that align with client brand, creative vision, and business strategy; Collaborate across teams; Provide art direction",
+  "Required Skills": "UI design experience; Proficiency in design tools like Sketch, InVision, Illustrator; Web/mobile design experience; Pixel-perfect design files; Motion design experience",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "Multiple years of related design experience",
+  "Preferred Qualifications": "Design systems experience; Icon/illustration experience; Design community connections; Takes feedback well; Personal design style",
+  "Compensation and Benefits": "N/A"
+}

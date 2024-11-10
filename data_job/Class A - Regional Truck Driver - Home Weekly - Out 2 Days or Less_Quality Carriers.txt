@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Transporting goods via tractor trailer. Maintaining and operating the truck and trailer. Adhering to all transportation regulations and safety requirements.",
+  "Required Skills": "Valid CDL-A with tanker endorsement. Hazmat and TWIC certifications. 1-2 years of tractor trailer experience. Knowledge of pneumatic trailers, tank trailers, tractor and semitrailer.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "1-2 years of tractor trailer experience required.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive CPM pay. Minimum salary of $55k/yr. Sign on bonus. Union benefits. Frequent home time. Referral bonus."
+}

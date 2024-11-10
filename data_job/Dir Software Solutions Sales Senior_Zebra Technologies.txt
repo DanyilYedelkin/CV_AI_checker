@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Attains sales results within company policies and practices; establishes sales plans and budgets; delegates assignments to subordinates; responsible for developing annual and long-term sales strategies.",
+  "Required Skills": "Sales leadership and teamwork/execution skills; experience in SaaS selling and SaaS portfolio knowledge; market expertise; ability to lead in a matrix organization; strong sales record.",
+  "Educational Requirements": "Bachelor's degree",  
+  "Experience Level": "10+ years of sales leadership experience; 5+ years in SaaS selling",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

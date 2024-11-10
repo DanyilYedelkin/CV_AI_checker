@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Serve as host and guide clients through their appointment from check-in to check-out. Maintain shop cleanliness and inventory. Operate POS system. Provide excellent customer service.",
+  "Required Skills": "2+ years customer service experience in retail/salon. Proficient with POS systems. Strong communication and troubleshooting skills.",  
+  "Educational Requirements": "High school diploma or equivalent.",
+  "Experience Level": "2+ years experience in customer service.",
+  "Preferred Qualifications": "Previous salon/spa experience preferred but not required.",
+  "Compensation and Benefits": "N/A"
+}

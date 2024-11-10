@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Answering inbound calls, making outbound calls/emails/texts to customers, closing deals",
+  "Required Skills": "Excellent English communication skills (verbal and written), sales experience, team player", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Prior experience in sales, vacancy/real estate knowledge ",
+  "Compensation and Benefits": "$12-15 per hour base, with commissions bringing total comp to $20-30 per hour. Hourly wage based on experience."
+}

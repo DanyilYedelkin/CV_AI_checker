@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "produce clean efficient code based on specifications, develop test and implement new or existing software products and continuously looking for improvements, maintain and improve the performance of existing software, integrate software components and thirdparty applications, troubleshoot debug and upgrade existing software, provide software support for existing applications and systems, create and maintain technical documentation for reference and reporting",
+  "Required Skills": "N/A", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

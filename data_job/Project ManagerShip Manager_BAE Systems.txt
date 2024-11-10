@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Oversee and manage technical projects, serve as liaison between project planning, safety and line management. Overall responsibility for execution, safety, quality, cost and schedule. Coordinate with craft managers to support schedule, cost and quality.",
+  "Required Skills": "Bachelor's degree and 5 years experience in ship repair/construction or equivalent. Experience in naval/commercial ship repair/construction. Ability to board and traverse naval and commercial vessels.", 
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "5 years",
+  "Preferred Qualifications": "Degree in industrial manufacturing or systems engineering",
+  "Compensation and Benefits": "N/A"
+}

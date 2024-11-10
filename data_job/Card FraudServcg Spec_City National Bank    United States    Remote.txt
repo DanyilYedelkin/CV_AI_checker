@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handle inbound and outbound calls, monitor transactions for fraud, review reports to identify fraudulent activities, communicate with internal and external clients, process claims, conduct reviews on files and batches to detect suspicious activity.",
+  "Required Skills": "1+ years call center experience, effective communication and customer service skills, ability to multitask and work in a fast-paced environment, experience with MS Office",
+  "Educational Requirements": "Bachelor's degree or equivalent experience",
+  "Experience Level": "Minimum 1 year of call center experience",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Starting base salary $20 per hour. Eligible for bonus and/or commissions."
+}

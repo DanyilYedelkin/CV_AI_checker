@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Meet or exceed monthly sales quotas, maintain high sales activity levels, build and maintain sales funnel, execute sales strategy, initiate contact with potential customers, conduct sales presentations, generate leads, attend sales meetings",
+  "Required Skills": "ERP knowledge, experience selling complex software solutions to large companies, carrying sales quota as hunter, IT sales background, selling to executives/decision makers", 
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "2+ years software sales experience, 5+ years sales experience for senior role",
+  "Preferred Qualifications": "SaaS, ADP, or managed services experience, EDI or ecommerce experience",
+  "Compensation and Benefits": "Medical, dental, vision, retirement plan, disability insurance, life insurance, EAP, paid parental leave, FSA, PTO, holidays, etc."
+}

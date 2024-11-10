@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Handling customer transactions, answering questions, cashing checks, accepting deposits and loan payments, processing paperwork, maintaining accurate records.",
+  "Required Skills": "Strong customer service skills, attention to detail, basic math and computer skills, ability to handle cash accurately.",
+  "Educational Requirements": "High school diploma or equivalent.", 
+  "Experience Level": "No experience required.",
+  "Preferred Qualifications": "Previous banking experience, experience with banking software.",
+  "Compensation and Benefits": "Pay is $15 per hour. Benefits include 401k with 6% matching, dental and health insurance, life insurance, and vision insurance."
+}

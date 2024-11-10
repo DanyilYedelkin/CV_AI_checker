@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Exploring business ownership opportunities for professionals via franchising. Guiding clients through franchise research and helping them find the right franchise fit based on their skills and interests. Providing franchise consulting services.",
+  "Required Skills": "Knowledge of the franchise industry. Ability to assess client skills and interests. Strong communication and consulting skills.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in business ownership or franchising.",
+  "Compensation and Benefits": "N/A"
+}

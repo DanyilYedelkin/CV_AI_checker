@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Review loan documentation for complex commercial loan clients and book basic commercial loans. Participate as a team member to support specialty lines of business and provide customer service. Prioritize work for self and team.",
+  "Required Skills": "High school diploma or equivalent. Knowledge of accounting principles, loan documentation and regulations. Ability to work under pressure, meet deadlines, make judgments and decisions. Strong customer service and analytical skills.",
+  "Educational Requirements": "High school diploma or equivalent.",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience with loan accounting systems, monetary processing, and system maintenance functions.",
+  "Compensation and Benefits": "N/A"
+}

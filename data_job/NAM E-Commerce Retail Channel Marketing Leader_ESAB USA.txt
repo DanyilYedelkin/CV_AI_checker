@@ -1,0 +1,13 @@
+ {
+  "Core Responsibilities": "Develop and implement strategic roadmap for ecommerce/retail business growth; Plan, execute, analyze and build strategic and tactical changes to drive profitability; Align marketing initiatives with channel value propositions, plans and goals; Perform external analysis of industry trends, competitors, consumer needs; Organize and lead cross-functional team to deliver on ecommerce roadmap; Provide leadership for industry-leading multichannel strategies/programs/initiatives; Partner with sales, operations, demand planning, fulfillment teams on deliverables and requirements; Support journey mapping to address customer pain points and develop enablement tools; Leverage social, digital marketing channels; Develop content strategy and calendar with teams; Serve as feedback loop to resolve initiative efficiency; Understand digital marketing analytics and track web demand by product/category for merchandising and marketing adjustments; Partner on SEO and SEM efforts; Drive communication with resellers, customers on promotions, incentives, etc.; Design and implement measurements to quantify ROI from programs/initiatives",
+
+  "Required Skills": "Bachelor's degree in marketing or business; Minimum 5 years experience in marketing, channel marketing/multi-channel; Skills in integrated marketing practices and toolsets, large scale strategic marketing planning and execution; Developing strategic plans, generating customer growth; Leadership, consensus building, team development; Matrixed environment experience; Comfort with ambiguity and change; New idea generation and translation into quality initiatives; Works well under pressure, balancing priorities; Curious business mind, open to new approaches; Ownership, urgency and sound decision making; Customer engagement; Strong written, verbal, analytical and interpersonal skills; Communicate and inspire at all levels; Identify risks and strategic positioning to leadership; Passion for continuous improvement and workflow optimization; Problem solving through analysis at strategic and functional levels; Advanced Microsoft Office skills",  
+
+  "Educational Requirements": "Bachelor's degree in marketing or business-related field",
+  
+  "Experience Level": "Minimum 5 years of experience in marketing, channel marketing/multi-channel",
+  
+  "Preferred Qualifications": "N/A",
+
+  "Compensation and Benefits": "N/A"
+}

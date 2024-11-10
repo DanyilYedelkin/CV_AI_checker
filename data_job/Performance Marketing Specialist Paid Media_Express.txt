@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Provide support and execution of integrated media campaigns to drive traffic and sales to express.com. Assist with developing optimal media campaigns for lower funnel display and paid social programs. Help manage creative brief/traffic process, develop reporting, and communicate performance.",
+  "Required Skills": "2+ years relevant experience in paid media/digital marketing for a business or agency, retail experience preferred. Proven ability to analyze, organize and integrate large amounts information into clear, concise presentations and plans. Demonstrated success in delivering efficient traffic and revenue with ROI. Experience working with web analytic tools like Adobe Analytics, Facebook Ads Manager, etc. Intermediate Excel skills for reporting.", 
+  "Educational Requirements": "College degree required in relevant field of study",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "Retail experience preferred",
+  "Compensation and Benefits": "N/A"
+}

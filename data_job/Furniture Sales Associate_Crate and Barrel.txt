@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Helping customers furnish rooms or find accent pieces by building relationships, providing advice, and using product knowledge. Staying up-to-date on latest trends.",
+  "Required Skills": "Passion for helping customers with home furnishings. Comprehensive product knowledge. Ability to build long-term customer relationships. Proven sales ability.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience working in a competitive team sales environment.",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Teach special education students in an elementary or middle school classroom setting. Work with a supportive team to help students of all ages succeed.",
+  "Required Skills": "Bachelor's degree or higher in education or related field. Valid teaching certification in Ohio.", 
+  "Educational Requirements": "Bachelor's degree or higher in education or related field.",
+  "Experience Level": "New college graduates encouraged to apply.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive compensation package. Health, dental, and vision benefits. 401(k) offered. Tax-free stipends for those who qualify."
+}

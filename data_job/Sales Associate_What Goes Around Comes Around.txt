@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Selling and providing excellent client service. Greeting all customers and providing attentive customer service. Consistently selling merchandise from all categories. Building and maintaining a client book. Meeting or exceeding sales goals. Meeting minimum client outreach requirements.",
+  "Required Skills": "Passion for sales, styling and customer service. Ability to follow store policies and procedures. Being a team player.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Record of increasing sales and consistently ranking as a top performer.",
+  "Compensation and Benefits": "N/A"
+}

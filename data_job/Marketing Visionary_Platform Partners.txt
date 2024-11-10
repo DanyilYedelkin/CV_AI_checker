@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Develops and executes strategic initiatives to achieve goals related to the successful operation of the overall strategic plan of the SUD center. Provides for communication and interface with all NewVista divisions to insure integration and compliance with all relevant federal, state and local standards, guidelines and regulations. Implements controls for the effective and efficient utilization of physical and financial resources and monitors a system of accountability for the budget of the facility.",
+  "Required Skills": "Masters degree in hospital administration, business administration, or in a field of mental health or a related area. 5 years experience as a healthcare manager with 2 years experience in an SUD environment or other behavioral health setting. Ability to communicate effectively with center administrators, clinicians, and other professionals. Experience with hospital/healthcare facility finance and budgeting.",  
+  "Educational Requirements": "Masters degree in hospital administration, business administration, or in a field of mental health or a related area",
+  "Experience Level": "5 years as a healthcare manager with 2 years in an SUD environment or other behavioral health setting",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

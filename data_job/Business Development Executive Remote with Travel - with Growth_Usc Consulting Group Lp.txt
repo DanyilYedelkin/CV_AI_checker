@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Generate $2M annually in new sales, participate in extending existing relationships by 10% annually, participate in development of annual business plan, prospect qualify and capture new business opportunities, develop and populate call lists, prepare agenda and messaging for meetings, develop and deliver preliminary business plans, schedule feasibility studies, participate in steering team meetings, contribute to system review and layout, execute professional development plan, demonstrate competency working with C-level executives, articulate support needed for client meetings, facilitate and expedite client requests, develop strong client relationships.",
+  "Required Skills": "Strong presentation skills, creativity, business development experience, ability to interact with senior executives, identify solutions to pressing business issues.", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience in business development domain, experience interacting with C-suite executives.",
+  "Compensation and Benefits": "Competitive salary, great benefits, opportunities to grow."
+}

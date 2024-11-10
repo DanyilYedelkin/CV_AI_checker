@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Data entry, administrative tasks, assisting with various roles like retail, web development, warehouse work.",
+  "Required Skills": "Ability to read and write English. Spanish is a plus. Knowledge of Microsoft Office/spreadsheets is helpful but not required.",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "Data entry experience is helpful but not required.",
+  "Preferred Qualifications": "Spanish language skills.",
+  "Compensation and Benefits": "N/A"
+}

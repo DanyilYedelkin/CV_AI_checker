@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Make safe, complete, accurate and on-time deliveries to customers while complying with DOT and other regulations. Load and unload vehicle, collect payments, document deliveries, complete vehicle inspections and maintenance.",
+  "Required Skills": "Valid CDL, clean MVR and PSP, ability to maneuver heavy objects, excellent customer service and communication skills, ability to carry out instructions with minimal supervision.",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "At least 21 years old.",
+  "Preferred Qualifications": "HAZMAT endorsement, Moffett/Skelly or air brake experience.",
+  "Compensation and Benefits": "Generous compensation and benefits package including medical, dental, vision, 401k with company match."
+}

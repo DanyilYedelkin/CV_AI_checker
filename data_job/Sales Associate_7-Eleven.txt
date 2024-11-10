@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Maintain store cleanliness, perform customer service duties like ringing up sales, assist with inventory management, comply with policies and procedures, report safety hazards.",
+  "Required Skills": "Cash handling, customer service skills, ability to read/write reports, perform basic math, basic computer skills.", 
+  "Educational Requirements": "High school diploma or GED preferred.",
+  "Experience Level": "Previous sales experience preferred.",
+  "Preferred Qualifications": "Current food handler's certification.",
+  "Compensation and Benefits": "N/A"
+}

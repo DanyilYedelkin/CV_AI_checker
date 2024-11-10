@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Conduct regular scientific and market due diligence on covered companies including conducting channel checks on assigned companies; build, update and maintain financial models; assist with timely preparation of research reports; conduct surveys with key medical opinion leaders; assist with timely publication of research notes and reports; provide general support to the equity research team; conduct company research, industry due diligence and other projects as assigned; interpret scientific publications and medical conference presentations; interact with corporate management and our internal sales force",
+  "Required Skills": "Bachelor's degree from an accredited university preferably in the life sciences; 2 years relevant work experience in the financial services industry strongly preferred; superb quantitative and analytical skills; exceptionally strong verbal and written communication skills; able to maintain a high degree of accuracy a fast-paced deadline-driven environment; able to work independently as well as within a team and prioritize daily work flow with little direction; advanced Excel skills essential; strong work ethic and great attitude; self-starter with ability to work independently",
+  "Educational Requirements": "Bachelor's degree from an accredited university preferably in the life sciences",  
+  "Experience Level": "2 years relevant work experience in the financial services industry strongly preferred",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Prepare and draft legal documents on behalf of clients, advise clients on business and legal transactions, negotiate a variety of transactions including joint ventures, commercial leases, financings, acquisitions and dispositions, facilitate and attend closings, participate in business develop activities",
+  "Required Skills": "2-3 years of legal experience in general commercial real state transactions including joint ventures, commercial leases, financings, acquisitions and dispositions, familiarity with various transactions legal documents relating to the foregoing practice areas, strong analytical and problem solving skills, ability to build rapport with clients, excellent written and verbal communication skills",
+  "Educational Requirements": "N/A",  
+  "Experience Level": "2-3 years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

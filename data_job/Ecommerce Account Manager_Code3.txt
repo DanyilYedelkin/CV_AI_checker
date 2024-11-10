@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Direct account ownership, own client relationship and all communication between client and internal team, set and manage client expectations, develop client strategy based on client goals, coordinate tasks and at time manage internal teams to meet deadlines and provide deliverables, focus on client retention and client profitability, grow relationship w client and grow mrr, ability to provide support other team members on other accounts",
+  "Required Skills": "Bachelors degree, 2-5 years of account/project management experience in a digital marketing agency setting",
+  "Educational Requirements": "Bachelors degree",  
+  "Experience Level": "2-5 years",
+  "Preferred Qualifications": "Ability to lead discussions w internal and external teams, ability to shift priorities to meet client needs, project management experience through digital platforms, ability to help clients hit goals and pivot as needed, deep understanding of digital marketing and online marketplaces, search and ecommerce experience is a plus, ability to learn on-the-go and quickly become able to add strategic value to client work, a positive attitude good sense of humor and willingness to learn new ideas",
+  "Compensation and Benefits": "Full benefits - 401k with match, generous pension program, thoughtful parental leave and return program, ample pto holidays and holiday closure in december, ongoing learning and development opportunities, commitment to transparent dei practices, convenient snack stocked office spaces in awesome cities"
+}

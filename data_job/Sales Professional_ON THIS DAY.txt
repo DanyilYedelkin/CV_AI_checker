@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Greet and engage visitors, foster meaningful client relationships, ensure appropriate follow through with clients, support store management, stay up to date on brand and products",
+  "Required Skills": "Experience in luxury retail or hospitality, excellent communication and interpersonal skills, passion for building relationships", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

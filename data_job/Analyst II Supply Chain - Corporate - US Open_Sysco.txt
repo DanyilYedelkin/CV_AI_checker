@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "serve as the business matter expert in the area of supply chain and will be responsible for managing multiple projects for supply chain modeling and analysis in the context of category management redistribution analytics steady state optimization transportation networks and other adhoc analysis requests",
+  "Required Skills": "bachelors degree required business computer science or analytics degree preferred or relevant sysco experience in lieu of a degree; 2 years relevant professional experience; intermediate excel required access & powerpoint preferred; theoretical knowledge of statistics and quantitative analysis techniques (e.g., spreadsheet modeling, regression analysis) preferred; understanding of applications of mixed integer programming based modeling tools such as AIMMS, supply chain strategist, llamasoft, supply chain guru, or other tools strongly preferred",
+  "Educational Requirements": "bachelors degree required",
+  "Experience Level": "2 years relevant professional experience",
+  "Preferred Qualifications": "business, computer science or analytics degree preferred or relevant sysco experience in lieu of a degree",
+  "Compensation and Benefits": "N/A"
+}

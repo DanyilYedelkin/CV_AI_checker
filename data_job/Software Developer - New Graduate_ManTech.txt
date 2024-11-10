@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Use skills learned in and out of school on ManTech's mission critical work. Assist development leads/managers with software design and coding. Attend and contribute to company meetings. Learn codebase and improve coding skills. Write and maintain code. Work on minor bug fixes. Build and deploy applications in cloud computing. Monitor technical performance of systems. Respond to requests from the team. Gather information from users about functionality. Write reports. Conduct development tests.",
+  "Required Skills": "Bachelor's degree in computer science or related field. Experience with Node.js, Java/JavaScript, C/C++ and/or Assembly language. Basic programming experience. Knowledge of relational and NoSQL databases. Experience collaborating in an Agile team using tools like Slack, Office, Google Suite, Atlassian.", 
+  "Educational Requirements": "Bachelor's degree in computer science or related field",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Passion for software development and engineering. Strong grasp of operating system fundamentals. Knowledge of operating system internals and kernel integration. Ability to learn new software/technologies quickly. Detail oriented. Ability to follow instructions and work in a team.",
+  "Compensation and Benefits": "N/A"
+}

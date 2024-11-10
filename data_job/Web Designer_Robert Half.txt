@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Designing websites, wireframes, landing pages, and mobile applications. Implementing designs using HTML, CSS, and JavaScript. QA testing sites and applications.",
+  "Required Skills": "2+ years experience in web design. Proficiency with Adobe Creative Cloud (Photoshop, Illustrator, InDesign). Strong HTML, CSS, JavaScript skills. Familiarity with content management systems.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years",
+  "Preferred Qualifications": "UX/UI design experience. Knowledge of brand standards and guidelines.",
+  "Compensation and Benefits": "N/A"
+}

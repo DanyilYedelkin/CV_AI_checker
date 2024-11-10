@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "performing daytoday email marketing activitiesensuring overall client satisfactiondeveloping and executing email marketing strategies",
+  "Required Skills": "proficiency in commonly used email marketing platformsknowledge and expertise of emailing through esp  cms platformsthe ability to write marketing copy for various industriesexperience in strategizing creating and implementing drip campaignsthe ability to strategize and implement email marketing campaignsstrong proofreading and editing skills",
+  "Educational Requirements": "N/A", 
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

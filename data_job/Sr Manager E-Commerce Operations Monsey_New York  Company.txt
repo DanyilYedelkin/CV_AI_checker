@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage site experience including digital product and rollout of new tools and features. Optimize site and customer journey. Build and maintain digital roadmap and release calendars. Lead site operational work. Assess and communicate site opportunities and issues.",
+  "Required Skills": "2+ years in ecommerce operations. Strong attention to detail. Analytical and data skills, especially with Excel. Ability to interpret data to make recommendations. Proactive attitude. Organized with ability to prioritize multiple tasks. Exceptional communication skills.",  
+  "Educational Requirements": "BA or BS required",
+  "Experience Level": "2+ years in ecommerce operations",
+  "Preferred Qualifications": "Experience running RFP process with digital product. Independent, progressive thinker. Not afraid to challenge status quo.",
+  "Compensation and Benefits": "N/A"
+}

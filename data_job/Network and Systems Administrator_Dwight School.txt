@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Install, maintain, backup and troubleshoot servers, storage, networking equipment and end user devices; provide technical support to students, parents, faculty and staff; manage network security and data privacy; oversee software deployment and patching; make hardware/software purchase recommendations; provide on-call support for technical emergencies.",
+  "Required Skills": "Bachelor's degree in IT/Computer Science or related field; 3+ years experience in academic IT; knowledge of networking, servers, client devices, virtualization, cloud platforms, identity management; detail-oriented with strong communication and customer service skills.",  
+  "Educational Requirements": "Bachelor's degree",
+  "Experience Level": "3+ years experience in academic IT",
+  "Preferred Qualifications": "Apple, Cisco, Microsoft or other relevant certifications",
+  "Compensation and Benefits": "N/A"
+}

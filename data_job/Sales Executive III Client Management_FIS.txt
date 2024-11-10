@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Sell products and services, manage relationships, ensure alignment of client technology and business strategies, focus on account retention and continued revenue growth",
+  "Required Skills": "Extensive experience as a sales executive in fintech or financial services, at least 5 years of experience interacting and partnering with senior management, understanding of investment banking operations technology and change landscape",
+  "Educational Requirements": "N/A",
+  "Experience Level": "At least 5 years",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "Competitive salary and benefits"
+}

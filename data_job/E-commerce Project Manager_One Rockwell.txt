@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Ownership of day-to-day client communications and building of long-term relationships. Collaborate with internal teams on projects. Understand project goals, gather requirements, participate in scoping and deliver estimates. Monitor progress and provide financial tracking updates. Organize meetings, facilitate calls, take notes, and prioritize tasks. Coordinate with third-party partners. Participate in solutioning and troubleshooting. Participate in quality assurance testing. Produce SOWs and change orders. Identify opportunities to improve processes.",
+  "Required Skills": "2+ years project management experience at a digital agency focused on ecommerce preferred. Understanding of ecommerce web design, UX and development processes. Shopify experience preferred. Familiarity with ecommerce technology solutions and third-party applications. Experience with project planning tools like Jira and Monday.com. Strong communication and writing skills. Organized and detail-oriented. Solution-oriented problem solver. Business understanding in fashion, beauty and/or luxury lifestyle space.",  
+  "Educational Requirements": "N/A",
+  "Experience Level": "2+ years project management experience at a digital agency focused on ecommerce",
+  "Preferred Qualifications": "Technically savvy and proactive about independently learning new developments in the digital space.",
+  "Compensation and Benefits": "Fully remote position. Early Friday closure all year round. Half-day summer Fridays. Comprehensive medical, dental and vision insurance. 401k program. Competitive PTO. Opportunity for internal/cross-departmental education and learning. Opportunity for career development and growth. Collaborative and close-knit team."
+}

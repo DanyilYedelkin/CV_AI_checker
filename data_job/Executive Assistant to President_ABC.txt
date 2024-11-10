@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Manage the day-to-day schedule and calendar for the President of ABC News. Serve as main point of contact for internal and external executives and staff. Handle travel planning, meeting scheduling/logistics, expense reports, phone messages, and other administrative tasks.",
+  "Required Skills": "At least 5 years of experience supporting senior executives. Excellent verbal and written communication skills. Proficiency with Microsoft Office and other relevant software. Ability to multitask, prioritize, and handle confidential information.", 
+  "Educational Requirements": "Required: High school diploma. Preferred: Bachelor's degree or equivalent experience.",
+  "Experience Level": "At least 5 years supporting senior executives or equivalent experience.",
+  "Preferred Qualifications": "Experience at Disney or another large public corporation.",
+  "Compensation and Benefits": "N/A"
+}

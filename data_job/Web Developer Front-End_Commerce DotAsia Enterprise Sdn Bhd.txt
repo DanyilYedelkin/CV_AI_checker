@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Designing and developing multitiered web applications that are high quality, scalable and reliable",
+  "Required Skills": "Experience developing web applications, proficiency in relevant programming languages and frameworks", 
+  "Educational Requirements": "N/A",
+  "Experience Level": "N/A",
+  "Preferred Qualifications": "Experience with new technologies and ability to push boundaries",
+  "Compensation and Benefits": "N/A"
+}

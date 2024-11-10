@@ -3,44 +3,82 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
-import numpy as np
+import os
 
-# Пример текстовых данных резюме и описаний вакансий
+# Пример текстовых данных резюме
 resumes = [
-    "Experienced data scientist skilled in Python, SQL, and machine learning.",
-    "Software engineer with expertise in Java, C++, and project management.",
-    "Financial analyst with experience in investment analysis, financial modeling, and data visualization.",
-    "Marketing specialist with strong background in social media, SEO, and digital marketing.",
-    "Machine learning engineer with a focus on neural networks, deep learning, and computer vision.",
-    "Business analyst proficient in data analysis, Tableau, and SQL with experience in reporting.",
-    "HR manager with expertise in recruitment, employee training, and performance management.",
-    "Project manager with 5+ years of experience in Agile, Scrum, and cross-functional team management.",
-    "Cybersecurity specialist experienced in network security, intrusion detection, and risk management.",
-    "Frontend developer skilled in HTML, CSS, JavaScript, and React with a strong UX/UI focus.",
-    "Backend developer with knowledge of Node.js, Python, databases, and microservices architecture.",
-    "Customer support representative with experience in CRM, customer satisfaction analysis, and resolution management.",
-    "Operations manager with skills in logistics, supply chain management, and process optimization.",
-    "Data analyst with strong skills in SQL, R, and Python, specializing in data cleaning and visualization.",
-    "Healthcare data specialist with knowledge of medical terminology, EMR systems, and patient data privacy.",
+    # Data Scientist
+    "Data scientist with extensive experience in Python, SQL, machine learning, and data visualization. Skilled in data analysis, feature engineering, and model deployment.",
+    # Software Engineer
+    "Software engineer with 5+ years of experience in Java, C++, and project management. Strong background in full-stack development and agile methodologies.",
+    # Financial Analyst
+    "Financial analyst with expertise in investment analysis, financial modeling, and data visualization. Proficient in Excel, SQL, and Python for financial forecasting.",
+    # Marketing Specialist
+    "Marketing specialist with a strong focus on digital marketing, SEO, and social media. Skilled in creating and implementing marketing strategies and content management.",
+    # Machine Learning Engineer
+    "Machine learning engineer experienced in neural networks, deep learning, and computer vision. Proficient in TensorFlow, PyTorch, and data pre-processing techniques.",
+    # Business Analyst
+    "Business analyst with expertise in data analysis, SQL, Tableau, and reporting. Skilled in identifying business needs and translating them into actionable insights.",
+    # HR Manager
+    "HR manager with solid experience in recruitment, employee training, performance management, and HRIS. Skilled in talent acquisition and employee retention.",
+    # Project Manager
+    "Project manager with over 5 years of experience in Agile and Scrum methodologies, skilled in managing cross-functional teams and handling multiple concurrent projects.",
+    # Cybersecurity Specialist
+    "Cybersecurity specialist with a strong background in network security, risk management, and intrusion detection systems. Proficient in SIEM tools and vulnerability assessment.",
+    # Frontend Developer
+    "Frontend developer skilled in HTML, CSS, JavaScript, and React with a focus on creating responsive and user-friendly web applications and improving UX/UI design.",
+    # Backend Developer
+    "Backend developer with experience in Node.js, Python, databases, and microservices architecture. Skilled in designing and optimizing RESTful APIs.",
+    # Customer Support Representative
+    "Customer support representative with experience in CRM software, customer satisfaction analysis, and issue resolution. Strong communication and problem-solving skills.",
+    # Operations Manager
+    "Operations manager with a background in logistics, supply chain management, and process optimization. Skilled in streamlining operations and reducing costs.",
+    # Data Analyst
+    "Data analyst with expertise in SQL, R, and Python, specializing in data cleaning, visualization, and predictive analytics. Proficient in Tableau and Power BI.",
+    # Healthcare Data Specialist
+    "Healthcare data specialist with knowledge of medical terminology, EMR systems, patient data privacy, and regulatory compliance. Skilled in data management for healthcare settings.",
 ]
 
-job_descriptions = [
-    "Looking for a data scientist with experience in Python, SQL, and machine learning.",
-    "Seeking software engineer with Java, C++ skills and project management experience.",
-    "Hiring financial analyst with expertise in financial modeling and data visualization.",
-    "Searching for a digital marketer with experience in social media, SEO, and online advertising.",
-    "Machine learning engineer needed with experience in deep learning and computer vision.",
-    "Business analyst required with strong SQL and Tableau skills for data-driven insights.",
-    "We are hiring an HR manager with a background in recruitment, onboarding, and team engagement.",
-    "Project manager with Agile and Scrum experience needed to lead cross-functional teams.",
-    "Seeking a cybersecurity expert with experience in network security and risk assessment.",
-    "Frontend developer needed with skills in JavaScript, React, and UX/UI best practices.",
-    "Backend developer position open for candidates with Node.js, Python, and database management skills.",
-    "Customer support representative needed to handle CRM, issue resolution, and customer feedback.",
-    "Looking for an operations manager experienced in logistics and supply chain management.",
-    "Data analyst required with expertise in SQL, R, and data visualization techniques.",
-    "Hiring healthcare data specialist knowledgeable in EMR systems and patient data compliance.",
-]
+# Путь к папке с данными (относительный путь)
+data_job_folder = os.path.join(os.getcwd(), "..", "data_job")
+
+# Функция для загрузки данных о вакансиях из файлов в папке
+def load_job_descriptions(data_job_folder):
+    job_descriptions = []
+
+    # Перебираем все файлы в папке data
+    for filename in os.listdir(data_job_folder):
+        # Убедимся, что это .txt файл
+        if filename.endswith(".txt"):
+            file_path = os.path.join(data_job_folder, filename)
+
+            # Открываем файл и читаем его содержимое
+            with open(file_path, 'r', encoding='utf-8') as file:
+                job_text = file.read().strip()
+
+                # Разделим текст на различные разделы (например, Core Responsibilities, Required Skills и т.д.)
+                job_data = {}
+                sections = ["Core Responsibilities", "Required Skills", "Educational Requirements",
+                            "Experience Level", "Preferred Qualifications"]
+
+                # Парсим каждый раздел в вакансии
+                for section in sections:
+                    if section in job_text:
+                        start = job_text.find(section)
+                        end = job_text.find("\n", start)  # Находим конец раздела
+                        job_data[section] = job_text[start:end].strip()
+
+                # Собираем весь текст вакансии в одну строку
+                full_job_description = ' '.join(job_data.values())
+
+                # Добавляем в список вакансий
+                job_descriptions.append(full_job_description)
+
+    return job_descriptions
+
+
+# Загружаем вакансии из папки
+job_descriptions = load_job_descriptions(data_job_folder)
 
 # Шаг 1: Преобразование текста с помощью TF-IDF
 vectorizer = TfidfVectorizer(stop_words='english')
@@ -91,12 +129,12 @@ def predict_fit(resume, job_description):
 
 # Пример использования функции предсказания
 new_resume = "Experienced data scientist with expertise in Python, SQL, and machine learning."
-new_job_description = "Looking for a data scientist with experience in Python, SQL, and machine learning."
+new_job_description = job_descriptions[0]
 result = predict_fit(new_resume, new_job_description)
 print("Does the candidate fit?", result)
 
 # Пример неподходящего случая
-new_resume_non_fit = "Graphic designer skilled in Adobe Photoshop and Illustrator."
-new_job_description_non_fit = "Hiring a software engineer with Java and Python experience."
+new_resume_non_fit = ""
+new_job_description_non_fit = job_descriptions[1]
 result_non_fit = predict_fit(new_resume_non_fit, new_job_description_non_fit)
 print("Does the candidate fit?", result_non_fit)

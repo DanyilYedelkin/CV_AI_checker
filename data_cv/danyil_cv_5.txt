@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Supported executive team by managing calendars, coordinating meetings, and arranging travel. Prepared documents, drafted correspondence, and assisted with investor relations and roadshow logistics. Maintained internal records, organized presentations, and provided support on special projects as assigned.",
+  "Required Skills": "2+ years of experience as an executive assistant in a high-paced environment. Proficient in MS Office Suite, strong organizational and communication skills, and highly professional demeanor. Detail-oriented and skilled at multitasking under tight deadlines. Able to interact with stakeholders at all levels.",
+  "Educational Requirements": "Bachelor's degree in Business or related field.",
+  "Experience Level": "2+ years of experience in executive support roles.",
+  "Preferred Qualifications": "Experience with investor relations is a plus.",
+  "Compensation and Benefits": "Seeking competitive salary and benefits, open to overtime and performance bonuses."
+}

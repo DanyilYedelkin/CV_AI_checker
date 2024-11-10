@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Provided administrative support to senior executives in a fast-paced environment. Responsibilities included managing complex calendars, coordinating international travel, and preparing expense reports. Assisted with investor presentations, helped organize corporate events, and completed ad hoc projects as needed.",
+  "Required Skills": "3+ years of executive-level administrative experience, proficiency in Microsoft Office Suite, strong organizational and communication skills. Detail-oriented, efficient, and able to adapt quickly. Highly professional and polished in all interactions.",
+  "Educational Requirements": "Bachelor's degree preferred.",
+  "Experience Level": "3+ years in executive support roles.",
+  "Preferred Qualifications": "Experience with investor meetings and event planning.",
+  "Compensation and Benefits": "Competitive salary with benefits package, open to flexible work arrangements."
+}

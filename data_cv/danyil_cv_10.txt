@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Assisted project managers in a construction company by coordinating project schedules, updating project timelines, and tracking materials. Organized meetings for project stakeholders and communicated updates to the team.",
+  "Required Skills": "Strong time-management and organizational skills, familiarity with project tracking software, and knowledge of construction terminology.",
+  "Educational Requirements": "Associate degree in Project Management or related field.",
+  "Experience Level": "1-2 years in project support roles.",
+  "Preferred Qualifications": "Experience in construction or related industry.",
+  "Compensation and Benefits": "Competitive hourly rate, benefits after 90 days."
+}

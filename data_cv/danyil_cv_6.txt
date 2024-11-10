@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Worked as an executive assistant, managing daily schedules, coordinating logistics for travel, and preparing expense reports. Assisted in organizing investor meetings and preparing roadshow materials. Communicated professionally with clients and team members to ensure smooth workflow.",
+  "Required Skills": "3 years of experience as an administrative assistant, strong skills in MS Office, excellent verbal and written communication, ability to multitask, and a professional attitude. Demonstrated ability to work independently and take initiative.",
+  "Educational Requirements": "Bachelor’s degree preferred, relevant experience considered.",
+  "Experience Level": "3 years in high-level administrative support.",
+  "Preferred Qualifications": "Background in investor relations or financial services.",
+  "Compensation and Benefits": "Open to compensation based on experience, with an interest in growth and professional development opportunities."
+}

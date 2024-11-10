@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Served as an executive assistant to the managing director, overseeing calendar management, meeting coordination, and travel logistics. Provided high-level support for investor meetings, processed expense reports, and managed communications with both internal teams and external clients. Assisted with preparation for roadshows and other investor-focused events.",
+  "Required Skills": "3+ years of administrative support in high-level environments, exceptional communication skills, MS Office proficiency, strong organizational abilities, and a professional attitude. Able to prioritize tasks effectively and work in a high-paced environment. Polished, detail-oriented, and capable of maintaining confidentiality.",
+  "Educational Requirements": "Bachelor's degree required.",
+  "Experience Level": "3+ years of administrative experience.",
+  "Preferred Qualifications": "Background in financial services or investor relations.",
+  "Compensation and Benefits": "Compensation open based on experience, with an interest in performance bonuses and flexible hours."
+}

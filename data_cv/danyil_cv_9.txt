@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Provided administrative support in a retail environment, handling customer inquiries, processing transactions, and managing product inventory. Scheduled meetings for store management and assisted in general store operations.",
+  "Required Skills": "Customer service skills, proficient in basic computer programs, and good communication abilities. Ability to work in a fast-paced retail setting and handle customer requests.",
+  "Educational Requirements": "High school diploma or GED.",
+  "Experience Level": "2 years in retail support roles.",
+  "Preferred Qualifications": "Retail management experience is a plus.",
+  "Compensation and Benefits": "Hourly pay, flexible schedule, employee discounts."
+}

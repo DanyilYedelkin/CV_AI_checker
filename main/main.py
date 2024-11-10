@@ -5,42 +5,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 import os
 
-# Пример текстовых данных резюме
-resumes = [
-    # Data Scientist
-    "Data scientist with extensive experience in Python, SQL, machine learning, and data visualization. Skilled in data analysis, feature engineering, and model deployment.",
-    # Software Engineer
-    "Software engineer with 5+ years of experience in Java, C++, and project management. Strong background in full-stack development and agile methodologies.",
-    # Financial Analyst
-    "Financial analyst with expertise in investment analysis, financial modeling, and data visualization. Proficient in Excel, SQL, and Python for financial forecasting.",
-    # Marketing Specialist
-    "Marketing specialist with a strong focus on digital marketing, SEO, and social media. Skilled in creating and implementing marketing strategies and content management.",
-    # Machine Learning Engineer
-    "Machine learning engineer experienced in neural networks, deep learning, and computer vision. Proficient in TensorFlow, PyTorch, and data pre-processing techniques.",
-    # Business Analyst
-    "Business analyst with expertise in data analysis, SQL, Tableau, and reporting. Skilled in identifying business needs and translating them into actionable insights.",
-    # HR Manager
-    "HR manager with solid experience in recruitment, employee training, performance management, and HRIS. Skilled in talent acquisition and employee retention.",
-    # Project Manager
-    "Project manager with over 5 years of experience in Agile and Scrum methodologies, skilled in managing cross-functional teams and handling multiple concurrent projects.",
-    # Cybersecurity Specialist
-    "Cybersecurity specialist with a strong background in network security, risk management, and intrusion detection systems. Proficient in SIEM tools and vulnerability assessment.",
-    # Frontend Developer
-    "Frontend developer skilled in HTML, CSS, JavaScript, and React with a focus on creating responsive and user-friendly web applications and improving UX/UI design.",
-    # Backend Developer
-    "Backend developer with experience in Node.js, Python, databases, and microservices architecture. Skilled in designing and optimizing RESTful APIs.",
-    # Customer Support Representative
-    "Customer support representative with experience in CRM software, customer satisfaction analysis, and issue resolution. Strong communication and problem-solving skills.",
-    # Operations Manager
-    "Operations manager with a background in logistics, supply chain management, and process optimization. Skilled in streamlining operations and reducing costs.",
-    # Data Analyst
-    "Data analyst with expertise in SQL, R, and Python, specializing in data cleaning, visualization, and predictive analytics. Proficient in Tableau and Power BI.",
-    # Healthcare Data Specialist
-    "Healthcare data specialist with knowledge of medical terminology, EMR systems, patient data privacy, and regulatory compliance. Skilled in data management for healthcare settings.",
-]
-
 # Путь к папке с данными (относительный путь)
 data_job_folder = os.path.join(os.getcwd(), "..", "data_job")
+# Путь к папке с данными для СВ
+data_cv_folder = os.path.join(os.getcwd(), "..", "data_cv")
 
 # Функция для загрузки данных о вакансиях из файлов в папке
 def load_job_descriptions(data_job_folder):
@@ -76,13 +44,20 @@ def load_job_descriptions(data_job_folder):
 
     return job_descriptions
 
+# Пример текстовых данных резюме
+resumes = load_job_descriptions(data_cv_folder)
 
 # Загружаем вакансии из папки
 job_descriptions = load_job_descriptions(data_job_folder)
 
 # Шаг 1: Преобразование текста с помощью TF-IDF
 vectorizer = TfidfVectorizer(stop_words='english')
-resumes_tfidf = vectorizer.fit_transform(resumes)
+
+# Обучение TF-IDF на всех текстах резюме и вакансий
+vectorizer.fit(resumes + job_descriptions)
+
+# Преобразование резюме и вакансий в TF-IDF
+resumes_tfidf = vectorizer.transform(resumes)
 job_descriptions_tfidf = vectorizer.transform(job_descriptions)
 
 # Шаг 2: Рассчёт косинусного сходства и создание меток
@@ -104,7 +79,7 @@ for i, resume_vector in enumerate(similarity_matrix):
 
 # Преобразуем пары текста для модели
 combined_text = [resume + " " + job for resume, job in X]
-X_tfidf = vectorizer.fit_transform(combined_text)
+X_tfidf = vectorizer.fit_transform(combined_text)  # Повторно обучаем на текстовых парах
 
 # Шаг 3: Разделение данных на обучающую и тестовую выборки
 X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.2, random_state=42, stratify=y)
@@ -128,13 +103,13 @@ def predict_fit(resume, job_description):
     return bool(prediction[0])  # True, если подходит, False — если не подходит
 
 # Пример использования функции предсказания
-new_resume = "Experienced data scientist with expertise in Python, SQL, and machine learning."
+new_resume = resumes[0]
 new_job_description = job_descriptions[0]
 result = predict_fit(new_resume, new_job_description)
 print("Does the candidate fit?", result)
 
 # Пример неподходящего случая
-new_resume_non_fit = ""
+new_resume_non_fit = resumes[0]
 new_job_description_non_fit = job_descriptions[1]
 result_non_fit = predict_fit(new_resume_non_fit, new_job_description_non_fit)
 print("Does the candidate fit?", result_non_fit)

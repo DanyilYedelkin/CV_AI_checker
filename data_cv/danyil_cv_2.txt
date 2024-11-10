@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Provided comprehensive administrative support to C-level executives, including scheduling meetings, coordinating travel arrangements, and managing calendars. Assisted with expense reporting, prepared presentations, and coordinated logistics for investor meetings and roadshows. Acted as point of contact for executive communications and handled ad hoc projects as needed.",
+  "Required Skills": "3 years of experience in executive assistance within a high-paced environment, with a strong focus on client and executive interactions. Advanced proficiency in MS Office, excellent written and verbal communication skills, highly organized, detail-oriented, and professional demeanor. Ability to prioritize tasks, handle multiple projects, and show initiative.",
+  "Educational Requirements": "Bachelor’s degree in Communications or a related field.",
+  "Experience Level": "3 years in high-level administrative roles.",
+  "Preferred Qualifications": "Direct experience with investor meetings and executive roadshow preparation.",
+  "Compensation and Benefits": "Flexible on compensation based on experience, with interest in growth opportunities and professional development."
+}

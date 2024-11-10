@@ -1,0 +1,8 @@
+{
+  "Core Responsibilities": "Supported senior executives by organizing extensive external/internal meetings, managing complex and dynamic calendars, and coordinating both domestic and international travel arrangements. Prepared and submitted detailed expense reports, drafted and edited email correspondence, and assisted with investor meetings and roadshow preparation. Frequently engaged in ad hoc projects requiring high-level organizational skills.",
+  "Required Skills": "Over 2 years of high-level administrative experience, primarily within financial services. Proficient in MS Office suite, polished and professional demeanor, and excellent interpersonal and communication skills, both verbal and written. Strong organizational abilities and attention to detail, capable of managing multiple priorities and adapting to a fast-paced environment. Known for good judgment, proactive mindset, and ability to interact with clients and executives at all levels.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "2 years of experience in executive administrative support.",
+  "Preferred Qualifications": "Experience coordinating investor meetings and assisting with roadshows.",
+  "Compensation and Benefits": "Open to competitive salary and benefits packages."
+}

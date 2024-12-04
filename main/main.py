@@ -76,7 +76,7 @@ job_descriptions = load_job_descriptions(data_job_folder)
 X, y = prepare_data_for_classification(resumes, job_descriptions)
 
 if len(set(y)) == 1:
-    print("Ошибка: все метки принадлежат одному классу.")
+    print("Error: all labels belong to the same class.")
 else:
     # Separation of data into training and test samples, taking into account class proportions
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)

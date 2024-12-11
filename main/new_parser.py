@@ -76,12 +76,11 @@ from keybert import KeyBERT
 import json
 from datetime import datetime
 
-# Загрузка моделей
-nlp = spacy.load("en_core_web_sm")  # Модель Spacy для NER
-kw_model = KeyBERT()  # Модель для ключевых фраз
+# Load models
+nlp = spacy.load("en_core_web_sm")  # Spacy model for NER
+kw_model = KeyBERT()  # Model for extracting key phrases
 
-
-# Категории для распознавания
+# Categories for recognition
 categories = {
     "Core Responsibilities": [],
     "Required Skills": [],
@@ -90,7 +89,7 @@ categories = {
     "Preferred Qualifications": []
 }
 
-# Функция для подсчёта общего опыта
+# Function to calculate total work experience
 def calculate_total_experience(text):
     date_ranges = re.findall(r'(\w+\s\d{4})\s*–\s*(\w+\s\d{4}|Current)', text)
     total_months = 0
@@ -102,12 +101,12 @@ def calculate_total_experience(text):
             months = (end_date.year - start_date.year) * 12 + (end_date.month - start_date.month)
             total_months += months
         except ValueError:
-            pass  # Игнорируем некорректные даты
+            pass  # Ignore invalid dates
 
     total_years = total_months // 12
     return total_years
 
-# Функция для выделения сущностей
+# Function to extract entities
 def extract_entities(text):
     doc = nlp(text)
     skills = set()
@@ -115,16 +114,16 @@ def extract_entities(text):
     for ent in doc.ents:
         if ent.label_ == "DATE":
             dates.add(ent.text)
-        elif ent.label_ in ["ORG", "PRODUCT", "WORK_OF_ART"]:  # Пример для навыков и инструментов
+        elif ent.label_ in ["ORG", "PRODUCT", "WORK_OF_ART"]:  # Example labels for skills and tools
             skills.add(ent.text)
     return skills, dates
 
-# Функция для ключевых фраз
+# Function to extract keywords
 def extract_keywords(text, num_keywords=10):
     keywords = kw_model.extract_keywords(text, keyphrase_ngram_range=(1, 2), stop_words='english')
     return [kw[0] for kw in keywords[:num_keywords]]
 
-# Обработка текста и распределение по категориям
+# Process resume text and classify into categories
 def process_resume(text):
     sentences = text.split("\n")
     skills, dates = extract_entities(text)
@@ -140,21 +139,21 @@ def process_resume(text):
         elif "experience" in sentence.lower():
             categories["Preferred Qualifications"].append(sentence)
 
-    # Добавление ключевых слов для категорий
+    # Add extracted keywords to Required Skills
     categories["Required Skills"].extend(keywords)
 
-    # Подсчёт общего опыта и добавление в Experience Level
+    # Calculate total experience and add to Experience Level
     total_experience = calculate_total_experience(text)
     categories["Experience Level"] = f"More than: {total_experience} years of experience."
 
-    # Объединение результатов
+    # Combine results
     for key in categories:
         categories[key] = " ".join(categories[key]) if isinstance(categories[key], list) and categories[key] else categories[key]
 
     return categories
 
-# Обработка резюме
+# Process the resume
 result = process_resume(resume_text)
 
-# Вывод результата
+# Output the result
 print(json.dumps(result, indent=2, ensure_ascii=False))

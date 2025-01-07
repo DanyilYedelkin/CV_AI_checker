@@ -7,6 +7,7 @@ from collections import Counter
 import os
 import numpy as np
 import matplotlib.pyplot as plt
+import re
 
 # Loading the model and the BERT tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -32,6 +33,18 @@ def load_resumes(data_cv_folder):
                     resumes.append(f.read().strip())
     return resumes
 
+# Extract keywords from text
+def extract_keywords(text):
+    keywords = re.findall(r'\b[A-Za-z-]+\b', text)
+    return set([word.lower() for word in keywords if len(word) > 2])
+
+# Calculate skill overlap
+def calculate_skill_overlap(resume, job_description):
+    resume_keywords = extract_keywords(resume)
+    job_keywords = extract_keywords(job_description)
+    common_keywords = resume_keywords.intersection(job_keywords)
+    return len(common_keywords) / len(job_keywords) if len(job_keywords) > 0 else 0
+
 # Function for calculating cosine similarity using the [CLS] token
 def calculate_cosine_similarity(resume, job_description):
     inputs_resume = tokenizer(resume, return_tensors="pt", padding=True, truncation=True, max_length=512)
@@ -52,14 +65,17 @@ def prepare_data_for_classification(resumes, job_descriptions):
     for resume in resumes:
         for job_description in job_descriptions:
             similarity = calculate_cosine_similarity(resume, job_description)
-            similarities.append(similarity)
-            X.append([similarity])
-            y.append(1 if similarity >= 0.8 else 0)  # The threshold can be varied
+            skill_overlap = calculate_skill_overlap(resume, job_description)
+            combined_score = (similarity + skill_overlap) / 2
+
+            similarities.append(combined_score)
+            X.append([combined_score])
+            y.append(1 if combined_score >= 0.7 else 0)  # Stricter threshold
 
     # Visualization of the distribution of similarities
     plt.hist(similarities, bins=30, color='skyblue', alpha=0.7)
     plt.title('Distribution of Similarities')
-    plt.xlabel('Cosine Similarity')
+    plt.xlabel('Combined Similarity Score')
     plt.ylabel('Frequency')
     plt.show()
 
@@ -104,11 +120,11 @@ else:
     # Prediction function
     def predict_fit(resume, job_description):
         similarity = calculate_cosine_similarity(resume, job_description)
-        prediction = classifier.predict([[similarity]])
+        skill_overlap = calculate_skill_overlap(resume, job_description)
+        combined_score = (similarity + skill_overlap) / 2
+        prediction = classifier.predict([[combined_score]])
         return "Fit" if prediction[0] == 1 else "Not Fit"
 
     # Example of use
     result = predict_fit(resumes[0], job_descriptions[0])
-    print(f"{resumes[0]}\n")
-    print(f"{job_descriptions[0]}\n")
     print(f"Does the candidate fit? {result}")

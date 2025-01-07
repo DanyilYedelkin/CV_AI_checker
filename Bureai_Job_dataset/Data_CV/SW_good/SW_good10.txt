@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Implemented and deployed fullstack features for customer-facing applications. Improved application performance through optimized code.",
+  "Required Skills": "Proficiency in .NET, JavaScript, and Ruby. 2+ years of fullstack experience.",
+  "Educational Requirements": "Bachelor's degree in Information Technology.",
+  "Experience Level": "2 years in fullstack web application development.",
+  "Preferred Qualifications": "Worked with React Native and Elasticsearch."
+}

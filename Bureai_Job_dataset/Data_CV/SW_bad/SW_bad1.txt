@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Assisted in maintaining existing CMS systems and performing bug fixes.",
+  "Required Skills": "Basic knowledge of HTML, CSS, and WordPress.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "1 year in web support.",
+  "Preferred Qualifications": ""
+}

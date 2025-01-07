@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed databases and performed SQL query optimizations.",
+  "Required Skills": "Strong SQL and database management skills.",
+  "Educational Requirements": "Bachelor's degree in Database Management.",
+  "Experience Level": "2 years as a database administrator.",
+  "Preferred Qualifications": ""
+}

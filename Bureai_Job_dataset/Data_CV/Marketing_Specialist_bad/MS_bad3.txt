@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Handled administrative tasks, including scheduling and data entry.",
+  "Required Skills": "Proficiency in Microsoft Word and Outlook.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "4 years as an administrative assistant.",
+  "Preferred Qualifications": ""
+}

@@ -1,30 +1,35 @@
+from flask import Flask, request, jsonify
 import re
 import spacy
 from keybert import KeyBERT
 import json
 from datetime import datetime
 import PyPDF2
+import os
+
+# Initialize Flask app
+app = Flask(__name__)
 
 # Load models
 nlp = spacy.load("en_core_web_sm")  # Spacy model for NER
 kw_model = KeyBERT()  # Model for extracting key phrases
 
 # Categories for recognition
-categories = {
-    "Core Responsibilities": [],
-    "Required Skills": [],
-    "Educational Requirements": [],
-    "Experience Level": [],
-    "Preferred Qualifications": []
-}
+def get_empty_categories():
+    return {
+        "Core Responsibilities": [],
+        "Required Skills": [],
+        "Educational Requirements": [],
+        "Experience Level": [],
+        "Preferred Qualifications": []
+    }
 
 # Function to read text from a PDF file
-def extract_text_from_pdf(pdf_path):
+def extract_text_from_pdf(file):
     text = ""
-    with open(pdf_path, "rb") as file:
-        reader = PyPDF2.PdfReader(file)
-        for page in reader.pages:
-            text += page.extract_text()
+    reader = PyPDF2.PdfReader(file)
+    for page in reader.pages:
+        text += page.extract_text() or ""  # Ensure no None values
     return text
 
 # Function to calculate total work experience
@@ -52,7 +57,7 @@ def extract_entities(text):
     for ent in doc.ents:
         if ent.label_ == "DATE":
             dates.add(ent.text)
-        elif ent.label_ in ["ORG", "PRODUCT", "WORK_OF_ART"]:  # Example labels for skills and tools
+        elif ent.label_ in ["ORG", "PRODUCT", "WORK_OF_ART"]:
             skills.add(ent.text)
     return skills, dates
 
@@ -63,6 +68,7 @@ def extract_keywords(text, num_keywords=10):
 
 # Process resume text and classify into categories
 def process_resume(text):
+    categories = get_empty_categories()
     sentences = text.split("\n")
     skills, dates = extract_entities(text)
     keywords = extract_keywords(text)
@@ -90,13 +96,24 @@ def process_resume(text):
 
     return categories
 
+# Flask route to handle file upload and parsing
+@app.route('/parse', methods=['POST'])
+def parse_pdf():
+    if 'file' not in request.files:
+        return jsonify({"error": "No file part in the request"}), 400
 
-# Input PDF file
-pdf_path = "../data_cv/CV_example.pdf"
-resume_text = extract_text_from_pdf(pdf_path)  # Extract text from PDF
+    file = request.files['file']
+    if file.filename == '':
+        return jsonify({"error": "No file selected"}), 400
 
-# Process the resume
-result = process_resume(resume_text)
+    # Check if the file is a PDF
+    if file and file.filename.endswith('.pdf'):
+        resume_text = extract_text_from_pdf(file)
+        result = process_resume(resume_text)
+        return jsonify(result), 200
+    else:
+        return jsonify({"error": "File format not supported. Please upload a PDF file."}), 400
 
-# Output the result
-print(json.dumps(result, indent=2, ensure_ascii=False))
+# Run the app
+if __name__ == '__main__':
+    app.run(debug=True)

@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Supervised kitchen staff and managed daily food preparation.",
+  "Required Skills": "Team leadership and inventory control.",
+  "Educational Requirements": "Certificate in Culinary Arts.",
+  "Experience Level": "5 years in food service.",
+  "Preferred Qualifications": ""
+}

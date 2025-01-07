@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Designed and implemented scalable fullstack solutions. Focused on improving usability through customer feedback.",
+  "Required Skills": "Proficiency in Python, JavaScript (React), and PHP. 2+ years of development experience.",
+  "Educational Requirements": "Bachelor's degree in Software Development.",
+  "Experience Level": "2 years in fullstack development.",
+  "Preferred Qualifications": "Worked with Android development and Elasticsearch."
+}

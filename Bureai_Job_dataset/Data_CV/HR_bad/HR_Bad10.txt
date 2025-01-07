@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Prepared financial reports and managed payroll for small businesses.",
+  "Required Skills": "Accounting software proficiency and financial reporting.",
+  "Educational Requirements": "Bachelor's Degree in Accounting.",
+  "Experience Level": "2 years in accounting and payroll.",
+  "Preferred Qualifications": ""
+}

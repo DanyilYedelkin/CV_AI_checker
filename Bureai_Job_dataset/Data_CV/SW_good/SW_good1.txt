@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed and deployed web applications with a focus on usability and performance. Participated in code reviews and monitored project outcomes.",
+  "Required Skills": "3 years of experience as a fullstack developer. Proficiency in Ruby on Rails and React. Strong knowledge of JavaScript.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "3 years of fullstack web development.",
+  "Preferred Qualifications": "Experience with React Native and Google Maps APIs."
+}

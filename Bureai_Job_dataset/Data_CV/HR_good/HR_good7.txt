@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Scheduled maintenance tasks and optimized technician routes. Provided training for new hires and ensured safety protocols.",
+  "Required Skills": "Expertise in Microsoft Office, scheduling tools, and Google Drive. Strong analytical skills.",
+  "Educational Requirements": "Bachelor's Degree in Operations Management.",
+  "Experience Level": "4 years leading operations teams.",
+  "Preferred Qualifications": "Experience in managing logistics in the transportation sector."
+}

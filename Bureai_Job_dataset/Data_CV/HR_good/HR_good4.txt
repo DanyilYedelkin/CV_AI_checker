@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Led a team of 10 technicians, managing schedules and assignments. Monitored team performance and ensured safety compliance.",
+  "Required Skills": "Skilled in Microsoft Office Suite, Google Docs, and scheduling software. Strong leadership abilities.",
+  "Educational Requirements": "Bachelor's Degree in Operations Management.",
+  "Experience Level": "2 years in team management and operations.",
+  "Preferred Qualifications": "Experience with inventory control systems."
+}

@@ -1,0 +1,89 @@
+{
+  "Core Responsibilities": "Managed commercial real estate transactions, including acquisitions, leasing agreements, and financing deals. Advised clients on legal compliance.",
+  "Required Skills": "4 years of experience in commercial real estate law. Expertise in leasing and sales transactions.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "4 years in commercial real estate law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Handled property acquisitions and leasing agreements for corporate clients. Negotiated financing terms for commercial transactions.",
+  "Required Skills": "3 years of experience in property law. Strong knowledge of real estate financing.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "3 years in commercial property law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Drafted and reviewed commercial leases and purchase agreements. Provided legal advice on financing structures.",
+  "Required Skills": "Proficiency in real estate contract negotiation. 5 years of experience in commercial real estate law.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "5 years in real estate transactions.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Conducted due diligence for commercial real estate acquisitions. Drafted leasing contracts and managed financing deals.",
+  "Required Skills": "At least 3 years of experience in commercial real estate transactions. Strong organizational skills.",
+  "Educational Requirements": "Law degree.",
+  "Experience Level": "3+ years in real estate law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Advised clients on commercial real estate acquisitions, sales, and financing. Drafted and reviewed leasing agreements.",
+  "Required Skills": "4 years in real estate law with a focus on commercial transactions.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "4 years in commercial real estate transactions.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Negotiated commercial leases, managed property sales transactions, and structured financing for real estate acquisitions.",
+  "Required Skills": "5 years of experience in commercial real estate law. Strong skills in contract negotiation and financing.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "5 years in commercial property law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Handled the sale and purchase of commercial properties. Drafted and reviewed lease agreements and provided legal consultation on financing.",
+  "Required Skills": "4 years of experience in real estate transactions. Proficient in legal drafting and transaction management.",
+  "Educational Requirements": "Law degree.",
+  "Experience Level": "4 years in real estate law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Oversaw the closing process for commercial property sales, prepared lease agreements, and advised clients on legal compliance.",
+  "Required Skills": "3 years in commercial real estate law. Strong organizational and legal writing skills.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "3 years in legal real estate transactions.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Provided legal services for commercial real estate leasing and acquisition transactions. Conducted due diligence and contract reviews.",
+  "Required Skills": "5 years of experience in commercial real estate law. Skilled in contract analysis and transaction structuring.",
+  "Educational Requirements": "Juris Doctor degree.",
+  "Experience Level": "5 years in property law.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Drafted commercial real estate contracts, assisted with financing agreements, and advised clients on property transactions.",
+  "Required Skills": "4 years of experience in commercial property transactions. Expertise in lease drafting and financial compliance.",
+  "Educational Requirements": "Law degree.",
+  "Experience Level": "4 years in legal real estate roles.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}

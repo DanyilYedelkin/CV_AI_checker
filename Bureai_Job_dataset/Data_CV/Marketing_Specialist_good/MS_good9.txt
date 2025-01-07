@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed tactical execution of marketing campaigns and coordinated brand partner events.",
+  "Required Skills": "Strong organizational and communication skills. Proficiency in Microsoft Excel and PowerPoint.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "3 years in event management and marketing roles.",
+  "Preferred Qualifications": "Experience in healthcare-related marketing initiatives."
+}

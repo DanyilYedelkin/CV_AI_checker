@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Organized executive calendars, took accurate dictations, and prepared high-level reports.",
+  "Required Skills": "Expertise in transcription, Microsoft Office Suite, and office management.",
+  "Educational Requirements": "Associate degree in Administrative Studies.",
+  "Experience Level": "3 years of clerical experience, including 1 year as stenographic secretary.",
+  "Preferred Qualifications": ""
+}

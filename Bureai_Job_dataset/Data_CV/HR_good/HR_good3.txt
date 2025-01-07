@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Scheduled field teams for repair operations and managed technician assignments. Enforced safety guidelines across all teams.",
+  "Required Skills": "Advanced skills in Microsoft Excel, Google Workspace. Excellent written and verbal communication.",
+  "Educational Requirements": "Bachelor's Degree in Industrial Engineering.",
+  "Experience Level": "4 years of operations and team leadership experience.",
+  "Preferred Qualifications": "Hands-on experience managing unionized workforces."
+}

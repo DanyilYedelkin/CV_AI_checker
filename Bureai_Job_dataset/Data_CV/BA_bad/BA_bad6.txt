@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Repaired and maintained computer hardware and networks for small businesses.",
+  "Required Skills": "Hardware troubleshooting, basic networking.",
+  "Educational Requirements": "Certificate in Computer Hardware.",
+  "Experience Level": "4 years in IT support roles.",
+  "Preferred Qualifications": ""
+}

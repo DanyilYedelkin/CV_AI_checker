@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Configured and managed network systems for small businesses.",
+  "Required Skills": "Network troubleshooting, router configuration.",
+  "Educational Requirements": "Certificate in Network Administration.",
+  "Experience Level": "3 years in IT network support.",
+  "Preferred Qualifications": ""
+}

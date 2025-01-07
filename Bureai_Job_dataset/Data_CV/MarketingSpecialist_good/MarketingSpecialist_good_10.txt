@@ -1,0 +1,90 @@
+{
+  "Core Responsibilities": "Created marketing materials, managed campaigns, and collaborated with sales teams to improve outreach. Analyzed campaign performance and optimized results.",
+  "Required Skills": "2+ years of experience in marketing. Proficient in content creation and campaign analysis.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2.5 years in marketing roles.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Planned and executed online marketing campaigns, wrote content for digital platforms, and worked closely with sales departments.",
+  "Required Skills": "Strong writing and analytical skills. 3 years of marketing experience.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "3 years of marketing and sales collaboration.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Managed offline events and digital campaigns. Tracked campaign performance and collaborated with cross-functional teams.",
+  "Required Skills": "Proficiency in campaign planning and communication. 2+ years in marketing.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "2 years in digital marketing.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Wrote and distributed marketing content, managed campaign budgets, and organized promotional events.",
+  "Required Skills": "Strong communication skills and creative thinking. 2+ years of experience in marketing.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "3 years in marketing and event management.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Created and executed campaigns to boost brand awareness. Worked closely with sales teams and tracked key performance indicators.",
+  "Required Skills": "Proficiency in content creation, campaign management, and analytics tools. 2 years of experience in marketing.",
+  "Educational Requirements": "Bachelor's degree in Marketing or related field.",
+  "Experience Level": "2+ years of marketing experience.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Planned and executed marketing campaigns, created promotional materials, and collaborated with sales teams to achieve business objectives.",
+  "Required Skills": "2 years of experience in digital marketing. Strong writing and campaign management skills.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2+ years in marketing roles.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Designed and implemented marketing strategies to boost brand visibility. Analyzed campaign metrics and adjusted strategies for optimization.",
+  "Required Skills": "Proficient in Google Analytics and campaign management. 3 years of marketing experience.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "3 years in marketing and analytics.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Created and distributed marketing materials for digital and print platforms. Supported sales teams with customized content.",
+  "Required Skills": "Excellent communication and creative writing skills. 2+ years of marketing experience.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "2+ years in content marketing.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Planned events and organized marketing campaigns to enhance customer engagement. Analyzed campaign data for performance improvement.",
+  "Required Skills": "Event planning, marketing strategy, and analytics skills. 2 years of experience in marketing.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2 years in event marketing.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+
+{
+  "Core Responsibilities": "Developed marketing campaigns, managed content distribution, and monitored campaign effectiveness.",
+  "Required Skills": "3 years of experience in marketing and campaign management. Strong analytical and communication skills.",
+  "Educational Requirements": "Bachelor's degree in Business Management.",
+  "Experience Level": "3 years in marketing roles.",
+  "Preferred Qualifications": "",
+  "Compensation and Benefits": ""
+}
+

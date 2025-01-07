@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed field teams for maintenance operations. Conducted employee training and ensured adherence to safety regulations.",
+  "Required Skills": "Proficiency in Google Sheets, Microsoft Office Suite, and scheduling tools. Strong organizational skills.",
+  "Educational Requirements": "Bachelor's Degree in Industrial Operations.",
+  "Experience Level": "3 years in supervisory operations.",
+  "Preferred Qualifications": "Background in transportation or bike share programs."
+}

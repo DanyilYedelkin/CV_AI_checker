@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Provided customer support, answered inquiries, and resolved client issues.",
+  "Required Skills": "Excellent verbal communication and basic computer skills.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "3 years in customer service.",
+  "Preferred Qualifications": ""
+}

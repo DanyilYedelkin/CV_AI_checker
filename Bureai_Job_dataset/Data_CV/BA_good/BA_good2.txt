@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Led IT projects focused on optimizing supply chain operations. Conducted data/process analysis to streamline workflows.",
+  "Required Skills": "Experience with Agile/Scrum methodologies. Proficient in Microsoft Azure DevOps and data modeling tools.",
+  "Educational Requirements": "Bachelor's degree in Business Analytics.",
+  "Experience Level": "2.5 years of relevant work experience.",
+  "Preferred Qualifications": "Experience with stakeholder management and best practice development."
+}

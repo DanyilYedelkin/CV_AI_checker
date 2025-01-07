@@ -1,0 +1,89 @@
+{
+  "Core Responsibilities": "Managed trampoline construction plans, prepared material orders, coordinated logistics for construction teams, and conducted budget tracking. Participated in consultation meetings and documented RFIs.",
+  "Required Skills": "Bachelor's degree in Construction Management. 5+ years in project management, 3+ years drafting in AutoCAD. Strong communication and problem-solving skills.",
+  "Educational Requirements": "Bachelor's degree in Construction Management.",
+  "Experience Level": "6 years in construction project management.",
+  "Preferred Qualifications": "Revit experience.",
+  "Compensation and Benefits": "Competitive salary with remote work and travel opportunities."
+}
+
+{
+  "Core Responsibilities": "Developed detailed construction plans, managed logistics for traveling teams, tracked project budgets, and performed financial reconciliation.",
+  "Required Skills": "Proficiency in AutoCAD, 5+ years of experience in construction management, and strong organizational skills.",
+  "Educational Requirements": "Bachelor's degree in Engineering.",
+  "Experience Level": "5 years in construction management.",
+  "Preferred Qualifications": "Experience with Revit.",
+  "Compensation and Benefits": "Competitive benefits and remote work flexibility."
+}
+
+{
+  "Core Responsibilities": "Coordinated construction plans, scheduled project logistics, responded to RFIs, and assisted in budget tracking.",
+  "Required Skills": "Bachelor's degree in related field. Strong drafting experience in AutoCAD and MS Project proficiency.",
+  "Educational Requirements": "Bachelor's degree in Civil Engineering.",
+  "Experience Level": "7 years of project management experience.",
+  "Preferred Qualifications": "Revit expertise.",
+  "Compensation and Benefits": "Remote opportunities with competitive benefits."
+}
+
+{
+  "Core Responsibilities": "Handled project budgeting, material takeoffs, and construction scheduling. Conducted field superintendent updates and documented consultations.",
+  "Required Skills": "5+ years in project management. Skilled in Windows OS, AutoCAD, and project software.",
+  "Educational Requirements": "Bachelor's degree in Construction Management.",
+  "Experience Level": "6 years in construction operations.",
+  "Preferred Qualifications": "Revit knowledge.",
+  "Compensation and Benefits": "Flexible work environment with competitive salary."
+}
+
+{
+  "Core Responsibilities": "Created construction plans and performed cost analysis. Organized travel logistics for teams and ensured project compliance.",
+  "Required Skills": "Proficiency in drafting, AutoCAD, and MS Project. Experience in RFIs and financial reconciliation.",
+  "Educational Requirements": "Bachelor's degree in Project Management.",
+  "Experience Level": "5+ years in construction management.",
+  "Preferred Qualifications": "Proficient in Revit.",
+  "Compensation and Benefits": "Remote work available with travel options."
+}
+
+{
+  "Core Responsibilities": "Planned and managed construction schedules, coordinated travel for field teams, and monitored project progress through budget tracking.",
+  "Required Skills": "5+ years of experience in construction management. Proficiency in AutoCAD and financial reconciliation.",
+  "Educational Requirements": "Bachelor's degree in Construction Management.",
+  "Experience Level": "5 years in project management.",
+  "Preferred Qualifications": "Experience with Revit.",
+  "Compensation and Benefits": "Remote work option with travel and comprehensive benefits."
+}
+
+{
+  "Core Responsibilities": "Developed construction plans, managed project budgets, and ensured timely delivery of materials.",
+  "Required Skills": "Extensive knowledge of AutoCAD, MS Project, and budgeting processes.",
+  "Educational Requirements": "Bachelor's degree in Civil Engineering.",
+  "Experience Level": "6 years of experience in construction project management.",
+  "Preferred Qualifications": "Proficiency in Revit software.",
+  "Compensation and Benefits": "Competitive salary and remote flexibility."
+}
+
+{
+  "Core Responsibilities": "Monitored construction budgets, coordinated logistics, and provided regular updates to field teams.",
+  "Required Skills": "Proficiency in drafting and financial reconciliation. Strong organizational skills.",
+  "Educational Requirements": "Bachelor's degree in Project Management.",
+  "Experience Level": "5+ years in construction operations.",
+  "Preferred Qualifications": "Revit expertise.",
+  "Compensation and Benefits": "Remote work opportunities with travel."
+}
+
+{
+  "Core Responsibilities": "Prepared RFIs, managed financial reconciliation, and participated in consultations with contractors and architects.",
+  "Required Skills": "5+ years of construction project management. Proficient in AutoCAD and MS Project.",
+  "Educational Requirements": "Bachelor's degree in Construction Engineering.",
+  "Experience Level": "7 years in project management roles.",
+  "Preferred Qualifications": "Revit knowledge.",
+  "Compensation and Benefits": "Flexible remote work and travel benefits."
+}
+
+{
+  "Core Responsibilities": "Developed project schedules, managed team travel logistics, and conducted financial tracking for construction projects.",
+  "Required Skills": "Expert in drafting, AutoCAD, and MS Project. 5+ years in construction management.",
+  "Educational Requirements": "Bachelor's degree in Construction Management.",
+  "Experience Level": "6 years in construction operations.",
+  "Preferred Qualifications": "Experience with Revit.",
+  "Compensation and Benefits": "Competitive salary and benefits package."
+}

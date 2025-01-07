@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Assisted in data entry and administrative tasks for office operations.",
+  "Required Skills": "Basic knowledge of Excel and Word. Strong organizational skills.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years in administrative roles.",
+  "Preferred Qualifications": ""
+}

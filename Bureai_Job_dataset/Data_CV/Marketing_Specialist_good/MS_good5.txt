@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Executed strategic partnership marketing plans. Managed events and measured campaign results.",
+  "Required Skills": "Bachelor's degree. Proficient in Excel, PowerPoint, and internet research.",
+  "Educational Requirements": "Bachelor's degree in Public Relations.",
+  "Experience Level": "2.5 years in partnership marketing.",
+  "Preferred Qualifications": "Strong analytical and planning skills. Experience in healthcare partnerships."
+}

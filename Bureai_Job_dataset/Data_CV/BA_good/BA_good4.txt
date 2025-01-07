@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Performed business analysis for IT projects within supply chain operations. Defined business problems and identified appropriate solutions.",
+  "Required Skills": "Proficient in Agile methodologies, including Scrum. Hands-on experience with Microsoft Azure DevOps.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "2 years of business analysis experience.",
+  "Preferred Qualifications": "Knowledge of competitor IT landscapes and stakeholder management."
+}

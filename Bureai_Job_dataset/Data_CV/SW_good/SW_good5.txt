@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Worked on fullstack development, building features aligned with business objectives. Deployed and monitored production releases.",
+  "Required Skills": "2+ years of experience with .NET, JavaScript, and React. Strong understanding of backend APIs.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "2+ years in web development.",
+  "Preferred Qualifications": "Experience with Google Maps APIs and React Native."
+}

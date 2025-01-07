@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Scheduled appointments, maintained organized filing systems, and prepared professional correspondence.",
+  "Required Skills": "Strong knowledge of Microsoft Office and document management. Shorthand skills.",
+  "Educational Requirements": "Associate degree in Secretarial Science.",
+  "Experience Level": "3 years in administrative roles, including 1 year as a stenographic secretary.",
+  "Preferred Qualifications": ""
+}

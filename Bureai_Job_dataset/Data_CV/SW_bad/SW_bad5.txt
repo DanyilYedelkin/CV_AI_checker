@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Maintained e-commerce platforms and managed content updates.",
+  "Required Skills": "Proficiency in Shopify and basic HTML.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years in e-commerce management.",
+  "Preferred Qualifications": ""
+}

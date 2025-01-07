@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed software solutions for managing financial data.",
+  "Required Skills": "Proficiency in Python, SQL, and data analysis.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "3 years as a software developer.",
+  "Preferred Qualifications": ""
+}

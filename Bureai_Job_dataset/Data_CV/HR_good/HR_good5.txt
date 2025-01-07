@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed day-to-day operations of maintenance teams. Conducted employee training and performance reviews.",
+  "Required Skills": "Proficiency in Microsoft Office and Google Drive. Strong organizational and communication skills.",
+  "Educational Requirements": "Bachelor's Degree in Business Administration.",
+  "Experience Level": "3 years of supervisory experience in operations.",
+  "Preferred Qualifications": "Experience in bike share or transportation industry."
+}

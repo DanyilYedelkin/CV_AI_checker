@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed retail operations, including inventory and sales reporting.",
+  "Required Skills": "Customer service, POS systems, and inventory management.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "3 years in retail management.",
+  "Preferred Qualifications": ""
+}

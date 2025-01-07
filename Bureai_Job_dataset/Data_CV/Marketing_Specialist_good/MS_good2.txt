@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed partnership marketing calendars, coordinated events, and collaborated with teams to develop promotional materials.",
+  "Required Skills": "Bachelor's degree. Strong Excel and PowerPoint skills. Excellent communication and organizational abilities.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "2 years of experience in marketing coordination.",
+  "Preferred Qualifications": "Experience in healthcare marketing. Detail-oriented and analytical mindset."
+}

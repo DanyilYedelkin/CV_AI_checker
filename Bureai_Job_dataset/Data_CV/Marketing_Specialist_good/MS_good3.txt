@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Planned and executed marketing programs for brand campaigns. Coordinated events and developed tracking systems for performance.",
+  "Required Skills": "Proficient in PowerPoint, Excel, and online research. Bachelor's degree in Communications. Strong presentation skills.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "3 years in event and partnership marketing.",
+  "Preferred Qualifications": "Experience working in healthcare industry campaigns."
+}

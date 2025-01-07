@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Designed graphics and created content for social media platforms.",
+  "Required Skills": "Adobe Photoshop, Illustrator, and Canva.",
+  "Educational Requirements": "Associate's Degree in Graphic Design.",
+  "Experience Level": "2 years as a graphic designer.",
+  "Preferred Qualifications": ""
+}

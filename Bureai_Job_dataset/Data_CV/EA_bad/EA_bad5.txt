@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Prepared food, managed kitchen staff, and ensured safety standards.",
+  "Required Skills": "Cooking and team management.",
+  "Educational Requirements": "Diploma in Culinary Arts.",
+  "Experience Level": "4 years in food service.",
+  "Preferred Qualifications": ""
+}

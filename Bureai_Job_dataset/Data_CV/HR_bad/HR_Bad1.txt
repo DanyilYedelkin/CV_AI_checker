@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Assisted customers with inquiries and processed transactions.",
+  "Required Skills": "Customer service skills and basic Excel knowledge.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "1 year in retail.",
+  "Preferred Qualifications": ""
+}

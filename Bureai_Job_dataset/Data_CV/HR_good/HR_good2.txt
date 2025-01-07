@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Supervised 15 technicians, developed schedules, and ensured timely completion of maintenance tasks. Conducted onboarding and training for new employees.",
+  "Required Skills": "Expert in Microsoft Office, Google Sheets, and route optimization tools. Strong problem-solving abilities.",
+  "Educational Requirements": "Associate Degree in Operations Management.",
+  "Experience Level": "3 years in a supervisory operations role.",
+  "Preferred Qualifications": "Experience managing large-scale logistics and bike share systems."
+}

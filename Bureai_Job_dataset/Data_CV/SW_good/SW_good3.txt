@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Built user-centric web applications using modern fullstack technologies. Regularly reviewed code and deployed updates.",
+  "Required Skills": "3 years experience with Java, React, and Ruby on Rails. Strong debugging and deployment skills.",
+  "Educational Requirements": "Bachelor's degree in Information Technology.",
+  "Experience Level": "3 years as a fullstack developer.",
+  "Preferred Qualifications": "Experience with iOS and Google Maps APIs."
+}

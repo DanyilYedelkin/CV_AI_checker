@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Took dictation during executive meetings, transcribed meeting minutes, and managed office documentation.",
+  "Required Skills": "Shorthand expertise, Microsoft Word proficiency, and strong organizational skills.",
+  "Educational Requirements": "High School Diploma with 4 years of clerical experience.",
+  "Experience Level": "2 years as a stenographic secretary.",
+  "Preferred Qualifications": ""
+}

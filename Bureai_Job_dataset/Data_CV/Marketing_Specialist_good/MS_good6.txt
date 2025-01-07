@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Planned, organized, and executed tactical marketing campaigns. Coordinated events and tracked success metrics.",
+  "Required Skills": "Bachelor's degree. Excellent Excel and PowerPoint skills. Strong communication and organizational abilities.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "3 years in event planning and marketing execution.",
+  "Preferred Qualifications": "Experience in healthcare promotional campaigns."
+}

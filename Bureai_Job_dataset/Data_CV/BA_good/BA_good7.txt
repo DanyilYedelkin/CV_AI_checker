@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Defined and resolved business problems related to supply chain operations. Supported IT teams in Agile development environments.",
+  "Required Skills": "Proficiency in data modeling, Azure DevOps, and Agile methodologies.",
+  "Educational Requirements": "Bachelor's degree in IT or related field.",
+  "Experience Level": "2.5 years of business analysis experience.",
+  "Preferred Qualifications": "Community leadership and stakeholder management experience."
+}

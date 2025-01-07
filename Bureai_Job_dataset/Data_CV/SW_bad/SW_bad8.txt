@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Maintained and repaired mechanical equipment in a manufacturing plant.",
+  "Required Skills": "Mechanical troubleshooting, machinery maintenance.",
+  "Educational Requirements": "Diploma in Mechanical Engineering.",
+  "Experience Level": "4 years in mechanical maintenance.",
+  "Preferred Qualifications": ""
+}

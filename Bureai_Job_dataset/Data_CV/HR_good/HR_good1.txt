@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed technician routes and schedules for daily field operations. Conducted safety training and ensured compliance with safety protocols.",
+  "Required Skills": "Proficient in Microsoft Office Suite and Google Workspace. Strong leadership and communication skills.",
+  "Educational Requirements": "Bachelor's Degree in Business Administration.",
+  "Experience Level": "2+ years in operations and team management roles.",
+  "Preferred Qualifications": "Experience in inventory management and working in unionized environments."
+}

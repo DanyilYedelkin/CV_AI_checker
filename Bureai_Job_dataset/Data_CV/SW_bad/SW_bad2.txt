@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed front-end designs for marketing websites.",
+  "Required Skills": "Experience with HTML, CSS, and minimal JavaScript.",
+  "Educational Requirements": "Associate's degree in Design.",
+  "Experience Level": "2 years as a front-end designer.",
+  "Preferred Qualifications": ""
+}

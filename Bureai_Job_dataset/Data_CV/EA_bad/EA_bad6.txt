@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed and maintained financial reports for corporate clients.",
+  "Required Skills": "Advanced Excel, financial forecasting, and budgeting.",
+  "Educational Requirements": "Bachelor's degree in Finance.",
+  "Experience Level": "3 years in financial analysis.",
+  "Preferred Qualifications": ""
+}

@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Oversaw technician scheduling and managed repair tasks. Conducted safety audits to ensure compliance.",
+  "Required Skills": "Strong leadership and communication skills. Proficient in Microsoft Excel and Google Sheets.",
+  "Educational Requirements": "Associate Degree in Logistics.",
+  "Experience Level": "3+ years in operations management roles.",
+  "Preferred Qualifications": "Experience managing union teams."
+}

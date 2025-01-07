@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Coordinated and executed events as part of strategic marketing initiatives. Monitored campaign performance and created reports.",
+  "Required Skills": "Bachelor's degree. Proficient in Excel, PowerPoint, and internet-based research.",
+  "Educational Requirements": "Bachelor's degree in Business Management.",
+  "Experience Level": "2 years in marketing operations.",
+  "Preferred Qualifications": "Experience in event planning and healthcare marketing."
+}

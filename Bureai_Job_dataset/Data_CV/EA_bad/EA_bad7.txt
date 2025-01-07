@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Operated heavy machinery and performed routine equipment maintenance.",
+  "Required Skills": "Machine operation, safety compliance.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "4 years in construction roles.",
+  "Preferred Qualifications": ""
+}

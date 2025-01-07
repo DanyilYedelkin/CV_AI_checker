@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Executed marketing programs, organized events, and prepared reports to measure success.",
+  "Required Skills": "Skilled in Excel, PowerPoint, and online analytics tools.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "2.5 years in event and marketing coordination.",
+  "Preferred Qualifications": "Attention to detail and healthcare campaign experience."
+}

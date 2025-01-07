@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed office schedules, prepared correspondence, and handled high-volume phone communications. Took dictation and transcribed documents efficiently.",
+  "Required Skills": "Proficient in Microsoft Office, shorthand, and document transcription. Excellent communication and organizational abilities.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "2 years as a stenographic secretary.",
+  "Preferred Qualifications": ""
+}

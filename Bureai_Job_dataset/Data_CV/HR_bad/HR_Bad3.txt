@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Handled phone calls and organized office files.",
+  "Required Skills": "Basic Microsoft Word and Outlook.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years as an administrative assistant.",
+  "Preferred Qualifications": ""
+}

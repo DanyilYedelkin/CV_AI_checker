@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Coordinated executive schedules, transcribed official documents, and handled external correspondence.",
+  "Required Skills": "Proficiency in transcription, shorthand, and Microsoft Office Suite.",
+  "Educational Requirements": "Bachelor's degree in Communication.",
+  "Experience Level": "2.5 years as a stenographic secretary.",
+  "Preferred Qualifications": ""
+}

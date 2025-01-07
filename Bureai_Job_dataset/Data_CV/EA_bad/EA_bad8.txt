@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Taught middle school students mathematics and science subjects.",
+  "Required Skills": "Lesson planning, classroom management.",
+  "Educational Requirements": "Bachelor's degree in Education.",
+  "Experience Level": "3 years as a school teacher.",
+  "Preferred Qualifications": ""
+}

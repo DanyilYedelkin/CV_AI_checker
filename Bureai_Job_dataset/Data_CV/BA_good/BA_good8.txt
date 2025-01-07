@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed Agile IT projects for supply chain process improvement. Conducted process analysis and system alignment studies.",
+  "Required Skills": "Hands-on experience with Scrum frameworks and Microsoft Azure DevOps.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "3 years in IT and supply chain analysis.",
+  "Preferred Qualifications": "Knowledge of competitive IT strategies."
+}

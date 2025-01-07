@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Handled food preparation and ensured cleanliness in the kitchen.",
+  "Required Skills": "Food safety certification, cooking, and cleaning skills.",
+  "Educational Requirements": "Certificate in Culinary Arts.",
+  "Experience Level": "2 years in food service.",
+  "Preferred Qualifications": ""
+}

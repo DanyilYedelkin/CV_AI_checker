@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Supervised warehouse operations, including inventory control and staff scheduling.",
+  "Required Skills": "Inventory management, team leadership.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "5 years in warehouse management.",
+  "Preferred Qualifications": ""
+}

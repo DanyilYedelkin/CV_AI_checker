@@ -1,0 +1,79 @@
+{
+  "Core Responsibilities": "Conducted career coaching sessions, including resume and LinkedIn optimization. Provided mock interviews and actionable feedback.",
+  "Required Skills": "5 years of experience in career coaching. Proficient in LinkedIn navigation and resume critique. Strong interpersonal and organizational skills.",
+  "Educational Requirements": "Bachelor's degree in Psychology.",
+  "Experience Level": "5 years in career transition support roles.",
+  "Preferred Qualifications": "Experience working with IT professionals."
+}
+
+{
+  "Core Responsibilities": "Advised job seekers on networking and pipeline management. Conducted detailed resume reviews and mock interviews.",
+  "Required Skills": "4 years in HR and career coaching. Excellent communication and analytical skills. Advanced Google Sheets knowledge.",
+  "Educational Requirements": "Bachelor's degree in Human Resources.",
+  "Experience Level": "4 years of career coaching experience.",
+  "Preferred Qualifications": "Supported clients in cybersecurity fields."
+}
+
+{
+  "Core Responsibilities": "Helped clients leverage networks and manage job applications. Conducted LinkedIn reviews and job search consultations.",
+  "Required Skills": "3 years of experience in workforce development. Skilled in building trust and connection. Proficient in resume critique.",
+  "Educational Requirements": "Bachelor's degree in Social Work.",
+  "Experience Level": "3 years in career coaching.",
+  "Preferred Qualifications": "Familiarity with IT and cybersecurity domains."
+}
+
+{
+  "Core Responsibilities": "Facilitated mock interviews and provided feedback. Guided clients through the job search process and networking strategies.",
+  "Required Skills": "6 years in career coaching and adult education. Empathetic listener with strong organizational skills.",
+  "Educational Requirements": "Master's degree in Cognitive-Behavioral Therapy.",
+  "Experience Level": "6 years in related fields.",
+  "Preferred Qualifications": "Experience working with IT professionals."
+}
+
+{
+  "Core Responsibilities": "Reviewed LinkedIn profiles, optimized resumes, and provided actionable job search feedback.",
+  "Required Skills": "3 years in HR. Advanced LinkedIn and networking skills. Detail-oriented and highly organized.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "3 years in career coaching.",
+  "Preferred Qualifications": "Experience supporting IT clients."
+}
+
+{
+  "Core Responsibilities": "Conducted mock interviews and career workshops. Helped clients optimize resumes and LinkedIn profiles for job applications.",
+  "Required Skills": "Proficiency in LinkedIn, resume critique, and job coaching. Strong problem-solving and organizational skills.",
+  "Educational Requirements": "Bachelor's degree in Sociology.",
+  "Experience Level": "4 years in career coaching roles.",
+  "Preferred Qualifications": "Experience with cybersecurity professionals."
+}
+
+{
+  "Core Responsibilities": "Guided job seekers through the job search process, including networking strategies and interview preparation.",
+  "Required Skills": "3+ years of career coaching experience. Expertise in LinkedIn and networking tools.",
+  "Educational Requirements": "Bachelor's degree in Human Resources.",
+  "Experience Level": "3 years of experience in career guidance.",
+  "Preferred Qualifications": "Supported clients in IT and cybersecurity industries."
+}
+
+{
+  "Core Responsibilities": "Provided feedback on resumes and LinkedIn profiles. Conducted mock interviews tailored to industry needs.",
+  "Required Skills": "Advanced skills in LinkedIn, Google Suite, and career counseling techniques.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "5 years in career development.",
+  "Preferred Qualifications": "Experience working with IT professionals."
+}
+
+{
+  "Core Responsibilities": "Supported clients in building networking strategies and improving job application outcomes. Conducted detailed resume reviews.",
+  "Required Skills": "Strong interpersonal and organizational skills. Proficiency in LinkedIn optimization.",
+  "Educational Requirements": "Bachelor's degree in Social Work.",
+  "Experience Level": "4 years in workforce development.",
+  "Preferred Qualifications": "Familiarity with IT domains."
+}
+
+{
+  "Core Responsibilities": "Guided clients through the end-to-end job application process, including resume building and networking.",
+  "Required Skills": "5 years in career guidance. Expertise in LinkedIn, resume critique, and job market analysis.",
+  "Educational Requirements": "Master's degree in Career Counseling.",
+  "Experience Level": "5 years of career coaching experience.",
+  "Preferred Qualifications": "Experience working with cybersecurity professionals."
+}

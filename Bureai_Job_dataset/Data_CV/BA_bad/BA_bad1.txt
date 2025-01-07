@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Maintained financial records and prepared monthly reports.",
+  "Required Skills": "Accounting, Excel, QuickBooks.",
+  "Educational Requirements": "Bachelor's degree in Accounting.",
+  "Experience Level": "3 years in finance.",
+  "Preferred Qualifications": ""
+}

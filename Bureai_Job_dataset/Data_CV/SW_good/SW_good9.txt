@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Designed and deployed responsive web applications with a focus on user experience. Collaborated closely with front-end and back-end teams.",
+  "Required Skills": "3 years experience with JavaScript, React, and PHP. Strong problem-solving skills.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "3 years in fullstack development.",
+  "Preferred Qualifications": "Experience with iOS development and Google Maps APIs."
+}

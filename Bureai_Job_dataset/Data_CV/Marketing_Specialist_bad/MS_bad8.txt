@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed day-to-day operations of a grocery store, including inventory and staff supervision.",
+  "Required Skills": "Inventory control, team management, customer service.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "5 years in retail management.",
+  "Preferred Qualifications": ""
+}

@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Maintained IT systems and resolved hardware/software issues for employees.",
+  "Required Skills": "Basic troubleshooting, knowledge of Windows OS.",
+  "Educational Requirements": "Associate degree in Computer Science.",
+  "Experience Level": "2 years in IT support roles.",
+  "Preferred Qualifications": ""
+}

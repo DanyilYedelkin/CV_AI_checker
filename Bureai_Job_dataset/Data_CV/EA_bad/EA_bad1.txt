@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed retail sales and assisted customers with purchases.",
+  "Required Skills": "Customer service and POS system operation.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years in retail sales.",
+  "Preferred Qualifications": ""
+}

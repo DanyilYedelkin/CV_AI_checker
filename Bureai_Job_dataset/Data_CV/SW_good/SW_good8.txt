@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Built scalable APIs and integrated front-end features for enterprise applications. Participated in agile development cycles.",
+  "Required Skills": "2+ years experience with Python and React. Proficiency in JavaScript and back-end services.",
+  "Educational Requirements": "Bachelor's degree in Software Engineering.",
+  "Experience Level": "2 years in web development.",
+  "Preferred Qualifications": "Experience working with React Native and Elasticsearch."
+}

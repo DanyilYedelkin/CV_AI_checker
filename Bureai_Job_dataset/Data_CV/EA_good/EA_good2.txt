@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Prepared detailed reports, managed meeting schedules, and transcribed high-priority documents.",
+  "Required Skills": "Advanced skills in Microsoft Office and shorthand. Strong verbal and written communication.",
+  "Educational Requirements": "Associate degree in Secretarial Science.",
+  "Experience Level": "3 years of clerical experience, including 1 year as a stenographic secretary.",
+  "Preferred Qualifications": ""
+}

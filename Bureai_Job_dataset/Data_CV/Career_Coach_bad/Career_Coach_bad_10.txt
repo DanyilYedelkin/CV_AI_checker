@@ -1,0 +1,79 @@
+{
+  "Core Responsibilities": "Managed retail operations and provided customer service.",
+  "Required Skills": "Inventory management and POS system operation.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "3 years in retail management.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Designed social media graphics and managed content calendars.",
+  "Required Skills": "Proficiency in Adobe Photoshop and Illustrator.",
+  "Educational Requirements": "Associate degree in Graphic Design.",
+  "Experience Level": "2 years in social media marketing.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Supervised warehouse operations and ensured inventory accuracy.",
+  "Required Skills": "Forklift operation and logistics planning.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "4 years in warehouse supervision.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Taught high school students mathematics and physics.",
+  "Required Skills": "Lesson planning and classroom management.",
+  "Educational Requirements": "Bachelor's degree in Education.",
+  "Experience Level": "3 years as a school teacher.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Repaired and maintained automotive systems for customers.",
+  "Required Skills": "Mechanical troubleshooting and diagnostic tools.",
+  "Educational Requirements": "Certificate in Automotive Technology.",
+  "Experience Level": "5 years as an auto mechanic.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Handled financial records and prepared monthly reports.",
+  "Required Skills": "Advanced Excel, budgeting, and accounting software.",
+  "Educational Requirements": "Bachelor's degree in Accounting.",
+  "Experience Level": "4 years in financial analysis.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Operated heavy machinery on construction sites and maintained equipment.",
+  "Required Skills": "Machine operation, safety compliance.",
+  "Educational Requirements": "Certificate in Construction Technology.",
+  "Experience Level": "3 years in construction roles.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Managed retail operations, including inventory and sales.",
+  "Required Skills": "Inventory management and customer service.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "3 years in retail management.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Provided IT support and troubleshooting for office staff.",
+  "Required Skills": "Basic Windows and networking skills.",
+  "Educational Requirements": "Associate degree in Information Technology.",
+  "Experience Level": "2 years in IT support roles.",
+  "Preferred Qualifications": ""
+}
+
+{
+  "Core Responsibilities": "Designed and delivered training programs for corporate teams.",
+  "Required Skills": "Instructional design and presentation skills.",
+  "Educational Requirements": "Bachelor's degree in Education.",
+  "Experience Level": "4 years in corporate training.",
+  "Preferred Qualifications": ""
+}

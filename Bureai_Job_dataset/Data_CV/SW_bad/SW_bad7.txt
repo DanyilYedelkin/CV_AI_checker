@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Prepared financial statements and managed payroll for clients.",
+  "Required Skills": "Advanced Excel and QuickBooks proficiency.",
+  "Educational Requirements": "Bachelor's degree in Accounting.",
+  "Experience Level": "2 years in financial analysis.",
+  "Preferred Qualifications": ""
+}

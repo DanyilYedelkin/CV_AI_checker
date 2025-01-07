@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Repaired vehicles and conducted routine maintenance checks.",
+  "Required Skills": "Mechanical skills, use of diagnostic tools.",
+  "Educational Requirements": "Automotive Repair Certificate.",
+  "Experience Level": "4 years as a mechanic.",
+  "Preferred Qualifications": ""
+}

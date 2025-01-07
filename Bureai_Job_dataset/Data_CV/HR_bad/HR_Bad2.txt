@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed warehouse inventory and shipping schedules.",
+  "Required Skills": "Forklift operation, inventory systems.",
+  "Educational Requirements": "Certificate in Logistics.",
+  "Experience Level": "3 years in warehouse management.",
+  "Preferred Qualifications": ""
+}

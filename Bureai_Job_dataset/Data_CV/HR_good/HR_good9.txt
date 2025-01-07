@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Supervised technicians, prepared schedules, and ensured safety compliance. Monitored work progress and managed incidents.",
+  "Required Skills": "Skilled in Microsoft Office Suite and Google Docs. Strong leadership and communication skills.",
+  "Educational Requirements": "Bachelor's Degree in Business Management.",
+  "Experience Level": "2+ years of operations management.",
+  "Preferred Qualifications": "Experience with inventory systems and union management."
+}

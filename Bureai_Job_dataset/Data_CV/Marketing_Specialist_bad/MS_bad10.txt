@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Provided legal research and supported attorneys in preparing court documents.",
+  "Required Skills": "Legal research, case file management.",
+  "Educational Requirements": "Bachelor's degree in Law.",
+  "Experience Level": "2 years as a paralegal.",
+  "Preferred Qualifications": ""
+}

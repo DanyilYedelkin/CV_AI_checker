@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed social media platforms and created marketing campaigns to promote products.",
+  "Required Skills": "Social media management, content creation, and basic graphic design.",
+  "Educational Requirements": "Bachelor's Degree in Marketing.",
+  "Experience Level": "2 years in marketing and content creation.",
+  "Preferred Qualifications": ""
+}

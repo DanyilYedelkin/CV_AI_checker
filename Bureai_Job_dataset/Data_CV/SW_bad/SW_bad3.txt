@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Created graphics and visual content for social media platforms.",
+  "Required Skills": "Proficiency in Photoshop and Illustrator.",
+  "Educational Requirements": "Certificate in Graphic Design.",
+  "Experience Level": "3 years in design roles.",
+  "Preferred Qualifications": ""
+}

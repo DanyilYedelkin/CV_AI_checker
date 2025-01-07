@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for recruitment, onboarding, training and development, performance coaching and management, employee engagement, benefits, employee relations and compensation. Monitors and ensures compliance with federal, state and local employment laws.",
+  "Required Skills": "Bachelor's degree preferably in human resources. At least 3 years of HR experience.",
+  "Educational Requirements": "Bachelor's degree, preferably in human resources", 
+  "Experience Level": "At least 3 years of HR experience",
+  "Preferred Qualifications": "Experience working in a financial institution",
+  "Compensation and Benefits": "N/A"
+}

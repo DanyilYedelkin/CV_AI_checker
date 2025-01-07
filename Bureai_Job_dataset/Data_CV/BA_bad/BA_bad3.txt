@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Supervised construction projects and managed on-site teams.",
+  "Required Skills": "Project management, team coordination.",
+  "Educational Requirements": "Diploma in Civil Engineering.",
+  "Experience Level": "5 years in construction project supervision.",
+  "Preferred Qualifications": ""
+}

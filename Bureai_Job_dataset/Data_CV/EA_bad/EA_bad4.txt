@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Assisted patients with check-ins and maintained medical records.",
+  "Required Skills": "Basic computer skills and medical filing.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years in medical office support.",
+  "Preferred Qualifications": ""
+}

@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Assisted with stock management and customer support in a retail environment.",
+  "Required Skills": "Inventory control, customer communication.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "2 years in retail operations.",
+  "Preferred Qualifications": ""
+}

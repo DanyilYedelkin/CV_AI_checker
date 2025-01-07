@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Taught students basic computer skills and Microsoft Office tools.",
+  "Required Skills": "Proficiency in teaching and knowledge of Microsoft Office.",
+  "Educational Requirements": "Bachelor's Degree in Education.",
+  "Experience Level": "3 years as a computer instructor.",
+  "Preferred Qualifications": ""
+}

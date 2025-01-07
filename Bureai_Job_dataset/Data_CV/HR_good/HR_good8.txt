@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Coordinated technician teams for field maintenance tasks. Conducted training sessions and tracked performance metrics.",
+  "Required Skills": "Proficient in Google Workspace, Microsoft Word, and scheduling tools. Excellent team leadership.",
+  "Educational Requirements": "Bachelor's Degree in Management.",
+  "Experience Level": "2+ years in team management roles.",
+  "Preferred Qualifications": "Familiarity with union workforce operations."
+}

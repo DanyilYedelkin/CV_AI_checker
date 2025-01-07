@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Coordinated front desk operations, including greeting visitors and managing office supplies.",
+  "Required Skills": "Customer service, data entry, and phone handling.",
+  "Educational Requirements": "High School Diploma.",
+  "Experience Level": "3 years as a front desk receptionist.",
+  "Preferred Qualifications": ""
+}

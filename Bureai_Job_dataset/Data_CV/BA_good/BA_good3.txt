@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Analyzed alignment between supply chain requirements and system capabilities. Provided solutions to improve business processes.",
+  "Required Skills": "2+ years experience in supply chain management. Strong experience with systems engineering and process modeling.",
+  "Educational Requirements": "Bachelor's degree in Systems Engineering.",
+  "Experience Level": "3 years of relevant experience.",
+  "Preferred Qualifications": "Industry insights on IT solutions for competitive advantage."
+}

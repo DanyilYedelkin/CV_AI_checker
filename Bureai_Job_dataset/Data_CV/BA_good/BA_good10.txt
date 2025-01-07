@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Worked with IT project teams to improve supply chain processes through system analysis and solutions implementation.",
+  "Required Skills": "2+ years in Agile environments. Proficiency in Azure DevOps and systems engineering.",
+  "Educational Requirements": "Bachelor's degree in Supply Chain Analytics.",
+  "Experience Level": "2 years of experience in business analysis.",
+  "Preferred Qualifications": "Industry leadership and IT insights for competitive advantage."
+}

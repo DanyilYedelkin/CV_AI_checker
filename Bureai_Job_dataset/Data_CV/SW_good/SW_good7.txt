@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Engineered fullstack solutions using React and Java. Conducted code reviews and unit testing to maintain quality.",
+  "Required Skills": "Proficiency in Java, React, and .NET. Strong understanding of API development.",
+  "Educational Requirements": "Bachelor's degree in Information Systems.",
+  "Experience Level": "3 years of experience as a fullstack developer.",
+  "Preferred Qualifications": "Experience with Android development and Google Maps APIs."
+}

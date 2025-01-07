@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Take dictation, transcribe documents, prepare correspondence, handle phone calls, schedule appointments, maintain files and office routines.",
+  "Required Skills": "Proficiency in shorthand, transcription, Microsoft Office. Communication and organizational skills.",  
+  "Educational Requirements": "High school diploma plus 4 years clerical experience including 2 as stenographic secretary, or Bachelor's degree plus 1 year as stenographic secretary, or Associate's degree in secretarial science plus 3 years clerical experience including 1 as stenographic secretary.",
+  "Experience Level": "2-4 years experience as a stenographic secretary.",
+  "Preferred Qualifications": "N/A",
+  "Compensation and Benefits": "N/A"
+}

@@ -1,0 +1,80 @@
+{
+  "Core Responsibilities": "Developed marketing materials for RFP processes and led cross-functional team collaborations for client presentations.",
+  "Required Skills": "Bachelor's degree in Business. Strong project management and analytical skills. 2+ years of experience in marketing and business development.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "3 years in marketing and strategy development.",
+  "Preferred Qualifications": "Experience in payment industry and multichannel marketing campaigns."
+}
+
+{
+  "Core Responsibilities": "Created tailored sales pitches and marketing presentations for key clients. Supported multichannel campaign implementations.",
+  "Required Skills": "Bachelor's degree. Proficient in Microsoft Office and marketing campaign tools.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "2 years of experience in sales and marketing.",
+  "Preferred Qualifications": "RFP management and client service experience."
+}
+
+{
+  "Core Responsibilities": "Coordinated RFP responses, developed pitch decks, and organized marketing materials for business development teams.",
+  "Required Skills": "2+ years of experience in marketing and consulting. Excellent written communication and presentation design skills.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "3 years in client service and marketing.",
+  "Preferred Qualifications": "Experience in issuer marketing and payment solutions."
+}
+
+{
+  "Core Responsibilities": "Led RFP responses and designed marketing strategies to showcase business value to prospective clients.",
+  "Required Skills": "Strong skills in Microsoft PowerPoint and Excel. Proven analytical and project management abilities.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2 years of business development experience.",
+  "Preferred Qualifications": "Experience implementing multichannel campaigns."
+}
+
+{
+  "Core Responsibilities": "Supported marketing team by crafting RFP responses and creating high-impact sales materials.",
+  "Required Skills": "Bachelor's degree. Advanced Microsoft Office skills and strong visual design expertise.",
+  "Educational Requirements": "Bachelor's degree in Business.",
+  "Experience Level": "2.5 years in sales and marketing strategy.",
+  "Preferred Qualifications": "Experience in the payment industry."
+}
+
+{
+  "Core Responsibilities": "Developed RFP responses and led strategy sessions to align client needs with business goals. Designed and delivered presentations for key stakeholders.",
+  "Required Skills": "Bachelor's degree in Business. Strong analytical and project management skills. Proficiency in Microsoft Office Suite.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "2.5 years in marketing and strategy roles.",
+  "Preferred Qualifications": "Experience with client-facing RFPs and payment systems."
+}
+
+{
+  "Core Responsibilities": "Created marketing collateral and coordinated cross-functional teams to deliver high-impact client solutions. Supported proposal writing processes.",
+  "Required Skills": "Proficiency in Excel and PowerPoint. Strong written and verbal communication skills.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2 years of experience in marketing and business development.",
+  "Preferred Qualifications": "Experience with multichannel campaigns."
+}
+
+{
+  "Core Responsibilities": "Supported the preparation of RFP submissions and created customized marketing materials for prospective clients.",
+  "Required Skills": "Expertise in project management and data analysis. Proficient in Microsoft Office tools.",
+  "Educational Requirements": "Bachelor's degree in Communications.",
+  "Experience Level": "3 years in marketing and strategy execution.",
+  "Preferred Qualifications": "Industry experience in payments or marketing."
+}
+
+{
+  "Core Responsibilities": "Led cross-departmental initiatives to develop business proposals and execute targeted marketing strategies. Managed multichannel campaign workflows.",
+  "Required Skills": "Bachelor's degree in Business or related field. Advanced skills in Excel and PowerPoint.",
+  "Educational Requirements": "Bachelor's degree in Business.",
+  "Experience Level": "2+ years in business development.",
+  "Preferred Qualifications": "Experience with RFP processes and stakeholder engagement."
+}
+
+{
+  "Core Responsibilities": "Facilitated marketing strategy discussions and developed client presentations tailored to business objectives. Analyzed project outcomes to improve future campaigns.",
+  "Required Skills": "Strong analytical mindset, proficiency in Microsoft Office, and excellent communication skills.",
+  "Educational Requirements": "Bachelor's degree in Business Administration.",
+  "Experience Level": "3 years in marketing and project management.",
+  "Preferred Qualifications": "Experience with payments and multichannel campaigns."
+}
+

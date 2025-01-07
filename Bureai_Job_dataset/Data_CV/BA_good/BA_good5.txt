@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Analyzed and modeled business processes to address supply chain challenges. Worked closely with IT teams to deliver solutions.",
+  "Required Skills": "Knowledge of Agile frameworks, experience with Azure DevOps. Strong analytical and influencing skills.",
+  "Educational Requirements": "Bachelor's degree in Information Systems.",
+  "Experience Level": "3 years of experience in supply chain business analysis.",
+  "Preferred Qualifications": "Ability to apply IT competitive strategies to business problems."
+}

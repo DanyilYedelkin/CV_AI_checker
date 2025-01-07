@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Identified opportunities for IT solutions in supply chain workflows. Conducted process modeling and provided actionable insights.",
+  "Required Skills": "Experience with Agile/Scrum and data modeling tools. Strong systems analysis expertise.",
+  "Educational Requirements": "Bachelor's degree in Business Analytics.",
+  "Experience Level": "3 years relevant experience.",
+  "Preferred Qualifications": "Best practices development and stakeholder communication."
+}

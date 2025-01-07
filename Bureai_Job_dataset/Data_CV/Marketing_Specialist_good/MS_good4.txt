@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed marketing materials, managed brand partnerships, and executed tactical marketing campaigns.",
+  "Required Skills": "Bachelor's degree. Proficiency in Excel and PowerPoint. Strong communication and planning skills.",
+  "Educational Requirements": "Bachelor's degree in Marketing.",
+  "Experience Level": "2 years of experience in tactical marketing execution.",
+  "Preferred Qualifications": "Attention to detail and experience in healthcare marketing."
+}

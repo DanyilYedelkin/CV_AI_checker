@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Collaborated with cross-functional teams to deliver production-ready web applications. Conducted usability testing and frequent deployments.",
+  "Required Skills": "2+ years experience in fullstack development using Python and JavaScript. Proficient in React.",
+  "Educational Requirements": "Bachelor's degree in Software Engineering.",
+  "Experience Level": "2.5 years in web application development.",
+  "Preferred Qualifications": "Experience with Elasticsearch and React Native."
+}

@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Developed fullstack applications with clean, modular code. Collaborated with product teams for timely feature releases.",
+  "Required Skills": "Proficiency in Python, React, and Ruby on Rails. 2.5 years of experience in web development.",
+  "Educational Requirements": "Bachelor's degree in Computer Science.",
+  "Experience Level": "2.5 years in fullstack development.",
+  "Preferred Qualifications": "Experience working with Elasticsearch and React Native."
+}

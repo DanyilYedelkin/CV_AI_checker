@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Managed kitchen operations, prepared meals, and ensured food safety standards.",
+  "Required Skills": "Cooking, inventory management.",
+  "Educational Requirements": "Diploma in Culinary Arts.",
+  "Experience Level": "5 years in food services.",
+  "Preferred Qualifications": ""
+}

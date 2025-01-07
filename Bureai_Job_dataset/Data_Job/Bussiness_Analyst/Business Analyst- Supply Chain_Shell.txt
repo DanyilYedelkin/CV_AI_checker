@@ -1,0 +1,8 @@
+ {
+  "Core Responsibilities": "Responsible for identifying and defining the business needs of Shell's supply chain business and helping to determine solutions to meet those needs or resolve various business problems. Works as part of an IT project development environment.",
+  "Required Skills": "Legal authorization to work full-time in the US. Bachelor's degree in IT or related field preferred. At least 2 years relevant work experience. Knowledge of supply chain operations. Knowledge of business analysis techniques and tools. Experience with Agile projects like Scrum and tools like Microsoft Azure DevOps. Understanding of systems engineering concepts, data/process analysis and modeling. Knowledge of the technology landscape. Ability to take a systematic, analytical approach to problem solving with close attention to detail. Experience analyzing alignment between business requirements and system capabilities. Strong interpersonal and influencing skills. Clear written and verbal communication skills.",  
+  "Educational Requirements": "Bachelor's degree in IT or related field preferred",
+  "Experience Level": "At least 2 years relevant work experience",
+  "Preferred Qualifications": "Knowledge of how competitors use IT solutions to gain competitive edge and ability to apply that knowledge to projects. Experience with stakeholder management, community leadership, developing best practices, and industry events/webcasts.",
+  "Compensation and Benefits": "N/A"
+}

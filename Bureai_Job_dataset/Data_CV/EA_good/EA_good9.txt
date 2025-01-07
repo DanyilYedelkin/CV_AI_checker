@@ -1,0 +1,7 @@
+{
+  "Core Responsibilities": "Handled dictation transcription, created business letters, and managed executive phone calls.",
+  "Required Skills": "Proficiency in Microsoft Office, shorthand, and time management.",
+  "Educational Requirements": "Bachelor's degree in Secretarial Science.",
+  "Experience Level": "2.5 years in stenographic secretarial roles.",
+  "Preferred Qualifications": ""
+}

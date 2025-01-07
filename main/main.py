@@ -15,19 +15,21 @@ model = BertModel.from_pretrained('bert-base-uncased')
 # Functions for loading data
 def load_job_descriptions(data_job_folder):
     job_descriptions = []
-    for filename in os.listdir(data_job_folder):
-        if filename.endswith(".txt"):
-            with open(os.path.join(data_job_folder, filename), 'r', encoding='utf-8') as file:
-                job_text = file.read().strip()
-                job_descriptions.append(job_text)
+    for root, dirs, files in os.walk(data_job_folder):
+        for file in files:
+            if file.endswith(".txt"):
+                with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                    job_text = f.read().strip()
+                    job_descriptions.append(job_text)
     return job_descriptions
 
 def load_resumes(data_cv_folder):
     resumes = []
-    for filename in os.listdir(data_cv_folder):
-        if filename.endswith(".txt"):
-            with open(os.path.join(data_cv_folder, filename), 'r', encoding='utf-8') as file:
-                resumes.append(file.read().strip())
+    for root, dirs, files in os.walk(data_cv_folder):
+        for file in files:
+            if file.endswith(".txt"):
+                with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                    resumes.append(f.read().strip())
     return resumes
 
 # Function for calculating cosine similarity using the [CLS] token
@@ -66,11 +68,20 @@ def prepare_data_for_classification(resumes, job_descriptions):
     return X, y
 
 # Data loading
-data_job_folder = os.path.join(os.getcwd(), "..", "data_job")
-data_cv_folder = os.path.join(os.getcwd(), "..", "data_cv")
+data_job_folder = os.path.join(os.getcwd(), "..", "Bureai_Job_dataset", "Data_Job")
+data_cv_folder = os.path.join(os.getcwd(), "..", "Bureai_Job_dataset", "Data_CV")
+
+print(f"Resumes path: {data_cv_folder}")
+print(f"Job descriptions path: {data_job_folder}")
 
 resumes = load_resumes(data_cv_folder)
 job_descriptions = load_job_descriptions(data_job_folder)
+
+print(f"Number of resumes loaded: {len(resumes)}")
+print(f"Number of job descriptions loaded: {len(job_descriptions)}")
+
+if len(resumes) == 0 or len(job_descriptions) == 0:
+    raise ValueError("No resumes or job descriptions were loaded. Please check data folders.")
 
 # Data preparation
 X, y = prepare_data_for_classification(resumes, job_descriptions)
@@ -98,4 +109,6 @@ else:
 
     # Example of use
     result = predict_fit(resumes[0], job_descriptions[0])
+    print(f"{resumes[0]}\n")
+    print(f"{job_descriptions[0]}\n")
     print(f"Does the candidate fit? {result}")

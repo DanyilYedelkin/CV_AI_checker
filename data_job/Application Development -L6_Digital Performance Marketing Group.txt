@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for research, design and development of computer software systems in conjunction with hardware product development. Primarily responsible for the design and development of software products for a variety of software applications, participates in all phases of the software development life cycle including requirements analysis, design, implementation, integration and test of software products.",
-  "Required Skills": "Bachelor's degree in computer science, electrical engineering or related engineering field. 2+ years of embedded software engineering experience. 2+ years experience with C and/or Ada. 2+ years real time operating systems experience.",  
-  "Educational Requirements": "Bachelor's degree in computer science, electrical engineering or related engineering field",
-  "Experience Level": "2+ years of embedded software engineering experience",
-  "Preferred Qualifications": "EW background. Capable of working on both high and low level software. VxWorks or similar embedded OS experience. UML design experience.",
-  "Compensation and Benefits": "N/A"
-}

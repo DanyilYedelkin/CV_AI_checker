@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Observe and provide feedback to teachers; develop and implement coaching plans; model instructional strategies; coordinate professional development activities; design and implement teacher professional development; train, support and coach faculty in special education, ENL instruction and at-risk student services.",
-  "Required Skills": "NY state teaching certification in students with disabilities and/or TESOL/ELL; proficiency in MS Office, Google Calendar, Salesforce; understanding of curriculum design, common core standards, child learning theory, behavioral approaches, differentiation strategies; classroom management strategies.", 
-  "Educational Requirements": "Bachelor's degree; preferred Master's degree.",
-  "Experience Level": "Preferred 5+ years of classroom teaching experience; preferred 2+ years of leadership experience.",
-  "Preferred Qualifications": "Experience working in an urban school setting.",
-  "Compensation and Benefits": "Competitive compensation based on experience. Comprehensive benefits package including commuter benefits, gym reimbursement, TRS pension program."
-}

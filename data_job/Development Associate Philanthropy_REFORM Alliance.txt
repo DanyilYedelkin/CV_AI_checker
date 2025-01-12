@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "- Managing the CPO's calendar and scheduling\n- Developing agendas and taking notes for meetings\n- Preparing the CPO and senior staff for meetings\n- Managing the weekly growth team meetings\n- Being the liaison with the finance team on new gifts \n- Coordinating acknowledgement and follow up with the CPO\n- Maintaining the CRM system in Salesforce\n- Supporting fundraising events and convenings\n- Preparing materials for board meetings",
-  "Required Skills": "- 2+ years experience in NGO or similar org\n- Ability to work with stakeholders at all levels\n- Excellent writing, editing and presentation skills\n- Strong organizational and administrative skills\n- Detail-oriented with strong attention to detail\n- Strong work ethic and willingness to go extra mile",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

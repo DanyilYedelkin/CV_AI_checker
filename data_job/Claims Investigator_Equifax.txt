@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "contact clients to review unemployment cases documenting conversations, load and handle incoming emails, screen unemployment documents and write detailed letters to the unemployment state agency, analyze and review unemployment laws as needed for each case",
-  "Required Skills": "Customer service skills, ability to analyze case information and interpret laws and regulations, proficiency with computers and data analysis",
-  "Educational Requirements": "Associate's degree or equivalent, or 2 years of customer service related experience/training",
-  "Experience Level": "2 years of customer service related experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

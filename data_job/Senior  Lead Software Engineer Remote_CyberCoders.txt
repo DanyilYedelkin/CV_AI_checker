@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design, build and implement SaaS applications and play an influential role in growing our company to be the industry leader. Fullstack development with a strong emphasis on backend.",
-  "Required Skills": "Understanding of scalability challenges and performance of server-side code, SaaS development experience, experience with RESTful web services APIs and asynchronous data flow, experience designing schemas and performant queries for relational databases, experience building applications a frontend framework, deep understanding of commonly used data structures and algorithms. Our stack includes the following we are open to engineers willing to learn: Ruby on Rails, MySQL, React, Redux, Docker.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Senior Software Engineer with solid backend or fullstack experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Full medical, dental and health benefits, 100% 401K match for your contributions, unlimited vacation time - we actually use it, fully remote role - the tools needed to successfully work remotely, flexible scheduling, career pathing as well as learning and development opportunities, recognition perks - long-term incentive plans"
-}

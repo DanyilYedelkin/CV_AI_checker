@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive and exceed sales goals by leading Macy's initiatives through coaching and recognition while optimizing productivity and efficiency. Lead customer service in the store - ensure colleagues engage with customers and provide a friendly and easy to shop environment. Manage all aspects of selling support including workload execution, backstocking and equipment return, maintaining stockroom and signing standards and supporting the merchandising process.",
-  "Required Skills": "High school diploma or equivalent, some college preferred but not required. A minimum of 5 years retail management in a department or specialty store. Effective written and verbal communication skills. Ability to draft reports and other communications effectively, present to management and internal and external business partners, and interpret instructional documents such as safety rules, operating and maintenance instructions and procedure manuals. Working knowledge of Microsoft Word, PowerPoint, Excel and Exchange. Ability to handle multiple tasks simultaneously. Self-motivated, excellent organizational, prioritization and time management skills. Ability to collaborate and function as a member of a team. Must possess a strong sense of urgency. Must be proficient in the use of computers and RF equipment. Strong interpersonal and leadership skills. Highly organized with the ability to adapt quickly to changing priorities.",
-  "Educational Requirements": "High school diploma or equivalent, some college preferred but not required",
-  "Experience Level": "A minimum of 5 years retail management in a department or specialty store",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

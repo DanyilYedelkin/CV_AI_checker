@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Contributing as a primary contact for day-to-day clients; assisting in the development of program strategies and analyses for clients; daily campaign monitoring, optimization, reporting and testing; establishing and driving paid shopper marketing best practices; maintaining quality assurance and accountability for campaign delivery; help to write and deliver media strategies; ensuring media deliverables meet client goals; overseeing performance forecasts, budget allocations, and providing data-based rationale; providing creative solutions to challenges; direct oversight of analysts; understanding big picture implications and applying insights; fostering relationships with teams; developing quality control procedures.",
-  "Required Skills": "2-4 years of digital media experience, 2+ years of shopper/ecommerce marketing experience; strong familiarity with the digital environment; clear understanding of media planning/buying; multichannel knowledge; search and display experience preferred; keen attention to detail and analytical approach; strong understanding of research tools; solid quantitative and research skills; proven data interpretation capability; fluency with Microsoft Office; excellent client presence and discussion leadership; ability to understand client objectives and translate into strategies; excellent communication and writing skills; willingness to travel as needed.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2-4 years of digital media experience",
-  "Preferred Qualifications": "Experience with Criteo, Target, Amazon, Walmart, Kroger, etc.",
-  "Compensation and Benefits": "N/A"
-}

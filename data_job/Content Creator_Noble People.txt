@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Producing high-quality content for company websites, blogs, and social media platforms. Writing, editing, and updating content. Conducting research to stay informed on trends and consumer perceptions. Assisting creative team with design of promotional materials.",
-  "Required Skills": "Social media fluency. Video editing skills. SEO knowledge. Excellent writing, proofreading, and editing skills. Strong research, organizational, and time management abilities. Ability to work independently and collaboratively.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in media, advertising, digital technology, or entertainment.",
-  "Compensation and Benefits": "Generous PTO package. Comprehensive healthcare. Cell phone reimbursement. Commuter benefits. Flexible spending account. Snacks."
-}

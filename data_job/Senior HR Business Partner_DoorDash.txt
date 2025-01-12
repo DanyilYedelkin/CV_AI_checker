@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coach leadership on people strategy including team structure, organizational design, strategic hiring, performance management, compensation, recognition and learning and development. Partner with leadership to define, execute and track progress against org-specific people strategy objectives (OKRs). Empower managers to build amazing teams through leadership development. Assess employee development needs and recommend solutions. Lead client groups through DoorDash’s people programs like engagement surveys, performance reviews, compensation reviews, talent development, etc. Partner with the culture, belonging and people growth team to effectively execute our diversity, equity and inclusion strategy. Be a key contributor to reimagining or upleveling companywide people programs such as the performance review process, employee voice survey and manager development training.",
-  "Required Skills": "5+ years of HR/people experience with 2+ years of experience as an HR business partner. Experience partnering with sales teams and sales leadership. Ability to think critically and anticipate issues before they arise and proactively suggest long-term solutions. Excellent judgment and ability to make sound decisions independently. Exceptional ability to prioritize and manage time effectively. Comfortable working with data and analytics, able to turn data into insights and compelling stories. Outstanding communicator with relationship-building skills. Owner mentality.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "5+ years of HR/people experience with 2+ years of experience as an HR business partner",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

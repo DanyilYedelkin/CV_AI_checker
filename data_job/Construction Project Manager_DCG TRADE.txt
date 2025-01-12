@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage construction projects from start to finish, including planning, budgeting, scheduling, coordination, and supervision. Oversee all onsite operations and subcontractors. Ensure projects are completed on time, within budget, and to quality standards.",
-  "Required Skills": "Bachelor's degree in construction management, engineering or related field. 5+ years experience in the construction industry. Knowledge of construction methods and means. Proficiency in Microsoft Office and project management software. Strong communication, negotiation, and relationship building skills.",
-  "Educational Requirements": "Bachelor's degree in construction management, engineering, or related field highly desired.",  
-  "Experience Level": "5+ years",
-  "Preferred Qualifications": "Line item estimating experience. Ability to produce detailed fixed price estimates and use RS Means or other pricing guides.",
-  "Compensation and Benefits": "$80,000 - $100,000 plus bonus up to 10% per year."
-}

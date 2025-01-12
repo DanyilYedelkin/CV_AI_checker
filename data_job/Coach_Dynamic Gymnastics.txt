@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coaching and leading gymnastics classes and activities for Xcel competitive team and recreational classes.",
-  "Required Skills": "Experience coaching gymnastics, especially at the competitive Xcel team level. Self-motivated with high energy. Ability to promote company core values.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "Competitive Xcel team coach requires prior experience coaching gymnastics. Recreational coach requires some experience working with children.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive wages based on experience. Part-time evening and Saturday morning hours."
-}

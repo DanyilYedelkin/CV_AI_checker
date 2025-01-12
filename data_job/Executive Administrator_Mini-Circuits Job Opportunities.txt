@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide high-level administrative support to the president including managing calendar, scheduling meetings, screening calls/emails, drafting correspondence, preparing presentations, booking travel, etc.",
-  "Required Skills": "Bachelor's degree, 5+ years experience as an executive assistant, proficiency in MS Office, excellent communication and time management skills",
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "5+ years",
-  "Preferred Qualifications": "Business sense, commitment to excellence, excellent communicator, ability to handle sensitive information, team player, service focus, ability to think outside the box",
-  "Compensation and Benefits": "N/A"
-}

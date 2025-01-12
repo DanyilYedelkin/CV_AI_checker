@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Maintain the overall health of Market platform and integrations, create and deliver regular email marketing communications, help expand and maintain lead generation strategy, assist with creating and maintaining the publications audience growth strategy, coordinate with different implementation teams, communicate updates to ensure metrics are met, provide regular reports on campaigns and acquisition",
-  "Required Skills": "5+ years of relevant marketing experience, 2+ years of experience using Market, exceptional copywriting skills, experience with project management tools like Trello, paid social media experience", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "5+ years of relevant marketing experience",
-  "Preferred Qualifications": "Market Certified Expert (MCE), Google Ads certification, Google Analytics certification, experience in a media organization, experience with the federal government audience",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Actively support Midas franchisees in executing business model transformation; coach franchisees to become tire destinations and grow car count; execute tactics to transform Midas shops into full service tire and car care retailers; lead dealer meetings focused on improving retail execution, implementing growth initiatives.",
-  "Required Skills": "Minimum 3-5 years experience managing a retail tire/automotive service business; sales background in the automotive industry; franchise experience in automotive/retail industries; bachelor's degree in business or related field preferred; exceptional Microsoft Office skills; experience in multi-unit retail operations including district/area management.",
-  "Educational Requirements": "Bachelor's degree in business administration or related field preferred",
-  "Experience Level": "Minimum of 3-5 years of experience managing a retail tire/automotive service business",
-  "Preferred Qualifications": "Franchise experience in automotive or other retail industries; multi-store and/or multi-state management experience",
-  "Compensation and Benefits": "Competitive compensation and bonus, tuition reimbursement 401K plan with company match, comprehensive benefits including medical, dental, vision, disability insurance, life insurance, discounted services, etc."
-}

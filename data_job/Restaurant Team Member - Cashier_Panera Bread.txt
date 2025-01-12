@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Ring up orders quickly and accurately, know the menu, help customers with questions or requests, deliver excellent customer service.",
-  "Required Skills": "Friendly, motivated, hardworking, up for a challenge, ready to grow, great communication skills.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Food service/retail experience.",
-  "Compensation and Benefits": "Competitive pay, eligible for quarterly increases based on performance, free meals on shifts, career growth opportunities, paid vacation & holidays for fulltime team members, medical dental vision life insurance vacation & k with match available." 
-}

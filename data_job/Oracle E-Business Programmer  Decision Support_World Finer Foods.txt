@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Participate in the business process design, provide decision support to business operations through software configuration and development, work with users to translate business requirements into development specifications, conduct required development or modifications, report writing, development and maintenance of interfaces.",
-  "Required Skills": "Oracle EBS modules developer experience, Oracle SQLPlus, TOAD, XML Publisher, PLSQL procedures and packages, reports & form builder, Discoverer administration, Unix shell scripts, FTP transmissions, Understanding of Oracle EBS table structure and architecture, PLSQL development on Oracle applications, Research issues on My Oracle Support Metalink, EDI transaction processing relative to Oracle applications.",
-  "Educational Requirements": "Bachelor's degree in a related field.",
-  "Experience Level": "A few years of hands-on working experience in Oracle EBS.",
-  "Preferred Qualifications": "Oracle ASCP/Demantra, Oracle XML Publisher, Project management and change management experience.", 
-  "Compensation and Benefits": "N/A"
-}

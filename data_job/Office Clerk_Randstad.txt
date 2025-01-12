@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answering phones and scheduling appointments, filing, data entry, working on projects with time management skills, keeping office tidy, ordering supplies, and light accounting",
-  "Required Skills": "Microsoft Office, Outlook, Excel, Word, Teams, OneDrive, QuickBooks Online, Smart Service CMS, dispatching, appointment scheduling", 
-  "Educational Requirements": "High school",
-  "Experience Level": "1 year of experience required",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

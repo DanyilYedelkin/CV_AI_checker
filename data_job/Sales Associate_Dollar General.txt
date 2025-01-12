@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Stock merchandise, rotate and face merchandise on shelves, restock recovered merchandise, assist customers by locating merchandise, operate cash register to itemize and total customers purchase, collect payment and make change, clean front end of store",
-  "Required Skills": "Ability to read and follow planograms and merchandise presentation guidance, knowledge of basic cash handling procedures, basic mathematical skills, ability to perform IBM cash register functions",
-  "Educational Requirements": "High school diploma or equivalent preferred", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide exceptional customer service, achieve sales goals, build clientele, maintain product knowledge, create outfits for customers, multitask between customers, complete assigned tasks",
-  "Required Skills": "Selling skills, customer service skills, fashion knowledge, ability to work flexible schedule, standing for long periods, lifting up to 50 lbs, intermediate computer skills",
-  "Educational Requirements": "High school degree", 
-  "Experience Level": "Specialty retail experience preferred",
-  "Preferred Qualifications": "Outstanding sales record and results, specialty retailing experience",
-  "Compensation and Benefits": "N/A"
-}

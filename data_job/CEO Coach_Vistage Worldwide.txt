@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead monthly roundtable discussions and one-on-one coaching sessions with group members. Guide members in making impactful business decisions and connecting them with relevant resources and experts.",
-  "Required Skills": "Strong financial acumen, management skills, and entrepreneurial spirit. Proven experience as a successful business leader and mentor.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience as a CEO or executive in a variety of industries. Commitment to continual learning and staying up-to-date on leading-edge tools and knowledge.",
-  "Compensation and Benefits": "N/A"
-}

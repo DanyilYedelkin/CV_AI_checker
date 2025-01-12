@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead creative-design strategy, infuse passion creativity and innovation into our business, simplify complexity at all levels of the organization, collaborate with executive leadership, product management, sales and support teams, support SDR team with persona/solution-based outreach tactics, strategies and tools, develop KPIs capable of influencing strategic decision making",
-  "Required Skills": "10+ years of marketing/agency experience, demonstrated leadership and experience in brand management, demonstrated leadership and experience in running successful lead generation programs",
-  "Educational Requirements": "N/A",
-  "Experience Level": "10+ years of experience",
-  "Preferred Qualifications": "Ability to thrive in a fast-paced environment with the ability to manage multiple priorities, proactively identify business/marketing opportunities and create action plans, manage and plan at both the strategic and operational levels",
-  "Compensation and Benefits": "N/A"
-}

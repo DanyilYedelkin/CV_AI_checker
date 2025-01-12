@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute ecommerce merchandising programs that drive new customer acquisition, membership upsells/cross-sells, lead generation, revenue growth, and optimize customer lifetime value. Manage ecommerce projects and optimization test queues. Facilitate planning, status, and postmortem sessions. Understand customer behavior patterns to develop strategies that optimize the ecommerce customer experience.",
-  "Required Skills": "2-5 years of experience in ecommerce, personal finance, fintech or related direct-to-consumer industry. Bachelor's degree in marketing, business, technology major or equivalent experience. Experience managing cross-functional projects end-to-end across multiple teams. Strong business acumen and ability to translate data analysis into actionable business strategies. Experience translating business objectives into project requirements for technical stakeholders. Strong attention to detail and written and verbal communication skills.", 
-  "Educational Requirements": "Bachelor's degree in marketing, business, technology major or equivalent experience",
-  "Experience Level": "2-5 years",
-  "Preferred Qualifications": "Experience with Jira or similar project management tools, Tableau, Adobe Analytics, and Confluence",
-  "Compensation and Benefits": "N/A"
-}

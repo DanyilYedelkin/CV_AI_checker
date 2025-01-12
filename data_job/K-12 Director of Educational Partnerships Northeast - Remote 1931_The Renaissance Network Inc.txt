@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive revenue growth by acquiring new partnerships and expanding existing ones; build relationships with key decision makers; plan and execute advocacy events; manage pipelines, forecasts and reporting",
-  "Required Skills": "Proven K-12 education sales experience; ability to meet sales targets; strong knowledge of Agile Mind's products and services; ability to work remotely and travel frequently",
-  "Educational Requirements": "Bachelor's degree required", 
-  "Experience Level": "Proven successful experience in K-12 education sales at the district level",
-  "Preferred Qualifications": "Reside in the Northeast territory (NY, NJ, CT, MA, RI)",
-  "Compensation and Benefits": "N/A"
-}

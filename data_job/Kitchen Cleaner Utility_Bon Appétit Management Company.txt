@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "sweeps and mops floors, washes worktables walls refrigerators meat blocks and other food prep surfaces, removes trash and places it into designated containers, steam cleans or hoses out garbage cans, transfers supplies and equipment between storage and work areas, assists with banquet table and front of the house set up, assist with loading or unloading and delivering supplies and product, distributes supplies utensils and portable equipment as needed, complies with outlined sanitation and safety requirements, performs other duties as assigned",
-  "Required Skills": "N/A",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage risk and compliance for Enterprise Engineering division. Implement risk frameworks, identify and remediate risks. Manage data/tech platforms for risk reporting. Serve as liaison between EE and other FB teams on risk topics.",
-  "Required Skills": "5+ years in GRC fields like security, audit, privacy. Experience in IT risk management and implementing controls. Knowledge of regulations like ISO, PCI, NIST, etc. Program/project management skills. Communication and organizational skills.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "5+ years in GRC or IT risk management",
-  "Preferred Qualifications": "CISSP, CISA, or other security certifications. Experience with GRC products and implementations. Experience with data privacy regulations. Matrixed environment experience.",
-  "Compensation and Benefits": "N/A"
-}

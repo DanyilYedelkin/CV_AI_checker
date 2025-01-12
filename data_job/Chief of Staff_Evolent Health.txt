@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support the ehs president/coo's agenda, develop strong relationships with key internal and external stakeholders and decision makers, host various strategic leadership meetings, coordinate the execution of strategic initiatives, assist with problem solving, prepare executive presentations and communications, maintain services governance and communication hygiene, lead event planning, support deployment of talent and finance initiatives, support organization with OKRs, strategic initiatives and major projects, support international integration initiatives, perform adhoc analysis/other duties as assigned",
-  "Required Skills": "Time management, analytical skills, ability to translate complex concepts into stories and plans, knowledge of Microsoft Office, verbal and written communication skills, change management",
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "5+ years of experience in the healthcare industry", 
-  "Preferred Qualifications": "History of superior performance across professional settings",
-  "Compensation and Benefits": "The minimum salary for this position is $80,000 plus benefits. Salaries are determined by the skill set required for the position and commensurate with experience and may vary above and below the stated amounts."
-}

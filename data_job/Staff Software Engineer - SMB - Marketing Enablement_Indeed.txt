@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build and lead a team responsible for developing backend systems that enable complex analytics for marketing teams. Own large scale features, systems or applications from requirement definition through implementation.",
-  "Required Skills": "3+ years of experience programming in Java, C, C++, Python or Go. BS degree or above in computer science, computer engineering, electrical engineering, mathematics or a related technical field. Experience with large scale, high-performance systems. Ability to define product roadmaps and system architecture.",  
-  "Educational Requirements": "BS degree or above in computer science, computer engineering, electrical engineering, mathematics or a closely related technical field.",
-  "Experience Level": "3+ years",
-  "Preferred Qualifications": "Experience mentoring and leading code reviews. Familiarity with debugging distributed systems. Experience creating REST APIs and with Java and API architecture.",
-  "Compensation and Benefits": "Salary range: $100,000 - $150,000 USD per year. Benefits include quarterly bonuses, restricted stock units, open paid time off policy, and region-specific benefits."
-}

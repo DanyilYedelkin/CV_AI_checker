@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide support to team members, run daily HR functions, administer pay/benefits/leave, enforce policies, assist with recruitment/onboarding/offboarding, address grievances, perform routine HR tasks, maintain compliance, serve as communication link between leadership and team", 
-  "Required Skills": "Bachelor's degree in HR or related field, 2+ years of relevant experience, strong interpersonal and communication skills",
-  "Educational Requirements": "Bachelor's degree in human resources or related field",
-  "Experience Level": "2+ years of relevant experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Salary range not specified, 401(k) with matching, dental insurance, employee assistance program, flexible spending account, health insurance, life insurance, paid time off, vision insurance"
-}

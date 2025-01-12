@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Own and complete projects that increase awareness of nonprofit mission leading to greater community engagement and impact for families.",
-  "Required Skills": "Expertise in communicating via social media, print publications and video production.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

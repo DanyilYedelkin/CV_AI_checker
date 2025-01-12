@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage full P&L, develop growth strategy, provide operational management as CEO of acquired companies",
-  "Required Skills": "At least 10 years of senior management experience, prior successful P&L management and/or president or GM experience", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "At least 10 years of senior management experience",
-  "Preferred Qualifications": "Prior successful P&L management and/or president or GM experience, entrepreneurial thinker, proven ability to increase profitability through business development",
-  "Compensation and Benefits": "N/A"
-}

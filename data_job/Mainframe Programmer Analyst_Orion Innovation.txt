@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "- Ensure FMS application software meets functional and technical requirements by conducting reviews and evaluations.\n- Develop new components and enhancements to FMS applications.\n- Resolve production application issues.\n- Support software testing tracks in non-production environments.\n- Design and execute technical tests.\n- Review and provide feedback on functional business designs.\n- Troubleshoot job flow and application execution problems.\n- Gather production operation requirements and incorporate into products.\n- Coordinate with production operations units to implement new software.\n- Provide guidance and mentoring to other team members.",
-  "Required Skills": "Cobol, Cobol II, JCL, JCL Procs, IBM Utilities, Sync Sort Utility, File Aid Utility, CICS, SQL, SPUFI, QMF Utilities, VSAM, TSO/ISPF, OS/MVS",  
-  "Educational Requirements": "Baccalaureate degree in computer science, information systems, engineering, mathematics or related field.",
-  "Experience Level": "6 years with baccalaureate degree, 10 years without",
-  "Preferred Qualifications": "Experience as mainframe programmer analyst on at least 3 full life cycle projects. Understanding of SDLC methodologies. Strong analytical and problem solving skills. Excellent written and verbal communication skills. Accounting and/or budgeting application experience.",
-  "Compensation and Benefits": "N/A"
-}

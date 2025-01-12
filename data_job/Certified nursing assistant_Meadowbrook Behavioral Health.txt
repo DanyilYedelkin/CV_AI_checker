@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Providing care and assisting residents with activities of daily living. Maintaining a caring, compassionate, and professional atmosphere that respects residents' needs and rights.",
-  "Required Skills": "CNA certification, compassion, professionalism",
-  "Educational Requirements": "CNA certification",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

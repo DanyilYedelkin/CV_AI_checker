@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handle inbound phone calls, chats, and emails. Provide training and technical support to customers. Work technical support tickets according to urgency. Engage in active listening, confirm information, and manage the call. Meet call volume standards and other key performance indicators.",
-  "Required Skills": "Basic troubleshooting skills. Critical thinking skills. Calm under pressure. Dedication to learn products thoroughly. High school diploma or equivalent. Prior experience with telephone-based customer service.",  
-  "Educational Requirements": "High school diploma or equivalent",
-  "Experience Level": "Prior experience with telephone-based customer service",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

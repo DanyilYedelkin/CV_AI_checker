@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Operate cash register, provide advice about merchandise, conduct sales transactions through internet-based electronic commerce, greet customers and discuss type, quality and quantity of merchandise or services sought for purchase, rental or lease",
-  "Required Skills": "Ability to operate cash register, provide customer service, and have basic sales skills",
-  "Educational Requirements": "High school graduation certificate", 
-  "Experience Level": "1 year to less than 2 years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Create, edit, schedule, and analyze social media content (focus on TikTok and Instagram Reels) to achieve social media goals. Be a regular on-camera presence representing the brand. Support creating sponsored social media ads.",
-  "Required Skills": "Deep expertise in creating compelling content specifically for TikTok and Instagram Reels. Strong on-camera presence. Understanding of social media performance analysis. Knowledge of the company's products and brand voice.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience representing brands on social media. Existing organic follower base on TikTok and/or Instagram.",
-  "Compensation and Benefits": "N/A"
-}

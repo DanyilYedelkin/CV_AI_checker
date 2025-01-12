@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Overseeing the maintenance and accuracy of the workday general ledger and related financial statement support for assigned business units. GL coding of all invoices, preparing month-end journal entries, maintaining balance sheet support schedules and reconciliations, preparing monthly variance analysis and commission statements, ensuring daily accounting processes are running accurately.",
-  "Required Skills": "Bachelor's degree in business and/or 3+ years experience as a staff/senior accountant or similar role. Strong interpersonal skills and ability to work in teams. Excellent data entry skills with high accuracy. Working knowledge of Excel and Microsoft Word. Organizational skills and numerical aptitude.",  
-  "Educational Requirements": "Bachelor's degree in business",
-  "Experience Level": "3+ years experience as a staff or senior accounting or similar role",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

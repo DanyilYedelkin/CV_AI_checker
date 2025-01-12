@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handling management level tasks when the manager is absent, including motivating the team, providing excellent customer service, working the register, preparing the store, and maintaining a clean, safe environment.",
-  "Required Skills": "Customer service skills, ability to work in a fast-paced environment, cash register/POS operation.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Management and leadership experience.",
-  "Compensation and Benefits": "Medical, dental, vision insurance, company-paid and voluntary life insurance, HSA, flexible spending, transit benefits with company match, paid vacation time, referral bonus."
-}

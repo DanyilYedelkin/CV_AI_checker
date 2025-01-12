@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Serve as primary contact for customers, manage customer relationships, ensure smooth installation and training, collaborate with cross-functional teams, respond to customer inquiries, identify and resolve issues impacting customer experience.",
-  "Required Skills": "2+ years of customer service, technical support, or related experience. Strong communication and collaboration skills. Project management skills. Customer service mindset.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years of experience in customer service, technical support, or related fields.",
-  "Preferred Qualifications": "Experience with PowerBI.",
-  "Compensation and Benefits": "N/A"
-}

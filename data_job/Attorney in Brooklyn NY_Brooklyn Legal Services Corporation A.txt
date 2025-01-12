@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "N/A",
-  "Required Skills": "N/A",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "diverse cultural backgrounds and/or proficiency in languages other than English",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Consult with customers on their Hertz rental, maximize revenue opportunities by actively offering products and services and overcoming customer objections, ensure customers receive world class customer service and sales support",
-  "Required Skills": "Strong oral and written communication skills, ability to build relationships with customers, strong multitasking, ability to upsell and overcome customer objections, display a high level of ownership, accountability and initiative",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Starting wage of HR, discounts on Hertz rentals and travel/food, tuition reimbursement, career growth opportunities"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage business enablers including financials, budget, expenses, cash flow, inventory, supplies, vendor relationships, technology, and facilities. Write weekly staff schedule. Complete payroll and other HR documentation. Execute company operations projects and initiatives.",
-  "Required Skills": "Budgeting, people management, scheduling, conflict resolution, building partnerships and relationships, computer/technical skills.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

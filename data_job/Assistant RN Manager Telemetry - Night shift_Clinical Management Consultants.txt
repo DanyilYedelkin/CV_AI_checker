@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Plan, coordinate and direct the daily operations of the telemetry unit. Supervise staff and facilitate communication with physicians and administrators. Provide optimal patient care.",
-  "Required Skills": "Bachelor's degree in nursing. Minimum 5 years nursing experience.",
-  "Educational Requirements": "Bachelor's degree in nursing",
-  "Experience Level": "Minimum 5 years nursing experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary and comprehensive benefits package."
-}

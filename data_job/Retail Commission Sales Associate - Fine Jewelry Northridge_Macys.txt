@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Meeting hourly sales and star reward goals, demonstrating product knowledge, building clientele, processing goods, merchandising, taking price changes, setting and signing sales, watch sizing, ear piercing, etc.",
-  "Required Skills": "Proficiency with POS systems including search and send and my client, strong interpersonal and communication skills, ability to work flexible hours including evenings, weekends, and holidays", 
-  "Educational Requirements": "High school diploma or equivalent",
-  "Experience Level": "2 years related experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Pay range and benefits details available for CO, CT, and NV candidates via links provided in job description"
-}

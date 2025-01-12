@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Managing many nursing homes social media accounts",
-  "Required Skills": "Proven work experience as a social media manager, hands on experience in content management, excellent copywriting skills, excellent communication skills, analytical and multitasking skills",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hourly pay rate, Full time schedule, Day shift hours Monday-Friday, No COVID-19 considerations mentioned"
-}

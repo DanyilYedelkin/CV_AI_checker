@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Serve as a liaison between patients, their families and medical center staff; investigate concerns and complaints; assist patients in understanding their rights and responsibilities; provide assistance for advance directives; document interactions; evaluate patterns and trends.",
-  "Required Skills": "Associate degree or certification equivalent; minimum of 2 years job-related experience.",
-  "Educational Requirements": "Associate degree or certification equivalent.",
-  "Experience Level": "Minimum of 2 years job-related experience.",
-  "Preferred Qualifications": "Bachelor's degree preferred; Bilingual English/Spanish beneficial; Relevant work experience.",
-  "Compensation and Benefits": "N/A"
-}

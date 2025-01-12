@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead, motivate and develop a team of sales professionals. Meet and exceed revenue targets through prospecting, networking, account management and closing sales.",
-  "Required Skills": "Proven track record of meeting sales quotas. Excellent communication and presentation abilities. Proficiency in CRM software. Strong negotiation and time management skills.",
-  "Educational Requirements": "Bachelor's degree in business, marketing or related field.", 
-  "Experience Level": "5+ years of experience in sales or account management.",
-  "Preferred Qualifications": "Experience in the financial services industry. Existing network of prospects and clients in target market.",
-  "Compensation and Benefits": "N/A"
-}

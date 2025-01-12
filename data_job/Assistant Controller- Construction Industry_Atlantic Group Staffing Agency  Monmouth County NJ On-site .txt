@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "updating monthly forecast financial model, closing all accounting modules, oversee month end closings, set up gl accounts, assisting with annual budget preparation, prepare second financial review for all companies financial statements, conduct weekly kpi reporting, intercompany reconciliations, prepaid insurance schedules, amortization journal entries, ensure proper wip schedule, build and prepare other reports as needed",
-  "Required Skills": "Bachelor's degree in accounting, SAGE Timberline experience, strong Excel, GAAP compliance experience, excellent communication skills", 
-  "Educational Requirements": "Bachelor's degree in accounting",
-  "Experience Level": "3-5 years experience with month end closings and general ledger maintenance and accounting operations experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

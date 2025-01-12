@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build strong relationships with employees, channel partners, engineering firms, contractors and owners in the region to understand market needs and trends. Develop a strong strategic grasp of the market in order to provide an actionable plan for share growth in the short and long term. Lead a team of regional sales engineers to help drive growth of our applied representative channel and achieve regional sales and margin targets. Qualify channel opportunities and manage opportunity pipeline to ensure forecast accuracy and inventory availability.",
-  "Required Skills": "Bachelor's degree required. Ten years of progressive responsibility in sales, sales leadership, applied rep management and/or large account management with a proven track record of growth and handling potentially large and/or complex commercial projects. Significant expertise in commercial air conditioning industry with preferred experience in VRF space. Strong relationship builder. Outstanding communications skills.", 
-  "Educational Requirements": "Bachelor's degree required. MBA desirable.",
-  "Experience Level": "Ten years of progressive responsibility in sales, sales leadership, applied rep management and/or large account management with a proven track record of growth and handling potentially large and/or complex commercial projects.",
-  "Preferred Qualifications": "MBA desirable. Significant expertise in commercial air conditioning industry with preferred experience in VRF space.",
-  "Compensation and Benefits": "N/A"
-}

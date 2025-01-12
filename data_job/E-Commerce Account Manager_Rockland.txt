@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee a portfolio of assigned brands, develop new business from existing lines, seek new sales opportunities, build vendor relationships, negotiate contracts, ensure delivery of solutions, communicate progress, forecast and track metrics, prepare reports, collaborate with sales team.",
-  "Required Skills": "Account management, negotiation, verbal and written communication.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Salary per week, health insurance, dental insurance, life insurance, paid time off, vision insurance, bonus pay."
-}

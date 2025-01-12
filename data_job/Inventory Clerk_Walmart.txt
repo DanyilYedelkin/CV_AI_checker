@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Stocking shelves, unloading trucks, moving inventory, helping customers",
-  "Required Skills": "N/A", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "No experience required",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

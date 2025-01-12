@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Maintaining documentation of program clinical/internship requirements; managing clinical site agreements; maintaining documentation of student compliance; preceptor documentation; documentation for accreditation and regulatory needs; placing student teachers for clinical experiences; overseeing placement of students; organizing experiences for students; identifying and recruiting university supervisors; managing and assigning supervisors; training supervisors and teachers; tracking field placements; fostering relationships with school districts.",
-  "Required Skills": "Experience working with public/private schools; college degree, preferably in education/administration (minimum Bachelor's); strong computer skills including Microsoft Office; demonstrated listening skills; process-oriented; flexible; able to prioritize, multitask, and manage projects; able to work independently and collaboratively; operate with high confidentiality.",  
-  "Educational Requirements": "Bachelor's degree required, Master's preferred, in education or educational administration.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Knowledge of higher education regulations, compliance, and accrediting agencies; experience with clinical management systems.",
-  "Compensation and Benefits": "Competitive benefits package; incentive program; free parking; free undergraduate tuition for employees and families; graduate tuition assistance for employees; doctoral tuition discount."
-}

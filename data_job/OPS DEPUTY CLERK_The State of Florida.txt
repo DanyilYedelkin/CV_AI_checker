@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assists with prehearing appeal requests by reading, researching, reviewing, and verifying case information and requests and routing and filing correspondence, documents, and evidence using case system and Microsoft Office products. Proofreads decisions and orders for completeness and grammatical accuracy and distributes decisions and orders of hearing officers, certifying and ensuring the accuracy of the mailing date and copies are provided to all interested parties of record and to the appropriate agency offices. Corresponds with and advises parties or representative regarding inquiries about the hearing decision and appeal process. Manages inbound calls for Office of Appeals hotline and conducts outbound phone calls to coordinate with parties and witnesses in a timely manner. Assists hearing officer with planning, processing transactions, and case preparation by monitoring queues and schedule.",
-  "Required Skills": "Excellent interpersonal and writing skills. Excellent customer service skills. Document management skills. Organized and strong research skills. Strong computer software and web applications skills. Ability to work under pressure and meet deadlines. Ability to work independently and as part of a team. Knowledge of general office procedures including answering phones, sorting and handling mail, use of fax and postage machines, copiers, printers, and computers.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "At least 1 year of legal secretarial or clerical work experience.",
-  "Preferred Qualifications": "Work as a legal secretary, legal assistant, or paralegal or working with administrative hearings or as a judicial clerk.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Investigate federal crimes such as terrorism, cybercrime, public corruption, civil rights violations, organized crime, white-collar crime, and more. Gather evidence and intelligence. Conduct surveillance. Make arrests. Interview witnesses and suspects. Serve search and arrest warrants. Collect and log evidence. Testify in court proceedings.",
-  "Required Skills": "Extensive federal law enforcement and investigative experience. Proficiency with firearms and self-defense tactics. Ability to analyze complex data and write detailed reports. Excellent communication and interpersonal skills. Ability to work collaboratively but also independently with minimal supervision. Willingness to work irregular hours in high stress environments.",  
-  "Educational Requirements": "Bachelor's degree in any field.",
-  "Experience Level": "Minimum of 2 years of full-time professional work experience or 1 year with an advanced degree.",
-  "Preferred Qualifications": "Experience in law, accounting, finance, technology, or foreign languages. Military or law enforcement background. Master's degree or above.",
-  "Compensation and Benefits": "Starting salary around $49,000 as a trainee, increasing to $60,000+ upon graduation and assignment to a field office. Additional pay includes locality pay, availability pay (25% of base), and overtime. Comprehensive benefits package including health insurance, life insurance, retirement benefits, paid vacation and sick leave."
-}

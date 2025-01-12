@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Identify customers needs and use knowledge database to recommend solutions to customer issues/concerns. Handle large volume of phone calls in accordance with policies and procedures. Answer customer questions regarding products and services. Create tickets in the client database to document customer interactions. Maintain customer accounts (e.g. update contact information, document phone interactions, update special preferences). May sell additional services by recognizing opportunities to upsell accounts, explaining new features.",
-  "Required Skills": "Previous customer service experience preferred but not required. Excellent verbal and written communication skills required. Strong interpersonal and problem solving skills. Ability to multitask in a fast-paced environment.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Attention to detail.",
-  "Compensation and Benefits": "Salary range for several positions $15 to $17 per hour."
-}

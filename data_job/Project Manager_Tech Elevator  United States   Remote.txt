@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Setting scope, objectives and deliverables for multiple simultaneous projects; Developing and managing detailed project schedules and work plans; Taking ownership of individual deliverables; Assisting contributors and stakeholders; Establishing metrics for success; Guiding accountability for progress and outcomes; Capturing findings and impacts; Communicating progress, expectations and challenges effectively",
-  "Required Skills": "2+ years of professional work experience in a project management role; Strong project management and organization skills; Ability to multitask effectively; Excellent interpersonal skills - verbal, written, presentation; Ability to set long-term complex project timelines and deliver on them",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of professional work experience in a project management role",
-  "Preferred Qualifications": "Experience improving business processes with an eye for repeatability and scalability; A track record of team management and effective communication; A natural ability to network in various business settings",
-  "Compensation and Benefits": "N/A"
-}

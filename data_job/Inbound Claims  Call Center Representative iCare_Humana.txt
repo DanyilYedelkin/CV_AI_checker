@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer phone inquiries related to benefits, eligibility, claims, and provide support to providers on eligibility, authorizations, and portal usage. Research issues, coordinate across teams to resolve requests. Document member information and interactions.",
-  "Required Skills": "2+ years customer service experience in a call center setting with general health insurance knowledge including claims and benefits. Experience with Medicaid, Medicare, or commercial insurance. Strong communication skills. Basic computer skills including Microsoft Office.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years customer service experience in a call center setting",
-  "Preferred Qualifications": "Bilingual English/Spanish. Previous experience with Microsoft Access.",
-  "Compensation and Benefits": "Sign-on bonus, medical/dental/vision insurance, PTO, 401k with match, tuition reimbursement."
-}

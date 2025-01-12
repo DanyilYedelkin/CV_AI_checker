@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "assist the creditcollection manger with the development and improvement of policy and procedure in the creditcollection area, set targets and goals for the creditcollection team of 8 associates coach and lead the team to improve current dso and the overall skillset of employees, assist the creditcollection manger with collection activities and credit evaluation across business units, work closely with sales teams to establish appropriate credit limits while working to establish on time payment goals, participate in executing creditcollection strategies based on customer and industry information, communicate with internalexternal customers on all creditcollection policies",
-  "Required Skills": "bachelors degree in business or accounting or equivalent work experience required, minimum of 5 years credit collection and accounts receivable experience required, minimum of 2 years in a management or supervisory role, ability to interact with all levels of the organization and external customers, efficient communication skills verbal and written, proven ability to prioritize and oversee team campaigns and projects, exceptional negotiation and problem-solving skills, proficiency in excel word and outlook required",
-  "Educational Requirements": "bachelors degree in business or accounting or equivalent work experience required", 
-  "Experience Level": "minimum of 5 years credit collection and accounts receivable experience required, minimum of 2 years in a management or supervisory role",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

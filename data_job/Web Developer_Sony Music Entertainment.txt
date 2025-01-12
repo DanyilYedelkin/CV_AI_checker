@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design, create and code promotional pages, social skins, email campaigns, banner ads, web interfaces and page layouts. Maintain and update active company and label websites, images, audio files, press releases, graphics. Troubleshoot creative and technical challenges.",
-  "Required Skills": "Proficiency in HTML, CSS, JavaScript and basic PHP/MySQL. Experience building and maintaining web-based platforms (WordPress). Knowledge of interaction design fundamentals and web best practices. Experience with Adobe Creative Suite and audio/video editing. API integration experience.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "At least 2 years of experience building and maintaining websites.",
-  "Preferred Qualifications": "Experience with motion graphics. Capacity to rapidly design/develop web pages based on shifting calendars. Aptitude to independently troubleshoot novel coding issues. Enthusiasm to work in a challenging, creative music industry environment.",
-  "Compensation and Benefits": "Outstanding benefits including 401k match, medical/dental/life/disability insurance."
-}

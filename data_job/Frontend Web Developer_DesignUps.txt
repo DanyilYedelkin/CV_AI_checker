@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Translate designs responsively for multiple screen sizes. Work in WordPress. Frontend web development.",
-  "Required Skills": "Strong attention to design details, typography, UI, etc. Familiarity with Bootstrap or similar frameworks. WordPress knowledge.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Desire to learn WordPress.",
-  "Compensation and Benefits": "N/A"
-}

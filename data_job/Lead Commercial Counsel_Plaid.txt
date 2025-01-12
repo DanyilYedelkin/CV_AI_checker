@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "leading and managing the legal commercial team, overseeing and improving legal systems and processes, negotiating complex commercial agreements, acting as a strategic advisor for business stakeholders",
-  "Required Skills": "7+ years experience as an in-house commercial counsel or at a law firm, experience leading a commercial legal team, experience with complex technology and data agreements, strong understanding of data privacy",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "7+ years in a similar in-house or law firm role",
-  "Preferred Qualifications": "In-house legal department management experience, experience with large enterprise tech deals and multiparty ecosystems, high volume deal experience using processes and technology",
-  "Compensation and Benefits": "N/A"
-}

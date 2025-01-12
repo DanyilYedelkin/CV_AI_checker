@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "relate to customers from all walks of life by being engaging and optimistic, provide outstanding customer service",
-  "Required Skills": "stylish and trendy individual",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

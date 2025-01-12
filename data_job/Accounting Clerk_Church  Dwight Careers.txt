@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Periodic reporting, maintaining production files, monthly financial close, assisting with accounting duties.",
-  "Required Skills": "Accounting, Microsoft Excel, Word, Access, SAP or other ERP system", 
-  "Educational Requirements": "Pursuing Associate's or Bachelor's degree with minimum of accounting I & II years of accounting experience preferably in a manufacturing environment",
-  "Experience Level": "2 years of accounting experience preferably in a manufacturing environment",
-  "Preferred Qualifications": "Ability to multitask, accurate and detail oriented",
-  "Compensation and Benefits": "N/A"
-}

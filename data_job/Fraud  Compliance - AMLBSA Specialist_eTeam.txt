@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Analyze customer account transactions to detect suspicious activity and make decisions on appropriate action to take. Work cooperatively with business line to establish procedures for identifying suspicious customer transactions specific to money laundering including the proper method for reporting such activity to the anti-money laundering group. Provide guidance, support and recommendations to business lines regarding customer AML risk ratings and account activity based on the outcome of the investigation. Analyze and determine whether or not a suspicious activity report (SARs) must be filed with the federal government for any identified suspicious activity. Work cooperatively with internal departments, financial institutions and local, state or federal authorities to obtain and analyze necessary information.",
-  "Required Skills": "Knowledge of bank's operational policies, procedures, products and services. Strong ability to identify and interpret data and resolve exceptions. Good interpersonal, verbal and written communication skills. Good knowledge of PC-based software (i.e. Word, Excel, etc.) and applicable business line systems. Strong analytical skills.",
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "1-3 years of related work experience.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

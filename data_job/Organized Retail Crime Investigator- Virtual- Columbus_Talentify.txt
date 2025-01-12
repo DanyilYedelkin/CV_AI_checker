@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Case initiation, gathering intelligence, field tactics; Case management - packaging and building cases, networking and training with field teams",
-  "Required Skills": "Proficient with the use of windows based systems, excellent analytical skills as well as strong verbal and written communication skills, knowledge and expertise in conducting complex investigations, ability to influence law enforcement to resolve ORC investigations impacting THD, knowledge and expertise in preparing for and testifying in local/state/federal court",
-  "Educational Requirements": "The knowledge skills and abilities typically acquired through the completion of a high school diploma and/or ged", 
-  "Experience Level": "5 years",
-  "Preferred Qualifications": "2+ years of loss prevention / asset protection investigative experience, 2+ years of organized retail crime investigative experience, loss prevention investigative interview training, ORC certifications and/or training class completion",
-  "Compensation and Benefits": "N/A"
-}

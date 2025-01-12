@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Meet and exceed personal sales goals, provide full service experience to customers, complete POS functions and assigned tasks promptly",
-  "Required Skills": "Sales ability",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Ensure IT infrastructure uptime and availability; maintain systems, software, hardware and network; handle service issues and troubleshooting; maintain backups and recovery procedures; document IT processes and procedures; adhere to IT policies, procedures and best practices; assist with help desk tickets",
-  "Required Skills": "Degree in IT or related field; Experience with Windows, Hyper-V, Active Directory, Exchange, SQL Server, Office 365; Network monitoring and administration; Virtualization; Security and disaster recovery; Root cause analysis; Project management",  
-  "Educational Requirements": "Degree in information technology or related field",
-  "Experience Level": "Minimum 3 years experience in help desk and Microsoft server environments",
-  "Preferred Qualifications": "Experience with ticketing systems",
-  "Compensation and Benefits": "N/A"
-}

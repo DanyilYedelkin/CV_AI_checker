@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee the development and management of the company's real estate portfolio. Advance projects through all stages of development. Manage marketing and lease up of new properties. Oversee asset management of existing properties.", 
-  "Required Skills": "5+ years of experience in affordable housing development or related field. Project management skills. Proficient in Excel. Experience with LIHTC, bond financing, and Year 15 transactions.",
-  "Educational Requirements": "Bachelor's degree. Master's degree preferred.",
-  "Experience Level": "5+ years of experience in affordable housing development or related experience. 3-5 years of supervisory experience.",
-  "Preferred Qualifications": "Passionate about affordable housing and sustainable building practices. Ability to understand institutional and structural racism and bias. Commitment to supporting marginalized communities.",
-  "Compensation and Benefits": "N/A"
-}

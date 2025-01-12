@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include meeting with users to define project scope and program, managing the collection of program data, establishing communication plans, providing predesign services, conducting building investigations, researching potential problems, creating projects in project management software, developing budgets and estimates, hiring and managing design firms, overseeing design reviews, developing specifications, managing bidding process, administering contracts, monitoring work site, overseeing commissioning and closeout.",
-  "Required Skills": "Bachelor's degree in relevant field, 5+ years of project management experience in acute care hospital environment, knowledge of building codes, design, construction administration, cost estimating, financial management, communication skills.",  
-  "Educational Requirements": "Bachelor's degree in architecture, engineering, construction management, business, healthcare administration, or related field.",
-  "Experience Level": "5+ years of project management experience preferably in acute care hospital environment.",
-  "Preferred Qualifications": "10+ years of construction management experience, architectural/engineering/contractor's license, experience in academic medical center, familiarity with UCOP policies, experience with medical imaging modalities, knowledge of hospital infrastructure.",
-  "Compensation and Benefits": "N/A"
-}

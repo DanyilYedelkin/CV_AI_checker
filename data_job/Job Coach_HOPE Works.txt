@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide assistance and guidance to individuals at community job sites to help them learn job duties and soft skills. Identify accommodations needed. Provide training on using public transportation when needed.",
-  "Required Skills": "Dependability, professionalism, independence, excellent communication and time management skills, ability to work with diverse people, good organizational skills, proficiency in Microsoft Word applications, valid driver's license.", 
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hourly pay rate starting at $XX/hour. Part-time schedule Monday-Friday."
-}

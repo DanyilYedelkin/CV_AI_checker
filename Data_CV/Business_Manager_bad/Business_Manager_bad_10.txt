@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Prepared financial statements and assisted in budgeting for small businesses.",
+    "Required Skills": "Proficiency in Excel and financial reporting.",
+    "Educational Requirements": "Bachelor's degree in Accounting.",
+    "Experience Level": "3 years in financial analysis.",
+    "Preferred Qualifications": ""
+}

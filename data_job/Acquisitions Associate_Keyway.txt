@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "- Underwriting, diligence, deal execution and asset management of property acquisitions, dispositions and recapitalization\n- Financial modeling and analysis for underwriting and due diligence activities via Excel\n- Perform competitive and demographic research in prospective markets to discern real estate trends\n- Conduct property-level due diligence including site visits, review of leases, property financial information and third-party reports\n- Development and documentation of transaction rationale and investment strategy including preparation and presentation of investment memoranda and investor presentation materials",
-  "Required Skills": "- 2+ years of experience within real estate investments preferably on the investment banking or acquisitions side\n- Extensive experience closing commercial real estate transactions \n- Solid understanding of Excel with financial modeling and spreadsheet analysis experience\n- Strong written and verbal communication skills",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "- Distinctive problem-solving, strategic and analytical capabilities, track record of building trusted relationships with a variety of contacts and executive stakeholders\n- Ability to simplify complex ideas into presentable messages\n- Commitment to diversity in team building process",
-  "Compensation and Benefits": "N/A"
-}

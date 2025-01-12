@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Performs general and complex case management tasks like conducting assessments, developing care plans, coordinating services, resolving issues, achieving metrics, assisting and mentoring team members, meeting documentation standards, auditing, and participating in projects and meetings.",
-  "Required Skills": "5 years of experience in healthcare, behavioral health or managed care. Case management experience preferred. CCM certification preferred. Experience leading others preferred. For RNs: Associate's degree in nursing required, Bachelor's preferred. For social workers: Bachelor's in social work required, Master's preferred. For counselors: Bachelor's in counseling required, Master's preferred.", 
-  "Educational Requirements": "Associate's degree or higher in nursing, social work, or counseling depending on role.",
-  "Experience Level": "5 years",
-  "Preferred Qualifications": "Certified Case Manager (CCM) certification. Bachelor's degree in respective field. Experience leading others.",
-  "Compensation and Benefits": "Competitive benefits package including: health and welfare benefits, 401(k) with matching, tuition reimbursement, and PTO accrual from day one."
-}

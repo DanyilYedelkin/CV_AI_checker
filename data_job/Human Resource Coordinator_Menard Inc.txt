@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coordinate and participate in new team member recruitment, interviewing, selection, and orientation. Facilitate team member training and development using corporate training programs. Use company software to maximize payroll dollars. Ensure all team member concerns are addressed and resolved timely. Ensure team member-related programs and policies including the drug-free workplace program are followed.",
-  "Required Skills": "N/A",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

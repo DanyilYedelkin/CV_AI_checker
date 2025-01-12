@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "support the recruiting area in the identification and initial contact of potential candidates for our searches; propose new alternatives to identify candidates; identify opportunities for improvement in the current processes of the area; manage the notices in the different job portals with which we work and evaluate the candidates that apply to them; identify and analyze professional profiles in job portals for the different searches we have open",
-  "Required Skills": "proactivity and ability to work in a team; marked attention to detail in daily work; previous work experience is a plus; advanced english level", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "remote work; hardware setup for you to work from home; flexible hours- make your schedule; paid parental leave vacation holidays; diverse and multicultural work environment; an innovative environment with the structure and resources of a leading multinational; excellent compensation - well above the market average; here you can grow at the speed of your learning curve"
-}

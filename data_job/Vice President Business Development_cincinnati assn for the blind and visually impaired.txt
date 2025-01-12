@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead the business development and growth initiatives for CABVI's social enterprises, including identifying new products, services, and markets. Manage key customer relationships. Develop sales targets and strategies for government and commercial business lines. Ensure financial sustainability through diversified revenue streams.",
-  "Required Skills": "Bachelor's degree in business, marketing or related field. 5+ years experience in similar business development or sales role. Leadership and team management skills. Government contracting experience preferred. Strong communication and collaboration abilities.",
-  "Educational Requirements": "Bachelor's degree preferred, Master's degree or MBA preferred.",
-  "Experience Level": "5+ years experience in similar business development or sales role.",
-  "Preferred Qualifications": "Master's degree or MBA. Experience with government contracting and procurement. Passion for improving lives of people with vision loss.",
-  "Compensation and Benefits": "Competitive pay and benefits package including health, dental, vision, disability, life insurance, retirement plan, PTO, and relocation assistance."
-}

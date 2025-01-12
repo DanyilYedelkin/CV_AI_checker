@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Serve as the technical knowledge expert for core enterprise infrastructure support like servers, storage, network, email, cybersecurity, telecom, Windows, MacOS, cloud & SaaS applications. Collaborate with internal IT staff and external consultants. Lead IT projects including security initiatives. Author documentation and contribute to team's knowledge base.",
-  "Required Skills": "2+ years experience as a network manager, systems administrator, technical lead, systems architect or related role. Enterprise level Exchange to Office 365 migration experience. Proficient in new technologies. Excellent communication and interpersonal skills. Experience leading IT projects. Collaborative, proactive attitude. Excellent time management and multitasking abilities. Expertise in Windows, Active Directory, Exchange, VMware, ShoreTel, Cisco, Palo Alto, desktop OS, networking, server hardware, cybersecurity, encryption, network protocols.",  
-  "Educational Requirements": "Bachelor's degree in CS, IT or related field preferred.",
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee routing of the field team to complete bike repairs and inspections. Develop scheduling and conduct daily management of technicians. Help to lead with interviewing, onboarding, and training management. Ensure that safety-related processes are in place and are followed.",
-  "Required Skills": "2 years experience in operations including supervisory experience for an hourly operations team. Proficient in Microsoft Office Suite, Google applications. Excellent written and verbal communication skills. Self-starter, able to thrive in a fast paced, quickly changing environment with strong organizational, analytical, and problem-solving skills. Team player and collaborator. Current driver's license and able to meet motor vehicle record requirements. Available to work PM shifts and weekend hours.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years experience in operations including supervisory experience for an hourly operations team",
-  "Preferred Qualifications": "Previous experience managing employees in a union environment. Previous inventory management experience. Experience and knowledge of bike share industry operations.",
-  "Compensation and Benefits": "Comprehensive medical, dental, and vision plans. Life, accidental death, and long-term disability insurance. Paid time off and sick time. Paid parental leave. 401k retirement plan. Free annual bike share membership. Opportunities for growth."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Program and operate CNC mill axis and CNC lathe for the manufacturing of unique parts. Operate any type and size of single spindle or multiple spindles on a variety of operations (drilling, reaming, boring, tapping, spot facing, countersinking, etc.). Operate machine shop in a fast pace environment for quick turnaround parts. Operate multiple machines concurrently. Work with design engineers to machine parts for R&D. Organize tool and equipment maintenance and upkeep of raw material stock. Optimize machining time of parts. Perform job responsibilities according to internal process specifications.",
-  "Required Skills": "2 years of machine shop experience. 2 years of CNC machine operation experience. Education and/or training in machine shop operations. Experience in a self-directed team environment. CNC training or 2 years experience (Haas interface preferred but not required). Capable of producing parts with tight tolerances (25 microns / .001\") and fine finishes. Ability and willingness to use basic hand tools and measuring devices (i.e. dial calipers, protractors, micrometers, gauges, etc.) as required. Understanding of blueprint process sheet and engineering drawings interpretation. Prior working knowledge of machine shop operations, tool selection and equipment settings.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years of machine shop experience. 2 years of CNC machine operation experience.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary (will be commensurate with experience and education). Comprehensive benefits package available (healthcare, vision, dental and life insurances, PTO and holidays)."
-}

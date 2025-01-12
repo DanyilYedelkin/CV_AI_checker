@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Communicate with members, providers, and internal teams to coordinate care plans and services. Collect member information and assess needs. Develop individualized care plans. Monitor member progress and adjust plans as needed. Maintain knowledge of resources to address member needs.",
-  "Required Skills": "Bachelor's degree in nursing, social work, or related field. 1+ years of experience in healthcare, especially Medicaid/Medicare populations. Knowledge of medical terminology and disease states.", 
-  "Educational Requirements": "Bachelor's degree in nursing, social work, or related field.",
-  "Experience Level": "1+ years of experience in healthcare, especially Medicaid/Medicare populations.",
-  "Preferred Qualifications": "2+ years experience in healthcare/Medicaid/Medicare. Bilingual English/Spanish. Case management certification. Licensed social worker or nurse.",
-  "Compensation and Benefits": "N/A"
-}

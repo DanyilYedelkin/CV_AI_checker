@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Source, screen and interview candidates, own full life cycle recruiting, build and nurture candidate pipeline, attend industry events, assist with recruitment marketing, recommend recruiting strategies.",
-  "Required Skills": "2+ years recruiting experience, experience sourcing and communicating with consulting/tech professionals, interviewing skills, negotiation skills, adaptability, collaboration, self-motivation, networking/interpersonal skills.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years recruiting experience",
-  "Preferred Qualifications": "Consulting/professional services recruiting experience, technical recruiting experience especially Atlassian tools, agile methodology familiarity.",
-  "Compensation and Benefits": "N/A"
-}

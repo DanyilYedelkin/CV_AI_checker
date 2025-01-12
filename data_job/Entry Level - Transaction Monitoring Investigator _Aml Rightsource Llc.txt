@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Evaluate and monitor transactional activity to assess potential suspicious activity; Identify data anomalies and red flags for money laundering, terrorist financing, fraud, sanctions violations, and escalate for second level review; Adhere to all designated timeframes and procedures to ensure on time and accurate completion of work; Meet production and quality standards for completing assignments",
-  "Required Skills": "Bachelor's degree; Strong oral communication skills and ability to produce narrative and written summarizes clearly synthesizing recommendations and conclusions; Strong analytical, problem solving, and organizational skills; Proficient in Microsoft Excel, Microsoft Word with ability to learn new technologies quickly; Ability to multitask, work independently, and as part of a team establishing cooperative and collaborative working relationships",
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "Entry level",
-  "Preferred Qualifications": "Strong entrepreneurial spirit, highly collaborative, able to express ideas readily, manage change fluidly, able to influence and identify opportunities",
-  "Compensation and Benefits": "Pay $40,000 per year; Benefits include 401k matching, dental insurance, employee assistance program, flexible spending account, health insurance, health savings account, life insurance, paid time off, retirement plan, vision insurance"
-}

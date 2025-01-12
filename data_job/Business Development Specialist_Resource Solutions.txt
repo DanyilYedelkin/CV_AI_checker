@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Prepare and complete RFPs/RFIs for both institutional and intermediary distribution channels. Maintain complete ownership of processes, ensure accuracy of responses, and meet all deadlines. Complete consultant and client questionnaires. Respond to DDQs and ad hoc information and data requests. Establish and manage workflows to meet internal and external deadlines.",
-  "Required Skills": "Bachelor's degree, preferably in business, finance, marketing, economics. 2 years of relevant work experience writing RFPs/DDQs and familiarity with consultant databases. Strong attention to detail while providing accurate and timely responses. Proven ability to multitask and see tasks through to completion. High level of proficiency with Word, Excel, Internet, and web-based databases. Strong written and verbal communication skills, ability to build relationships and communicate effectively with employees at all levels globally.",  
-  "Educational Requirements": "Bachelor's degree, preferably in business, finance, marketing, economics",
-  "Experience Level": "2 years of relevant work experience",
-  "Preferred Qualifications": "Experience with Qvidian or other content management systems. Knowledge of marketing software such as Salesforce. Experience with analytics tools such as eVESTMENT, Callan, or Morningstar. Experience with consultant database maintenance.",
-  "Compensation and Benefits": "N/A"
-}

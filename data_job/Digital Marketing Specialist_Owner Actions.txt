@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "create a series of email newsletters, manage social media channels, coordinate work and collaborate with outside marketing and ad teams, design landing pages and site marketing content",
-  "Required Skills": "2+ years of direct digital marketing experience, willingness to take on a wide range of responsibilities, 2 years of email campaign management experience, experience with WordPress, Canva, Elementor and email marketing programs",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "2+ years of experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hybrid work schedule, Up to three days per week in the office, Primarily work from home, Columbus OH"
-}

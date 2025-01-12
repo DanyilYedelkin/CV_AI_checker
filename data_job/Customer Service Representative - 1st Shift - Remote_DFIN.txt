@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist clients with online filings, maintain positive customer relations, coordinate work between clients and operations teams, monitor project status",
-  "Required Skills": "Bachelor's degree, 1 year of experience in a service role", 
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "1 year of experience in a service role",
-  "Preferred Qualifications": "Ability to learn and adapt to changing technology, good communication and organizational skills",
-  "Compensation and Benefits": "N/A"
-}

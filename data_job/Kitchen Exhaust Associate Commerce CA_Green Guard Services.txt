@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform kitchen hood cleaning including power washing of hoods, duct work, filters, and exhaust fans. Set up and take down job sites and equipment. Wipe down stainless steel hoods, set up wet/dry vacuums, hoses, ladders, and plastic sheeting.",
-  "Required Skills": "Valid driver's license and clean driving record. Ability to pass drug screening and background check. Dependable and able to follow safety procedures. Able to work nights, weekends, and flexible hours. Physically able to climb ladders and lift 50 lbs. Attention to detail.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "No experience necessary but mechanical, electrical, or prior kitchen hood cleaning experience is a plus.",
-  "Preferred Qualifications": "Bilingual. Experience with iPhones/iPads. Mechanical experience.",
-  "Compensation and Benefits": "Paid company uniforms and cleaning service. Medical, dental, vision benefits. Retirement plan with company match. Paid time off and life insurance. Employee discount program."
-}

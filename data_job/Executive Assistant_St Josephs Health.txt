@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provides professional services to facilitate the fulfillment of responsibilities by the executive officers, collaborates with other coworkers in maintaining a comprehensive and efficient work flow by providing services to both internal and external personnel as expected by administration",
-  "Required Skills": "High school diploma or equivalent, proficiency in MS Office (Word, Excel, Access, Outlook, PowerPoint)", 
-  "Educational Requirements": "High school diploma or equivalent, bachelor's degree preferred",
-  "Experience Level": "5 years of previous related work experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

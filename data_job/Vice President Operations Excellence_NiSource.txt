@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Leads initiatives to increase field effectiveness and improve productivity. Ensures quality work by all team members. Achieves industry-leading safety culture and performance. Delivers annual financial plan. Supports execution of annual operating workplan.",
-  "Required Skills": "5+ years of relevant experience including 3+ years in operational excellence/continuous improvement. Leadership and management skills. Ability to build relationships across company. Experience with process management and driving continuous improvement. Ability to set and monitor targets for safety, operational excellence and customer satisfaction.",  
-  "Educational Requirements": "Bachelor's degree or comparable industry experience.",
-  "Experience Level": "5 years of experience leading other leaders.",
-  "Preferred Qualifications": "Lean Six Sigma certification. ISO standards experience. Experience in utility industry or similar industries.",
-  "Compensation and Benefits": "N/A"
-}

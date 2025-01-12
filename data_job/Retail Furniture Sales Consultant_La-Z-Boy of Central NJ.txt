@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Greeting and speaking to customers as they come into the store. Will be standing on your feet for most of your shift helping customers. Will be required to sell a minimum of $250,000 each month.",
-  "Required Skills": "Valid driver's license. Must be available to work weekends and some major holidays.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "1+ years retail sales experience preferred.",
-  "Preferred Qualifications": "Customer service experience - this is a customer facing job.",
-  "Compensation and Benefits": "Health, dental, match, paid vacations/PTO. Average sales associate makes over $55,000 per year with top performers earning over $100,000."
-}

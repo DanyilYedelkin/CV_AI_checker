@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Launching insurance sales career, setting appointments and interviewing prospective clients, analyzing financial resources and needs, recommending insurance products, closing sales",
-  "Required Skills": "Excellent communication skills, ability to build relationships, competitive drive, personal discipline, valid driver's license, reliable transportation",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "1 year minimum target",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Unmatched bonus structure with compensation up to $XXX,XXX, vested renewals, day 1 access to insurance carriers, payment for state-mandated training"
-}

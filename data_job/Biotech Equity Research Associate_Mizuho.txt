@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Building dynamic industry models consisting of integrated income statement, balance sheet, cash flow statements. Writing research reports including company initiations, industry thought pieces, and earnings recaps. Sourcing alternative data sets and simplifying and summarizing relevant industry and company information for inclusion in research reports. Conducting proprietary research, evaluating the competitive landscape, and analyzing industry/company news. Creating and maintaining relationships with industry contacts. Helping senior analyst prepare for marketing events and conferences.",
-  "Required Skills": "Strong analytical and financial modeling skills using Excel. Ability to write clearly and concisely. Effective oral communication skills. Effective organizational and time management skills. Ability to function independently while maintaining a collegial and collaborative approach to working with other team members.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum of 1 year of related work experience preferred.",
-  "Preferred Qualifications": "Prior direct experience in the biotech industry and/or sellside or buyside equity research is a plus. An advanced degree in life sciences (MD, PhD, MBA) or CFA and Series 7 and 63 licenses is a plus.",
-  "Compensation and Benefits": "Compensation is competitive and commensurate with experience and capabilities."
-}

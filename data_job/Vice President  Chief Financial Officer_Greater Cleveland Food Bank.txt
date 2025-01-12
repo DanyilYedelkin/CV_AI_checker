@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "- Lead and provide oversight for financial, accounting, budgeting, and forecasting functions. \n- Manage preparation and controls of the organization's budgets and forecasts. \n- Provide strategic financial analysis and reporting to leadership and the board. \n- Ensure compliance with financial regulations and reporting.\n- Develop and implement financial policies, procedures, and controls.",
-  "Required Skills": "Proficiency in accounting, finance, and budgeting principles. Strong analytical and financial modeling skills. Management and leadership skills. Knowledge of nonprofit accounting regulations and standards.",  
-  "Educational Requirements": "Bachelor's degree in accounting, finance or related field. CPA or MBA preferred.",
-  "Experience Level": "10+ years of accounting experience with at least 5 years in a management role.",
-  "Preferred Qualifications": "Experience in the nonprofit sector. Knowledge of food bank operations.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include working regular weekday shifts, such as 9am to 5pm or 8am to 4pm. No weekend hours required.",
-  "Required Skills": "No specific technical or soft skills mentioned. Ability to work weekday daytime shifts is required.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "No prior experience necessary. Will train applicants.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Pay is $12 per hour. Benefits include 401k with matching, dental insurance, health insurance, life insurance, vision insurance."
-}

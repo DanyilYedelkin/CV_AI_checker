@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "The patient advocate is the first point of contact for patients and caregivers reaching out to CTCA for information and support. They efficiently manage inbound inquiries, qualify patients, capture patient data, refer leads, and provide resources.",
-  "Required Skills": "College education in business, marketing, sales, healthcare or communications. 2+ years experience in healthcare/sales/customer service. Achievement oriented. Computer proficiency including CRM. Strong communication and interpersonal skills. Integrity and values. Time management.",
-  "Educational Requirements": "College degree (BA/BS) preferred in business, marketing, sales, healthcare or communications related field.",
-  "Experience Level": "2+ years of experience required in a complex healthcare/sales/customer service environment.",
-  "Preferred Qualifications": "Healthcare services/oncology familiarity preferred. CRM experience (Salesforce). Knowledge and skills: Self-directed, organized, fast-paced, collaborative, adaptable, professionalism, verbal fluency, tenacity.",
-  "Compensation and Benefits": "N/A"
-}

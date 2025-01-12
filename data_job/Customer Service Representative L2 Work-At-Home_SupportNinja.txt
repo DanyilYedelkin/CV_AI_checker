@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide top-notch customer service via phone, process customer orders, furnish order information, provide order status updates, ensure order accuracy, respond to customer inquiries, arrange returns, diagnose and resolve customer issues, provide feedback on new features, perform upselling and retention inbound calls",
-  "Required Skills": "Associate or bachelor's degree, 1+ years customer service experience in retail/apparel/fashion, ability to achieve sales quotas, excellent phone communication, problem solving skills, organizational skills, verbal/written communication skills, teamwork, multitasking, empathy, customer focus",
-  "Educational Requirements": "Associate or bachelor's degree", 
-  "Experience Level": "1+ years customer service experience in retail/apparel/fashion",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

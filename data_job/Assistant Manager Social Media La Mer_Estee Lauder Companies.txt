@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for leading the majority of the brands 2022 social marketing efforts while overseeing community management and acting as the primary point of contact for regions around the world.",
-  "Required Skills": "3-5 years of social media & community management experience ideally in a corporate environment, luxury or beauty a plus. Self-starter with ability to work on multiple projects. Organized and detail oriented. Strong verbal and written communication skills.",  
-  "Educational Requirements": "Bachelor's degree or equivalent required.",
-  "Experience Level": "3-5 years",
-  "Preferred Qualifications": "Experience in luxury or beauty industry a plus. Passion for the beauty business.",
-  "Compensation and Benefits": "N/A"
-}

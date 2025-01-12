@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build relationships and guide customers through the shopping experience, drive sales in-store and online, participate in merchandising and operations",
-  "Required Skills": "Excellent communication and interpersonal skills, ability to work flexible hours including nights and weekends, proficient with technology", 
-  "Educational Requirements": "High school diploma or equivalent",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Creative thinking, strategic skills, interest in fashion and styling",
-  "Compensation and Benefits": "Competitive pay, paid time off, tuition coverage, employee discount, bonus opportunities, benefits like dental/vision/pet insurance"
-}

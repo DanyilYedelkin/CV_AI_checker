@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Project management and execution of large-scale commercial construction projects. Meeting the needs of the business including operations, accounting, design review, management, etc.",
-  "Required Skills": "Bachelor's degree in engineering, construction management, or related field. At least 5 years of project management experience in construction.",
-  "Educational Requirements": "Bachelor's degree in engineering, construction management, or related field.",
-  "Experience Level": "At least 5 years of project management experience in construction.",
-  "Preferred Qualifications": "Construction management training, development and documentation. Flexibility to work various schedules and focus on project completion.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Make calls to establish relationships and build your book of business from the ground up. Sell and close new and existing customers to move their freight. Negotiate price with shippers and carriers. Manage daily shipments resolving issues to ensure pickup and delivery is on time.",
-  "Required Skills": "Strong negotiation skills with the ability to handle conflict. The ability to work with the latest technologies.",
-  "Educational Requirements": "College degree preferred but we have successful sales representatives without one.",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Some sales experience.",
-  "Compensation and Benefits": "Base salary with uncapped commission opportunity. Health, dental and vision coverage. 1 week paid training and mentoring program. Ability to work in office from one of our 100 offices nationwide."
-}

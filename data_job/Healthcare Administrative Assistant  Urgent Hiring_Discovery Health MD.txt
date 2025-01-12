@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Travel to various sites to perform administrative duties. Assist with patient screening, registration, and questions. Maintain patient confidentiality and adhere to HIPAA guidelines. Assist with vaccine administration and health education. Document and chart patient vaccinations.",
-  "Required Skills": "High school diploma or equivalent. Strong interpersonal and communication skills. Time management and organizational skills. Ability to multitask efficiently.",  
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous experience with patient registration.",
-  "Compensation and Benefits": "N/A"
-}

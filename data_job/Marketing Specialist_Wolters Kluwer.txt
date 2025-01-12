@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute data-driven marketing campaigns, help develop marketing strategy and tactics, create marketing content, measure and analyze results, align plans with market trends",
-  "Required Skills": "Bachelor's degree, 2+ years experience in product marketing and market launch, project management, Microsoft Office, Salesforce/marketing automation knowledge", 
-  "Educational Requirements": "Bachelor's degree or equivalent experience",
-  "Experience Level": "Minimum 2 years experience in product marketing",
-  "Preferred Qualifications": "Marketing experience, digital marketing knowledge, tax/accounting industry experience",
-  "Compensation and Benefits": "N/A"
-}

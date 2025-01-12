@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and implement fundraising strategies and events, cultivate and solicit donors, manage grant processes, build community partnerships.",
-  "Required Skills": "3+ years development experience, grant writing, public speaking, verbal/written communication, self-motivated.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years",
-  "Preferred Qualifications": "Event planning, CRM experience.",
-  "Compensation and Benefits": "Salary up to $120k, health insurance, PTO, parental leave."
-}

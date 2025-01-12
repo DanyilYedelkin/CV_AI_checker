@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Data entry, customer service, product testing, participation in online focus groups",
-  "Required Skills": "Computer/laptop/tablet/smartphone, internet connection, ability to work independently, follow written instructions, typing skills, provide feedback",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Entry level, no experience necessary",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

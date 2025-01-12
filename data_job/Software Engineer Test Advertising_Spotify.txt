@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build and maintain test automation frameworks, tools, and infrastructure to enable engineering teams to efficiently write and run tests. Work with squads to instill testing best practices.",
-  "Required Skills": "Proficiency in test automation frameworks like Selenium, experience with infrastructure as code tools like Terraform, knowledge of CI/CD pipelines. Strong coding skills in languages like Python or Java. Communication and collaboration skills.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years of experience in software test automation and infrastructure",
-  "Preferred Qualifications": "Experience with advertising or media tech platforms. Knowledge of testing methodologies like TDD and BDD.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conducts opening and closing operational routines as needed ensuring a successful start or completion of the stores daily business. Executes detailed comprehensive stock and product management routines including processing shipment and completing markdowns merchandising replenishment and fulfilling online orders. Welcomes guests and assists with finding their perfect pair accessories or apparel. Keeps an overview to daily operations and troubleshoots any concerns with transactions and store routines.",
-  "Required Skills": "Retail, restauran, or hospitality experience.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

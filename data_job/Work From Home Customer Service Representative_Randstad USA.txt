@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handling a high volume of inbound calls to answer questions, provide education and solve issues related to benefits, payroll, etc. Processing transactions like enrollments, withdrawals, leaves of absence. Communicating with third parties to assist customers.",
-  "Required Skills": "Excellent verbal and written communication skills. Ability to multitask and adapt in a fast-paced environment. Computer navigation skills to toggle between systems.",  
-  "Educational Requirements": "High school",
-  "Experience Level": "2 years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "$12 per hour, shift work required including weekends."
-}

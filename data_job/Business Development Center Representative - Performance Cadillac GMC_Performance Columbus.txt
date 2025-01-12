@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer internet leads and website chats in a timely manner. Respond to customer inquiries efficiently via call, text and email. Answer inbound sales calls professionally and assist customers in a friendly manner. Generate sales appointments by means of incoming and outgoing calls, texts and emails. Maintain and communicate inventory and product knowledge. Execute timely followup schedule on all internet and phone leads. Check email frequently and respond to inquiries in a timely manner. Meet and exceed goals each month set by management.",
-  "Required Skills": "BDC sales experience preferred. Demonstrate excellent phone, written and verbal communication skills. Ability to work efficiently in a fast-paced environment. Self-motivated. Maintain an energetic, positive attitude and work well with others in a team-based environment. Organized and efficient with attention to detail. High school diploma or GED. Valid driver's license with an acceptable driving record. Pass a pre-employment drug screening.",
-  "Educational Requirements": "High school diploma or GED",
-  "Experience Level": "BDC sales experience preferred",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

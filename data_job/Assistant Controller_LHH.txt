@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Maintain general ledger accounts by reconciling documents, assist with month end close, prepare financial statements, perform analysis on financial statement line items, prepare worksheets to support balance sheet items, serve as connection between accounting/finance and business operations",
-  "Required Skills": "Bachelor's degree in accounting/finance, CPA certification or candidate preferred, 2+ years of accounting experience including internships, proficient in math/accounting skills, detail/deadline oriented with strong attention to detail, self-starter and team player, understanding of GAAP principles and application, advanced Excel skills",  
-  "Educational Requirements": "Bachelor's degree in accounting or finance",
-  "Experience Level": "2+ years of accounting experience including internships",
-  "Preferred Qualifications": "CPA certification or candidate",
-  "Compensation and Benefits": "Dependent on level and experience"
-}

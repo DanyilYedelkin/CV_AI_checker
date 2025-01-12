@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Tactical execution of marketing programs related to brand partnerships including managing partnership calendars, assisting with marketing materials, event coordination, and collaborating with teams. Measuring impact of programs by tracking marketing results and data.",
-  "Required Skills": "Bachelor's degree or equivalent experience. Strong communication skills. Ability to travel to NYC and surrounding areas. Proficiency in Excel and PowerPoint. Internet research skills.",  
-  "Educational Requirements": "Bachelor's degree or equivalent experience.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Marketing experience in partnerships and campaigns. Healthcare industry experience. Attention to detail, planning, and organizational skills. Analytical and research skills. Ability to work in teams.",
-  "Compensation and Benefits": "N/A"
-}

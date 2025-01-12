@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Compiling, capturing and maintaining digital databases; Checking documents for errors; Inputting data and updating databases; Managing digital filing systems.",
-  "Required Skills": "Excellent typing skills; Attention to detail; Proficiency in data capturing and office management software like MS Office and Google Suite; Understanding of databases and digital/paper filing systems; Verbal and written communication skills.",
-  "Educational Requirements": "High school diploma or GED", 
-  "Experience Level": "1-2 years experience as a data entry operator or similar role",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

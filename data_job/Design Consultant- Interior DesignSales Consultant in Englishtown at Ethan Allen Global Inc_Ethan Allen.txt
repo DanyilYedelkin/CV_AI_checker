@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Work with new and existing clients to create customized home design solutions, sell ideas, products and services. Establish relationships and operate an interior design business within the company's program.",
-  "Required Skills": "Interior design knowledge and passion, space planning, ability to establish and maintain client relationships, experience with technology like room planner, augmented reality, and live chat.", 
-  "Educational Requirements": "Design related degree or 3+ years experience in a design related field.",
-  "Experience Level": "3+ years experience in a design related field.",
-  "Preferred Qualifications": "Professional portfolio.",
-  "Compensation and Benefits": "Competitive compensation and perks program, health insurance, dental and vision insurance, health savings accounts."
-}

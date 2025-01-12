@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answering inbound phone calls for fraudulent or suspicious debit/credit and ATM card transactions, assisting those cardholders according to policy and referring them to their financial institution when necessary, assisting cardholders and financial institutions with lost or stolen debit/credit and ATM card reports",
-  "Required Skills": "Minimum of 1 year of customer service experience (customer facing or phone customer support), must be able to work a set assigned schedule in a 24/7 call center that will include nights, weekends and holidays, must have reliable high-speed internet service that is at least 25 Mbps download and 5 Mbps upload",
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum of 1 year of customer service experience",
-  "Preferred Qualifications": "Experience with payments and card processing, strong data entry background, ability to work well as part of a team environment and receive feedback from leaders to help improve metrics",
-  "Compensation and Benefits": "N/A"
-}

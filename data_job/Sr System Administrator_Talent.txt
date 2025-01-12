@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide administration and technical support for all of J Crew's SAP systems. This covers all aspects of SAP basis administration including system installations, upgrades, problem analysis, resolution, database management, client copies, system refreshes, SAP instance configuration, and performance tuning.",
-  "Required Skills": "Good working knowledge of SAP, databases, operating systems, and hardware platforms. Ability to write Unix shell and Perl scripting. Knowledge of NWDI architecture and functionality. SAP certification is a plus.",
-  "Educational Requirements": "Bachelor's degree mandatory, prefer computer science or related field.", 
-  "Experience Level": "Minimum 5 years of SAP basis administration experience. 3 years of Oracle database administration and performance tuning experience.",
-  "Preferred Qualifications": "SAP BI, Enterprise Portal, PI, and Solution Manager experience. Knowledge of Single Sign-On solutions. UNIX/Linux system administration experience.",
-  "Compensation and Benefits": "N/A"
-}

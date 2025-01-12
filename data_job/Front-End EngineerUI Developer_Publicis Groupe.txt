@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design and build highly dynamic data-driven internet-based platforms. Lead front end development and testing of web and mobile applications. Perform code reviews and adhere to coding standards. Maintain focus on quality and meet delivery deadlines.",
-  "Required Skills": "Deep familiarity with digital environment. 5+ years experience with frontend technologies like React, jQuery. Experience developing and testing modern JavaScript applications. Knowledge of XHTML, CSS, Git, Gulp/Webpack. Ability to translate designs into HTML. Experience with component driven architectures. Knowledge of web standards, responsive design, accessibility.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "5+ years",
-  "Preferred Qualifications": "Experience with Adobe Experience Manager, Node, GraphQL, TypeScript, SQL and NoSQL databases, AWS, Docker, Kubernetes. Experience managing build pipelines.",
-  "Compensation and Benefits": "N/A"
-}

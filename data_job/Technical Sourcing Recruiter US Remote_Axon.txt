@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for full-life cycle recruitment efforts targeting research and development candidates. Build sourcing strategies, support hiring managers, utilize various sourcing techniques to identify and engage candidates.",
-  "Required Skills": "Minimum of 2 years experience as a sourcer or full-cycle recruiter. Demonstrated sourcing, recruiting and building talent pipelines. Excellent use of Boolean, LinkedIn Recruiter and other search techniques. Decisive, with ability to prioritize and manage multiple searches.",   
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum of 2 years of experience as a sourcer or full-cycle recruiter.",
-  "Preferred Qualifications": "Experience building new recruiting systems/workflows and training teams on best practices. Experience researching conferences, networking groups and nontraditional resources to find candidates. Experience building long-term nurture campaigns and engagement strategies. Experience at a growing SaaS company.",
-  "Compensation and Benefits": "N/A"
-}

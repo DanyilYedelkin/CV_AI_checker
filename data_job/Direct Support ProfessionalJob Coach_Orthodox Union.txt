@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Working hands-on with individuals with special needs, facilitating groups of about 3 individuals, meeting individuals 1 on 1, job coaching individuals at their job site, documenting their goals, possible driving if applicable",
-  "Required Skills": "Experience working with individuals with special needs", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

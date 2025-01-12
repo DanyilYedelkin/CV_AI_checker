@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage the team of experts to deliver all tax services to LZ Tax clients. This role is responsible for meeting expert productivity targets and quality measures. Be accountable to scale the practice, enable margin expansion, define where the practice is going and how to get there. Build and execute a strategy that enables the team to optimize their work including identifying efficiency and quality improvement opportunities.",
-  "Required Skills": "5+ years in team management or operations for financial services, accounting, or platform-based businesses. Experience in high-growth settings with demonstrated abilities to enable organizations to scale. Experience building and managing teams of direct reports. High-quality communication skills (written and oral). Skill collaborating cross-functionally in matrixed environments. Bachelor's degree (mandatory). CPA or accounting background (preferred).", 
-  "Educational Requirements": "Bachelor's degree (mandatory). CPA or accounting background (preferred).",
-  "Experience Level": "5+ years in team management or operations for financial services, accounting, or platform-based businesses.",
-  "Preferred Qualifications": "CPA or accounting background.",
-  "Compensation and Benefits": "N/A"
-}

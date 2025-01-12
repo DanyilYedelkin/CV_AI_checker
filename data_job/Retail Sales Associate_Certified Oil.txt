@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Greeting guests, operating cash register, brewing coffee, stocking shelves, freezers and coolers, maintaining clean store environment",
-  "Required Skills": "Customer service skills, cash handling, ability to multitask in fast-paced environment", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "6 months retail or guest service/restaurant experience, ServSafe certification",
-  "Compensation and Benefits": "Competitive wages with monthly bonus potential, 401K with company match, employee discounts, tuition reimbursement, employee assistance program"
-}

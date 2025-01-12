@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct lead generation activities including cold calling, networking and prospecting to acquire new customers and grow business with existing customers; meet with prospective customers to identify needs and close deals; ensure customer implementation goes smoothly; maintain and grow book of business through account management.",
-  "Required Skills": "1-2 years sales experience in transportation/logistics; valid driver's license with clean record; ability to build relationships, analyze customer data, develop sales plans, meet targets.",  
-  "Educational Requirements": "High school diploma or GED.",
-  "Experience Level": "1-2 years transportation/logistics sales experience.",
-  "Preferred Qualifications": "Bachelor's degree in business, communications, logistics or related field; 2+ years sales experience in transportation/logistics.",
-  "Compensation and Benefits": "N/A"
-}

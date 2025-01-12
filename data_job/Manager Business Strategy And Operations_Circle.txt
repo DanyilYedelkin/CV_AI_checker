@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Define clear hypotheses to identify new opportunities and build business cases. Structure complex and ambiguous strategic problems for product and executive leadership. Quantitative and qualitative market research across key product verticals. Aiding product managers in discovery across new product categories, engaging prospects, and crafting plans for market development. Become an expert in the competitive landscape and market developments. Work cross functionally to drive execution of growth programs and key strategic initiatives.",
-  "Required Skills": "2 years of relevant experience in bizops, strategy consulting, or related field. Payments or blockchain experience preferred. Experience in defining problem spaces and aligning groups to drive execution. Highly independent and motivated to get into the weeds. Strategic thought partner who is comfortable driving requirements across a highly diverse set of stakeholders. Passion for building and mastering complex technical concepts. Thrives in unstructured environments and brings order to chaos.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years",
-  "Preferred Qualifications": "Payments or blockchain experience",
-  "Compensation and Benefits": "N/A"
-}

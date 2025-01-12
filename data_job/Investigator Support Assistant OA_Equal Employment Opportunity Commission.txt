@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Review company records and compile data to support investigations into discriminatory practices. Maintain accurate and organized case files. Type investigative reports, memoranda, and other materials.",
-  "Required Skills": "Ability to communicate effectively. Organizational and data analysis skills. Proficient in typing. Knowledge of employment discrimination laws.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "At least 1 year of specialized experience at the GS-5 level.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

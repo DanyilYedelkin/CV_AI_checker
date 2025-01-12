@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Daily processing of company business transactions like keypunching for routes, filing, customer service, and other clerical tasks as needed.",
-  "Required Skills": "Good computer, data entry, Excel, and Microsoft Word skills. Strong verbal and written communication skills.", 
-  "Educational Requirements": "High school graduation or similar experience.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "401k plan with company match, medical/dental/vision benefits, life and disability insurance, paid time off, employee discounts."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide holistic primary care management for all client groups including medical and managed behavioral health services; Monitoring of member utilization and claim patterns; Ongoing case management for complex care",
-  "Required Skills": "Baccalaureate degree in nursing or community/public health preferred; Active RN license or certification as applicable to the degree; 2+ years of clinical nursing experience including leadership activities; Extensive knowledge of case management and utilization review processes; Continuous quality improvement (CQI) or other experience in clinical process improvement; Excellent client-facing verbal and written communication skills; Proficiency with Microsoft Office applications",
-  "Educational Requirements": "Baccalaureate degree in nursing or community/public health preferred",
-  "Experience Level": "2+ years of clinical nursing experience including leadership activities",
-  "Preferred Qualifications": "Behavioral health experience",
-  "Compensation and Benefits": "Competitive pay; Annual incentive; Medical, dental and vision insurance; 401k retirement plan with match; Generous PTO and holidays; Onsite gym facility; Gym subsidy; Life AD&D; Short-term and long-term disability insurances; Employee assistance plan; Free parking; Wellness activities; Wellness incentive; Monthly events; Paid volunteer hours"
-}

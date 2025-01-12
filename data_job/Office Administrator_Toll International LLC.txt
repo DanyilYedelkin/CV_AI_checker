@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Welcoming visitors and directing them to the relevant office personnel, carrying out clerical duties such as answering phone calls, responding to emails, and preparing documents, coordinating office activities to ensure efficiency and compliance with policies, managing executives' schedules and correspondence, supporting bookkeeping and budgeting, tracking and replacing office supplies, submitting reports and proposals, assisting colleagues",
-  "Required Skills": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook, Access), communication and writing skills, time management and multitasking abilities, ability to handle confidential information",
-  "Educational Requirements": "Bachelor's degree", 
-  "Experience Level": "2+ years office administration experience",
-  "Preferred Qualifications": "Experience working with the Port Authority of NY/NJ, significant mass transportation experience, familiarity with common office procedures and basic accounting principles",
-  "Compensation and Benefits": "N/A"
-}

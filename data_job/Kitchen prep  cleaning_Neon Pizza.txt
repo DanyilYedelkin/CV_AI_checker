@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Package and label pizzas, dishwashing, light prep, clean up kitchen at the end of the night",
-  "Required Skills": "Able to lift up to lbs, able to work weekends and holidays when required, ServSafe certification and adhere to strict food hygiene standards",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

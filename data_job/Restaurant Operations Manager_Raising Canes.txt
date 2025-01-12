@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead shifts at the restaurant including operations, upholding standards, training crewmembers, assessing areas of opportunity, inventory counts, vendor orders, cleanliness, and maintenance issues. Convey company culture and lead the rewards program for crewmembers.",
-  "Required Skills": "Proficiency in Microsoft Office. Ability to lead, motivate, empower crewmembers, problem solve, set goals, convert plans to action, knowledge of labor laws and staffing, scheduling, cost management.",  
-  "Educational Requirements": "Minimum of high school diploma or equivalent required, some college preferred.",
-  "Experience Level": "2+ years restaurant or retail management preferred.",
-  "Preferred Qualifications": "New restaurant opening experience.",
-  "Compensation and Benefits": "Medical, dental, vision, pharmacy benefits, 401k with match, tuition reimbursement, life insurance, disability insurance, employee discount program, paid time off, holidays."
-}

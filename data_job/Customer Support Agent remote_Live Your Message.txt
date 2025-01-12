@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Troubleshoot technical issues, investigate bug reports, answer questions via email/phone/live chat, guide students through programs, provide feedback on programs, turn upset customers into raving fans, train new support staff, maintain knowledge base, moderate webinars and events, provide live event support",
-  "Required Skills": "Customer service experience, accountability, ability to work under pressure, problem solving skills, confidence to ask for help, sense of humor, organization skills, love of challenges",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years in customer service",
-  "Preferred Qualifications": "Experience with online launches, online education industry, Infusionsoft, email marketing knowledge, knowledge base development",
-  "Compensation and Benefits": "Full-time position with benefits, opportunities for advancement"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Create a safe, nurturing environment where children can play and learn. Partner with parents to provide the best care and education for their children. Support your center's success by partnering with staff to achieve goals around enrollment, accreditation, and engagement. Implement curriculum in a way that meets each child's needs.",
-  "Required Skills": "CPR and first aid certification. Active CDA credential or willing to obtain. Completed core ECE units or BA in child development. Physically able to use a computer, lift minimum of 50 lbs, work indoors/outdoors. Able to assume postures for physical and visual contact with children. Able to see, hear, read, write, speak English to communicate with children and parents.", 
-  "Educational Requirements": "CDA credential or core ECE units or BA in child development",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Medical, dental, vision, childcare benefit, paid time off, education assistance, reimbursements, retirement plan, health/wellness programs."
-}

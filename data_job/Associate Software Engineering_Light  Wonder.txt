@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop, design, test, code and integrate software-embedded products; Troubleshoot and debug software defects; Review, interpret and execute software-embedded requirements and specifications",
-  "Required Skills": "Embedded software development; Software modeling in real-time response environments; Serial communications protocols; Various operating systems; Software development life cycle",
-  "Educational Requirements": "Bachelor's degree in related field",
-  "Experience Level": "3 to 5 years of related experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

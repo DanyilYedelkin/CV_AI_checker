@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead digital marketing efforts across paid social, paid search, SEO, programmatic, affiliate, mobile, app, video, emerging and cross-channel within a direct response environment. Establish and manage day in and day out testing-and-learning plans to continuously optimize media investments. Report performance to senior leadership on a weekly, monthly and quarterly basis highlighting opportunities or trends for continuous improvement.",
-  "Required Skills": "5+ years experience in a growth marketing role, expertise with Google, Facebook, Instagram and other major performance marketing channels. Experience with a SaaS business environment and B2B and/or B2C targeting. Demonstrated experience growing revenue at scale via performance marketing within a tech/technology or services company. You must know how to quantitatively analyze and optimize marketing programs and growth initiatives. You must have the ability and willingness to review and train with meticulous attention to detail your team.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "5+ years",
-  "Preferred Qualifications": "Gritty, adaptable and self-motivated.",
-  "Compensation and Benefits": "We offer competitive salary, benefits and perks that make the day to day enjoyable. Generous healthcare coverage including dental and vision benefits. FSA plan. Commuter benefits. Subsidized ClassPass membership. Unlimited snacks in fully stacked kitchen. Paid parental leave and pet-friendly office."
-}

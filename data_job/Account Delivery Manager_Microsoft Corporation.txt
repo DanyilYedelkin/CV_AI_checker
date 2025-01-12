@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Create strategic partnerships with key customer stakeholders. Lead delivery of solutions through project management. Drive growth and consumption. Resolve escalations and issues. Ensure contract compliance and profitability.",
-  "Required Skills": "Bachelor's degree in computer science, business management or related field. Project management and service delivery experience. Client-facing experience.", 
-  "Educational Requirements": "Bachelor's degree in computer science, business management or related field.",
-  "Experience Level": "5+ years of service delivery, project management and client-facing experience.",
-  "Preferred Qualifications": "Master's degree in computer science, business management or related field. Account management experience.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute strategic initiatives, provide oversight and management of operations, finances, staff, ensure compliance with regulations, build relationships with community partners.",
-  "Required Skills": "Master's degree in healthcare administration, business administration or related field, 5+ years experience as a healthcare manager with 2+ years in a behavioral health setting, budgeting/finance skills, communication and relationship-building skills.",  
-  "Educational Requirements": "Master's degree in hospital administration, business administration, mental health or related field.",
-  "Experience Level": "5+ years as a healthcare manager, 2+ years in a behavioral health setting.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Attractive compensation package including relocation assistance."
-}

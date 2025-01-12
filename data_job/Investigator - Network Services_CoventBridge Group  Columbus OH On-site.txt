@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct undercover investigations in various locations. Ensure efficient and accurate observations for report writing. Write thorough investigative reports. Upload evidence into case management system. Drive safely.",
-  "Required Skills": "Licensed or eligible private investigator. Willingness to travel within multi-state area. Valid driver's license. Reliable vehicle with insurance. Laptop with Windows and Microsoft Word.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Associate's or Bachelor's degree in criminal justice or related field. Experience conducting surveillance. Strong attention to detail. Self-starter. Military or law enforcement background.",
-  "Compensation and Benefits": "Competitive pay. Medical, dental, vision benefits. Life, disability insurance. 401k matching. Paid time off. Monthly vehicle allowance. Fuel card. Travel and report writing compensation. Paid licensing fees. Paid training."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design and develop products, collaborate with sales, design and production teams, attend shows to identify trends and apply to product development, groom product backlog and act as customer voice for development team",
-  "Required Skills": "Product development, ability to break down complex problems, drive product development, provide strategic vision and be client-facing product owner", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience instituting product management processes and systems, experience with rapid and successful product launches",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and implement front end and back end web applications, enhance and improve web applications, ensure web applications are adequately tested before rollout.",
-  "Required Skills": "Bachelor's degree in IT or equivalent, proficiency in front end (Angular, React, HTML, CSS) and back end (TypeScript, JavaScript, Node.js) languages and frameworks, knowledge of SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, Redis), Git and GitFlow, DevOps and CI/CD, SEO, CMS systems", 
-  "Educational Requirements": "Bachelor's degree in IT or equivalent",
-  "Experience Level": "At least 1 year of experience in related field",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

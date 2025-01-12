@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Work on all aspects of construction projects from beginning to end with responsibility for project execution while working with a team to complete objectives in a given time frame and with available resources. Administration, implementation and management of projects. Accountable for assigned scope of work, schedule and budget.",
-  "Required Skills": "Bachelor's degree in construction engineering or construction management. Valid state issued driver's license with ability to provide proof of insurance. U.S. citizen or legal right to work in the U.S. without sponsorship.", 
-  "Educational Requirements": "Bachelor's degree in construction engineering or construction management",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive compensation and comprehensive benefits and programs that help employees thrive in both their professional and personal lives."
-}

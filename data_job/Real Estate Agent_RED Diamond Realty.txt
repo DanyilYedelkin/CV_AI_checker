@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Listing and selling homes, generating leads, working with clients throughout the home buying/selling process",
-  "Required Skills": "Real estate license, communication skills, ability to work independently", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "No previous experience required",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Up to 100% commission, high commission split, no franchise or office fees"
-}

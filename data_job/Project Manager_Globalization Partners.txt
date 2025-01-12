@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive cross-functional business and technology projects consisting of multiple workstreams and phases executed by distributed teams. Develop detailed project plans and track progress. Establish high-performing project teams and provide visibility into risks.",
-  "Required Skills": "5+ years of experience in cross-functional project management. Experience with business functions like HR, finance, legal, operations, sales, and marketing. Experience with technologies like CRM, ERP, HR systems. Familiarity with Agile and Waterfall methodologies. Experience with tools like Jira, Smartsheet, Microsoft Project. PMP or Scrum Master certification nice to have.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "5+ years of experience in cross-functional project management",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

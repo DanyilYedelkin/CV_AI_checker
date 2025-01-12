@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist injured employees return to their preaccident jobs using best of practice process and protocols. Communicate with patients in both English and French.",
-  "Required Skills": "Active CARNA license in good standing. Minimum of 3 years clinical nursing experience including 1 year in an acute care setting. Proficient computer aptitude and MS Office skills.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum of 3 years clinical nursing experience including 1 year in an acute care setting",
-  "Preferred Qualifications": "Subtlety and sensitivity. Readiness to cooperate with others. Readiness to trust and respect others.",
-  "Compensation and Benefits": "Annual compensation will range from $80,000 to $100,000 depending on applicant education, experience, credentials and performance. A comprehensive benefits plan is available."
-}

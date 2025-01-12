@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coordinate the daily operations of the mail department including receiving postage and organizing all office mail; organize and stock office supplies; move and lift large box deliveries; set up workstations for new employees; assist the HR manager with office management tasks; assist with other tasks as requested by the attorney or case staff; drive as needed to other local offices to deliver mail or supplies.",
-  "Required Skills": "High school diploma or GED; computer skills including knowledge of mailroom equipment, copy machine, package tracking software, postage, etc.; valid driver's license and access to a car; ability to lift and carry materials weighing up to 50 pounds while kneeling and bending; highly organized with ability to multitask, prioritize, handle a fast-paced environment and manage workload with minimal supervision.",
-  "Educational Requirements": "High school diploma or GED",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "This is an entry level position that pays $15/hr. Benefits for full-time employees include medical and dental insurance, 401k plan, paid time off and paid holidays."
-}

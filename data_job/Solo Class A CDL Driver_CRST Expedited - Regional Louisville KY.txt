@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for driving and delivering freight using a Class A CDL truck. Adhering to safety regulations and transportation laws.",
-  "Required Skills": "Valid Class A CDL license. Acceptable CSA score and background. Previous truck driving experience.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Previous truck driving experience required.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Up to $0.50 per mile and sign-on bonus. Weekly payroll. Benefits package including medical insurance."
-}

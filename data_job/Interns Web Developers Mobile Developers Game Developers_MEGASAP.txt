@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Programming, coding for mobile and web applications",
-  "Required Skills": "Proficiency in programming languages and frameworks for mobile and web development", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Passion for coding, previous internship experience",
-  "Compensation and Benefits": "N/A"
-}

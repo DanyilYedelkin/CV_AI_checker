@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct investigations to locate and arrest wanted individuals. Update and correct records in the sheriff's office databases. Communicate with the public, attorneys, businesses, and other agencies to obtain information. Complete required logs, files, inventories, and transmittals.",
-  "Required Skills": "Knowledge of criminal justice information systems. Ability to read, interpret, organize, and cross-reference information from multiple sources.", 
-  "Educational Requirements": "Bachelor's degree in criminology, law enforcement, business, public administration, social sciences, or related field.",
-  "Experience Level": "Entry-level",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

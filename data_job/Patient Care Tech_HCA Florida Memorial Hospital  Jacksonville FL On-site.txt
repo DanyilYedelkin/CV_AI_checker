@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Delivers patient care under the supervision of a registered nurse. Obtains and records patient information. Assists with patient mobility, activities of daily living, specimen collection, monitoring, bed linens, and enhancing the patient experience.",
-  "Required Skills": "Current American Heart Association or American Red Cross Basic Life Support certification for healthcare providers. 1 year of acute hospital experience preferred.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "1 year of acute hospital experience preferred",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

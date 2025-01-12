@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Architect workflows and interfaces between third-party and internally developed software components to support laboratory operations. Implementing components of the system in clean testable code. Implementing high-quality testing of the system as a whole. Evaluation of third party software. Monitoring and maintaining the high performance availability and reliability of the system. Work with the quality team to develop solutions in compliance with relevant regulations.",
-  "Required Skills": "Ability to clearly communicate technical concepts including working across the company with non-technical colleagues essential. Willingness to learn new technologies and skills as required and happy to take ownership of projects in a small team environment essential. Software development experience in industry essential, Python preferred. Experience in architecting and developing cloud-based solutions essential, AWS preferred. Experience implementing and testing security authentication and access management essential.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in requirements gathering and development of usecases, technical specifications and design documentation desired. Prior experience adhering to software development life cycle processes and/or working within regulated environments essential. Design of schemas for and administration of relational databases essential. Knowledge of software development, quality assurance and regulations such as ISO 13485, EN ISO 14971 and HIPAA desired.",
-  "Compensation and Benefits": "N/A"
-}

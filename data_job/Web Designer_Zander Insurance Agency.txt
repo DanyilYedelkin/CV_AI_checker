@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design compelling direct response websites and digital content that supports the brand campaign objectives and drives measurable actions. Utilize knowledge of company products and services to create effective designs. Create designs compatible across devices. Create mockups and present ideas to stakeholders. Continually improve user experiences and drive revenue growth.",
-  "Required Skills": "2+ years of digital design experience driving online sales or marketing. Ability to communicate effectively with high-level clients. Able to thrive in a fast-paced, team environment. Open to new ideas and able to adapt quickly. Proficiency with Adobe Creative Suite including Photoshop, Illustrator, and InDesign. Experience with Sketch and UI wireframing. Ability to articulate design concepts. HTML/CSS/JS experience preferred but not required.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of relevant digital design experience",
-  "Preferred Qualifications": "HTML/CSS/JS experience",
-  "Compensation and Benefits": "Competitive salary, monthly profit distributions, health/dental insurance paid 100% by company, 401k matching, generous paid time off, potential for remote work"
-}

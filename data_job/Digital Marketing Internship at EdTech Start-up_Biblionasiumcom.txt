@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage part of our communication channels and our social media presence. Create engaging, sharable content such as social media posts, articles, videos & eblasts. Manage Twitter and Facebook channels. Share content, engage audience, respond to inquiries. Grow followers and identify influencers and trends in the industry.",
-  "Required Skills": "Must be working toward a degree in marketing, public relations, business, communications, journalism, English or a related field. Must be available 2 times a week for a video call check-in. Must be familiar with Twitter, Facebook & Instagram platforms. Digital marketing experience a plus.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Digital marketing or social media experience. Knowledge of influencer marketing & content marketing. Knowledge of Hootsuite or other social media management platforms. Knowledge of WordPress.",
-  "Compensation and Benefits": "This is not a paid position. You will have a chance to learn and use the latest technology tools to manage communications and social media programs. You can receive a letter of recommendation from our CEO and/or course credit if applicable."
-}

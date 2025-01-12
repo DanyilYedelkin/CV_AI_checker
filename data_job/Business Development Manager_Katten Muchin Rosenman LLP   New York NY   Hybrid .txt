@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and maintain an understanding of the firm's practices and identify cross-selling opportunities; manage and coach attorneys on business development plans and activities; lead the lateral partner integration program; participate in and manage client service teams; contribute to attorney skills training and internal education programs; support other firmwide business development efforts.",
-  "Required Skills": "Bachelor's degree and 5+ years of business development experience, preferably at a law firm; strong business acumen and ability to articulate value proposition; highly motivated and agile; knowledge of legal services; analytical and critical thinking skills; excellent communication, project management, and time management.",
-  "Educational Requirements": "Bachelor's degree in marketing, business, or related field.",
-  "Experience Level": "5+ years of related business development experience, preferably at a law firm.",
-  "Preferred Qualifications": "Experience managing client teams and developing/implementing business development training for lawyers.",
-  "Compensation and Benefits": "Outstanding benefits package including medical, dental, vision, transportation allowance, generous PTO, disability policies."
-}

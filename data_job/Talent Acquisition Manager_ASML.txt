@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead and manage a team of recruiters. Provide recruitment counsel and guidance to hiring managers. Create and monitor recruitment plans for business groups. Contribute to overall US recruiting strategy.",
-  "Required Skills": "Bachelor's degree. Minimum 5 years of HR/recruitment experience, including people management. Demonstrated leadership, motivation, accountability and results-driven skills. Business acumen. High-tech industry experience. Global perspective, matrix environment experience.", 
-  "Educational Requirements": "Bachelor's degree or equivalent experience",
-  "Experience Level": "Minimum 5 years of HR/recruitment experience",
-  "Preferred Qualifications": "Experience in high-tech industry. Global perspective and ability to operate in a matrix environment.",
-  "Compensation and Benefits": "N/A"
-}

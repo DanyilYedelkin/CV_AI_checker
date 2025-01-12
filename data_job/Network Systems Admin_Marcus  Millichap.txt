@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Administer day-to-day operation and administration of application servers and network infrastructure within the company's on-premises and AWS cloud networks. Provide effective and timely responses to technology and application issues. Monitor performance, reliability and capacity of servers. Manage data backups and disaster recovery operations.",
-  "Required Skills": "Experience administering Microsoft server operating systems like Windows Server. Proficiency with Microsoft Active Directory and networking services like DNS, DHCP, etc. Experience with network administration, troubleshooting, virtualization and VMware. AWS services expertise like EC2, VPC, security groups, CloudWatch, etc. Scripting and automation skills using AWS tools and CloudFormation. Network security best practices.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years minimum experience in similar IT/systems administrator role",  
-  "Preferred Qualifications": "AWS certifications. Experience with Apple Mac operating systems. Experience configuring SSL security.",
-  "Compensation and Benefits": "N/A"
-}

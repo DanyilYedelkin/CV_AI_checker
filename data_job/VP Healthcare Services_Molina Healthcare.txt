@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversight and management of the healthcare services clinical operations teams including utilization management, prior authorization, inpatient review and care management/case-health management. Develop and implement processes to manage clinical policies to meet healthcare cost and quality targets.",
-  "Required Skills": "Managed care experience with line management responsibility including clinical operations. Experience working within applicable regulations. Operational and process improvement experience. Strong communication, teaming and leadership skills. Experience meeting quality and accreditation standards.",  
-  "Educational Requirements": "Master's degree or equivalent combination of education and work experience.",
-  "Experience Level": "5+ years managed care experience with line management responsibility including clinical operations.",
-  "Preferred Qualifications": "Masters degree in business or healthcare management (MBA, MHA, etc.). Familiarity with the local market. Active RN license. Utilization management or healthcare/management certification.",
-  "Compensation and Benefits": "N/A"
-}

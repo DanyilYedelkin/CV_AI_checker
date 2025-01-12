@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support site management with employee programs and services, read and route incoming mail, organize and maintain filing system, answer and screen phone calls, schedule appointments and meetings, arrange travel, conduct research and prepare reports, prepare correspondence, order supplies, support payroll operations, support HR functions like recruiting and onboarding",
-  "Required Skills": "Experience as an administrative professional, proficient in MS Office Word, Excel, Outlook, PowerPoint, excellent customer service skills, verbal and written communication skills, organizational skills, attention to detail",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A", 
-  "Compensation and Benefits": "$14 per hour"
-}

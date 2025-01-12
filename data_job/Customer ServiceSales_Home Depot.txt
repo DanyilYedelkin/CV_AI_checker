@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Greet, qualify, recommend products to, and close sales with customers in assigned department. Maintain department's in-stock condition, cleanliness, shopability and safety. Follow all safety policies and procedures.",
-  "Required Skills": "Knowledge of department products and ability to assess customer needs. Ability to provide friendly customer service. Adhere to safety policies and procedures.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

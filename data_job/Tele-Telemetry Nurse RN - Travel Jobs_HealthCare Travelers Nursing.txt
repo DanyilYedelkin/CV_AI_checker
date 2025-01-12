@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide care for patients requiring special heart monitoring equipment and administration of heart medications. Monitor heart equipment according to hospital policies.",
-  "Required Skills": "Registered nurse licensure in state of practice. Minimum 2 years recent experience in cardiology or progressive care nursing. BLS/ACLS certified.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum 2 years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

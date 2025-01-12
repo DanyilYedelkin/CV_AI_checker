@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provides astounding customer service thorugh effective and timely resolution of various customer inquiries and concerns. Builds customer loyalty and value through effective account management, identifying and providing offers for appropriate additional products, features and services, and collecting past due balances.",
-  "Required Skills": "High school diploma req. Windows req.", 
-  "Educational Requirements": "High school diploma",
-  "Experience Level": "At least 2 years of age",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide oversight and supervision of the START IHTC coaches and track training requirements are current for IHTC coaches. Work with the coordinators and clinical director in all scheduling related to IHTC utilization including assuring availability of emergency IHTC services when deemed necessary by the team.",
-  "Required Skills": "N/A",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

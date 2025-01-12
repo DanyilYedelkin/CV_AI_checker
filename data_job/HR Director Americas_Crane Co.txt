@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead the HR function for the Americas business unit. Provide strategic direction and deliver HR services like recruiting, talent development, performance management, compliance, and employee relations. Act as a business partner to leadership teams.",
-  "Required Skills": "Bachelor's degree in HR, business administration or related field. 5+ years of HR experience in a manufacturing environment. Knowledge of HR best practices, employment laws, Microsoft Office, PeopleSoft. Strong analytical, problem-solving, influencing and communication skills.",  
-  "Educational Requirements": "Bachelor's degree in human resources management, business administration or related field.",
-  "Experience Level": "5+ years of progressive HR experience in a dynamic and diverse multi-site manufacturing environment.",
-  "Preferred Qualifications": "PHR/SPHR certification. Experience with Lean and Six Sigma principles.",
-  "Compensation and Benefits": "N/A"
-}

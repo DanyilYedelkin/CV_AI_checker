@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Interview patients to obtain account information, ensure charts are completed accurately, verify insurance and obtain precertification/authorization, calculate and collect patient payments, push computer cart while registering patients",
-  "Required Skills": "High school diploma or GED, 1 year related experience, ability to sit/stand for prolonged periods", 
-  "Educational Requirements": "High school diploma or GED preferred",
-  "Experience Level": "1 year of related experience preferred",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

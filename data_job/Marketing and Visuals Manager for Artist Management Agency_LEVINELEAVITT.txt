@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Work closely with artists and agents on developing creative content across different platforms like Facebook, Instagram, Twitter, LinkedIn. Collaborate on executing social media marketing campaigns in connection with our artists work. Monitor response and engagement across all platforms. Track and analyze data to help inform social platform strategy. Develop and execute marketing plans, activations and promotional products.",
-  "Required Skills": "Bachelors degree in arts-related marketing/communications or any comparable field. 2+ years of experience in creating and managing social media. Strong know how to write effective, entertaining copy for social media content across channels. Strong image and visual editing skills. Awareness of the intricacies of social media platforms and the algorithms. Familiar in optimizing content across all channels. Experience in producing original Instagram posts and story content. Experience in creating marketing plans, strategies and gathering statistics. Results driven, organized and detail-oriented mindset. Exceptional collaboration and relationship-building skills working effectively with artists, agents and our clients. Experience with InDesign, Photoshop, photo/video editing and/or social graphics is a plus.",  
-  "Educational Requirements": "Bachelors degree in arts-related marketing/communications or any comparable field",
-  "Experience Level": "2+ years of experience in creating and managing social media",
-  "Preferred Qualifications": "Experience with InDesign, Photoshop, photo/video editing and/or social graphics",
-  "Compensation and Benefits": "N/A"
-}

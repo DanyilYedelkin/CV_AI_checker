@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include loading and unloading trucks and railcars, staging product for orders, rotating product, lifting up to 50 lbs, forklift operation, inbound/outbound freight handling, warehouse operations, and being willing to cross-train in different areas.",
-  "Required Skills": "Forklift operation, warehousing experience, ability to lift up to 50 lbs, flexibility in schedule",
-  "Educational Requirements": "High school diploma or equivalent preferred", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

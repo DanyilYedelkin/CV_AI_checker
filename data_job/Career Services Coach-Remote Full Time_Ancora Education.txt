@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include conducting outreach to students and graduates, scheduling and conducting professional development sessions, collecting employment qualifications from graduates, providing one-on-one coaching, assisting with job searches and applications, supporting employment verification and data entry, maintaining student records, documenting correspondence, assisting with externships, and participating in school events.",
-  "Required Skills": "Associate degree in a relevant field, 1 year of work experience in recruiting, staffing, HR, counseling or business, experience developing community connections, proficiency with Google applications, organizational, interpersonal and communication skills, customer service and presentation skills, ability to collaborate.",
-  "Educational Requirements": "Associate degree in business, HR, communications or a related field.", 
-  "Experience Level": "1 year of relevant work experience.",
-  "Preferred Qualifications": "Bachelor's degree in HR, business, communications or a related field. 2+ years of career/employability training experience. 2+ years of staffing or placement experience. 1+ years of call center experience. 1+ years of interviewing experience.",
-  "Compensation and Benefits": "N/A"
-}

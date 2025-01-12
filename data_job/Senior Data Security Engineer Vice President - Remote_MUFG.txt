@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design, innovate, operate, architect and lead the user behavior analytics solution (UEBA). Collaborate with engineers and act as the authority on the firm's UEBA system.",
-  "Required Skills": "BS in computer science or equivalent experience. Expertise in Exabeam UEBA technology and SIEM tools like Splunk. Develop and improve UEBA models, rules and dashboards. Deploy, configure and maintain UEBA platforms in large enterprises. Ability to translate use cases into UEBA rules.",
-  "Educational Requirements": "BS in computer science or equivalent experience", 
-  "Experience Level": "5 years overall technical experience in UEBA, SOAR, incident response, security operations or related information security field",
-  "Preferred Qualifications": "Experience in banking/finance industry preferred. Security and IT metrics experience a plus. Strong report creation abilities desired. Direct experience with Splunk query, report and dashboard configuration. Experience in data loss prevention monitoring strategy.",
-  "Compensation and Benefits": "N/A"
-}

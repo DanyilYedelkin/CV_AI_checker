@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Developing and executing a marketing plan, identifying and establishing relationships with referral sources, maintaining brand awareness, representing the agency professionally.",
-  "Required Skills": "Strong written and verbal communication skills.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous office experience.",
-  "Compensation and Benefits": "Paid holidays, PTO, health insurance, competitive salary and bonuses."
-}

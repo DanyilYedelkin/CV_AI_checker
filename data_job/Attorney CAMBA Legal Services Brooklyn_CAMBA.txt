@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Represent clients facing eviction and other housing issues in court and administrative hearings; conduct client interviews, draft legal motions and documents, prepare cases for hearings and trial, negotiate settlements.",
-  "Required Skills": "Juris Doctorate degree, admitted to NY state bar, knowledge of landlord-tenant law, strong analytical, writing and communication skills.", 
-  "Educational Requirements": "Juris Doctorate degree",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in landlord-tenant law, ability to speak Haitian Creole, Arabic, Spanish, Russian or other languages.",
-  "Compensation and Benefits": "Salary of $50,000 per year."
-}

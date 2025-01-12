@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide direct care to patients, administer medications and treatments, assess and document patient status, communicate with healthcare team, assist with patient education.",
-  "Required Skills": "RN license, ability to multitask and remain calm under pressure, excellent customer service skills, CPR certification, experience with PointClickCare preferred.",
-  "Educational Requirements": "Graduate from an accredited nursing school with an active RN license.", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Comprehensive benefits package, educational opportunities, career advancement, 401k with company match, timely pay, tuition reimbursement, referral bonus."
-}

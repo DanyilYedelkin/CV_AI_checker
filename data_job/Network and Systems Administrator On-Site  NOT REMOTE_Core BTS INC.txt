@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Participates in the planning designing and implementation of all aspects of the client computer network. Recommends plans, develops and implements network configuration changes and/or upgrades to maintain appropriate levels of service to user community. Analyzes, identifies and resolves communication problems occurring between servers, workstations, PCs, the internet. Operates the control consoles of network systems to monitor performance, resolve problems and upgrade systems. Develops and monitors local area and wide area network (LAN and WAN) performance and utilization statistics and prepares periodic reports for management summarizing network status.",
-  "Required Skills": "Working knowledge of Windows Server, Cisco voice, data and wireless experience, virtualization software experience, and backup experience. Experience with Active Directory, SAN, SCCM, Google Admin highly desired. Thorough knowledge of network communication concepts as they relate to network topology, communication and data transfer protocols, hubs, switches, routers, servers and cabling. Ability to create and maintain diagrammatic representations of network configurations. Ability to develop effective working relationships with vendors, staff and other work contacts.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Jamf and Apple/Mac experience desired.",
-  "Compensation and Benefits": "N/A"
-}

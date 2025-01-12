@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Communicate with customers to ensure timely payment, review and reconcile accounts, research and resolve customer issues, perform collection duties.",
-  "Required Skills": "Attention to detail, excellent verbal/written communication, customer service skills, ability to adapt, perform basic math quickly and accurately, prioritize and meet deadlines.", 
-  "Educational Requirements": "High school diploma required. Associate's degree in accounting strongly desired.",
-  "Experience Level": "2+ years experience in accounts receivable required.",
-  "Preferred Qualifications": "Intermediate skill in MS Office, experience with ERP systems like Prophet 21, collections software, lien and bond filing.",
-  "Compensation and Benefits": "Competitive compensation and benefits package including health, dental, vision, 401k with match."
-}

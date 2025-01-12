@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Actively engage and educate consumers at the point of experience, purchase and consumption. Humanize the brands and build trust of consumers through education. Lead consumers through a sampling journey of featured products where legal and within local legal limitations and as per policy. Adapt to tech platforms to receive and input information necessary to represent the diageo brands. Arrive to events on time in appropriate attire as specified by market team and be prepared to execute promotions as outlined in program standards. Follow responsible server guidelines and report guideline violations. Premerchandise accounts with diageo point-of-sale (POS). Pay for bar spend or product via company issued debit card. Pick up or accept delivery of promotional materials from event team. Ensure proper care and return of company property (i.e. uniforms, event materials). Complete post-event recap (ERF) in mktg reporting website. Take digital event photos and contribute to market's social media account.",
-  "Required Skills": "Outgoing, brand knowledge and personification of the brand. Must complete training in order to understand what the brand/program represents, stands for and how it differs from other brands. Must be able to translate brand information to consumers in a relatable manner. Engaging - must be outgoing, personable and courteous with consumers and approach them with a friendly and helpful attitude with the goal to build trust in the brand. Reliable - must always arrive to events ready to start on time and must work until event end.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

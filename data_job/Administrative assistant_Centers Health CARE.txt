@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Greets visitors, prospective candidates and other visitors, answers telephones and directs the caller to the appropriate associate. Maintains and manages calendars for conference rooms, receives, sorts and forwards incoming mail, coordinates the pickup and delivery of express mail services (Fedex, UPS, etc.). Assisting in the payroll process for facility workers.",
-  "Required Skills": "Prior front desk administrative and office experience. High school diploma. Excellent communication skills. Solid computer and basic mathematical skills.",
-  "Educational Requirements": "High school diploma.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Flexible schedule is a must. Very positive attitude with an ability to work in a fastpaced environment.",
-  "Compensation and Benefits": "N/A"
-}

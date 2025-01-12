@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day administration of VMware and AWS environments, servers and storage, telephony and IP network solutions, Microsoft Windows Server infrastructure, Active Directory, DNS/DHCP, DFS, Office 365, SD-WAN Velocloud administration, wired and wireless networks, security systems, backups, buildout projects, documentation",
-  "Required Skills": "3+ years experience in systems administration, network administration and/or infrastructure administration; Self-motivated; Strong interpersonal, verbal and written communication skills; Attention to detail; Ability to identify inefficiencies and improve security; Understanding of user, server, network, storage administration; Experience with AWS; Ability to prioritize and make sound judgements",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years",
-  "Preferred Qualifications": "Experience with Okta, ConnectWise Automate, Nasuni, PRTG, AD tools, SentinelOne, Slack, SolarWinds, migration tools, IT Glue, access control systems, font management, documentation tools",
-  "Compensation and Benefits": "Comprehensive benefits package including healthcare, dental, vision, HSA, FSA, life insurance, paid parental leave, PTO, pet insurance, home/auto insurance"
-}

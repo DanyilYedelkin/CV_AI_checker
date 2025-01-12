@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide high-level executive administrative support to managing director and principal; schedule and organize extensive external/internal meetings, conference/video calls and appointments; manage and maintain busy and ever-changing calendar; coordinate domestic and international travel arrangements and detailed itineraries; prepare, process and submit expense reports; draft, type and edit emails and correspondence; assist with investor meeting and roadshow preparation; assist with ad hoc projects",
-  "Required Skills": "Minimum 2 years of applicable high-level administrative experience ideally in financial services or real estate; bachelors degree required/strongly preferred; experience with investor meetings and roadshows a huge plus; ability to manage different personalities and interact with clients and executives at all levels; strong MS Office suite skills; extremely polished and professional; super organized and detail-oriented; strong interpersonal and communication skills both verbal and written; dynamic go-getter who is enthusiastic, driven, proactive, etc.; ability to prioritize and take initiative in a fast-paced environment; must have good judgement, extremely intuitive",
-  "Educational Requirements": "Bachelors degree required/strongly preferred",
-  "Experience Level": "Minimum 2 years of applicable high-level administrative experience",
-  "Preferred Qualifications": "Experience with investor meetings and roadshows a huge plus",
-  "Compensation and Benefits": "Salary depends on experience + base plus paid overtime and generous discretionary bonus eligibility; hours are 9-5"
-}

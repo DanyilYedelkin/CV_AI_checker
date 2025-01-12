@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Identify and scale high ROI mass communications to Amazon Business sellers using marketing best practices. Collaborate with cross-org stakeholders to source content, segment audiences, and execute effective email and webinar go-to-market motions. Be the strategic owner of multiple Amazon Business flywheel themes with the goal of increasing theme adoption rates while automating repetitive processes.",
-  "Required Skills": "2+ years of successful business-to-business B2B marketing experience, preferably in the ecommerce, retail, technology, SaaS, or software industries. Proficient analytical skills including Microsoft Excel. Experience working with legal, product, and internal business owners to reach mutually beneficial agreements. Experience prioritizing and managing multiple responsibilities.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of experience",
-  "Preferred Qualifications": "BABs degree preferred. Proven ability to execute and exceed on all core goals and secondary KPIs.",
-  "Compensation and Benefits": "N/A"
-}

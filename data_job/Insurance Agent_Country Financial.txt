@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Grow a business, educate clients on coverage, create and manage office and staff, establish partnerships, collaborate with company specialists, communicate with clients",
-  "Required Skills": "Property-casualty state insurance license, life/health state insurance license",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Ambitious entrepreneurial spirit, business acumen, strong track record of achievement and growth",
-  "Compensation and Benefits": "Commissions and bonuses, retirement plan, group insurance plans"
-}

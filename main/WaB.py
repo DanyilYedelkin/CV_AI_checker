@@ -1,13 +1,24 @@
-import torch
-from torch import nn
-from transformers import BertTokenizer, BertModel
-from sklearn.model_selection import train_test_split
-import pandas as pd
 import os
+import json
+import torch
+from transformers import BertTokenizer, BertModel
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, classification_report
+from imblearn.over_sampling import SMOTE
+from xgboost import XGBClassifier
+from collections import Counter
+import numpy as np
+import re
+import matplotlib.pyplot as plt
 
-# Step 1: Load and preprocess data
+# Load BERT tokenizer and model
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+model = BertModel.from_pretrained('bert-base-uncased')
+
+# Function to load resumes (good and bad) per job
 def load_resumes(data_cv_folder):
-    resumes, labels, filenames = [], [], []
+    resumes, labels = [], []
     for root, dirs, files in os.walk(data_cv_folder):
         for file in files:
             if file.endswith(".txt"):
@@ -19,16 +30,15 @@ def load_resumes(data_cv_folder):
                         if data:  # Ensure the file is not empty
                             resumes.append(data)
                             labels.append(label)
-                            filenames.append(file)
                         else:
                             print(f"Warning: File {file_path} is empty.")
                 except Exception as e:
                     print(f"Error reading file {file_path}: {e}")
-    return resumes, labels, filenames
+    return resumes, labels
 
+# Function to load job descriptions
 def load_job_descriptions(data_job_folder):
     job_descriptions = {}
-    job_filenames = {}
     for root, dirs, files in os.walk(data_job_folder):
         for file in files:
             if file.endswith(".txt"):
@@ -39,165 +49,149 @@ def load_job_descriptions(data_job_folder):
                         data = f.read().strip()  # Read content of the file
                         if data:  # Ensure the file is not empty
                             job_descriptions[job_id] = data
-                            job_filenames[job_id] = file
                         else:
                             print(f"Warning: File {file_path} is empty.")
                 except Exception as e:
                     print(f"Error reading file {file_path}: {e}")
-    return job_descriptions, job_filenames
+    return job_descriptions
 
-def create_dataset(job_descriptions, job_filenames, resumes, labels, resume_filenames):
-    data = []
+# Extract keywords from text
+def extract_keywords(text):
+    keywords = re.findall(r'\b[A-Za-z-]+\b', text)
+    return set([word.lower() for word in keywords if len(word) > 2])
+
+# Calculate skill overlap
+def calculate_skill_overlap(resume, job_description):
+    resume_keywords = extract_keywords(resume)
+    job_keywords = extract_keywords(job_description)
+    common_keywords = resume_keywords.intersection(job_keywords)
+    return len(common_keywords) / len(job_keywords) if len(job_keywords) > 0 else 0
+
+# Calculate cosine similarity using BERT embeddings
+def calculate_cosine_similarity(resume, job_description):
+    inputs_resume = tokenizer(resume, return_tensors="pt", padding=True, truncation=True, max_length=512)
+    inputs_job = tokenizer(job_description, return_tensors="pt", padding=True, truncation=True, max_length=512)
+
+    with torch.no_grad():
+        resume_embeddings = model(**inputs_resume).last_hidden_state[:, 0, :]
+        job_embeddings = model(**inputs_job).last_hidden_state[:, 0, :]
+
+    cosine_sim = torch.nn.functional.cosine_similarity(resume_embeddings, job_embeddings)
+    return cosine_sim.item()
+
+# Calculate TF-IDF features
+def calculate_tfidf_features(resumes, job_descriptions):
+    all_text = resumes + list(job_descriptions.values())
+    tfidf_vectorizer = TfidfVectorizer(max_features=5000, ngram_range=(1, 2))
+    tfidf_matrix = tfidf_vectorizer.fit_transform(all_text)
+    resume_tfidf = tfidf_matrix[:len(resumes)]
+    job_tfidf = tfidf_matrix[len(resumes):]
+    return resume_tfidf, job_tfidf
+
+# Prepare data for classification
+def prepare_data_for_classification(resumes, labels, job_descriptions):
+    X, y = [], []
+    resume_tfidf, job_tfidf = calculate_tfidf_features(resumes, job_descriptions)
+
     for i, resume in enumerate(resumes):
-        for job_id, job_desc in job_descriptions.items():
-            data.append((job_desc, resume, labels[i], job_filenames[job_id], resume_filenames[i]))
-    return pd.DataFrame(data, columns=["job", "cv", "label", "job_file", "cv_file"])
+        for j, job_desc in enumerate(job_descriptions.values()):
+            # TF-IDF similarity
+            resume_vec = resume_tfidf[i].toarray().flatten()
+            job_vec = job_tfidf[j].toarray().flatten()
+            tfidf_similarity = np.dot(resume_vec, job_vec) / (np.linalg.norm(resume_vec) * np.linalg.norm(job_vec) + 1e-6)
 
-# Define custom collate function to handle variable-length sequences
-def collate_fn(batch):
-    inputs = {
-        "input_ids": torch.nn.utils.rnn.pad_sequence(
-            [item[0]["input_ids"].squeeze(0) for item in batch],
-            batch_first=True,
-            padding_value=tokenizer.pad_token_id
-        ),
-        "attention_mask": torch.nn.utils.rnn.pad_sequence(
-            [item[0]["attention_mask"].squeeze(0) for item in batch],
-            batch_first=True,
-            padding_value=0
-        ),
-        "token_type_ids": torch.nn.utils.rnn.pad_sequence(
-            [item[0]["token_type_ids"].squeeze(0) for item in batch],
-            batch_first=True,
-            padding_value=0
-        ),
-    }
-    labels = torch.stack([item[1] for item in batch])
-    filenames = [(item[2], item[3]) for item in batch]
-    return inputs, labels, filenames
+            # Combined score
+            similarity = calculate_cosine_similarity(resume, job_desc)
+            skill_overlap = calculate_skill_overlap(resume, job_desc)
+            combined_score = (similarity + skill_overlap + tfidf_similarity) / 3
+
+            X.append([similarity, skill_overlap, tfidf_similarity])
+            y.append(labels[i])
+
+    # Visualize similarity distribution
+    similarities = [x[0] for x in X]
+    plt.hist(similarities, bins=30, color='skyblue', alpha=0.7)
+    plt.title('Distribution of Similarities')
+    plt.xlabel('Combined Similarity Score')
+    plt.ylabel('Frequency')
+    plt.show()
+
+    print(f"Class distribution in y: {Counter(y)}")
+    return X, y
 
 # Paths to folders
 data_job_folder = "../Data_Job"
 data_cv_folder = "../Data_CV"
 
+# Debugging folder paths
+print("Checking Data_Job folder...")
+for root, dirs, files in os.walk(data_job_folder):
+    print(f"Root: {root}, Files: {files}")
+
+print("\nChecking Data_CV folder...")
+for root, dirs, files in os.walk(data_cv_folder):
+    print(f"Root: {root}, Files: {files}")
+
 # Load data
-job_descriptions, job_filenames = load_job_descriptions(data_job_folder)
-resumes, labels, resume_filenames = load_resumes(data_cv_folder)
-data = create_dataset(job_descriptions, job_filenames, resumes, labels, resume_filenames)
+job_descriptions = load_job_descriptions(data_job_folder)
+resumes, labels = load_resumes(data_cv_folder)
 
-# Step 2: Split data into training and testing sets
-train_data, test_data = train_test_split(data, test_size=0.2, random_state=42)
+print(f"Loaded {len(job_descriptions)} job descriptions and {len(resumes)} resumes.")
+if len(resumes) == 0 or len(job_descriptions) == 0:
+    raise ValueError("No resumes or job descriptions were loaded. Please check data folders.")
 
-# Step 3: Tokenizer and Model from HuggingFace
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-bert_model = BertModel.from_pretrained("bert-base-uncased")
+# Prepare data
+X, y = prepare_data_for_classification(resumes, labels, job_descriptions)
 
-# Step 4: Create Dataset Class
-class MatchDataset(torch.utils.data.Dataset):
-    def __init__(self, data):
-        self.data = data
+# Handle class imbalance using SMOTE
+if len(set(y)) < 2:
+    raise ValueError("Insufficient class diversity in target variable 'y'. Adjust threshold or input data.")
 
-    def __len__(self):
-        return len(self.data)
+print(f"Class distribution before SMOTE: {Counter(y)}")
+smote = SMOTE(random_state=42, k_neighbors=1)
+X_resampled, y_resampled = smote.fit_resample(X, y)
 
-    def __getitem__(self, idx):
-        job_text = self.data.iloc[idx]["job"]
-        cv_text = self.data.iloc[idx]["cv"]
-        label = self.data.iloc[idx]["label"]
-        job_file = self.data.iloc[idx]["job_file"]
-        cv_file = self.data.iloc[idx]["cv_file"]
-        inputs = tokenizer(job_text, cv_text, return_tensors="pt", padding=True, truncation=True, max_length=512)
-        label = torch.tensor(label, dtype=torch.float)
-        return inputs, label, job_file, cv_file
+# Split data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X_resampled, y_resampled, test_size=0.2, random_state=42)
 
-# Step 5: Data Loaders
-train_dataset = MatchDataset(train_data)
-test_dataset = MatchDataset(test_data)
+# Train XGBoost model
+classifier = XGBClassifier(use_label_encoder=False, eval_metric='logloss')
+classifier.fit(X_train, y_train)
 
-train_loader = torch.utils.data.DataLoader(train_dataset, batch_size=8, shuffle=True, collate_fn=collate_fn)
-test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=8, shuffle=False, collate_fn=collate_fn)
+# Evaluate the model
+y_pred = classifier.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("Classification Report:\n", classification_report(y_test, y_pred))
 
-# Step 6: Define Model
-class JobCVMatchModel(nn.Module):
-    def __init__(self, bert_model):
-        super(JobCVMatchModel, self).__init__()
-        self.bert = bert_model
-        self.dropout = nn.Dropout(0.3)
-        self.classifier = nn.Linear(768, 1)
+# Prediction function
+def predict_fit(resume, job_description):
+    # Combine resume and job description for TF-IDF
+    all_text = [resume] + [job_description]
+    tfidf_vectorizer = TfidfVectorizer(max_features=5000, ngram_range=(1, 2))
+    tfidf_matrix = tfidf_vectorizer.fit_transform(all_text)
 
-    def forward(self, input_ids, attention_mask, token_type_ids):
-        outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
-        pooled_output = outputs.pooler_output
-        pooled_output = self.dropout(pooled_output)
-        return self.classifier(pooled_output)
+    # Extract TF-IDF vectors
+    resume_vec = tfidf_matrix[0].toarray().flatten()
+    job_vec = tfidf_matrix[1].toarray().flatten()
 
-model = JobCVMatchModel(bert_model)
+    # TF-IDF similarity
+    tfidf_similarity = np.dot(resume_vec, job_vec) / (np.linalg.norm(resume_vec) * np.linalg.norm(job_vec) + 1e-6)
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
+    # Cosine similarity and skill overlap
+    similarity = calculate_cosine_similarity(resume, job_description)
+    skill_overlap = calculate_skill_overlap(resume, job_description)
 
-# Step 7: Define Optimizer and Loss Function
-optimizer = torch.optim.AdamW(model.parameters(), lr=1e-5)
-loss_fn = nn.BCEWithLogitsLoss()
+    # Combine scores
+    combined_score = (similarity + skill_overlap + tfidf_similarity) / 3
 
-# Step 8: Training Loop
-for epoch in range(3):
-    model.train()
-    total_loss = 0
-    for batch in train_loader:
-        inputs, labels, _ = batch
-        input_ids = inputs["input_ids"].to(device)
-        attention_mask = inputs["attention_mask"].to(device)
-        token_type_ids = inputs["token_type_ids"].to(device)
-        labels = labels.to(device)
+    # Prediction
+    prediction = classifier.predict([[similarity, skill_overlap, tfidf_similarity]])
+    return "Fit" if prediction[0] == 1 else "Not Fit"
 
-        optimizer.zero_grad()
-        outputs = model(input_ids, attention_mask, token_type_ids).squeeze(-1)
-        loss = loss_fn(outputs, labels)
-        loss.backward()
-        optimizer.step()
 
-        total_loss += loss.item()
-    print(f"Epoch {epoch + 1}, Loss: {total_loss / len(train_loader)}")
-
-# Step 9: Evaluation
-model.eval()
-total_correct = 0
-with torch.no_grad():
-    for batch in test_loader:
-        inputs, labels, filenames = batch
-        input_ids = inputs["input_ids"].to(device)
-        attention_mask = inputs["attention_mask"].to(device)
-        token_type_ids = inputs["token_type_ids"].to(device)
-        labels = labels.to(device)
-
-        outputs = model(input_ids, attention_mask, token_type_ids).squeeze(-1)
-        predictions = torch.round(torch.sigmoid(outputs))
-        total_correct += (predictions == labels).sum().item()
-
-accuracy = total_correct / len(test_dataset)
-print(f"Test Accuracy: {accuracy * 100:.2f}%")
-
-# Step 10: Test with examples from the dataset
-print("\nTesting model with examples:\n")
-model.eval()
-with torch.no_grad():
-    for i in range(5):  # Test with first 5 samples
-        job_text = test_data.iloc[i]["job"]
-        cv_text = test_data.iloc[i]["cv"]
-        job_file = test_data.iloc[i]["job_file"]
-        cv_file = test_data.iloc[i]["cv_file"]
-        inputs = tokenizer(job_text, cv_text, return_tensors="pt", padding=True, truncation=True, max_length=512).to(device)
-
-        outputs = model(
-            input_ids=inputs["input_ids"].squeeze(1),
-            attention_mask=inputs["attention_mask"].squeeze(1),
-            token_type_ids=inputs["token_type_ids"].squeeze(1)
-        ).squeeze(-1)
-        prediction = torch.sigmoid(outputs).item()
-
-        print(f"Job File: {job_file}")
-        print(f"CV File: {cv_file}")
-        print(f"Job: {job_text[:100]}...")
-        print(f"CV: {cv_text[:100]}...")
-        print(f"Predicted Match: {'Good' if prediction > 0.5 else 'Bad'}\n")
+# Example usage
+if resumes and job_descriptions:
+    result = predict_fit(resumes[0], list(job_descriptions.values())[0])
+    print(resumes[0])
+    print(list(job_descriptions.values())[0])
+    print(f"Does the candidate fit? {result}")

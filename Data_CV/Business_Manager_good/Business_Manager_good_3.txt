@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Coordinated RFP responses, developed pitch decks, and organized marketing materials for business development teams.",
+    "Required Skills": "2+ years of experience in marketing and consulting. Excellent written communication and presentation design skills.",
+    "Educational Requirements": "Bachelor's degree in Communications.",
+    "Experience Level": "3 years in client service and marketing.",
+    "Preferred Qualifications": "Experience in issuer marketing and payment solutions."
+}

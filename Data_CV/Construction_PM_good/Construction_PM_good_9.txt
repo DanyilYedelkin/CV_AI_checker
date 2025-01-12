@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Prepared RFIs, managed financial reconciliation, and participated in consultations with contractors and architects.",
+    "Required Skills": "5+ years of construction project management. Proficient in AutoCAD and MS Project.",
+    "Educational Requirements": "Bachelor's degree in Construction Engineering.",
+    "Experience Level": "7 years in project management roles.",
+    "Preferred Qualifications": "Revit knowledge.",
+    "Compensation and Benefits": "Flexible remote work and travel benefits."
+}

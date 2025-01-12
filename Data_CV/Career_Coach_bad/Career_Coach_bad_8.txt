@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Managed retail operations, including inventory and sales.",
+    "Required Skills": "Inventory management and customer service.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in retail management.",
+    "Preferred Qualifications": ""
+}

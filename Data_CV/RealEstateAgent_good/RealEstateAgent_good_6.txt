@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Negotiated commercial leases, managed property sales transactions, and structured financing for real estate acquisitions.",
+    "Required Skills": "5 years of experience in commercial real estate law. Strong skills in contract negotiation and financing.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "5 years in commercial property law.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

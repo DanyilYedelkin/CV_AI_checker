@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Supported clients in building networking strategies and improving job application outcomes. Conducted detailed resume reviews.",
+    "Required Skills": "Strong interpersonal and organizational skills. Proficiency in LinkedIn optimization.",
+    "Educational Requirements": "Bachelor's degree in Social Work.",
+    "Experience Level": "4 years in workforce development.",
+    "Preferred Qualifications": "Familiarity with IT domains."
+}

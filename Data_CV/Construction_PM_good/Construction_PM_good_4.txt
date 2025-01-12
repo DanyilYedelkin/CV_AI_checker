@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Handled project budgeting, material takeoffs, and construction scheduling. Conducted field superintendent updates and documented consultations.",
+    "Required Skills": "5+ years in project management. Skilled in Windows OS, AutoCAD, and project software.",
+    "Educational Requirements": "Bachelor's degree in Construction Management.",
+    "Experience Level": "6 years in construction operations.",
+    "Preferred Qualifications": "Revit knowledge.",
+    "Compensation and Benefits": "Flexible work environment with competitive salary."
+}

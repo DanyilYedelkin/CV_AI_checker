@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Created construction plans and performed cost analysis. Organized travel logistics for teams and ensured project compliance.",
+    "Required Skills": "Proficiency in drafting, AutoCAD, and MS Project. Experience in RFIs and financial reconciliation.",
+    "Educational Requirements": "Bachelor's degree in Project Management.",
+    "Experience Level": "5+ years in construction management.",
+    "Preferred Qualifications": "Proficient in Revit.",
+    "Compensation and Benefits": "Remote work available with travel options."
+}

@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Developed construction plans, managed project budgets, and ensured timely delivery of materials.",
+    "Required Skills": "Extensive knowledge of AutoCAD, MS Project, and budgeting processes.",
+    "Educational Requirements": "Bachelor's degree in Civil Engineering.",
+    "Experience Level": "6 years of experience in construction project management.",
+    "Preferred Qualifications": "Proficiency in Revit software.",
+    "Compensation and Benefits": "Competitive salary and remote flexibility."
+}

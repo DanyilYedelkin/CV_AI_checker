@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Supported marketing team by crafting RFP responses and creating high-impact sales materials.",
+    "Required Skills": "Bachelor's degree. Advanced Microsoft Office skills and strong visual design expertise.",
+    "Educational Requirements": "Bachelor's degree in Business.",
+    "Experience Level": "2.5 years in sales and marketing strategy.",
+    "Preferred Qualifications": "Experience in the payment industry."
+}

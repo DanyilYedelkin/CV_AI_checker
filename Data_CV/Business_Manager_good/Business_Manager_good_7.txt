@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Created marketing collateral and coordinated cross-functional teams to deliver high-impact client solutions. Supported proposal writing processes.",
+    "Required Skills": "Proficiency in Excel and PowerPoint. Strong written and verbal communication skills.",
+    "Educational Requirements": "Bachelor's degree in Marketing.",
+    "Experience Level": "2 years of experience in marketing and business development.",
+    "Preferred Qualifications": "Experience with multichannel campaigns."
+}

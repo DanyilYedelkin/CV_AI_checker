@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Advised job seekers on networking and pipeline management. Conducted detailed resume reviews and mock interviews.",
+    "Required Skills": "4 years in HR and career coaching. Excellent communication and analytical skills. Advanced Google Sheets knowledge.",
+    "Educational Requirements": "Bachelor's degree in Human Resources.",
+    "Experience Level": "4 years of career coaching experience.",
+    "Preferred Qualifications": "Supported clients in cybersecurity fields."
+}

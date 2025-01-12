@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Designed graphics and created content for social media platforms.",
+    "Required Skills": "Adobe Photoshop and Illustrator.",
+    "Educational Requirements": "Associate degree in Graphic Design.",
+    "Experience Level": "2 years in digital content creation.",
+    "Preferred Qualifications": ""
+}

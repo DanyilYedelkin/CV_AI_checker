@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Operated heavy machinery on construction sites.",
+    "Required Skills": "Experience with machine operation.",
+    "Educational Requirements": "Certificate in Construction Tools Operation.",
+    "Experience Level": "3 years in construction roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

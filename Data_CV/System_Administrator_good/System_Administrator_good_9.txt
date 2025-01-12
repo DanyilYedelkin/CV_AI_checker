@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed IT operations, ensured system uptime, and supported team members with technical troubleshooting.",
+    "Required Skills": "Windows Administration, network configuration, and endpoint management expertise.",
+    "Educational Requirements": "Bachelor's degree in Computer Science.",
+    "Experience Level": "4 years in IT operations.",
+    "Preferred Qualifications": "Network+ certification.",
+    "Compensation and Benefits": ""
+}

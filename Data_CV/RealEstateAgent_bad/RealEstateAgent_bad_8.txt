@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Designed and implemented digital marketing strategies for small businesses.",
+    "Required Skills": "Proficiency in Adobe Creative Suite and social media management.",
+    "Educational Requirements": "Associate degree in Marketing.",
+    "Experience Level": "2 years in digital marketing.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

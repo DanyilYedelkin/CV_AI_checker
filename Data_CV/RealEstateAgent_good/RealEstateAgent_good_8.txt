@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Oversaw the closing process for commercial property sales, prepared lease agreements, and advised clients on legal compliance.",
+    "Required Skills": "3 years in commercial real estate law. Strong organizational and legal writing skills.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "3 years in legal real estate transactions.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

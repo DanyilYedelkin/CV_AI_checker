@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Provided customer support and managed office administration tasks.",
+    "Required Skills": "Strong organizational and communication skills.",
+    "Educational Requirements": "Associate degree in Business Administration.",
+    "Experience Level": "2 years in administrative support roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

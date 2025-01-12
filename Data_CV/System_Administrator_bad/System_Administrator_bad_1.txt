@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed warehouse logistics and inventory tracking.",
+    "Required Skills": "Inventory control and team coordination.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in warehouse management.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

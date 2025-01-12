@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Facilitated marketing strategy discussions and developed client presentations tailored to business objectives. Analyzed project outcomes to improve future campaigns.",
+    "Required Skills": "Strong analytical mindset, proficiency in Microsoft Office, and excellent communication skills.",
+    "Educational Requirements": "Bachelor's degree in Business Administration.",
+    "Experience Level": "3 years in marketing and project management.",
+    "Preferred Qualifications": "Experience with payments and multichannel campaigns."
+}

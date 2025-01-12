@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Led cross-departmental initiatives to develop business proposals and execute targeted marketing strategies. Managed multichannel campaign workflows.",
+    "Required Skills": "Bachelor's degree in Business or related field. Advanced skills in Excel and PowerPoint.",
+    "Educational Requirements": "Bachelor's degree in Business.",
+    "Experience Level": "2+ years in business development.",
+    "Preferred Qualifications": "Experience with RFP processes and stakeholder engagement."
+}

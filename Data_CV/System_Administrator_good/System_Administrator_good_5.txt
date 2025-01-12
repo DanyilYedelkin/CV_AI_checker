@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Supported enterprise systems, developed new IT solutions, and resolved escalated IT issues.",
+    "Required Skills": "4+ years of IT administration. Expertise in networking and Windows systems.",
+    "Educational Requirements": "Bachelor's degree in Computer Engineering.",
+    "Experience Level": "4 years in relevant roles.",
+    "Preferred Qualifications": "Security+ and Network+ certifications.",
+    "Compensation and Benefits": ""
+}

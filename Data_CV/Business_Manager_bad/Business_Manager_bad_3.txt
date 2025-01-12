@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Supervised kitchen operations and ensured compliance with safety regulations.",
+    "Required Skills": "Team management, food safety certifications.",
+    "Educational Requirements": "Diploma in Culinary Arts.",
+    "Experience Level": "4 years in food service management.",
+    "Preferred Qualifications": ""
+}

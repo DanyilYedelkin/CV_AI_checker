@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Led the deployment of new IT systems, managed virtualization environments, and provided Tier 2 support.",
+    "Required Skills": "Extensive experience with Windows Server, networking, and endpoint management tools.",
+    "Educational Requirements": "Bachelor's degree in Information Systems.",
+    "Experience Level": "5 years in IT system administration.",
+    "Preferred Qualifications": "Security+ certification.",
+    "Compensation and Benefits": ""
+}

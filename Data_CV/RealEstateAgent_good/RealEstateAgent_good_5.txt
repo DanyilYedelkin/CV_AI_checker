@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Advised clients on commercial real estate acquisitions, sales, and financing. Drafted and reviewed leasing agreements.",
+    "Required Skills": "4 years in real estate law with a focus on commercial transactions.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "4 years in commercial real estate transactions.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

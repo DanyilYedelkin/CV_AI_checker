@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed trampoline construction plans, prepared material orders, coordinated logistics for construction teams, and conducted budget tracking. Participated in consultation meetings and documented RFIs.",
+    "Required Skills": "Bachelor's degree in Construction Management. 5+ years in project management, 3+ years drafting in AutoCAD. Strong communication and problem-solving skills.",
+    "Educational Requirements": "Bachelor's degree in Construction Management.",
+    "Experience Level": "6 years in construction project management.",
+    "Preferred Qualifications": "Revit experience.",
+    "Compensation and Benefits": "Competitive salary with remote work and travel opportunities."
+}

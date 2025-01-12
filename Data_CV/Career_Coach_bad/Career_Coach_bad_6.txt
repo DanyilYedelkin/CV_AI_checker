@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Handled financial records and prepared monthly reports.",
+    "Required Skills": "Advanced Excel, budgeting, and accounting software.",
+    "Educational Requirements": "Bachelor's degree in Accounting.",
+    "Experience Level": "4 years in financial analysis.",
+    "Preferred Qualifications": ""
+}

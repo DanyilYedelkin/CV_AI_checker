@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Guided job seekers through the job search process, including networking strategies and interview preparation.",
+    "Required Skills": "3+ years of career coaching experience. Expertise in LinkedIn and networking tools.",
+    "Educational Requirements": "Bachelor's degree in Human Resources.",
+    "Experience Level": "3 years of experience in career guidance.",
+    "Preferred Qualifications": "Supported clients in IT and cybersecurity industries."
+}

@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Prepared financial statements and managed accounting for corporate clients.",
+    "Required Skills": "Proficiency in Excel and financial reporting.",
+    "Educational Requirements": "Bachelor's degree in Accounting.",
+    "Experience Level": "3 years in accounting roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

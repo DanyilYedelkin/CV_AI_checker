@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Taught middle school students English and literature.",
+    "Required Skills": "Lesson planning and classroom management.",
+    "Educational Requirements": "Bachelor's degree in Education.",
+    "Experience Level": "5 years in teaching roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

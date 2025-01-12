@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Conducted mock interviews and career workshops. Helped clients optimize resumes and LinkedIn profiles for job applications.",
+    "Required Skills": "Proficiency in LinkedIn, resume critique, and job coaching. Strong problem-solving and organizational skills.",
+    "Educational Requirements": "Bachelor's degree in Sociology.",
+    "Experience Level": "4 years in career coaching roles.",
+    "Preferred Qualifications": "Experience with cybersecurity professionals."
+}

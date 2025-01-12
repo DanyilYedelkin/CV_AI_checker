@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Taught high school students mathematics and physics.",
+    "Required Skills": "Lesson planning and classroom management.",
+    "Educational Requirements": "Bachelor's degree in Education.",
+    "Experience Level": "3 years as a school teacher.",
+    "Preferred Qualifications": ""
+}

@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Supported the preparation of RFP submissions and created customized marketing materials for prospective clients.",
+    "Required Skills": "Expertise in project management and data analysis. Proficient in Microsoft Office tools.",
+    "Educational Requirements": "Bachelor's degree in Communications.",
+    "Experience Level": "3 years in marketing and strategy execution.",
+    "Preferred Qualifications": "Industry experience in payments or marketing."
+}

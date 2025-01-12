@@ -1,0 +1,7 @@
+ {
+  "Core Responsibilities": "Builds high quality features that meet business objectives with a focus on usability. Collaborates closely with teammates through code reviews. Deploys projects to production frequently and monitors results. Actively solicits feedback from teammates and customers to improve usability.",
+  "Required Skills": "Bachelor's degree or equivalent experience. Experience building and supporting web applications in a fullstack capacity, preferably 2+ years. Proficiency with Ruby on Rails, Java, .NET, Python, PHP or Groovy. Javascript/React preferred.", 
+  "Educational Requirements": "Bachelor's degree or equivalent experience required",
+  "Experience Level": "2+ years building and supporting web applications in a fullstack capacity",
+  "Preferred Qualifications": "Experience with React Native, iOS, Android, Elasticsearch, Google Maps APIs"
+}

@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Handled property acquisitions and leasing agreements for corporate clients. Negotiated financing terms for commercial transactions.",
+    "Required Skills": "3 years of experience in property law. Strong knowledge of real estate financing.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "3 years in commercial property law.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

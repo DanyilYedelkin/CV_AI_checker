@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Provided IT support for internal teams, troubleshooting hardware and software issues.",
+    "Required Skills": "Basic knowledge of Windows and networking.",
+    "Educational Requirements": "Associate degree in IT.",
+    "Experience Level": "2 years in IT support roles.",
+    "Preferred Qualifications": ""
+}

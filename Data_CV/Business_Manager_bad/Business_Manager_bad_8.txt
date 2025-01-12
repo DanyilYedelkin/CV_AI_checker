@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Managed sales transactions and provided excellent customer service in a retail environment.",
+    "Required Skills": "Point-of-sale systems and inventory management.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in retail sales.",
+    "Preferred Qualifications": ""
+}

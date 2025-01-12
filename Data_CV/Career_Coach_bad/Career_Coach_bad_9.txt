@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Provided IT support and troubleshooting for office staff.",
+    "Required Skills": "Basic Windows and networking skills.",
+    "Educational Requirements": "Associate degree in Information Technology.",
+    "Experience Level": "2 years in IT support roles.",
+    "Preferred Qualifications": ""
+}

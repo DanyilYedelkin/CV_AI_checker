@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Supervised warehouse operations and ensured inventory accuracy.",
+    "Required Skills": "Forklift operation and logistics planning.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "4 years in warehouse supervision.",
+    "Preferred Qualifications": ""
+}

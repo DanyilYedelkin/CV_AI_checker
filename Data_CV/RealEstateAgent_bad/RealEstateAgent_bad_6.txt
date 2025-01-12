@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Supervised warehouse operations and managed inventory control.",
+    "Required Skills": "Inventory management and logistics coordination.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in warehouse management.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

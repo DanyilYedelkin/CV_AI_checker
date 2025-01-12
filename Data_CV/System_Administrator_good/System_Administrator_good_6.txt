@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Maintained and upgraded enterprise IT systems. Responded to escalated support tickets and implemented endpoint management solutions.",
+    "Required Skills": "4+ years in IT administration. Expertise in Windows systems and network troubleshooting.",
+    "Educational Requirements": "Bachelor's degree in IT.",
+    "Experience Level": "5 years in systems administration.",
+    "Preferred Qualifications": "Network+ and Security+ certifications.",
+    "Compensation and Benefits": ""
+}

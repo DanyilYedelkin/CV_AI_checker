@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Designed social media content and managed advertising campaigns.",
+    "Required Skills": "Proficiency in Adobe Photoshop and Canva.",
+    "Educational Requirements": "Associate degree in Graphic Design.",
+    "Experience Level": "2 years in social media marketing.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

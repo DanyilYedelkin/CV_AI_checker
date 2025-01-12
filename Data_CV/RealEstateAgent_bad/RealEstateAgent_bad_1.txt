@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed retail sales and customer inquiries.",
+    "Required Skills": "Customer service and basic computer skills.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in retail management.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

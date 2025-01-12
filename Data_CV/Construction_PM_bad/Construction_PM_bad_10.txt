@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Provided technical support for office IT systems and software troubleshooting.",
+    "Required Skills": "Basic networking and system administration skills.",
+    "Educational Requirements": "Associate degree in Information Technology.",
+    "Experience Level": "3 years in IT support roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

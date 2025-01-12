@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Provided legal services for commercial real estate leasing and acquisition transactions. Conducted due diligence and contract reviews.",
+    "Required Skills": "5 years of experience in commercial real estate law. Skilled in contract analysis and transaction structuring.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "5 years in property law.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

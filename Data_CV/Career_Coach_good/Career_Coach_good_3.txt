@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Helped clients leverage networks and manage job applications. Conducted LinkedIn reviews and job search consultations.",
+    "Required Skills": "3 years of experience in workforce development. Skilled in building trust and connection. Proficient in resume critique.",
+    "Educational Requirements": "Bachelor's degree in Social Work.",
+    "Experience Level": "3 years in career coaching.",
+    "Preferred Qualifications": "Familiarity with IT and cybersecurity domains."
+}

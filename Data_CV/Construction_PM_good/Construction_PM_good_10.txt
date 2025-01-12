@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Developed project schedules, managed team travel logistics, and conducted financial tracking for construction projects.",
+    "Required Skills": "Expert in drafting, AutoCAD, and MS Project. 5+ years in construction management.",
+    "Educational Requirements": "Bachelor's degree in Construction Management.",
+    "Experience Level": "6 years in construction operations.",
+    "Preferred Qualifications": "Experience with Revit.",
+    "Compensation and Benefits": "Competitive salary and benefits package."
+}

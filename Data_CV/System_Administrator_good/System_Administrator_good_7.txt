@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Installed and configured IT infrastructure, managed endpoint security, and resolved advanced technical issues.",
+    "Required Skills": "Proficient in Windows Administration and virtualization. 4 years in IT support roles.",
+    "Educational Requirements": "Bachelor's degree in Computer Engineering.",
+    "Experience Level": "4+ years in IT roles.",
+    "Preferred Qualifications": "AWS certification.",
+    "Compensation and Benefits": ""
+}

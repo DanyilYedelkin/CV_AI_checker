@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Created tailored sales pitches and marketing presentations for key clients. Supported multichannel campaign implementations.",
+    "Required Skills": "Bachelor's degree. Proficient in Microsoft Office and marketing campaign tools.",
+    "Educational Requirements": "Bachelor's degree in Business Administration.",
+    "Experience Level": "2 years of experience in sales and marketing.",
+    "Preferred Qualifications": "RFP management and client service experience."
+}

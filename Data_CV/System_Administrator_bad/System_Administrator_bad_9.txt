@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed stock inventory and processed customer orders in a retail environment.",
+    "Required Skills": "Inventory management and customer service skills.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in retail management.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

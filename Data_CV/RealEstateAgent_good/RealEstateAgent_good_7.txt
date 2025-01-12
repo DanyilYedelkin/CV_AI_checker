@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Handled the sale and purchase of commercial properties. Drafted and reviewed lease agreements and provided legal consultation on financing.",
+    "Required Skills": "4 years of experience in real estate transactions. Proficient in legal drafting and transaction management.",
+    "Educational Requirements": "Law degree.",
+    "Experience Level": "4 years in real estate law.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

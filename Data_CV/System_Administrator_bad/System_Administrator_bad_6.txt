@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Handled financial reports and performed monthly reconciliations.",
+    "Required Skills": "Proficiency in accounting software and Excel.",
+    "Educational Requirements": "Bachelor's degree in Accounting.",
+    "Experience Level": "3 years in accounting roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

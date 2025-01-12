@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Coordinated construction plans, scheduled project logistics, responded to RFIs, and assisted in budget tracking.",
+    "Required Skills": "Bachelor's degree in related field. Strong drafting experience in AutoCAD and MS Project proficiency.",
+    "Educational Requirements": "Bachelor's degree in Civil Engineering.",
+    "Experience Level": "7 years of project management experience.",
+    "Preferred Qualifications": "Revit expertise.",
+    "Compensation and Benefits": "Remote opportunities with competitive benefits."
+}

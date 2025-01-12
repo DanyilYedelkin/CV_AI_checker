@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Facilitated mock interviews and provided feedback. Guided clients through the job search process and networking strategies.",
+    "Required Skills": "6 years in career coaching and adult education. Empathetic listener with strong organizational skills.",
+    "Educational Requirements": "Master's degree in Cognitive-Behavioral Therapy.",
+    "Experience Level": "6 years in related fields.",
+    "Preferred Qualifications": "Experience working with IT professionals."
+}

@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Supervised construction site operations and monitored material deliveries.",
+    "Required Skills": "Basic construction management skills.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "2 years in construction site supervision.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

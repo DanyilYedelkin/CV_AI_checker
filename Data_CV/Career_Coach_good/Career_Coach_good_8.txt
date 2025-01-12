@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Provided feedback on resumes and LinkedIn profiles. Conducted mock interviews tailored to industry needs.",
+    "Required Skills": "Advanced skills in LinkedIn, Google Suite, and career counseling techniques.",
+    "Educational Requirements": "Bachelor's degree in Business Administration.",
+    "Experience Level": "5 years in career development.",
+    "Preferred Qualifications": "Experience working with IT professionals."
+}

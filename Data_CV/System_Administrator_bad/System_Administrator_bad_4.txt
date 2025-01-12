@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Operated construction machinery and supervised on-site teams.",
+    "Required Skills": "Equipment operation and project supervision.",
+    "Educational Requirements": "Certificate in Construction Management.",
+    "Experience Level": "5 years in construction roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

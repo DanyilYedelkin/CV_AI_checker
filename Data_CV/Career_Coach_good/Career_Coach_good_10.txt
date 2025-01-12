@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Guided clients through the end-to-end job application process, including resume building and networking.",
+    "Required Skills": "5 years in career guidance. Expertise in LinkedIn, resume critique, and job market analysis.",
+    "Educational Requirements": "Master's degree in Career Counseling.",
+    "Experience Level": "5 years of career coaching experience.",
+    "Preferred Qualifications": "Experience working with cybersecurity professionals."
+}

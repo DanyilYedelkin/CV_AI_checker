@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Monitored construction budgets, coordinated logistics, and provided regular updates to field teams.",
+    "Required Skills": "Proficiency in drafting and financial reconciliation. Strong organizational skills.",
+    "Educational Requirements": "Bachelor's degree in Project Management.",
+    "Experience Level": "5+ years in construction operations.",
+    "Preferred Qualifications": "Revit expertise.",
+    "Compensation and Benefits": "Remote work opportunities with travel."
+}

@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Reviewed LinkedIn profiles, optimized resumes, and provided actionable job search feedback.",
+    "Required Skills": "3 years in HR. Advanced LinkedIn and networking skills. Detail-oriented and highly organized.",
+    "Educational Requirements": "Bachelor's degree in Business Administration.",
+    "Experience Level": "3 years in career coaching.",
+    "Preferred Qualifications": "Experience supporting IT clients."
+}

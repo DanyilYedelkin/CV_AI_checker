@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Conducted career coaching sessions, including resume and LinkedIn optimization. Provided mock interviews and actionable feedback.",
+    "Required Skills": "5 years of experience in career coaching. Proficient in LinkedIn navigation and resume critique. Strong interpersonal and organizational skills.",
+    "Educational Requirements": "Bachelor's degree in Psychology.",
+    "Experience Level": "5 years in career transition support roles.",
+    "Preferred Qualifications": "Experience working with IT professionals."
+}

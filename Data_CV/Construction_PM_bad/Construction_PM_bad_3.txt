@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Handled customer service inquiries and managed sales.",
+    "Required Skills": "Strong communication and interpersonal skills.",
+    "Educational Requirements": "High School Diploma.",
+    "Experience Level": "3 years in customer service.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

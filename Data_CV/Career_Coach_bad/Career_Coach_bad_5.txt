@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Repaired and maintained automotive systems for customers.",
+    "Required Skills": "Mechanical troubleshooting and diagnostic tools.",
+    "Educational Requirements": "Certificate in Automotive Technology.",
+    "Experience Level": "5 years as an auto mechanic.",
+    "Preferred Qualifications": ""
+}

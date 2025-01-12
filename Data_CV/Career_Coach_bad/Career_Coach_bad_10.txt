@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Designed and delivered training programs for corporate teams.",
+    "Required Skills": "Instructional design and presentation skills.",
+    "Educational Requirements": "Bachelor's degree in Education.",
+    "Experience Level": "4 years in corporate training.",
+    "Preferred Qualifications": ""
+}

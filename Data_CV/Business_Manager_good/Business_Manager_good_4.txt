@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Led RFP responses and designed marketing strategies to showcase business value to prospective clients.",
+    "Required Skills": "Strong skills in Microsoft PowerPoint and Excel. Proven analytical and project management abilities.",
+    "Educational Requirements": "Bachelor's degree in Marketing.",
+    "Experience Level": "2 years of business development experience.",
+    "Preferred Qualifications": "Experience implementing multichannel campaigns."
+}

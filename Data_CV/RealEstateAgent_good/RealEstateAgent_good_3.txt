@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Drafted and reviewed commercial leases and purchase agreements. Provided legal advice on financing structures.",
+    "Required Skills": "Proficiency in real estate contract negotiation. 5 years of experience in commercial real estate law.",
+    "Educational Requirements": "Juris Doctor degree.",
+    "Experience Level": "5 years in real estate transactions.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

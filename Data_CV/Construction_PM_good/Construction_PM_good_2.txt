@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Developed detailed construction plans, managed logistics for traveling teams, tracked project budgets, and performed financial reconciliation.",
+    "Required Skills": "Proficiency in AutoCAD, 5+ years of experience in construction management, and strong organizational skills.",
+    "Educational Requirements": "Bachelor's degree in Engineering.",
+    "Experience Level": "5 years in construction management.",
+    "Preferred Qualifications": "Experience with Revit.",
+    "Compensation and Benefits": "Competitive benefits and remote work flexibility."
+}

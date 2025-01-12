@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Implemented new IT services and maintained existing systems. Responded to helpdesk escalations and trained team members.",
+    "Required Skills": "Strong communication skills, Windows Administration expertise, 4+ years in IT.",
+    "Educational Requirements": "Bachelor's degree in Information Systems.",
+    "Experience Level": "4 years in systems administration.",
+    "Preferred Qualifications": "Security+ certification.",
+    "Compensation and Benefits": ""
+}

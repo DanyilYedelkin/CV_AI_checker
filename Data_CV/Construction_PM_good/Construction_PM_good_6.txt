@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Planned and managed construction schedules, coordinated travel for field teams, and monitored project progress through budget tracking.",
+    "Required Skills": "5+ years of experience in construction management. Proficiency in AutoCAD and financial reconciliation.",
+    "Educational Requirements": "Bachelor's degree in Construction Management.",
+    "Experience Level": "5 years in project management.",
+    "Preferred Qualifications": "Experience with Revit.",
+    "Compensation and Benefits": "Remote work option with travel and comprehensive benefits."
+}

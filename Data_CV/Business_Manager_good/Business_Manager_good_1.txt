@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Developed marketing materials for RFP processes and led cross-functional team collaborations for client presentations.",
+    "Required Skills": "Bachelor's degree in Business. Strong project management and analytical skills. 2+ years of experience in marketing and business development.",
+    "Educational Requirements": "Bachelor's degree in Marketing.",
+    "Experience Level": "3 years in marketing and strategy development.",
+    "Preferred Qualifications": "Experience in payment industry and multichannel marketing campaigns."
+}

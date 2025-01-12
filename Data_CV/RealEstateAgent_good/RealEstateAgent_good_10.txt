@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Drafted commercial real estate contracts, assisted with financing agreements, and advised clients on property transactions.",
+    "Required Skills": "4 years of experience in commercial property transactions. Expertise in lease drafting and financial compliance.",
+    "Educational Requirements": "Law degree.",
+    "Experience Level": "4 years in legal real estate roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

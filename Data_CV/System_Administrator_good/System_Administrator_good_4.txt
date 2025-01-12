@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed virtualized environments and endpoint management solutions. Provided advanced technical support for IT systems.",
+    "Required Skills": "Proficiency in Windows Server, networking fundamentals, and virtualization platforms.",
+    "Educational Requirements": "Bachelor's degree in IT or related field.",
+    "Experience Level": "5 years in system administration roles.",
+    "Preferred Qualifications": "AWS certification.",
+    "Compensation and Benefits": ""
+}

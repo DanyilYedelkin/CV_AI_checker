@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Repaired and maintained machinery in a manufacturing facility.",
+    "Required Skills": "Mechanical troubleshooting and equipment maintenance.",
+    "Educational Requirements": "Diploma in Mechanical Engineering.",
+    "Experience Level": "5 years in industrial maintenance.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

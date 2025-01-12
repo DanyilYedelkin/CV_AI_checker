@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Designed and executed marketing strategies for small businesses.",
+    "Required Skills": "Proficiency in Adobe Suite and social media marketing.",
+    "Educational Requirements": "Bachelor's degree in Marketing.",
+    "Experience Level": "2 years in marketing roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

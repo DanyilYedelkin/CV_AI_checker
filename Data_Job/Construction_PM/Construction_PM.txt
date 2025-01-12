@@ -1,0 +1,7 @@
+ {
+  "Core Responsibilities": "Create trampoline construction plans and sales orders, perform part quantity takeoffs, prepare and submit orders for materials, coordinate and book travel and lodging logistics for the traveling construction teams, conduct calls with field superintendents for progress updates, manage project budgets track expenses and complete project closeout including financial reconciliation, participate in all project consultation meetings, attend and document owner/architect/contractor meetings, respond to customer architect and contractor rfis, assist in product research & development",
+  "Required Skills": "Bachelor's degree in construction management or related field, 5+ years of construction project management experience, 5+ years of experience with product drawings, minimum 3 years of drafting experience in AutoCAD, Revit experience is a plus, excellent interpersonal & customer service skills, organized and detail oriented, experience in generating RFI/RFQ, project budgeting, construction cost estimates and financial reconciliation, proficient with Windows operating systems, AutoCAD, business applications and standard MS Project software, ability to multitask and manage multiple projects in various sites, ability to identify problems and resolve issues in a quick and timely manner",
+  "Educational Requirements": "Bachelor's degree in construction management or related field", 
+  "Experience Level": "5+ years of construction project management experience",
+  "Preferred Qualifications": "Revit experience"
+}

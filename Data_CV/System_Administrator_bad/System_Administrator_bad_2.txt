@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Provided customer service and managed retail operations.",
+    "Required Skills": "Strong communication and customer relationship management.",
+    "Educational Requirements": "Associate degree in Business Administration.",
+    "Experience Level": "4 years in retail roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

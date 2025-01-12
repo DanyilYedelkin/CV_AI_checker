@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Designed and executed digital marketing campaigns for local businesses.",
+    "Required Skills": "Social media management and content creation.",
+    "Educational Requirements": "Bachelor's degree in Marketing.",
+    "Experience Level": "3 years in digital marketing roles.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

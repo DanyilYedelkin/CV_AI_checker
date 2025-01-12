@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Designed social media graphics and managed content calendars.",
+    "Required Skills": "Proficiency in Adobe Photoshop and Illustrator.",
+    "Educational Requirements": "Associate degree in Graphic Design.",
+    "Experience Level": "2 years in social media marketing.",
+    "Preferred Qualifications": ""
+}

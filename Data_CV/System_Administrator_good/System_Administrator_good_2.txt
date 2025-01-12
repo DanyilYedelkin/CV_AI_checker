@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Installed and managed endpoint security solutions. Supported system upgrades and handled advanced troubleshooting requests.",
+    "Required Skills": "4 years of experience in IT support. Proficient in Windows Administration and network configuration.",
+    "Educational Requirements": "Bachelor's degree in Computer Science.",
+    "Experience Level": "4+ years in systems administration.",
+    "Preferred Qualifications": "Network+ certification.",
+    "Compensation and Benefits": ""
+}

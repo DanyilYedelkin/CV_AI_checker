@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Taught high school mathematics and prepared lesson plans.",
+    "Required Skills": "Strong teaching and organizational skills.",
+    "Educational Requirements": "Bachelor's degree in Education.",
+    "Experience Level": "3 years as a school teacher.",
+    "Preferred Qualifications": ""
+}

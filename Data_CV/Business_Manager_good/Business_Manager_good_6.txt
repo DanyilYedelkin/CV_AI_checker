@@ -1,0 +1,7 @@
+{
+    "Core Responsibilities": "Developed RFP responses and led strategy sessions to align client needs with business goals. Designed and delivered presentations for key stakeholders.",
+    "Required Skills": "Bachelor's degree in Business. Strong analytical and project management skills. Proficiency in Microsoft Office Suite.",
+    "Educational Requirements": "Bachelor's degree in Business Administration.",
+    "Experience Level": "2.5 years in marketing and strategy roles.",
+    "Preferred Qualifications": "Experience with client-facing RFPs and payment systems."
+}

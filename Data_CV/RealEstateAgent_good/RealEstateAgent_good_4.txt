@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Conducted due diligence for commercial real estate acquisitions. Drafted leasing contracts and managed financing deals.",
+    "Required Skills": "At least 3 years of experience in commercial real estate transactions. Strong organizational skills.",
+    "Educational Requirements": "Law degree.",
+    "Experience Level": "3+ years in real estate law.",
+    "Preferred Qualifications": "",
+    "Compensation and Benefits": ""
+}

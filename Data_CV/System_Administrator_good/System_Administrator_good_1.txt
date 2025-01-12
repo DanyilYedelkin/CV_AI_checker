@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Managed Windows systems and network infrastructure. Implemented endpoint solutions and provided second-tier support for escalated helpdesk requests.",
+    "Required Skills": "Bachelor's degree in IT. Proficiency in Windows Administration and networking. 5 years of relevant experience.",
+    "Educational Requirements": "Bachelor's degree in IT.",
+    "Experience Level": "5 years of IT systems administration.",
+    "Preferred Qualifications": "Holds Network+ and AWS certifications.",
+    "Compensation and Benefits": "Available for $85k annual salary."
+}

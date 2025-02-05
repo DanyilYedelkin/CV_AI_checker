@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "facilitates and conducts analysis of supply chain data including company and industry trends in key categories and supplier groups to support supply chain teams; develops, enhances, tests and implements analytical reports to support supply chain processes and required metrics; utilizes various data sources to assemble, analyze and provide deep business insights from the data; takes ownership of reporting using internal data and industry trends and compiles research using third party data; identifies and proposes automations and efficiency improvements by leveraging technology that will address critical projects and business needs",
-  "Required Skills": "completion of an undergraduate degree required preferably in STEM, supply chain or business; candidates having qualifications that exceed the minimum job requirements will receive consideration for higherlevel roles give their experience, additional job requirements and/or business needs depending on education, experience and skill level",  
-  "Educational Requirements": "completion of an undergraduate degree required preferably in STEM, supply chain or business",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

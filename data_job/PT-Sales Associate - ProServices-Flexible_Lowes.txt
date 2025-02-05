@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Validating loading tickets and processing orders and deliveries accurately so customers receive merchandise as expected and in a timely manner. Engaging in safe work practices and encouraging others to do the same. Being friendly and professional, welcoming customers to Lowe's and helping with home improvement project needs.",
-  "Required Skills": "Ability to obtain sales related licensure or registration as may be required by law. Physical ability to perform tasks that may require prolonged standing, sitting, and other activities necessary to perform job duties.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "6 months of experience using a computer including inputting, accessing, modifying, or outputting information. 6 months experience using common retail technology such as smart phones and tablets.",
-  "Preferred Qualifications": "6 months of sales experience identifying and selling products based on customer needs including credit cards, installations, add-on sales, and explaining warranties, product features and benefits. 6 months of retail experience providing customer service including identifying and resolving customer issues, assisting customers in locating product, greeting customers, answering phones, building relationships with customers, and thanking customers for their business. Bilingual skills if applicable to the store. Certification in trade related to department (e.g. hardware, kitchen, plumbing, electrical, lawn and garden, and lumber/building materials).",
-  "Compensation and Benefits": "N/A"
-}

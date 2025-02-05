@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Implement and administer the Jobs for Ohio Graduates (JOG) program at assigned schools, which includes teaching classes, mentoring students, recruiting and enrolling students, ensuring completion of curriculum and community service goals.",
-  "Required Skills": "Bachelor's degree in education or social services. Minimum 6 months experience teaching at-risk high school students. Knowledge of teaching methods for high school students. Valid transportation. Able to pass background check.",
-  "Educational Requirements": "Bachelor's degree in education or social services required.",
-  "Experience Level": "Minimum of 6 months experience teaching at-risk high school students.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary starting at $40k/yr. Medical, dental, vision benefits. Retirement plans including 401k and pension. Paid time off."
-}

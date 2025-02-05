@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Selling merchandise and providing customer service as per company standards i.e. greet and acknowledge customers, solid product knowledge and all other components of customer service. Maintaining the appearance of the selling floor. Performing marketing activities such as opening new Boscov’s charge accounts to achieve goals set by the company. Accurately and efficiently completing all transactions and paperwork while adhering to all company policies and procedures. Maintaining an awareness of advertised merchandise, processing and maintaining stock by assisting in receiving, folding, straightening and replenishing merchandise.",
-  "Required Skills": "Prior retail sales experience and/or customer service experience preferred. Excellent written, verbal and interpersonal communication skills. Proficiency with basic math skills. Ability to learn selling skills and to operate a POS register and Telxon. Available to work varied days and hours as work schedule requires including evenings and weekends.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Prior retail sales experience and/or customer service experience preferred.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive starting rate. Weekly pay. Comprehensive benefits package including medical/dental. Paid vacations and personal days. Liberal employee discounts. Opportunity for advancement."
-}

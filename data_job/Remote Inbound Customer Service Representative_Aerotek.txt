@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handle incoming calls, emails, and in-person inquiries from customers, members, providers, and brokers. Troubleshoot and resolve customer complaints in a timely manner. Ensure responses meet service and quality standards.",
-  "Required Skills": "Customer service, phone etiquette, communication skills, troubleshooting, time management, quality control.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Paid time off, paid training, medical/dental/vision insurance, retirement plan, opportunity for advancement, competitive starting wage, work from home."
-}

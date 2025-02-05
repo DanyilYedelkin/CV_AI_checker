@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Write one article per week. Research topics. Assist with advocacy efforts. Assist with fundraising.",
-  "Required Skills": "Strong research and writing skills. Must be able to work independently and meet deadlines with very little supervision.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience writing SEO friendly content is helpful but not required.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handling sales and acquisitions of commercial properties, commercial leasing, financing transactions, and related areas of commercial real estate law.",
-  "Required Skills": "At least 3 years of experience handling commercial real estate transactions including sales, acquisitions, leasing, and financing.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "At least 3 years of experience in commercial real estate law", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

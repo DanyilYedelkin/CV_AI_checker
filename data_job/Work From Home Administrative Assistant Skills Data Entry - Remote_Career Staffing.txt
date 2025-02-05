@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform microtasks, online surveys, focus groups, opinion panels, and other small remote tasks. Work flexible hours from home.",
-  "Required Skills": "Basic computer and internet skills. Ability to follow instructions and complete simple tasks independently.",
-  "Educational Requirements": "High school diploma or GED.",
-  "Experience Level": "Entry-level.",
-  "Preferred Qualifications": "Proficiency in Microsoft Word/Excel. Spanish language skills.",
-  "Compensation and Benefits": "N/A"
-}

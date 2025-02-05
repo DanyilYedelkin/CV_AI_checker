@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Write copy for press releases, media advisories, event descriptions, e-communications, social media marketing, taglines, etc.; assist with social media content scheduling and reporting; assist in creation and execution of marketing campaigns; aid in the distribution of marketing and promotional materials; conduct market research in conjunction with planned events; assist with management of social media accounts and scheduling; assist with media relations during promotion and execution of event; work hands on as event operation staff during GC Sports Commission events such as tennis, volleyball, basketball, track & field, and others.",
-  "Required Skills": "Strong written and verbal communications skills; ability to work in a fast-paced environment during events with long hours; experience with Adobe Creative Suite is a plus but not required; eager to learn the business of sports and ability to think outside the box; must be enrolled in an accredited college/university undergraduate or postgraduate program; be passionate and have a team-player attitude",
-  "Educational Requirements": "Must be enrolled in an accredited college/university undergraduate or postgraduate program",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in Adobe Creative Suite",
-  "Compensation and Benefits": "Hourly rate for up to 20 hours per week; biweekly payment will be provided to interns to cover expenses that may be incurred; GC Sports Commission offers on the job training in various aspects of the sports and entertainment industries as well as a robust professional development program learning aspects of professional communication resume building job search tactics and networking with industry professionals"
-}

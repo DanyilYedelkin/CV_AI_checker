@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assesses, plans, implements and evaluates the nursing care of residents within the skilled nursing setting. Responsible for ensuring continuity of care of the residents between shifts by providing direct care as well as supervising the care given by CNAs, LPNs and supportive staff members. Participates in resident and family teaching, maintains role as resident advocate with a focus on the facility’s mission.",
-  "Required Skills": "RN license in NY state, CPR and IV certifications, strong leadership and excellent clinical skills.",
-  "Educational Requirements": "Graduation from an accredited program in nursing.",
-  "Experience Level": "Minimum of 1 year long term care RN supervision experience.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Managing supply chain initiatives for major customer accounts; Reporting between customer and company; Assisting sales team in finding opportunities; Ensuring stock levels at branches.",
-  "Required Skills": "Experience in supply chain management; Familiarity with reciprocating compression equipment; Strong organizational, communication, and time management skills; Proficiency in Microsoft Office, especially Excel.",
-  "Educational Requirements": "Bachelor's degree or equivalent work experience in supply chain.", 
-  "Experience Level": "Minimum of 5 years experience in supply chain role/field.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

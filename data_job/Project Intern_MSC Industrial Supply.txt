@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provides office administrative support, provides research administrative or technical support",
-  "Required Skills": "N/A",
-  "Educational Requirements": "Must be a high school or college student, undergraduate or graduate",
-  "Experience Level": "No experience required", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Estimated salary $15 to $20 per hour based on qualifications"
-}

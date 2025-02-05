@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Learn the business in detail, think strategically to analyze proposals and requests, articulate the Trade Desk's value proposition, lead RFP/RFI response process, develop sales materials and pitch decks, research brands and market trends",
-  "Required Skills": "Experience in sales development, media planning, digital strategy, sales/corporate strategy, or consulting, familiarity with ad tech and programmatic, CTV, and DOOH, analytical and strategic thinking, research skills, communication and writing skills",
-  "Educational Requirements": "4 year college degree",
-  "Experience Level": "2+ years of relevant experience",
-  "Preferred Qualifications": "Experience activating and managing campaigns, proficiency in Excel, PowerPoint, Word, Salesforce, RFPI management software",
-  "Compensation and Benefits": "N/A"
-}

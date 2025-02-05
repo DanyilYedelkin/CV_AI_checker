@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Prospecting in territory, pursuing qualified leads, meeting quarterly revenue targets",
-  "Required Skills": "Ability to call on C-level executives, strong contact and networking base, excellent listening, writing, and presentation skills, sense of urgency and strong work ethic, self-motivated and accountable to forecast and quota, highly energetic and able to work independently in addition to being a strong team player, strong interpersonal and influencing skills, strong verbal and written communications skills",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "IT infrastructure and hosting knowledge a plus",
-  "Compensation and Benefits": "N/A"
-}

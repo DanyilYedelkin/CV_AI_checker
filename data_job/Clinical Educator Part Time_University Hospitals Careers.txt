@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develops and implements nursing staff education programs, provides on-going clinical education and training, collaborates with leadership on performance improvement initiatives",
-  "Required Skills": "RN license, progressive clinical experience, teaching/training skills, human relations skills, expertise in utilizing medical equipment", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Advanced clinical nurse role, ability to facilitate change",
-  "Compensation and Benefits": "N/A"
-}

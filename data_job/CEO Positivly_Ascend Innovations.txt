@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide company vision and support long-term product strategy, support the sales team, collaborate with the executive director on mental health content strategy, provide leadership for the team, build and implement a professional management structure, manage key stakeholders, build your team through recruiting, collaborate with other roles as needed, spend time with partners and in the mental health community, collaborate with ascend innovations startup studio.",
-  "Required Skills": "Minimum 5 years experience in entrepreneurial product management or operations, demonstrated excellence in these roles, experience as an executive, strong networker with professional network in software startups, demonstrated success developing, building and scaling software companies, strong attention to detail and financial acumen, strong operational management skills, excellent written and verbal communication skills, comfort with pitches and interacting with stakeholders, appetite for risk and ability to assess good vs bad risks, bachelor's degree in business or comparable experience.",  
-  "Educational Requirements": "Bachelor's degree in business or comparable experience",
-  "Experience Level": "Minimum 5 years experience in entrepreneurial product management or operations",
-  "Preferred Qualifications": "Experience as an executive, established professional network in software startups, demonstrated success developing, building, and scaling software companies",
-  "Compensation and Benefits": "Equity in early-stage startup, inclusive healthcare package, automatic 6% 401k contribution, health savings account with employer match, unlimited PTO, 6 months fully paid parental leave, hybrid/remote work options"
-}

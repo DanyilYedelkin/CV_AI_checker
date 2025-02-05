@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide first level problem solving for point of sale hardware and software including operational and technical problems. Utilize service management systems gathering and maintaining service incident data. Contribute to the knowledge management system and adhere to published escalation procedures.",
-  "Required Skills": "Problem solving, communication skills, typing, basic Windows computer knowledge. Networking experience desired.", 
-  "Educational Requirements": "AAS degree in electronics technology, computer science or equivalent is a plus. Certifications and Microsoft certifications are also a plus.",
-  "Experience Level": "A minimum of one year customer service experience, helpdesk experience preferred.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

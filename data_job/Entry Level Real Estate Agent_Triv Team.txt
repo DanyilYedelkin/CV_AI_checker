@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Reach out to prequalified leads to gauge their interest and determine their wants and needs for a home. Assist buyer clients with the home purchase process including budgeting and options with a mortgage lender. Participate in open houses, arrange showings, and show homes to potential buyers. Coordinate efforts to negotiate property sale between buyer and seller or listing agent to achieve desired results.",
-  "Required Skills": "A valid real estate license. An established track record of successful real estate sales. Superb interpersonal and communication skills. Possess a valid US driver's license and can travel by car.",  
-  "Educational Requirements": "Applicants should have a high school diploma, bachelor's degree desired.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

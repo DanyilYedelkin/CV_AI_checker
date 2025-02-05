@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer and resolve customer billing issues related to payments, returns and sales. Answer and resolve calls from sales colleagues and customers regarding guidelines increases and credit referrals. Complete various credit customer service functions based on business needs.",
-  "Required Skills": "High school diploma or GED. Ability to calculate figures and percentages. Ability to solve problems involving concrete variables. Ability to interpret instructions. Ability to provide customer service. Strong analytical skills. Excellent communication skills.",  
-  "Educational Requirements": "High school diploma or GED required.",
-  "Experience Level": "One to three months related experience preferred.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Weekly base pay plus quarterly company incentive. Additional $1 per hour premium pay for weekend and evening hours. Fully funded education program. Employee discount on Macy's merchandise. Medical, dental, vision benefits. Commuter benefits. PTO and paid holidays."
-}

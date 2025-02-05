@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage a team of sales analysts driving developing and delivering sales reporting and business insights to the organization. Leverage internal and external data to drive business strategies and impactful metrics.",
-  "Required Skills": "Bachelor's degree. 2+ years experience in a sales operations and financial analysis role. 2+ years managing a team of sales analysts or similar function. Strong experience leveraging data and developing metrics and dashboards. Experience with a multichannel sales organization.", 
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "2+ years experience in a sales operations and financial analysis role. 2+ years managing a team of sales analysts or similar function",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

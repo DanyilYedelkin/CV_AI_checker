@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Train with a territory representative for 6-9 months with housing provided; Assume ownership for several accounts post training with TR for 3-6 months in a territory you will own upon successful completion of training program; Maintain all existing revenue; Attend surgical cases in the operating room; Build pipeline momentum of opportunities; Secure hospital approvals and surgeon support",
-  "Required Skills": "Bachelors degree; Less than 2 years of experience; Strong relationship orientation and strategic thinking skills; Strong oral and written communication skills; Demonstrated flexibility and willingness to be coached and developed; Willingness to train in another territory for 6-9 months (housing will be provided); Must be willing to relocate anywhere in the US upon promotion; Working knowledge of Microsoft Office software including Word and Outlook",
-  "Educational Requirements": "Bachelors degree",
-  "Experience Level": "Less than 2 years of experience",
-  "Preferred Qualifications": "Sales experience (in Pharma or an Associate Rep in Med Device); Demonstrated leadership and teamwork experience (i.e. athletics, extracurricular activities, etc); Demonstrated ability to effectively collaborate with internal colleagues; Ability to prioritize work and meet deadlines; A self-motivating can-do attitude",
-  "Compensation and Benefits": "Competitive compensation; Medical & dental benefits - 100% paid for employee and family members; 401k with 50% matching contributions; Basic life and ADD; Unlimited vacation; 12 weeks paid maternity leave; Being surrounded by talented and engaged employees"
-}

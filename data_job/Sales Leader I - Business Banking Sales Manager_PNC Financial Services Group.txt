@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manages and directs a team to achieve business results and customer experience goals. May have direct sales and client responsibilities. Oversees the execution of strategy. Leads and coordinates the daily activities of team members engaged in customer and/or prospect management activities. Achieves business results, attracts new customers and/or grows existing customer relationships by coaching and managing to defined strategies and tactics.",
-  "Required Skills": "Conflict management, decision making and critical thinking, effective communications, managing multiple priorities, sales management, selling",
-  "Educational Requirements": "Bachelor's degree; industry experience typically 3-5 years; at least 2 years of prior management experience typically required",
-  "Experience Level": "3-5 years industry experience",
-  "Preferred Qualifications": "Higher level education such as a master's degree, PhD or certifications is desirable",
-  "Compensation and Benefits": "Details about the salary range, health benefits, retirement plans, and other perks."
-}

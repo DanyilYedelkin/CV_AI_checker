@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Respond to helpdesk tickets, maintain network integrity and security, assist with office IT tasks like moves and setups, provide user support and training",
-  "Required Skills": "3+ years experience in IT, knowledge of networking, routers, TCP/IP, call managers, active directory, group policy, MS Exchange, helpdesk systems, experience with printers, computers, mobile devices",
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years",
-  "Preferred Qualifications": "Cisco video conferencing experience", 
-  "Compensation and Benefits": "Excellent benefits package including medical, dental, PTO, life insurance, disability insurance, etc."
-}

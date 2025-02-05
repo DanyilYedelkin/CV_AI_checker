@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist sales and marketing assets, assist with marketing campaigns and promotions, collect quantitative and qualitative data from marketing campaigns, evaluate sales requests for content creation, support the marketing team in daily tasks, be an internal brand ambassador and help educate associates on our brands, effectively communicate marketing updates and activities, monitor brand usage to ensure consistent delivery both internally and externally, be our ontrend and onbrand promotional product guru for all internal and client swag orders and giveaways",
-  "Required Skills": "Strong collaboration skills, excellent verbal and written communication skills, detail-oriented",
-  "Educational Requirements": "Currently in pursuit of associate's, bachelor's or graduate degree in marketing, communications, journalism, English, business or related field",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

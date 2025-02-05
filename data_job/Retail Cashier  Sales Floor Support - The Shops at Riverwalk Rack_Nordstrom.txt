@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Keep the customer experience quick, easy and fun while helping customers. Create a smooth fitting room experience by greeting customers and taking them to their fitting rooms. Share your love of fashion and tell customers about upcoming events, gift cards, rewards program and mailing list. Keep the stockrooms organized and complete all inventory processes, making sure merchandise is properly checked in and accurately ticketed. Work with the team to ensure the sales floor stays clean through remerchandising and straightening throughout the day.",
-  "Required Skills": "Enthusiasm, sense of adventure, accountability, initiative, high level of ownership, organizational skills, attention to detail, ability to prioritize multiple tasks, calm demeanor in a busy retail environment, solid math, verbal and written communication skills, ability to work a flexible schedule based on business needs",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

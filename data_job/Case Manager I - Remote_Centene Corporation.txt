@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct screening and risk assessment interventions, identify special needs members, work with community outreach/member advocates, educate providers and community resources, educate members with special needs, conduct site visits, develop and modify care plans, develop plan specific literature and education materials",
-  "Required Skills": "RN, LCSW, or LVN license/certification preferred",
-  "Educational Requirements": "Bachelor's degree in social work, nursing, health, behavioral science or equivalent", 
-  "Experience Level": "2 years of related experience, experience in a managed care environment",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive pay, paid time off including holidays, health insurance for employee and dependents, 401k and stock purchase plans, tuition reimbursement"
-}

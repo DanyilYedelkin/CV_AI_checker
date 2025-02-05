@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support full-cycle recruiting for sales, marketing, professional services, customer success, customer support and more. Provide an exceptional and consistent candidate and hiring manager experience with a growth mindset and integrity. Proactively source qualified candidates, review resumes and prescreen candidates while moving the interview process forward in a timely manner. Work with our talent coordination team to continuously improve our interview process.",
-  "Required Skills": "2+ years full cycle recruiting experience in SaaS focused on S&GA. Combination of corporate in-house and agency experience preferred. Preferred tech stack: GSuite, Lever, LinkedIn Recruiter, Slack, Zoom. Experience closing candidates and negotiating complex compensation packages.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years full cycle recruiting experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Market-competitive salary + equity. A once-in-a-lifetime career opportunity to get onboard a fast-growing business that is venture-backed by $100M+ capital (Shasta Ventures, Riverside Acceleration Capital and Hummer Winblad)."
-}

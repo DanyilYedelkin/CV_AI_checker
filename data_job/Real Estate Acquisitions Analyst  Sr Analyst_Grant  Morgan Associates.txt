@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Play an active role in all aspects of the acquisitions and asset management process. Support the investment underwriting process including financial market research/analysis, debt analysis and due diligence. Provide analytical support to senior investment professionals and write investment memos. Model complex acquisition and development investments.",
-  "Required Skills": "Highly proficient modeling skills. Genuine interest in the real estate industry. Excellent written and verbal communication skills.",
-  "Educational Requirements": "Relevant bachelor's degree with strong academic results.",
-  "Experience Level": "Minimum 2 years of relevant real estate or financial quantitative experience.",
-  "Preferred Qualifications": "Strong entrepreneurial spirit with the ability to manage multiple transactions. Must enjoy working in a dynamic, fluid environment with changing priorities. Highly motivated and a flexible high achiever.",
-  "Compensation and Benefits": "Excellent compensation package including salary, bonus and benefits."
-}

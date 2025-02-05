@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform legal work involving issues of fact and questions of law relating to parking violations, priority relating to the vehicle, CPLR enforcement, and the NYS Vehicle and Traffic Law. Prepare, review and/or sign legal collection and enforcement documents. Research and prepare executions for collateral parking judgment debt. Meet with motorists to explain legal decisions. Represent the agency at administrative hearings.",
-  "Required Skills": "Admission to the New York State Bar. At least 1 year of satisfactory legal experience in the US after bar admission OR at least 6 months as an agency attorney intern.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "1 year of legal experience after bar admission for Assignment Level II, or 2 years for Assignment Level III.",
-  "Preferred Qualifications": "Experience with administrative proceedings, parking violations, booting/towing. Experience with STARS and NYCSERV. Excellent communication and writing skills. Ability to balance multiple assignments. Flexibility to handle changing needs.",
-  "Compensation and Benefits": "N/A"
-}

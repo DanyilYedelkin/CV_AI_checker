@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build and layouts from provided PSD files, build dynamic web apps using PHP/MySQL frameworks, leverage REST services and other third-party APIs, rapidly solve problems/bugs and compatibility issues, troubleshoot test and maintain the core product software and databases",
-  "Required Skills": "2+ years of experience with HTML and CSS/SASS, 2+ years of experience with programming PHP applications and LAMP stack development, experience with ES6 JavaScript and jQuery, thorough understanding of relational databases and security relating to PHP/MySQL, expert knowledge with content management systems either from your own design or from MVC frameworks such as Zend, Laravel etc., ability to build and consume custom SOAP and REST APIs, 2+ years of experience writing unit tests detailing procedures, self-motivated requiring minimal supervision, exceptional organization and communication skills",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Free health insurance for employees with no waiting period, dental and vision insurance (Trackfive splits the cost), paid birthday holiday, company-paid short and long-term disability insurance, company-paid life insurance, flex time, paid parental leave, company-matched retirement plan with no waiting or vesting period, work-from-home options, office perks like snacks/massages/pet days, opportunity to work with great people on exciting things, amazing holiday party"
-}

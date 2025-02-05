@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Diagnose and troubleshoot end user desktop application issues and provide appropriate solutions. Provide timely resolution or escalation of problems. Provide case status updates per service guidelines. Document and implement procedures and guidelines. Provide support for various devices and applications.",
-  "Required Skills": "Experience in IT service desk/call center environment preferred. Focus on customer service. Effective written and verbal communication skills. Familiarity with Windows, Microsoft Office, VPN, MDM. Analytical and troubleshooting skills.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Active Directory and Exchange experience.",
-  "Compensation and Benefits": "Competitive pay, generous time off, full benefits including 401K with matching."
-}

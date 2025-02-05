@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Full lifecycle management of Windows-based systems and related infrastructure. Windows systems administration related to Group Policies, Active Directory, DNS, etc. Diagnose and resolve issues associated with hardware, application and software integration. Perform business continuity, backup and recovery functions to ensure systems recovery. Monitor and troubleshoot systems to ensure security and compliance standards are adhered to.",
-  "Required Skills": "2+ years of experience in administering Microsoft Windows systems. Strong technical aptitude in the following areas and technologies: Microsoft Windows Server and application server ecosystem, Microsoft and/or VMware virtualization platform, Active Directory, DNS and DHCP administration, Group Policy management and PowerShell scripting, remote management and remediation tools, backup and recovery, disaster recovery, business continuity solutions. Solid understanding of networking concepts. Strong understanding of security concepts. Excellent analytical and problem-solving skills. Strong organizational, communication and interpersonal skills. Occasional travel to different locations to provide support. Participate in weekend on-call and as-needed afterhours support.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "College degree or equivalent work experience. Applicable certifications: Microsoft, VMware, AWS, network certifications. Experience with firewalls and load balancers. Experience with audio/video systems. Experience with telecommunications and telephony platforms.",
-  "Compensation and Benefits": "N/A"
-}

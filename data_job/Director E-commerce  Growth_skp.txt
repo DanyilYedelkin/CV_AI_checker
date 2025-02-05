@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage ecommerce strategy day-to-day operations and optimizations of direct revenue driving channels including lead generation, performance & growth marketing, email, ppc, paid social, paid media, ecrm, seo, affiliates, influencers & corporate partnerships. Support efforts on ulta.com and future ecommerce vendors. Develop and manage digital marketing calendar. Manage DTC financial forecasts with complete P&L accountability.",
-  "Required Skills": "Ability to lead paid SEO to deliver a shared mission. Ability to prioritize and structure work. Self-starter who thrives in an entrepreneurial environment. Ability to wear multiple hats and stretch. Strong financial and analytical ability & ability to budget. Excellent communicator & is able to give clarity and set direction. Strong commercial awareness about their industry. Strong knowledge of the different marketing channels. Ability to form good working relationships with internal and external customers. Critical thinker and problem-solving skills. Project management skills.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Consumer product experience required, beauty experience a plus.",
-  "Compensation and Benefits": "N/A"
-}

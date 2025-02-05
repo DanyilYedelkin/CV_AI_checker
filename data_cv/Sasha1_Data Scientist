@@ -1,7 +1,0 @@
-{
-  "Core Responsibilities": "Develop and optimize machine learning models to solve business problems. Analyze data and generate analytical reports for the team. Collaborate with product and engineering teams to implement solutions. Work with large datasets, performing data cleaning and preprocessing.",
-  "Required Skills": "Proficiency in Python, SQL, and data analysis tools. Experience with machine learning libraries (TensorFlow, Scikit-Learn). Ability to visualize data using Matplotlib or Seaborn. Knowledge of statistics and probability.",
-  "Educational Requirements": "Bachelor’s or Master’s degree in Computer Science, Statistics, Mathematics, or related field. Additional certifications in data analysis or machine learning are a plus.",
-  "Experience Level": "At least 2 years of experience in data analysis or machine learning model development.",
-  "Preferred Qualifications": "Experience with big data and cloud platforms (AWS, GCP). Skills in A/B testing and result evaluation. Familiarity with distributed data processing systems (e.g., Apache Spark).",
-  }

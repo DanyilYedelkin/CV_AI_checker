@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Help meet growth goals by managing client relationships, identifying upsell opportunities, running the sales process, and negotiating agreements. Collaborate with internal teams to assist clients and answer questions.",
-  "Required Skills": "3+ years subscription sales experience in a fast-paced environment. Track record of exceeding sales goals. Experience introducing complex products to new customers. Ability to negotiate agreements. Team player.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years subscription sales experience",
-  "Preferred Qualifications": "Experience in financial services preferred but not required. High EQ, sensitivity to client needs. Resourceful, resilient, strong oral and written communication skills.",
-  "Compensation and Benefits": "Competitive salary plus equity. Comprehensive benefits and perks including flexible work hours, unlimited vacation, 401k match, parental leave, wellness budget. On target earnings $300-500k for BD Executive role."
-}

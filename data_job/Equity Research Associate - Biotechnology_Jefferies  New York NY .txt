@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conducting proprietary research, evaluating drug pipelines, analyzing scientific literature, attending medical conferences, speaking with key opinion leaders, building and maintaining financial models, writing research reports for initiations of coverage, analysis of data and industry/company news, conceiving and executing on differentiated project ideas, interfacing with company management teams, internal sales and trading personnel, and institutional investors",
-  "Required Skills": "Minimum BA/BS degree in life sciences-related field or finance/economics with interest in life sciences, advanced degree in life sciences preferably PhD/MD or alternatively 2+ years of relevant experience, MBA/CFA and/or programming skills in Python/SQL a plus, working experience in biotech/pharma equity research, consulting, investment banking, tech transfer or industry, familiarity with cancer biology or immuno-oncology, proficiency in written/verbal communication and building financial models in Excel, attention to detail, ability to complete work against deadlines, self-driven and motivated, highly collaborative",
-  "Educational Requirements": "Minimum BA/BS degree in life sciences or finance/economics, advanced degree like PhD/MD preferred",
-  "Experience Level": "2+ years of relevant experience if no advanced degree",
-  "Preferred Qualifications": "MBA/CFA, programming skills in Python/SQL",
-  "Compensation and Benefits": "N/A"
-}

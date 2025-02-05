@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop animation logic for gameplay and combat features in Unreal Engine, own the animation state graph in Unreal Engine, support technical animator with tools to optimize DCC to Unreal workflows, architect and write core animation code specific to our games anime style, work with our animation and gameplay teams to maintain stability and performance, participate in defining our game design",
-  "Required Skills": "3 or more years of video game programming experience, strong modern C++ skills, gameplay or animation programming experience, good understanding of game design, located and authorized for work in the US or Canada",
-  "Educational Requirements": "N/A",
-  "Experience Level": "3 or more years of video game programming experience",
-  "Preferred Qualifications": "Experience with Unreal Engine, experience working on an animation state machine, Bachelors degree in Computer Science or equivalent, at least one shipped AAA game",
-  "Compensation and Benefits": "Competitive salary, PTO unlimited sick days and healthy work life balance, comprehensive health coverage, flexible work-from-home options"
-}

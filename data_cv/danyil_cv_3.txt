@@ -1,8 +1,0 @@
-{
-  "Core Responsibilities": "Maintained executive schedules, organized domestic and international travel, and supported daily operations for senior management. Managed internal and external communication, prepared and processed expense reports, and provided logistical support for investor relations and corporate events. Conducted research and documentation for various projects as assigned.",
-  "Required Skills": "2+ years in high-level administrative roles, excellent verbal and written communication, advanced MS Office skills, strong attention to detail, ability to work independently, and a polished professional demeanor. Highly organized, with strong interpersonal skills and a proactive, problem-solving approach. Comfortable managing multiple responsibilities in a dynamic environment.",
-  "Educational Requirements": "Bachelor's degree in Business Management.",
-  "Experience Level": "2+ years supporting executives in finance or related fields.",
-  "Preferred Qualifications": "Experience in real estate or finance, with a background in organizing investor events.",
-  "Compensation and Benefits": "Negotiable based on experience and skills, interested in work-life balance and comprehensive benefits."
-}

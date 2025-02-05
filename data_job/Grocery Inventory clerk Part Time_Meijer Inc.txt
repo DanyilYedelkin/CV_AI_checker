@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Performing inventory counts, stocking shelves, rotating inventory, assisting customers.",
-  "Required Skills": "Attention to detail, organization, customer service skills.",
-  "Educational Requirements": "High school diploma or equivalent.", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous experience in retail or inventory management.",
-  "Compensation and Benefits": "N/A"
-}

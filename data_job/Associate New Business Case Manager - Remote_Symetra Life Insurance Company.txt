@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Review and process insurance applications, ensure they are complete and meet compliance regulations, generate contracts once applications are approved, serve as point of contact for agents and clients, respond to inquiries, follow up on outstanding application requirements, assist team members.",
-  "Required Skills": "Proficiency in insurance workflow, customer/agent systems, data entry and analysis, understanding of insurance products and services, communication and relationship building skills.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hourly salary range $16-$20 plus eligibility for annual bonus program, benefits including 401k with company match, paid time off, work from home/hybrid options."
-}

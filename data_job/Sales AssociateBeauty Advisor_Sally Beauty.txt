@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build relationships and inspire loyalty, recommend products, inform customers of promotions and events, set up displays and arrange merchandise, ensure customers are enrolled in loyalty program, complete transactions, maintain store environment, communicate inventory issues",
-  "Required Skills": "Passion for beauty, customer service skills, communication skills, sales ability",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Product discount, free samples, medical, dental, vision, vacation, sick days and holidays for full time employees"
-}

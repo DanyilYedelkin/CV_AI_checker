@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assesses medical records for appropriateness level of care provided and criteria determination. Provides community resources to patients and their families that are in network with their health plan.",
-  "Required Skills": "Active RN license, clinical experience in a healthcare environment, case management experience preferred in an MCO/health plan, CCM or AMC required, previous experience telecommuting/working remotely",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary, annual salary bonuses and merit increases, fully remote work in the comfort of your own home, generous PTO package (25 days PTO, 10 paid holidays + 5 sick days), 401(k) matching, tuition reimbursement, HSA and FSA, so much more"
-}

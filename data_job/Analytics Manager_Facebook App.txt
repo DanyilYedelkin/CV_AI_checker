@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "manage and coach a team of data analysts to have big results through career skill and personal development especially technical mentorship; drive data discovery and leverage findings to improve our partners experience and increase our impact; become a trusted partner for product and engineering teams and understand how your team can help contribute to driving our overall quality and measurement mission lead the team to identify trends and influence change; apply structured thinking to advance the strategy and execution of the org across our base of partners",
-  "Required Skills": "ba or bs degree; demonstrated experience thinking strategically about issues leading to recommendations and action plans; years of people management experience; years of experience supporting product business or operations teams in an analytical capacity; demonstrated experience influencing global crossfunctional teams; knowledge in conducting quantitative analysis including sql or python r c",
-  "Educational Requirements": "ba or bs degree",
-  "Experience Level": " years of people management experience;  years of experience supporting product business or operations teams in an analytical capacity",
-  "Preferred Qualifications": "degree in computer science math physics engineering statistics or other technical fields or equivalent professional experience; knowledge in statistics eg hypothesis testing regressions or computer science; experience teaching and guiding others in quantitative concepts; experience communicating complex topics to technical and nontechnical audience",
-  "Compensation and Benefits": "N/A"
-}

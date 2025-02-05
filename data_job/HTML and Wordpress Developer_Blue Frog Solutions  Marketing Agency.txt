@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design, implement and manage websites using WordPress. Collaborate with members of a creative team. Manage frontend and backend website development. Create WordPress plugins and themes. Maintain well-documented, reusable and transferrable code. Troubleshoot and resolve website problems for clients and coworkers.",
-  "Required Skills": "Proficiency using WordPress. Expertise in JavaScript and jQuery. Experience using debugging tools such as Firebug and Chrome Inspector. Strong understanding of frontend and backend website development.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Stay abreast of new developments in software trends and practices.",
-  "Compensation and Benefits": "N/A"
-}

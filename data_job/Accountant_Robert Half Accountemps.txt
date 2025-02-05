@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "financial reporting including gross margin, cogs, intercompany transactions and monthly schedules; royalties, commissions, prepaids, accruals, payments and weekly schedules; supporting variance audit requirements; other projects as assigned",
-  "Required Skills": "accounting, Excel, ERP skills", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "highly organized, detailed oriented",
-  "Compensation and Benefits": "N/A"
-}

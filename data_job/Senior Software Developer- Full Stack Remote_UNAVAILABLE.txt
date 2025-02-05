@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develops and maintains engineering software for use in the energy industry. Analyzes, decomposes and specifies requirements based on understanding of business applications and engineering principles. Creates design artifacts and documentation using software engineering conventions. Develops and implements algorithms for engineering solutions. Resolves product and system issues applying computer science and engineering approaches. Participates in software development processes and change control decisions.",
-  "Required Skills": "Advanced knowledge of C, C++, OOP. Xamarin Forms and iOS mobile development experience. Experience in software architectural design, client-server development on Windows. Ability to translate requirements into design. Strong diagnostic skills to analyze, troubleshoot and solve complex problems.",
-  "Educational Requirements": "BS in Engineering, Computer Science or equivalent", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Good interpersonal skills and ability to foster teamwork.",
-  "Compensation and Benefits": "N/A"
-}

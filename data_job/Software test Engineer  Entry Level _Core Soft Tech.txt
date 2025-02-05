@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Designing test plans scenarios scripts and procedures. Executing tests on source code. Analyzing test results and reporting to the development team. Working with the development team to correct bugs and errors.",
-  "Required Skills": "Good working knowledge of test management software, programming languages, and QA methodologies. Good team working and critical thinking skills.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

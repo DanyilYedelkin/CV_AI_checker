@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Attend project meetings, provide meeting followup, manage calendars, serve as document controller, support diversity plan execution, interface with project admin",
-  "Required Skills": "Minimum 2 years experience in design/construction, familiarity with design documents and construction phases, computer literacy including MS Office and Bluebeam", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum 2 years in design or construction",
-  "Preferred Qualifications": "Experience as executive assistant, project architect/engineer/manager, located in NYC area",
-  "Compensation and Benefits": "N/A"
-}

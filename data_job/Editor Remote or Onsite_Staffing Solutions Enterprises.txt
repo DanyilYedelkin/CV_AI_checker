@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide editorial services for the company's internal and external communications. Responsible for a range of duties including editing copywriting, proofread, coordinate printing and production, provide quality control on graphic design, interact with clients and other support functions.",
-  "Required Skills": "Proficient with Microsoft Office products including Excel, Outlook, Word, Access and internet. Excellent writing, editing, proofreading and grammar skills. Strong communication and relationship building skills.", 
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "2 years technical editing experience w/ knowledge of Chicago Manual of Style",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

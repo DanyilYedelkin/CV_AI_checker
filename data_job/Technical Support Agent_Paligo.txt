@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Resolve customers' issues, help improve Paligo's processes related to the support team, learn how the system works and what it can do by working with developers",
-  "Required Skills": "2+ years experience in tech support, experience with Zendesk or similar CRM, excellent troubleshooting skills, fluent in English",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2+ years experience in a tech support role",
-  "Preferred Qualifications": "Experience as a technical writer, knowledge of documentation platforms and SaaS applications",
-  "Compensation and Benefits": "N/A"
-}

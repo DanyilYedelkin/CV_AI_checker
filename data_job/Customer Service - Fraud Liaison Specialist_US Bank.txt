@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Process and respond to customer inquiries utilizing multiple systems to provide information on accounts. Resolve customer concerns and understand how the bank can help meet their needs. Present options to help make banking easy and convenient for customers.",
-  "Required Skills": "High school diploma or equivalent. Minimum 6 months customer service experience. Completed specialized training in customer service fields like contact center, email, internet, operations, and fraud support.", 
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "Minimum 6 months of customer service experience.",
-  "Preferred Qualifications": "Problem-solving and negotiation skills. Ability to navigate computer systems and applications to find information. Time management and multitasking skills. Experience interacting with unsatisfied customers. Communication skills - speaking clearly, listening, pleasant tone. Computer navigation proficiency with Microsoft Office. Bilingual English/Spanish a plus.",
-  "Compensation and Benefits": "N/A"
-}

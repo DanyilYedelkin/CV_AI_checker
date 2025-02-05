@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage and lead the organization's efforts to leverage data to demonstrate impact, improve program effectiveness, and add value for leadership, faculty and administration. Help unlock the value of data and upgrade the approach to data collection, analysis and visualization.",
-  "Required Skills": "Bachelor's degree in computer science or related field. Years of experience with expertise in higher education environments with complex enterprise architecture. Understanding of data concepts, relational databases, and performance data warehousing/big data analytics. Experience as a data architect, using ETL tools, programming in complex systems, and working with real-time and ETL-based data. Ability to work at all levels of an organization and influence consensus.", 
-  "Educational Requirements": "Bachelor's degree in computer science or related field",
-  "Experience Level": "Years of progressive work experience",
-  "Preferred Qualifications": "Higher education experience. Experience building automation processes and understanding data visualizations. Tableau administration experience.",
-  "Compensation and Benefits": "N/A"
-}

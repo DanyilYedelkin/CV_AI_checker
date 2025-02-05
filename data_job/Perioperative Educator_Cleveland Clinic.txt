@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "designs, directs, implements and evaluates educational offerings based on knowledge, skills and learning levels of nursing staff; identifies learning needs and desires of nursing personnel; develops and utilizes appropriate evaluation systems to determine the effectiveness of educational activities; consults with individuals within the nursing institute and ambulatory nursing ccf and the community regarding professional nursing practice and roles; assists in the development of department specific orientation and competencies, assists departments in orientation of staff; develops and maintains a cataloging system for tracking and retrieval of all available teaching/learning resources; other duties as assigned",
-  "Required Skills": "Bachelor's degree in nursing required; current state licensure as registered nurse (RN); certification in specialty preferred; minimum two years recent nursing experience required with demonstrated clinical expertise to include clinical nursing experience, preceptor, BCLS or ACLS instructor; demonstrated knowledge of education methodology such as needs assessment, curriculum development, instructional design, and principles of adult learning; presentation skills required",
-  "Educational Requirements": "Bachelor's degree in nursing required; master's degree strongly preferred; master's degree in nursing with a non-nursing bachelor's degree is acceptable",
-  "Experience Level": "Minimum two years recent nursing experience required",
-  "Preferred Qualifications": "Master's degree strongly preferred; certification in specialty preferred",
-  "Compensation and Benefits": "N/A"
-}

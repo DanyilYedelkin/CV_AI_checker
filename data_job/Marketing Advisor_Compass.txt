@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Consult with agents to identify marketing needs and execute tactics. Provide guidance and project management from start to finish. Liaise between creative team and agents. Help implement best practices and improvements. Monitor efforts and analyze results.",
-  "Required Skills": "2+ years marketing experience. Adept project manager with great time management. Skilled communicator. Meticulous attention to detail. Understanding of marketing strategy across channels. Excellent writing. Experience with ad campaigns. Experience in client/account service a plus. Proficient in Office suite.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of marketing experience",
-  "Preferred Qualifications": "Experience in real estate marketing or at a luxury brand.",
-  "Compensation and Benefits": "N/A"
-}

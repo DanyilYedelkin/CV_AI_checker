@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Be the go-to coach for alumni looking to take the next step in their career. Participate in the material review process for hundreds of students annually. Oversee the job search process for hundreds of students annually. Deliver workshops to groups of job seekers. Conduct mock interviews with job seekers. Communicate with successfully placed alumni. Provide tactical and emotional support for job seekers.",
-  "Required Skills": "Experience in career coaching, technical recruiting, people management, or working at fast-paced startups. Problem-solving skills. Organizational skills. Mentorship abilities. Genuine feedback delivery.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary. Flexible paid time off. Employer-sponsored health insurance plans with 50% support for company match."
-}

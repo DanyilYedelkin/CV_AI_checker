@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead marketing for ad revenue organization. Drive revenue by partnering with sales and planning teams to deliver proposals. Manage marketing activations, operations, integrated marketing and research. Partner with executive team on voice and growth strategy.",
-  "Required Skills": "Experience in digital media advertising, especially working with ad sales teams. Strategic, solutions-oriented thinker. Excellent communicator and storyteller. Strong project management and leadership skills.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "Proven experience in marketing leadership role.",
-  "Preferred Qualifications": "Relationships across media/advertising industry. Knowledge of qualitative and quantitative research. Creative communication skills for client presentations and pitches.",
-  "Compensation and Benefits": "Competitive total rewards including unlimited PTO, 401k match, healthcare."
-}

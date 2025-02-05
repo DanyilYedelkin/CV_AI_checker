@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include expanding and developing new frontend and backend components, improving database structure, testing code and deployments, and working on cloud infrastructure.",
-  "Required Skills": "Proficiency in at least two languages/frameworks like Java, Spring, Python, Django, Angular, React, Kubernetes, Terraform. Agile software development experience. Ability to work remotely.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience with AWS, Azure, container development, CICD tools, communication and problem-solving skills.",
-  "Compensation and Benefits": "Excellent compensation and benefits including health insurance, 401K match, disability insurance, paid time off, flexible schedules, training budget, education assistance, mentorships."
-}

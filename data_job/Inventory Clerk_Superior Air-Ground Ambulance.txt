@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Maintains accurate stock levels, receives, stocks, stores, counts, delivers and tracks supplies and equipment; Ensures proper stock levels at all stations; Maintains and repairs medical equipment; Organizes and files documentation; Assists with inventory management and compliance",
-  "Required Skills": "Bachelor's degree preferred; Computer skills including Excel; Strong organizational and multitasking abilities; Detail-oriented",
-  "Educational Requirements": "Bachelor's degree preferred, experience in lieu of degree will be considered", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

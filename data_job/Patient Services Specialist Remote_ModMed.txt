@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer inbound and outbound calls regarding patient balances, insurance, and payments. Input and update patient information. Ensure department KPIs and targets are met.",
-  "Required Skills": "2+ years call center and customer service experience. Healthcare experience preferred. Bilingual English/Spanish preferred. Basic medical billing knowledge preferred. Proficient with business software like Excel and Word. Strong communication and time management skills.", 
-  "Educational Requirements": "High school/GED required. Bachelor's degree and/or medical billing certification preferred.",
-  "Experience Level": "Minimum 2 years call center and customer service experience.",
-  "Preferred Qualifications": "Previous healthcare experience. Bilingual English/Spanish. Understanding of medical billing and insurance claims.",
-  "Compensation and Benefits": "Health insurance, PTO, employee assistance program, flexible spending account, professional development opportunities, catered meals, massages, car wash."
-}

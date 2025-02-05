@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Analyze and assign lots to shipments/orders, analyze and reconcile discrepancies, save documents, work with accounting on order/invoicing issues, communicate with other departments, seek to improve supply chain processes, analyze reporting, assess vendor operations, backup purchasing/inventory roles, other duties as assigned",
-  "Required Skills": "2+ years supply chain experience, knowledge of inventory management, mathematical and analytical skills, experience in chemical industry, Chempax experience a plus",
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years in supply chain",
-  "Preferred Qualifications": "Chempax experience",
-  "Compensation and Benefits": "N/A"
-}

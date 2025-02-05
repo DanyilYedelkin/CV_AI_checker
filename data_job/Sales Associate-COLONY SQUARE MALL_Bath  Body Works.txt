@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Work as a sales associate, meet sales goals and expectations during shifts, build customer loyalty, perform store replenishment tasks",
-  "Required Skills": "N/A", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

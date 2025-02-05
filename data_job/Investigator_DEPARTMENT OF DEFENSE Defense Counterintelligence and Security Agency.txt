@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct personnel background research, inquiries, and review personnel forms, reports, employment applications, investigative questionnaires, affidavits, credit reports, police reports, loans/benefits applications to extract information and identify discrepancies, inconsistencies, or areas requiring clarification.",
-  "Required Skills": "Attention to detail, flexibility, interpersonal skills, oral communication, planning and evaluation, writing, completion of basic training such as FBI Field Investigator Training Program.",
-  "Educational Requirements": "Bachelor's degree if substituting education for experience.", 
-  "Experience Level": "1 year of specialized experience conducting personnel background research, inquiries, reviewing forms/reports for completeness and accuracy.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

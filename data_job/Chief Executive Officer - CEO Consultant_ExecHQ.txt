@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide consulting services to clients as needed, including leadership, turnarounds, executive coaching, building effective teams, etc. Assemble teams of consultants or specialists to bring the best solutions to clients.",
-  "Required Skills": "Bachelor's degree in business, accounting or related field. 5+ years experience as a CEO, business owner or equivalent.",
-  "Educational Requirements": "Bachelor's degree in business, accounting or related field required. MBA or other relevant Master's degree preferred.",
-  "Experience Level": "5+ years experience as a CEO, business owner or equivalent position.",
-  "Preferred Qualifications": "MBA or other relevant Master's degree.",
-  "Compensation and Benefits": "Access to Cigna health insurance plan (medical, vision, dental). Various discounts and corporate perks. Consultants retain 100% of revenues billed to clients."  
-}

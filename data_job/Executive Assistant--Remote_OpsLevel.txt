@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Act as a calendar gatekeeper for multiple executives, schedule and coordinate meetings, ensure executives are prepared for upcoming meetings/events, streamline and offload executives' day-to-day cadence, screen emails/calls and ensure timely responses, arrange travel and accommodations, manage meeting logistics.",
-  "Required Skills": "Experience as an executive assistant or similar role, superior organizational skills, ability to prioritize and multitask, strong attention to detail, strong communication skills, proficiency with Google Workspace tools",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in tech sector, thoughtful and proactive",
-  "Compensation and Benefits": "Competitive compensation including equity based on skills/aptitude of candidate"
-}

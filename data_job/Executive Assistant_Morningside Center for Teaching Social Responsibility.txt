@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day responsibilities include managing the executive director's schedule, preparing materials for board and staff meetings, serving as liaison between the executive director and board, supporting the executive director's communications and outreach, and providing administrative support.",
-  "Required Skills": "Proficiency in MS Office, Outlook, Word, Excel, PowerPoint, Zoom. Strong written and verbal communication skills. Organizational and administrative skills. Interpersonal skills and ability to build relationships. Self-awareness and emotional intelligence.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "Experience preferred in supporting an executive director.",
-  "Preferred Qualifications": "Commitment to social and racial justice and alignment with Morningside Center's mission.",
-  "Compensation and Benefits": "$60,000 per year. Health, dental and vision benefits. Generous vacation policy. Retirement plan."
-}

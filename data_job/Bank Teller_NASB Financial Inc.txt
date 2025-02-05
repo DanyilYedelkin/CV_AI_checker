@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "This role involves providing excellent customer service, processing transactions accurately and efficiently, identifying customer needs and cross-selling products, adhering to policies and procedures.",
-  "Required Skills": "Retail/customer service experience, communication skills, math aptitude, computer/Microsoft Office skills.",
-  "Educational Requirements": "High school diploma or equivalent.",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Prior banking/financial services experience.",
-  "Compensation and Benefits": "Competitive compensation, health insurance, 401K with employer match, paid vacation/sick days, employee discounts on banking products and services, employee referral bonuses."
-}

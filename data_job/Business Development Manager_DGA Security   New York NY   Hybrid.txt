@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and manage a consistent sales pipeline of potential clients through a variety of methods including canvassing, prospecting, and networking. Present company products and services to local and/or national accounts through in-person or virtual consultations with potential and existing clients. Evaluate customer needs and identify the proper solutions based on our portfolio of products and services. Quote product and service bids and make value added sales proposals. Employ appropriate closing techniques to complete the sale.",
-  "Required Skills": "2+ years of successfully prospecting, presenting and closing of business with a variety of clients up to and including enterprise level. A proven track record of exceeding sales goals in your previous organizations. Established contacts and relationships in complementary industries that you can leverage. Strong working knowledge of customer relationship management software (CRM, Salesforce is a plus). Willingness to travel and the ability to commute to our office in Hell's Kitchen when it's safe to do so. Babs degree preferred but not required.",  
-  "Educational Requirements": "Babs degree preferred but not required",
-  "Experience Level": "2+ years of successfully prospecting, presenting and closing of business with a variety of clients up to and including enterprise level",
-  "Preferred Qualifications": "Established contacts and relationships in complementary industries that you can leverage. Strong working knowledge of customer relationship management software (CRM, Salesforce is a plus)",
-  "Compensation and Benefits": "N/A"
-}

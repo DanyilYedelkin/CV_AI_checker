@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead cross-functional ecommerce team through assigned projects from inception to completion; utilize agile/scrum methodologies; act as scrum master during daily standups; provide management visibility into project status; hold team members accountable.",
-  "Required Skills": "Proficient in Jira, Microsoft Project, Word, Excel and PowerPoint; experienced with agile/scrum methodologies; ability to lead cross-functional teams; problems solving skills; project management skills.",
-  "Educational Requirements": "Bachelor's degree in business, engineering or equivalent experience.",
-  "Experience Level": "Minimum of 5 years of program and project management experience delivering ecommerce solutions.", 
-  "Preferred Qualifications": "Scrum Master certified (CSM).",
-  "Compensation and Benefits": "N/A"
-}

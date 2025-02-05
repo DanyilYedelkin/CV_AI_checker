@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead development of complete construction documentation, manage project budget and timelines, administrate bidding/change order/submittal process, oversee project completion including move in activities and punch list",
-  "Required Skills": "Years of experience in construction, construction management or related field, expertise in communication, documentation and attention to detail",
-  "Educational Requirements": "Bachelor's degree or better in architecture, interior design, facility management or related field", 
-  "Experience Level": "5 years of experience in field",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

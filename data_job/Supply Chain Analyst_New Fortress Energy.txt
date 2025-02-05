@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support the planning, strategic sourcing, procurement, and logistics processes through data analysis, insights, dashboards, metrics, and KPIs.",
-  "Required Skills": "Proficiency in data analysis, strong analytical and problem solving skills, ability to work with large datasets, data visualization and presentation skills.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

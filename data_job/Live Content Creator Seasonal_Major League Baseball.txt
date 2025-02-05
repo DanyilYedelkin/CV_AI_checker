@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Capture pregame, in-game and postgame photo and video content for home and visiting clubs for distribution on league and club social media channels. Create fresh, innovative content daily for social platforms. Capture content for player social channels and marketing promotions.",
-  "Required Skills": "2+ years photography and videography experience. Knowledge of DSLR/mirrorless cameras and editing software. Understanding of baseball and different social platforms. Creative, determined to make fresh content daily. Flexible schedule.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years professional photography and videography experience",
-  "Preferred Qualifications": "Experience interviewing and storytelling",
-  "Compensation and Benefits": "Part-time seasonal hourly pay. Subject to MLB's mandatory COVID vaccine policy."
-}

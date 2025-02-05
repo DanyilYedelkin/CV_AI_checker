@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Acquire preapproved, cash-buying customers for Divvy Homes each month. Shepherd leads from preapproval to closing. Help hundreds of customers buy new homes this year.",
-  "Required Skills": "Licensed real estate agent in Cleveland. Local expertise.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer inbound calls from excited customers interested in making reservations for resort stays, car rental, airline tickets, and things to see and experience based on their interests; provide custom recommendations to help create unforgettable experiences; encourage customers to book vacations",
-  "Required Skills": "6 months of customer service and sales experience; ability to build rapport quickly, ask probing questions, and meet customers' needs; intermediate computer knowledge; ability to work well under pressure and multitask",
-  "Educational Requirements": "High school diploma or GED",
-  "Experience Level": "6 months of customer service and sales experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hourly pay plus monthly sales-based incentives; competitive medical, dental, and vision benefits; up to 10 paid vacation days, 6 floating holidays, and 6 paid sick days per year; travel-related discounts; 401k with 3% match; tuition reimbursement"
-}

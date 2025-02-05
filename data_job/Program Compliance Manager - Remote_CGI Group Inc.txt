@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "monitor changes in federal and state program requirements, oversee the functions of the quality control specialists hearing officer business and reporting analysts payment specialists and policy and procedure specialist, coordinate and respond to grant applications, develop, implement and maintain program compliance within the hcv program to ensure guidelines and regulatory requirements are met, provide consultation and support for regulatory implementation initiatives, conduct and/or provide expertise for compliance assessments, audits and reviews",
-  "Required Skills": "bachelors degree preferred or equivalent experience, 3 years experience in affordable housing industry preferred, extensive knowledge of data analysis tools and techniques, knowledge of federal, state and local statutes, policies and regulations related to hcvp operations, obtain certified hcvp specialist within one year, outstanding knowledge of hud policy, regulations, guidelines, handbooks, notices, mos, scope of work, hcv administrative plans and cgi policy and procedures",  
-  "Educational Requirements": "Bachelors degree preferred",
-  "Experience Level": "3 years experience in affordable housing industry preferred",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

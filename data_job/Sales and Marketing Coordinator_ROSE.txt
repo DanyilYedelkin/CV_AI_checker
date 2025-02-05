@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Managing top of funnel activities for new business efforts including RFP/pitch coordination, marketing campaigns, content creation, website management, etc.",
-  "Required Skills": "2+ years experience in new business/marketing, project management skills, team coordination, written/verbal communication, ability to multitask, process oriented, attention to detail", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years in new business/marketing",
-  "Preferred Qualifications": "Experience in digital agency, immersive tech knowledge (AR/VR), marketing analytics, SEM/SEO, content marketing",
-  "Compensation and Benefits": "Competitive salary based on experience, healthcare, unlimited PTO, retirement benefits, work from home"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manages a complex international portfolio of negotiations in relation to the bank and its affiliates capital markets documentation including legal drafting and providing detailed analysis and advice to internal stakeholders on any nonstandard client requests or contentious issues. Exercises discretionary authority to address or escalate decisions with respect to such documentation and escalates matters to banking front office, legal, credit, operations, tax or other areas as appropriate.",
-  "Required Skills": "Minimum 5 years industry experience and relevant legal background in derivatives and trading documentation including prime services documentation and a strong understanding of the provisions in such documentation. Basic understanding of prime services products. Law degree from a reputable law school and membership in a bar association. Excellent communication, legal drafting and organizational skills. Strong business acumen, sound judgment and critical thinking skills. Must be action-oriented and self-motivated with strong relationship management skills. Ability to work collaboratively with team members and internal stakeholders in particular legal, tax, banking front office, credit and operations to ensure GCMD objectives are met.",
-  "Educational Requirements": "Law degree from a reputable law school and membership in a bar association",
-  "Experience Level": "Minimum 5 years industry experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

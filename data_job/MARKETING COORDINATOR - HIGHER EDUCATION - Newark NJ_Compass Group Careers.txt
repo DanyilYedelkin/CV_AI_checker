@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Key responsibilities include hands-on support at events and unit set up, database management, coordinating content and field marketing requests, working within budgets, assisting with presentations and proposals, developing relationships with field managers, working with vendors, preparing marketing reports, and maintaining promotional inventory.",
-  "Required Skills": "Proficient in MS Office. Experience with Adobe Suite (Photoshop, InDesign) and CMS systems a plus. Ability to multitask in a deadline-driven environment. Excellent written and verbal communication skills. Attention to detail.", 
-  "Educational Requirements": "Bachelor's degree in marketing, business, or related field.",
-  "Experience Level": "Minimum 2 years prior experience in marketing.",
-  "Preferred Qualifications": "Background or interest in hospitality/food. Flexible schedule - evenings, weekends and possible travel required.",
-  "Compensation and Benefits": "N/A"
-}

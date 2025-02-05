@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide attention to clients' nonmedical needs including companionship and social engagement. Assist client with light housekeeping, meal preparation and medication reminders. Establish communication and a professional relationship with clients, family members and coworkers. Provide reliable care by being punctual and consistently covering shifts.",
-  "Required Skills": "Valid driver's license, proof of car insurance/registration and a reliable car if you drive. CPR/First Aid certification. Negative TB test. Ability to pass background check.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive pay with direct deposit, paid orientation and ongoing training, time-and-a-half pay for overtime and holidays, flexible schedules and matching caregivers with nearby clients, employee recognition programs."
-}

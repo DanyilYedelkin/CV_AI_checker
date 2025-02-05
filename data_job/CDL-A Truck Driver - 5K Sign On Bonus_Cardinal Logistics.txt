@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive trucks to transport materials and goods. Make deliveries and pickups according to route schedules. Inspect vehicles for mechanical items and safety issues.",
-  "Required Skills": "Class A commercial driver's license (CDLA), 2 years of experience driving tractor trailers.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years of experience driving tractor trailers required.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "$61,000 average yearly pay, paid holidays, comprehensive benefits package, quarterly safety bonus."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Review, prepare and submit customer applications to insurance carriers for approval. Review and compile necessary information ensuring application packet completeness and accuracy. Verify proper formatting and submit the application using the carrier-specified channel.",
-  "Required Skills": "Proficiency in data entry and attention to detail.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Hourly pay rate. Annual bonus. Company paid insurance - medical, dental, vision, life."
-}

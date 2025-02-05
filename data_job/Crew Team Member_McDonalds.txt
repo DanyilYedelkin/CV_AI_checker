@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Connect with customers to ensure they have a positive experience, help customers order their favorite McDonald's meals, prepare all of McDonald's world famous food, partner with other crew and managers to meet daily goals and have fun, keep the restaurant looking phenomenal",
-  "Required Skills": "N/A",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive pay, accrued PTO - vacation and sick days, HS diploma program free to all crew members, free money towards college education ($2,500/year for crew members, no strings attached, different colleges that work with McDonald's employees for tuition free college education), access to hundreds of companies that share their employee discounts with McDonald’s crew (Canon, Apple, Beats by Dre, etc.), free employee meals every shift + off meals on your days off"
-}

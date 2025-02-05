@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Daily attention will be given to focusing on developing the coordination services of the product including securely authenticating users and devices and designing stable control protocols that behave safely even when failures occur; authoring and enforcing access control policies; implementing network routing split routing nat derp and more.",
-  "Required Skills": "Experience tuning optimized web backend infrastructure; familiarity with OIDC, SAML, and various proprietary authentication protocols used by large cloud providers such as Google; solid grounding in network control systems; experience developing management and control protocols for a large distributed set of devices.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "A minimum of 8 years experience",
-  "Preferred Qualifications": "Experience developing other functional languages beyond Go and TypeScript; exposure to WireGuard or other VPN protocols; ability to give and process constructive feedback as well as work independently.",
-  "Compensation and Benefits": "N/A"
-}

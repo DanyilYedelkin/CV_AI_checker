@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide care to patients recovering from heart conditions or cardiac surgery, utilizing specialized telemetry equipment to constantly monitor blood pressure, heart rate, blood oxygen level, and cardiac electrical activity. Work in a challenging, positive and innovative telemetry environment.",
-  "Required Skills": "Active OH nursing license, BLS certification, telemetry experience",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "Epic EMR experience",
-  "Compensation and Benefits": "Competitive pay rates, free private housing, medical/dental/vision insurance, 401k and flex spending, life insurance, disability coverage, free continuing education, referral bonus"
-}

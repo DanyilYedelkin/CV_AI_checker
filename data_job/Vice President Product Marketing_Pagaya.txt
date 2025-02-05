@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Own Pagaya's engagement and demand/lead gen strategy for key areas of the business. Develop processes, platforms and campaigns to reach target industries and audience segments. Support value proposition and product offerings through marketing and sales funnel.",
-  "Required Skills": "5+ years of marketing experience in inbound marketing, demand generation, paid media and/or account-based marketing. BA in communications, journalism, public relations, marketing or related field. Prior experience in growth marketing. Proficient in analyzing data to solve problems. Strong project management and communication skills.",  
-  "Educational Requirements": "BA in communications, journalism, public relations, marketing or related field",
-  "Experience Level": "5+ years of marketing experience",
-  "Preferred Qualifications": "Experience with startups or fintech",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead individual multidisciplined real estate project solutions for clients with direct accountability for project delivery. Manage all facets of project management including budget, schedule, procurement, quality, and risk for individual real estate projects. Interface directly with clients to define project requirements. Identify and lead project delivery resources.",
-  "Required Skills": "Bachelor's degree in technical field. Project management certification (PMP). Knowledge of architectural drawings, MS Project, leases, contracts and construction practices. Excellent written and verbal communication skills.",  
-  "Educational Requirements": "Bachelor's degree in a technical area of study.",
-  "Experience Level": "Minimum 4 years of related experience.",
-  "Preferred Qualifications": "PMP certification. LEED AP certification.",
-  "Compensation and Benefits": "N/A"
-}

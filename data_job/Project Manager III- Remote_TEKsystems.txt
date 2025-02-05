@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage an omni fulfillment center ecommerce implementation project. Take direction from an internal IT program manager and work with another PM on related workstreams.",
-  "Required Skills": "Project management, Agile SDLC, stakeholder management, resource planning, project plan, program management, budgeting, vendor management, retail, supply chain, warehouse, MS Project",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Managing application implementations, distribution centers, SAP and/or supply chain initiatives",
-  "Compensation and Benefits": "N/A"
-}

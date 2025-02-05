@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Ensure timely and accurate posting, balancing and reconciliation of the general ledger; prepare work papers, financial statements and reports for audits; research and analyze financial fluctuations; assist with budgeting, expenditure coding and accounting tasks; assist with accounts payable, accounts receivable and expense report activities.",
-  "Required Skills": "BSC in Accounting; Advanced Excel skills; Experience with Oracle ERP or other SAP systems; Experience in manufacturing or consumer goods.",
-  "Educational Requirements": "BSC in Accounting; MSC preferred.", 
-  "Experience Level": "2+ years of experience in accounting and finance.",
-  "Preferred Qualifications": "MSC in accounting; Experience leading monthly and quarterly reporting.",
-  "Compensation and Benefits": "N/A"
-}

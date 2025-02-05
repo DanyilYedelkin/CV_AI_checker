@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support the mission assurance program by providing analysis and administration. Compile, analyze and translate critical infrastructure risk data into options. Plan and coordinate defense critical infrastructure activities. Develop dynamic web applications using C# and SQL Server.",
-  "Required Skills": "2+ years experience with C# and .NET web application development. Experience with database design and management, Microsoft SQL Server. Experience integrating APIs like Google Maps. Experience with web services. 1+ year experience briefing management.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of relevant work experience in fields like mission assurance, defense critical infrastructure, and critical infrastructure protection.",
-  "Preferred Qualifications": "DoD operations experience. Experience briefing senior management and flag officers.",
-  "Compensation and Benefits": "Retirement savings plan, commuter benefits, eligibility for medical/dental/vision insurance."
-}

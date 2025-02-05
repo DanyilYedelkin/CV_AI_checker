@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "fully operate 5-axis CNC in the order of making parts, operate any type and size of single spindle or multiple spindle on a variety of operations drilling reaming boring tapping spot facing countersinking etc, use all tools jigs fixtures and gauges necessary to perform operations, work with close tolerances and fine finishes, perform tool offset and load parts, perform job responsibilities according to internal process specifications, utilize proper ppe safety equipment and follow safety procedures",
-  "Required Skills": "2 years of machine shop experience in a manufacturing environment or equivalent, 2 years of CNC machine operation experience, education and/or training in machine shop operations, experience in a self-directed team environment, lean manufacturing knowledge", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years of CNC machine operation experience",
-  "Preferred Qualifications": "CNC training or 2 years experience (Haas interface preferred but not required), capable of producing parts with tight tolerances (±0.01 mm) and fine finishes, ability and willingness to use basic hand tools and measuring devices (i.e. dial calipers, protractors, micrometers, gauges, etc.) as required, understanding of blueprint, process sheet and engineering drawings interpretation, prior working knowledge of machine shop operations, tool selection and equipment settings",
-  "Compensation and Benefits": "Competitive salary (will be commensurate with experience and education), comprehensive benefits package available (healthcare, vision, dental and life insurances, PTO and holidays)"
-}

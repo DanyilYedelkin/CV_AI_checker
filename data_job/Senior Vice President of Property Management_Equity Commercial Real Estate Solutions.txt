@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee the operation of the portfolio of commercial properties and the property management team across all regions. Support and execute company strategies on new business related to property management. Direct team members on assigned portfolio implementing policies, procedures, and practices.",
-  "Required Skills": "7+ years experience in commercial real estate property management. Bachelor's degree or equivalent education/experience. Relevant industry designation (RPA, CPM, etc.). Exceptional verbal and written communication skills. Effective problem-solving skills. Self-motivated. Valid real estate license required within 90 days of employment.",  
-  "Educational Requirements": "Bachelor's degree or equivalent education/experience.",
-  "Experience Level": "7+ years experience in commercial real estate property management.",
-  "Preferred Qualifications": "Leading or managing a team experience. Yardi, Sharepoint experience.",
-  "Compensation and Benefits": "Full benefits package. Paid time off and company holidays."
-}

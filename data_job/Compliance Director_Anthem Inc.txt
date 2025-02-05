@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Directs projects, initiatives, regulatory sanctions, executive-sponsored initiatives, regulatory audits or exams, internal audits, accreditations, onsite reviews, risk assessments, audit planning, conducting mock audits, conducting audit training, managing audit evidence, preparation, assessing audit preparedness. Leads compliance monitoring to identify process gaps, validate compliance levels, map processes, draft corrective actions/remediation plans, oversee implementation of corrective actions, prepare reports/presentations. Leads complex investigations and documents findings.",
-  "Required Skills": "Bachelors degree and minimum of 5 years health care regulatory, ethics, compliance or privacy experience or any combination of education and experience which would provide an equivalent background. Ability to travel may be required.",  
-  "Educational Requirements": "Bachelors degree",
-  "Experience Level": "Minimum of 5 years health care regulatory, ethics, compliance or privacy experience",
-  "Preferred Qualifications": "Experience in Medicare Parts C and D Appeals & Grievances strongly preferred. Strong leadership skills and ability to motivate/coach other staff strongly preferred. MS/MBA/JD or professional designation preferred.",
-  "Compensation and Benefits": "N/A"
-}

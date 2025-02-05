@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coach current students and graduates on job search strategies, resume development and interviewing. Guide students through career center resources. Participate in the development of new career resources. Utilize career center resources and salesforce crm to track student activities and progress. Conduct webinars on employment-related topics. Motivate students to complete career prep activities. Provide timely resume reviews and approvals. Provide timely evaluations of interview responses and coach student on improving interviewing skills. Support students in identifying job opportunities and clinical sites. Increase knowledge rates by collecting employment information.",
-  "Required Skills": "Minimum of a bachelor's degree, masters degree in a related field a plus. At least one year of experience in a career advising/coaching/recruiting role. Expertise in resume critique, interview preparation and job search strategies. Ability to build relationships with students over the phone or in online conferencing tools. Ability to manage a large student caseload and hit monthly goals. Excellent customer service and follow up skills. Ability to work independently with a sense of urgency. Ability to manage and adapt to working with individuals of various backgrounds. Must be results driven and goal oriented.",
-  "Educational Requirements": "Minimum of a bachelor's degree, masters degree in a related field a plus",  
-  "Experience Level": "At least one year of experience in a career advising/coaching/recruiting role",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

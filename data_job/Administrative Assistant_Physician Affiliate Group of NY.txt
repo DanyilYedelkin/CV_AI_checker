@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist in the overall operation of Rikers Island. Provide secretarial support to the on island administrator. Handle payroll related questions and pregenerate time keep records. Maintain data and/or informative reports on logs and databases. Handle a high call volume, receive and disseminate important information related to medical services. Collect and disseminate medical related information to inmates/patients. Other duties as assigned.",
-  "Required Skills": "High school diploma or GED. Minimum of 3 years experience as an administrative assistant and/or medical secretary. Proficiency in Microsoft Word, PowerPoint, and Excel. Knowledge of Microsoft Access a plus. Ability to communicate effectively with others. Excellent oral and written communication skills. Computer knowledge including word processing skills (Microsoft Word). General administrative background with good organizational skills.",
-  "Educational Requirements": "High school diploma or GED",
-  "Experience Level": "Minimum of 3 years experience as an administrative assistant and/or medical secretary",
-  "Preferred Qualifications": "Experience as an administrative assistant and/or medical secretary preferred.",
-  "Compensation and Benefits": "N/A"
-}

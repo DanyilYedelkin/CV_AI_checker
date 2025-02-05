@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Engaging with customers to help them find the perfect cards and gifts, working as a team to meet sales goals, providing exceptional customer service.",
-  "Required Skills": "Ability to work flexible hours including weekends and holidays, ability to continuously stand/walk and lift up to 30 lbs, customer service skills.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "At least 16 years of age.",
-  "Preferred Qualifications": "High school diploma or equivalent, customer focused with strong communication skills, sense of urgency and willingness to adapt to change, proficiency using computers and technology.",
-  "Compensation and Benefits": "Part-time associates are eligible for 401k plan with 3% company match after completing 1,000 hours of service. Discount on store merchandise. Access to voluntary benefits programs."
-}

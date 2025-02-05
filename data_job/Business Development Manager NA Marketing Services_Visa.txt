@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Support RFP response efforts across NA, including response, pitch work and ideation showcasing Visa. Develop written responses to RFPs and pitch decks. Engage across marketing team to collect, organize and customize materials. Consult with client leads. Deliver marketing materials and thought leadership to support business development.",
-  "Required Skills": "Bachelor's degree required. 2+ years experience in RFP and sales pitch processes, marketing, business development or consulting. Project management, marketing or business strategy experience. Issuer/merchant marketing or payment industry experience preferred. Strong written and in-person communication skills. Strong presentation and visual design skills. Experience designing and executing marketing campaigns. Analytical skills. Team player. Extensive Microsoft Office skills.",  
-  "Educational Requirements": "Bachelor's degree required. MBA or other relevant Master's degree preferred.",
-  "Experience Level": "2+ years business experience with background in RFP and sales pitch processes, marketing, business development or consulting.",
-  "Preferred Qualifications": "Issuer or merchant marketing and/or payment industry experience. Client service experience. Experience implementing multichannel marketing campaigns.",
-  "Compensation and Benefits": "N/A"
-}

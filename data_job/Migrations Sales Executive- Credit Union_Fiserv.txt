@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for retaining and extending Fiserv clients, meeting sales targets, managing client relationships, securing funding for future initiatives, building internal/external networks, articulating Fiserv's value over competitors.",
-  "Required Skills": "Proven sales track record, prior Portico experience preferred, sales planning/execution, meeting quotas, establishing credibility, mapping solutions to business needs, leadership qualities, decision making, coaching, adapting to change, rapport building, understanding sales process and positioning.",
-  "Educational Requirements": "Bachelor's degree or equivalent",
-  "Experience Level": "2+ years direct selling experience in credit union industry",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

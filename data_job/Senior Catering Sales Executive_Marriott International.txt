@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "handles more complex social and local corporate catering opportunities that are above sales office parameters (e.g., $5k+). provides day to day supervision to catering sales associates that are onproperty. contracts and closes local catering and social business and verifies that business is turned over properly and in a timely fashion for quality service delivery. achieves catering revenue goals by actively upselling each business opportunity to maximize revenue. implements the brands service strategy and applicable brand initiatives in all aspects of the sales process and drives customer loyalty by delivering service excellence throughout each customer experience.",
-  "Required Skills": "High school diploma or GED, 2+ years experience in the sales and marketing, guest services, front desk, or related professional area. Or 2-year degree from an accredited university in business administration, marketing, hotel and restaurant management, or related major (no work experience required).",
-  "Educational Requirements": "High school diploma or GED, or 2-year degree from an accredited university in business administration, marketing, hotel and restaurant management, or related major.",
-  "Experience Level": "2+ years experience in the sales and marketing, guest services, front desk, or related professional area.",
-  "Preferred Qualifications": "3+ years of catering sales experience",
-  "Compensation and Benefits": "N/A"
-}

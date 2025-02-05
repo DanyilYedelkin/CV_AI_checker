@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "design develop and test high quality software features by understanding user needs and implementing well designed code follow and implement the code with standards and best practices",
-  "Required Skills": "php, wordpress, wp plugins, html, css, java script, mysql, linux, git", 
-  "Educational Requirements": "a bachelors degree in computer science, engineering, information technology or equivalent experience",
-  "Experience Level": "2 years professional software development experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

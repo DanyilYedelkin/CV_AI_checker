@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Visit sites and perform property condition assessments and environmental field assessments phase I and II. Complete PCA and ESA reports including conducting all field work, compiling the data, and preparing the reports.",
-  "Required Skills": "PCA / ESA experience (Phase I/II), 2-5 years of relevant experience, excellent report writing skills, ability to travel on short notice to various sites, all relevant and necessary certificates",
-  "Educational Requirements": "N/A",
-  "Experience Level": "2-5 years of relevant experience",
-  "Preferred Qualifications": "N/A", 
-  "Compensation and Benefits": "Above market pay, stability, nationwide company, HD vehicle, great culture, deep bench of expertise, personal service, advanced technology"
-}

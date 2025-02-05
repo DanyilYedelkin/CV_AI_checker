@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop video creative initiatives and campaigns. Play an integral role in everything from developing campaign ideas, crafting a visual language for the brand, and collaborating with cross-functional creative partners. Generate original video concepts and drive creative development and execution of branded video content including brand video series and exclusive social media content.",
-  "Required Skills": "2+ years of relevant video creative experience in marketing and/or advertising. Bachelor's degree in film, design, communication, advertising or related field. Knowledge of Adobe Creative Suite. Ability to sell concepts via comps, storyboards, and narratives. Knowledge of branded content, digital distribution, social media and associated marketing strategies.",  
-  "Educational Requirements": "Bachelor's degree in film, design, communication, advertising or related field.",
-  "Experience Level": "2+ years of relevant video creative experience in marketing and/or advertising.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Contact patients by phone to screen for eligibility for government assistance programs. Initiate applications, provide instructions, ensure deadlines are met. Obtain necessary info from patients, document details in system. Maintain positive relationships with patients. Follow up until all options exhausted or patient approved.",
-  "Required Skills": "High school diploma or equivalent. Customer service/call center experience preferred. Experience with medical coding/billing preferred. Proficient PC and typing skills. Effective communication and organization skills. Ability to multitask and work independently.", 
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous customer service/call center experience. Previous experience with medical coding or billing.",
-  "Compensation and Benefits": "N/A"
-}

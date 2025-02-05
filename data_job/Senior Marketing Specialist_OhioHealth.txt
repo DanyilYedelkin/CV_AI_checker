@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute integrated marketing plans, support marketing activities, manage projects and timelines, develop web content, collaborate with other teams, manage multiple projects and details",
-  "Required Skills": "Bachelor's degree in marketing/PR/communications, project management, detail-oriented, ability to multitask, work under pressure and meet deadlines, communication skills, leadership, presentation skills, innovative, social media experience", 
-  "Educational Requirements": "Bachelor's degree in public relations, communications, marketing or related field",
-  "Experience Level": "5+ years in marketing/communications experience preferably in healthcare",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide clerical and administrative support to the behavioral health department, including patient registration, scheduling appointments, checking patients in, collecting payments, answering phones, data entry, and assisting patients as needed. Administer transcranial magnetic stimulation (TMS) treatments according to physician protocols if certified.",
-  "Required Skills": "Excellent verbal and written communication skills, ability to multitask and organize, previous clerical experience, proficient with phones and computers.",
-  "Educational Requirements": "High school diploma or GED required. Associate's degree preferred.", 
-  "Experience Level": "2 years of front desk or medical office experience preferred.",
-  "Preferred Qualifications": "Experience working in a medical office. TMS technician certification.",
-  "Compensation and Benefits": "N/A"
-}

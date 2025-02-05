@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Direct and oversee day-to-day operations to achieve service delivery goals and objectives. Develop and implement operating processes, policies and service delivery. Coach and mentor managers and team members.",
-  "Required Skills": "Bachelor's degree in business, operations management or related field. 10+ years operations experience in a leadership role. Experience leading large teams in a multi-site environment. Knowledge of service programs and practices. Coaching, interviewing, selection and performance management skills.",  
-  "Educational Requirements": "Bachelor's degree required in business, operations management or related field. MBA preferred.",
-  "Experience Level": "Minimum 10 years of operations experience in a leadership role with 5 of those as a senior level leader (director, VP, general manager) in a call center, facility management, construction, service or large multi-site retail environment.",
-  "Preferred Qualifications": "MBA preferred. Experience facilitating organizational change and achieving operational excellence. Project management skills. Ability to manage multiple demands and priorities. Knowledge of service programs and practices.",
-  "Compensation and Benefits": "Competitive salary, paid time off, medical, dental and vision insurance."
-}

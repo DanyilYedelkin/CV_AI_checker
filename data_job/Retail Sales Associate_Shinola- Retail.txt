@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Show hospitality to team members and guests, become an expert on the Shinola brand and products, connect guests with products, build relationships through outreach to guests, learn new technologies, keep the store clean, presentable and stocked",
-  "Required Skills": "Desire to work with joy and humility, determination to build a brand, committed to delivering a consistent and quality experience, passionate about people and helping others, flexible and adaptable to change",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous retail experience",
-  "Compensation and Benefits": "Hourly compensation starting at $15/hour with potential for monthly bonus, PTO, health insurance, 401k with match, employee discounts"
-}

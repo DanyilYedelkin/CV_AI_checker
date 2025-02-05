@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform bookkeeping functions on cash and expenses, reconcile accounts, record accruals, analyze and record marketing expenses, support foreign operations, reconcile corporate cards, facilitate report development, support accounting team members on ad hoc projects",
-  "Required Skills": "Accounting knowledge and practices, Microsoft Excel skills, ability to manipulate and analyze large datasets", 
-  "Educational Requirements": "Degree in accounting, finance or related field",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "NetSuite, Bill.com, Namely and TripActions knowledge",
-  "Compensation and Benefits": "N/A"
-}

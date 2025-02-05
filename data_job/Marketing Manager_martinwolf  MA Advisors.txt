@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute marketing campaigns across multiple channels including print, digital, and video. Lead advertising and external communications. Manage website, CMS, and social media accounts. Track and analyze performance of marketing initiatives.",
-  "Required Skills": "Bachelor's degree in marketing, business, or related field. Excellent verbal and written communication skills. Experience developing marketing campaigns. Strong project management and multitasking abilities. Experience with marketing automation, CRM, design, and video editing tools.",
-  "Educational Requirements": "Bachelor's degree in marketing, business, or related field",
-  "Experience Level": "5 years of marketing experience",
-  "Preferred Qualifications": "Experience with LinkedIn, HubSpot, and inbound marketing",
-  "Compensation and Benefits": "N/A"
-}

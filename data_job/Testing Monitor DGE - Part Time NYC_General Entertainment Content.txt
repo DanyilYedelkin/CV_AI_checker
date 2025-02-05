@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Staff testing locations, check-in staff, direct people where to go for testing, create patient lists, assist with vaccine records, maintain inventory and supplies, support health and safety protocols on site.",
-  "Required Skills": "Strong communication skills, ability to adapt quickly, work in a team, problem-solving skills, customer service skills, organizational skills, flexibility with hours and occasional weekends.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "Knowledge of health and safety standards, proficiency with Microsoft Office.",
-  "Compensation and Benefits": "N/A"
-}

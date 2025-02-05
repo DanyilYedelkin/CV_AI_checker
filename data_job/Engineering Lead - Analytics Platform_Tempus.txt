@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Developing and maintaining a scalable data infrastructure to support analytics and machine learning. Leading technical analysis, design, and planning to build robust software products. Managing a software development team and driving improvements through agile processes.",
-  "Required Skills": "Experience managing software development teams, leading technical analysis and design, evaluating tradeoffs. Proficiency in technologies like AWS, Redshift, Apache Airflow, Python, Docker. Ability to serve as a technical mentor.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "Multiple years of experience managing software development teams and working in fast-paced agile environments.",
-  "Preferred Qualifications": "Experience with biotech, genomics, clinical research, and precision medicine. Experience building platforms to enable data science and machine learning workflows.",
-  "Compensation and Benefits": "N/A"
-}

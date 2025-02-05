@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provides remote general office support in the areas of fiscal, payroll and human resources. Assists with specialized projects as needed.",
-  "Required Skills": "At least 2 years of administrative and/or clerical experience. High school diploma or equivalent. Intermediate to advanced computer skills in Word, Excel, Access, PowerPoint and Outlook.",
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "At least 2 years of administrative and/or clerical experience.",
-  "Preferred Qualifications": "Some college education preferred.",
-  "Compensation and Benefits": "Pay of $20 to $25 per hour. The typical hiring range for this position is $20 to $25 per hour with an approximate annualized salary of $35,000 to $43,000 based on 0.5 FTE."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist with day-to-day operations of the buildings operations department. Provide high level support to the director.",
-  "Required Skills": "Strong organizational and supervisory skills. Ability to multitask and prioritize with good judgment. Effective communication and collaboration skills. Proficiency with Microsoft Office suite.", 
-  "Educational Requirements": "Bachelor's degree required.",
-  "Experience Level": "Minimum 4 years relevant experience required.",
-  "Preferred Qualifications": "Motivated self-starter. Ability to work well under pressure and creatively solve problems. Maintain confidentiality and professionalism.",
-  "Compensation and Benefits": "Salary commensurate with education and experience. Competitive benefits including healthcare, retirement, tuition waivers, and paid time off."
-}

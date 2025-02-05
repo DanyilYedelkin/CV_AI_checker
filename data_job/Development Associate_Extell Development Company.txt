@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive real estate development projects from beginning to end. Assist development team throughout all project phases including site acquisition, contracts, programming, design, finance, construction, and leasing/marketing. Provide overall development support to VP and SVP of development. Source new opportunities, participate in underwriting and proposal review/analysis. Prepare predevelopment and development schedules.",
-  "Required Skills": "Bachelor's degree required, advanced degree desirable. Minimum 2 years relevant experience in real estate development, investment, business management, architecture or similar field. Advanced knowledge of budgets, cost reports and other financials. Knowledge of general workflow and processes in building construction. Strong analytical, administrative, problem-solving, decision-making, verbal and written communication, and presentation skills. Effective financial skills. Ability to work independently and collaboratively in an entrepreneurial environment. High attention to detail. Proficient in MS Office, Excel, Word and Outlook.",
-  "Educational Requirements": "Bachelor's degree required, advanced degree desirable",
-  "Experience Level": "Minimum 2 years relevant experience",
-  "Preferred Qualifications": "Advanced degree desirable",
-  "Compensation and Benefits": "Competitive pay and benefits including medical, dental, vision, life and disability insurance, 401k, paid time off, paid holidays, employee assistance program."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handle incoming customer calls and inquiries, provide product/service information, address complaints, troubleshoot issues, process orders and payments.",
-  "Required Skills": "Excellent communication skills, typing skills (40+ wpm), problem-solving abilities, multitasking, high school diploma or college degree, ability to complete paid training program.",
-  "Educational Requirements": "High school diploma or college degree.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A", 
-  "Compensation and Benefits": "N/A"
-}

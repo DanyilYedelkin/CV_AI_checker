@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Implement and maintain a trusted scalable and efficient data analytics platform to drive data democratization through reporting and visualization. Work with all sales channels and key internal stakeholders to define, develop and centralize data into an omni reporting platform while enhancing the user experience.",
-  "Required Skills": "Experience with data analytics, reporting, visualization, and building analytics platforms. Proficiency in relevant data analytics software and tools.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",  
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

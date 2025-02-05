@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Receive customers in a welcoming manner, help them select products, pack purchases, process payments, alert of security issues, stock merchandise, clean and organize the store",
-  "Required Skills": "No retail experience needed, ability to lift heavy objects occasionally", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in the food sector looking to transition to retail",
-  "Compensation and Benefits": "$14 per hour, full time permanent position with fixed schedule involving weekends"
-}

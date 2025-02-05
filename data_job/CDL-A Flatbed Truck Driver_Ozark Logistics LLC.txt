@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Drive flatbed trucks to transport freight, adhering to safety procedures and transportation regulations. Load, secure and unload cargo. Conduct inspections and maintenance. Complete documentation and trip planning.",
-  "Required Skills": "1+ years of CDL A experience driving flatbeds. Tanker endorsement (or willing to obtain within 30 days). Clean driving record with 2 or fewer moving violations and 1 preventable accident in past 3 years. Minimum 25 years of age.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "1+ years of CDL A flatbed driving experience required.",
-  "Preferred Qualifications": "Applicable military experience accepted in lieu of 2 years requirement.",
-  "Compensation and Benefits": "$65,000-$75,000 average annual pay. Guaranteed pay with mileage pay on top. $1,200 sign on bonus and referral bonuses. Paid uniforms, health benefits with company-paid premiums, 401K with 4% match."
-}

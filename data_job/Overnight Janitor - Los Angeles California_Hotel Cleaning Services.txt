@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Cleaning and disinfecting surfaces and areas in hotel rooms and common spaces, including toilets, counter tops, bathtubs, showers, furniture, floors, etc. Restocking room supplies and amenities. Changing linens and towels. Waste removal and proper disposal. Maintaining cleanliness of dining utensils, kitchen equipment and storage areas.",
-  "Required Skills": "Ability to communicate in English. Ability to work as part of a team. Knowledge of proper sanitation regulations and chemical handling. Physically able to stand, walk, lift up to 25 lbs, bend, stoop, squat, kneel, reach, grasp, and have adequate hearing and vision.",
-  "Educational Requirements": "High school education or equivalent preferred.", 
-  "Experience Level": "Previous experience in the hospitality industry preferred.",
-  "Preferred Qualifications": "Ability to communicate in Spanish. Familiarity with hospitality industry.",
-  "Compensation and Benefits": "N/A"
-}

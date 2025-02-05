@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage current environmental projects from proposal through the final invoice stages. Provide work assignments to support staff in execution of fieldwork and project deliverables. Efficient completion of BUSTR tiered reporting such as Tier 1, Tier 2, and Tier 3 evaluations. Contact/meet with existing clients. Assist clients with complying with local, regional, state and federal regulations for the BUSTR program.",
-  "Required Skills": "BS in any science or engineering fields. Minimum 5 years of experience to include work related to environmental site investigation & remediation. Minimum of 1 year of supervisory experience. Experience with implementation and supervision of health and safety requirements. Efficient in Excel, Word, PDF, PowerPoint, Outlook, etc. Must possess outstanding problem solving and report writing/editing skills. Ability to manage multiple tasks and work independently. Must be able to pass intimal drug screen and five year motor vehicle background check.",  
-  "Educational Requirements": "BS in any science or engineering fields",
-  "Experience Level": "Minimum 5 years of experience",
-  "Preferred Qualifications": "PE or PG certification consider a plus. Experience with fate & transport modeling is considered a plus.",
-  "Compensation and Benefits": "N/A"
-}

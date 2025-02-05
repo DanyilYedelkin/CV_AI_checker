@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Source used dish machines for restaurant use through web search and direct contact. Learn how to market to this segment to be able to find additional sources in new geographies. Work closely with the marketing team to create product brochures and accompanying marketing materials. Complete in field training as needed to develop full understanding of industry. Meet deadlines to keep major projects on track. Other related tasks to meet state cleaning initiatives as needed.",
-  "Required Skills": "Organized with a strong attention to detail. Excellent writing and grammatical skills. Effective communication and problem-solving skills. Willing and excited to work in a collaborative team setting. Ability to prioritize projects and meet deadlines. Skilled in the use of Microsoft platforms including Excel and PowerPoint.",
-  "Educational Requirements": "Partial or completed bachelor degree in business, supply chain management, marketing management, communications, etc.", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Back of house restaurant experience or knowledge",
-  "Compensation and Benefits": "N/A"
-}

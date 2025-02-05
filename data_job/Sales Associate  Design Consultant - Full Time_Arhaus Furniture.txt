@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Maximizing sales and delivering exceptional customer service. Assisting clients with selecting, customizing, and purchasing merchandise. Providing customer service, space planning assistance, and maintaining a sales driven focus.",
-  "Required Skills": "High school diploma required, college preferred. Retail experience. Ability to work nights and weekends. Intermediate computer literacy. Self-motivated with ability to work independently. Ability to work well with others. Willingness to work extended hours.",
-  "Educational Requirements": "High school diploma required, college preferred.", 
-  "Experience Level": "Some work experience in a retail environment.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Base salary plus commission and team bonus. Exceptional advancement opportunities. Competitive earnings, bonus opportunities and employee discount. Medical, dental and life insurance benefits. Retirement program and college savings plan. Paid vacations and holidays for full-time employees."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Coach clients to achieve their career goals through remote video sessions, resume/cover letter reviews, interview prep, job search strategies, networking guidance, negotiation tactics, and more.",
-  "Required Skills": "Career coaching certifications, college degree in psychology/counseling/business, 2+ years of coaching/counseling experience, passion for coaching professionals", 
-  "Educational Requirements": "Career coaching certifications from an ICF or CCE accredited organization, college degree in psychology, counseling or business",
-  "Experience Level": "2+ years total work experience, 2+ years of coaching, counseling or relevant experience",
-  "Preferred Qualifications": "Experience in talent, HR, recruiting, hiring manager, or other relevant fields",
-  "Compensation and Benefits": "Competitive hourly rates, sign-on bonus opportunity, work from home flexibility, set your own hours"
-}

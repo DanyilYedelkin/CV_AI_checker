@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "plan, develop, organize, implement, direct and evaluate the organizations human resource function and performance",
-  "Required Skills": "N/A",
-  "Educational Requirements": "Bachelors degree or equivalent experience in human resources or management", 
-  "Experience Level": "3-5 years of professional hr experience ideally from a services oriented business with a combination of corporate and business unit line experience preferred",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

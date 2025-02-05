@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Help drive business by supporting licensing managers on tasks related to category management, facilitating information between stakeholders, maintaining communication plans. Coordinate with internal teams to share brand and marketing updates with partners. Maintain and update title strategies and licensing plans. Collaborate with partners on product launches. Assist with licensing recaps, meetings, and agreements.",
-  "Required Skills": "2+ years experience in preferably outbound licensing. Understanding of category manufacturing and sales cycles for toys/food/beverage preferred. Experience with entertainment/lifestyle brands. Self-starter, proactive, flexible. Thrives under pressure. Superb organizational and multitasking skills. Excellent communication skills.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years experience in preferably outbound licensing",
-  "Preferred Qualifications": "Understanding of category manufacturing and sales cycles for toys and/or food and beverage preferred. Experience working with reputable entertainment and/or lifestyle brands.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Daily tasks include office tasks like answering phones, handling customer requests, serving will call clients. Working in CRM/ERP system and online store backends. Strong organizational and motivational skills.",
-  "Required Skills": "Meticulous organizational skills, excellent communication skills, ability to multitask. Strong math skills. Intermediate to advanced Excel knowledge.",
-  "Educational Requirements": "Some college coursework required.",
-  "Experience Level": "At least 2 years experience in a professional office environment preferred.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

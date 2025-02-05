@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Work on various website designs and ongoing monthly improvements for 5 clients. This includes testing CTAs, remediating core pages, adding landing pages, refining pricing pages, updating user flows, redesigning blogs, etc. Guide website project timelines, scopes and costs within the Tuff process.",
-  "Required Skills": "3+ years experience as a web designer. Experience with creative production tools like Figma and Adobe Suite. Strong project management skills. Clean aesthetic and typography skills. Strategic thinker with passion for brand building and UX. Flexibility to work on multiple brands at once.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years experience as a web designer",
-  "Preferred Qualifications": "Experience working with creative production teams. Learning mindset committed to continuous improvement. Bias toward action, efficiency and adaptability. Success testing and uncovering insights.",
-  "Compensation and Benefits": "$110,000-$150,000 salary range. Comprehensive health, dental and vision coverage. 401k with matching. Unlimited PTO. Parental leave. Home office stipend. Internet reimbursement. Annual team retreats."
-}

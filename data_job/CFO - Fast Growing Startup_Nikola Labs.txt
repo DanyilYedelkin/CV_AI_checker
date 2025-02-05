@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee all finance, accounting, budgeting, reporting, FP&A, and treasury functions.",
-  "Required Skills": "8-10 years financial management experience, advanced Excel skills, startup experience preferred, leadership skills, strategic mindset, analytical and communication skills.", 
-  "Educational Requirements": "Bachelor's degree.",
-  "Experience Level": "8-10 years financial management experience.",
-  "Preferred Qualifications": "CFO experience at a high-growth SaaS startup, ability to adapt quickly, innovative and results-oriented.",
-  "Compensation and Benefits": "Competitive salary, health benefits, stock options, PTO."
-}

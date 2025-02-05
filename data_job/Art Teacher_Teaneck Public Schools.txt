@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Teach art classes to students of all grade levels. Cover topics like drawing, painting, sculpture, graphic design, digital art, art history, etc.",
-  "Required Skills": "New Jersey art teacher certification, creativity, knowledge of art concepts and techniques, ability to work with diverse groups of students",
-  "Educational Requirements": "Bachelor's degree in art, art education, or related field. Valid New Jersey teaching certificate in art.",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "Experience teaching art to students of all grade levels, especially high school. Skills in digital art and computer generated artwork.",
-  "Compensation and Benefits": "N/A"
-}

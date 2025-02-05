@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform specialized customer service activities and initiatives, support complex products/services and sophisticated clients, focus on resolving complex issues across channels, deliver excellent customer service.",
-  "Required Skills": "Customer service, problem resolution, decision making, risk management, communication, product/service knowledge.", 
-  "Educational Requirements": "Associate's degree or equivalent experience.",
-  "Experience Level": "Typically requires 2+ years experience in a similar role.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive salary and benefits including health insurance, retirement plans, paid time off, and wellness programs."
-}

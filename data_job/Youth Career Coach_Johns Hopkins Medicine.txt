@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provides career coaching, skills assessments, training referrals, and follow-up counseling to support employee development and advancement opportunities within the organization. Facilitates workshops, programming, and information exchange.",
-  "Required Skills": "Assessment administration, adult learning and motivational theory, workforce development and training program coordination, counseling and communication skills.", 
-  "Educational Requirements": "Master's degree preferred or equivalent work experience. Bachelor's degree required.",
-  "Experience Level": "2-3 years experience in field.",
-  "Preferred Qualifications": "Career coaching, workforce development counseling, or social work certification.",
-  "Compensation and Benefits": "N/A"
-}

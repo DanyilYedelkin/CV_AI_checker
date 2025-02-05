@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Troubleshooting technical issues for clients via email and screen share. Working Tier 1 cases daily with proficiency. Providing prompt client assistance via email, salesforce, and screenshares.",
-  "Required Skills": "Exceptional analytical and critical thinking skills. Proficiency troubleshooting web applications, email, VOIP. Knowledge of Salesforce. Strong communication skills.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "1+ years experience supporting customers through chat, email, screenshares preferred",
-  "Preferred Qualifications": "Certified Salesforce admin a plus. 2+ years experience in technical support role.",
-  "Compensation and Benefits": "N/A"
-}

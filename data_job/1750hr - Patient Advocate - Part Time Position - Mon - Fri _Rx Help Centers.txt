@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer incoming calls, make outgoing calls, connect clients to prescription drug assistance programs, assist with day-to-day updates, information requests, documentation updates, contact with clients and healthcare providers, follow established processes, document interactions, update clients, set up and communicate follow up interactions",
-  "Required Skills": "Exceptional customer service skills", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

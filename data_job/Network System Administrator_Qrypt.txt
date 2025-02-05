@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Grow the existing developer network to ensure it scales with the availability and flexibility needed to meet the evolving needs of the growing software, embedded and hardware teams. Develop and execute a production hybrid-Azure cloud solution to ensure required scalability, availability, reliability, usability and security. Act as the technical enabler for other team members.",
-  "Required Skills": "Bachelor's degree in computer science, computer engineering, information technology or related field. 2+ years of Azure systems admin experience designing, deploying, monitoring and maintaining geographically distributed networks. Demonstrated proficiency with API Gateway management including configuration and API services monitoring and reporting. Experience designing developer and production networks for scalability, availability, security and usability. Demonstrated proficiency with Linux-based servers, Python, Bash, and configuration management using declarative tools.",  
-  "Educational Requirements": "Bachelor's degree in computer science, computer engineering, information technology or a related field",
-  "Experience Level": "2+ years of Azure systems admin experience",
-  "Preferred Qualifications": "Microsoft Certified: Azure Network Engineer Associate, CompTIA Server+, Red Hat Certified System Administrator (RHCSA) or equivalent certifications",
-  "Compensation and Benefits": "Competitive pay and equity, medical/dental/vision plan participation, 401k matching program, free lunch and snacks, gym reimbursement"
-}

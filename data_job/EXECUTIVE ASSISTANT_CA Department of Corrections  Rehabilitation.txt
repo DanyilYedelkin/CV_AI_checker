@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include supporting the executive by managing their calendar, arranging meetings and travel, preparing reports and correspondence, managing projects, screening calls and visitors.",
-  "Required Skills": "Proficiency in Microsoft Office suite, especially Outlook, Word and Excel. Strong communication, organizational and time management skills. Discretion and confidentiality.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "3+ years of experience as an executive assistant or in a related administrative role.",
-  "Preferred Qualifications": "Experience supporting C-level executives. Knowledge of the organization's structure, operations and objectives.",
-  "Compensation and Benefits": "N/A"
-}

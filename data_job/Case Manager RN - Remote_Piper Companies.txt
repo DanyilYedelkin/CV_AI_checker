@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Act as a health coach to members with chronic illnesses; Perform assessments of high-risk patients; Partner with providers, members, pharmacy and other healthcare personnel; Appropriately monitor pain management.",
-  "Required Skills": "Active RN license in NC or multistate; RN diploma, RN associates degree or BSN; 2+ years of clinical experience in an acute medical/surgical setting.",
-  "Educational Requirements": "RN diploma, RN associates degree or BSN required",
-  "Experience Level": "2+ years of clinical experience in an acute medical/surgical setting",
-  "Preferred Qualifications": "Previous experience managing care for patients with multiple comorbidities; Previous experience coaching/educating patients; Chronic condition management experience",
-  "Compensation and Benefits": "Salary based on experience; Benefits: medical, dental, vision"
-}

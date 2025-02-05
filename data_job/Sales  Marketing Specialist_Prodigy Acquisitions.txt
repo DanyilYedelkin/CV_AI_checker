@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Utilizing strong leadership skills to build a high performance cross-functional team environment, assisting in the daily operations with client and keeping up to date with client promotions, managing customer acquisition and retention by driving sales with a high level of customer service",
-  "Required Skills": "Competitive individuals with a winning mentality, team captains ready to lead and train, candidates who are serious about a long-term career with a growing industry",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Guaranteed base pay and weekly bonuses, one-on-one mentorship, paid training bonuses and weekly leadership development meetings, travel opportunities"
-}

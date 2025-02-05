@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Craft and maintain the ACX marketing roadmap and annual budget. Manage a team to ideate and execute marketing campaigns targeting creators. Oversee creation of educational content, email communications, and event strategy. Guide social media strategy and identify brand ambassadors. Work with product to leverage user feedback.",
-  "Required Skills": "5+ years of experience in consumer marketing or using consumer marketing tactics. 2+ years leading a team. Experience working with creators. Proficiency with Microsoft Office and using data to make decisions.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "5+ years in consumer marketing or similar role",
-  "Preferred Qualifications": "Attention to detail. Team player. Tech background. Understanding of content monetization. Ability to create new processes. Positive attitude.",
-  "Compensation and Benefits": "N/A"
-}

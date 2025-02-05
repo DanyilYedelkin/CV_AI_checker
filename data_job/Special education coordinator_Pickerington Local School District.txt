@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "provide instructional services, resources and direction to those staff members who are directly responsible for evaluation and instruction of students with disabilities",
-  "Required Skills": "valid ohio teaching license, certificate education of the handicapped K or intervention specialist, valid ohio supervisory or administrative certification/licensure, minimum of five years successful classroom teaching experience as an intervention specialist, knowledge of the laws and regulations pertaining to the special education program, knowledge of a variety of instructional strategies for the education of handicapped students",
-  "Educational Requirements": "valid ohio teaching license, certificate education of the handicapped K or intervention specialist, valid ohio supervisory or administrative certification/licensure",
-  "Experience Level": "minimum of five years successful classroom teaching experience as an intervention specialist",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

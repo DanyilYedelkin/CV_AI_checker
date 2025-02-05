@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage the opportunity from sales pursuit to close. Develop relationships with key buyers and decision makers. Protect and grow the business. Act as point of contact for resolution and escalation of all key items with the client and internally.",
-  "Required Skills": "2+ years of experience selling Workday solutions or other ERP solutions within government. 2+ years of sales experience in a professional services organization.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years of experience selling Workday solutions or other ERP solutions within government. 2+ years of sales experience in a professional services organization.",
-  "Preferred Qualifications": "Proven ability to build, manage and foster a team-oriented environment. Proven ability to work creatively and analytically in a problem-solving environment. Desire to work in an information systems environment. Excellent communication (written and oral) and interpersonal skills. Excellent leadership and management skills.",
-  "Compensation and Benefits": "N/A"
-}

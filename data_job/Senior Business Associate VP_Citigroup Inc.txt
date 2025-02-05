@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Facilitate and manage business selection decisions through a centralized process; Analyze facts and drive decisions to increase success probability, maximize profitability and minimize risks; Determine which transactions need heightened review vs can be approved as flow; Communicate with teams to diligence deals; Extrapolate information from bankers about deals; Together with team, analyze information and make impartial business selection decisions; Coordinate with teams to align discussions with decisions; Follow ongoing strategic transactions for developments affecting selection; Track key indicators and statistics; Assist in training bankers on transactional conflicts and selection; Identify need for and assist with policy changes.",
-  "Required Skills": "Law degree from top-tier accredited law school and admitted to practice law with at least 3 years experience in corporate law emphasizing M&A; OR at least 5 years of investment banking experience with significant M&A exposure; Proactive and detail-oriented with strong business judgement; Excellent verbal and written communication skills; Team player who can also work independently; Working knowledge of financial services industry.",
-  "Educational Requirements": "Law degree from top-tier accredited law school and admission to practice law; OR significant investment banking experience.",
-  "Experience Level": "3+ years corporate law experience specializing in M&A; OR 5+ years investment banking experience with significant M&A exposure.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

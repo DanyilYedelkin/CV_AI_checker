@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Collaborate on projects like self-serve signup/billing and integrations pipeline. Implement customer features and integrations. Proactively fix issues.",
-  "Required Skills": "Experience with Node.js, JavaScript/TypeScript. New grads welcome if relevant internship experience.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Familiarity with React, GraphQL, Terraform, Docker, AWS, Serverless, ECS, Aurora.",
-  "Compensation and Benefits": "N/A"
-}

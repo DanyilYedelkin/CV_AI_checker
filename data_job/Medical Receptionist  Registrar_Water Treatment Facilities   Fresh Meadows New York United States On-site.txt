@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Register patients, schedule appointments, answer phones, provide customer service",
-  "Required Skills": "Typing skills, computer literacy, healthcare/hospital experience preferred, bilingual a plus", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Bilingual a plus",
-  "Compensation and Benefits": "Union position with benefits offered including dental and medical"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Operate equipment to safely and efficiently move packages, documents, heavyweight and dangerous goods. Assist with building and breaking down pallets containing heavyweight freight. Serve as a liaison between the company and ULD repair vendors.",
-  "Required Skills": "Ability to lift up to 70 lbs. Ability to maneuver packages above 70 lbs with appropriate equipment. Clerical experience including typing and general office duties preferred. Good communication and human relations skills. Experience with movement of heavyweight freight using forklifts, tugs, and other loading/unloading equipment preferred. Valid driver's license required.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

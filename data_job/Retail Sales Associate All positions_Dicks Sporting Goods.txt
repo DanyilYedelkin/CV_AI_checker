@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Day-to-day tasks include providing excellent customer service, processing transactions, merchandise presentation, promoting company programs, assisting with stocking and inventory.",
-  "Required Skills": "Strong communication skills, ability to handle cash transactions, knowledge of sporting goods equipment and apparel.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "2 years of retail, cashier or sales experience preferred but not required.",
-  "Preferred Qualifications": "Passion for sports and/or outdoor activities.",
-  "Compensation and Benefits": "N/A"
-}

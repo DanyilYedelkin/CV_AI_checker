@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for prospecting, setting appointments with business owners, educating them about payment processing solutions, closing new merchant accounts consistently, providing after-sales service, marketing additional products/services, traveling to client sites, initiating regular contact with customers, responding to sales leads quickly, overcoming objections, assessing customer needs, forecasting transaction volumes, gaining full understanding of products/services offered, assisting with developing channels, providing documentation to manager.",
-  "Required Skills": "High school diploma or equivalent, minimum of 2 years business-to-business outside sales experience, territory management experience, proven track record of success in outside sales.",
-  "Educational Requirements": "High school diploma or equivalent",  
-  "Experience Level": "Minimum of 2 years business-to-business outside sales experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Weekly commissions, monthly residuals, portfolio equity, 401k with company match, medical, dental, life and disability benefits."
-}

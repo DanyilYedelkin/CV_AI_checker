@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assessing patients to identify appropriate nursing interventions, collecting patient health history, collaborating with members of a multidisciplinary team, monitoring and addressing patient conditions, promoting patient independence and education, maintaining patient confidentiality, may be required to supervise other healthcare professionals",
-  "Required Skills": "Canadian RN license, valid CPR certification, ability to work independently and prioritize patient visits, excellent written and verbal communication skills in English, excellent documentation and time management skills, excellent customer service skills",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A", 
-  "Compensation and Benefits": "Competitive wages including shift premiums for afternoon, overnight and weekend shifts, travel and living stipend, visa sponsorship"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Engage directly with customers who contact us for a variety of topics ranging from helping them shop for their new pet to finding that perfect chew toy or even problem-solving when something doesn’t go as planned, research and problem-solve to determine appropriate solutions for customers, think proactively and set follow-ups as needed to ensure contact resolution",
-  "Required Skills": "2+ years of customer service experience, demonstrate excellent communication skills (written, verbal and listening) in a written assessment, ability to multitask (e.g. maintain several live chat conversations while navigating on the computer and taking notes) and perform well in a fast-paced environment, proficiency in using computers both for data entry as well as for rapid navigation through systems and the internet to search for information to help support our customers, ability to adapt to change with the business needs of the company, flexibility to shift schedule and work overtime as needed by the business unit, must bring proven ability to maintain confidentiality and secure sensitive information, high school diploma or equivalent, must be able to pass a background check",
-  "Educational Requirements": "High school diploma or equivalent",
-  "Experience Level": "2 years of customer service experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Starting wage is $15 an hour with opportunities to grow and develop while working remotely, medical & dental insurance, plus more"
-}

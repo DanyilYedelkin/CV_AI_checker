@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Safely operate a tractor trailer as part of an over-the-road driving team. Deliver freight on time while adhering to safety regulations and company policies.",
-  "Required Skills": "Valid Class A CDL license, minimum 1 year tractor trailer driving experience, ability to pass DOT inspections and meet DOT requirements, strong communication skills",
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum 1 year tractor trailer driving experience",
-  "Preferred Qualifications": "Hazmat endorsement, no accidents in past 3 years, clean driving record",
-  "Compensation and Benefits": "Up to $10,000 sign-on bonus, average $60,000 per year, paid vacation, medical/dental/life insurance"
-}

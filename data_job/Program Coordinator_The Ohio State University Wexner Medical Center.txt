@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Implements and monitors academic programs and policies for students with disabilities. Collaborates with faculty to develop course access. Supervises peer mentors. Advises students on course selection and accommodations. Teaches TOPS students annually.",
-  "Required Skills": "Bachelor's degree in special education, rehabilitation or social work. Experience in program planning and administration, preferably in education and transition of students with disabilities. Experience working with students with disabilities. Rehabilitation counseling and instructional design background. Strong writing and technical skills.",  
-  "Educational Requirements": "Bachelor's degree in special education, rehabilitation or social work.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Master's degree in special education or social work. Experience developing educational curriculum and materials.",
-  "Compensation and Benefits": "N/A"
-}

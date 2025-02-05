@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handling all stages of litigation from inception through trial, including supreme court and surrogates court proceedings. Estate planning, estate administration, civil litigation, real estate law, and elder law may also be required.",
-  "Required Skills": "At least 2 years of experience in estate planning, estate administration, civil litigation, real estate law, or elder law. Strong interpersonal skills and ability to adapt to a fast-paced environment and challenging caseload.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "At least 2 years of relevant legal experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

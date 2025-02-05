@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop product solutions and web services for SaaS applications, mentor and coach junior level developers, regularly participate in code reviews, demonstrate flexibility and thinking out of the box, suggest process improvements",
-  "Required Skills": "Experience with web frameworks like Express, Ruby on Rails, Django, Flask, Spring MVC, etc., proficiency in modern development languages like JavaScript, Ruby, Python, Java, Go, experience with relational databases like Oracle, ability to implement complex multitiered solutions", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Openness to developing as a full stack engineer, strong problem-solving and time management skills",
-  "Compensation and Benefits": "Competitive salary, health/vision/dental, PTO, remote work opportunity"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist in monthly accounting close procedures, maintain general ledger, prepare and enter monthly journal entries, perform bank reconciliations and cash postings, reconcile and post credit card transactions, maintain prepaid expenses, assist in monthly financial report preparation, assist with annual external review and semiannual bank field exam, complete requested materials, assist controller with regulatory reporting",
-  "Required Skills": "Undergraduate degree in accounting or finance, public accounting firm and/or corporate accounting experience, minimum of 5 years of related work experience, working knowledge of US GAAP, high level technical skills in Excel, analytical and communication skills, experience with Netsuite and QuickBooks accounting systems", 
-  "Educational Requirements": "Undergraduate degree in accounting or finance",
-  "Experience Level": "Minimum of 5 years of related work experience",
-  "Preferred Qualifications": "Staffing industry experience",
-  "Compensation and Benefits": "N/A"
-}

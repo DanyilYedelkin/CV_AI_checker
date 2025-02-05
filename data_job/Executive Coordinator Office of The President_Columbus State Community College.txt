@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Managing the president's calendar and agenda, communicating with contacts the president meets with, gathering information to prepare for the president's engagements, providing administrative support to the chief of staff, coordinating scheduling with the marketing/communications department.",
-  "Required Skills": "Proficiency in Microsoft Office applications (Word, Excel, Outlook, PowerPoint), knowledge of business English, spelling, grammar, ability to prioritize tasks and provide strong customer service, organization and attention to detail, ability to maintain confidentiality.", 
-  "Educational Requirements": "Associate's degree in a related field.",
-  "Experience Level": "5 years of progressively complex administrative and scheduling experience.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

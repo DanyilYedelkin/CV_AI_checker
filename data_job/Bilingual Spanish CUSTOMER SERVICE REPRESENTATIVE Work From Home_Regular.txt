@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer customer questions and address customer concerns through case resolution on products and services. Provide customer support as assigned, including selling products, collecting payments, processing applications, and activating services.",
-  "Required Skills": "Ability to navigate multiple systems to resolve complex customer issues. Effective communication skills. Self-sufficiency in researching and resolving issues. Basic troubleshooting skills. Adherence to schedules and availability. Fluency in English and Spanish.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Starts at $15/hr up to $19.25/hr, eligible for ATT wireless plans, internet, TV services, phone services, and accessories."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Conduct equity research on biotechnology companies, including financial modeling, company analysis, and stock market research. Support lead analyst with coverage of IPOs, vetting of private companies, and maintaining coverage of public companies.",
-  "Required Skills": "Life sciences background, financial modeling experience, passion for stock market and equity research. Bachelor's degree required.", 
-  "Educational Requirements": "Bachelor's degree",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Handling routine financial transactions, balancing cash drawer, crossselling banking products, providing excellent customer service",
-  "Required Skills": "Excellent interpersonal and communication skills",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Estimated salary to $XX per hour based on qualifications. Benefits like medical dental vision k and more."
-}

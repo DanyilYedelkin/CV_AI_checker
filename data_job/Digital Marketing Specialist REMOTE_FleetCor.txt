@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Execute digital marketing campaigns across various channels, including website, email, social media, PPC, programmatic advertising, affiliates, ABM, and paid social. Create content, promote website and social media, analyze data, and optimize campaigns.",
-  "Required Skills": "2+ years digital marketing experience, bachelor's degree in marketing/advertising/related field, marketing automation platform experience, CRM experience, social media marketing, web design/CMS knowledge, Google Analytics/Ads experience, ABM familiarity, SEO/SEM knowledge, marketing communications skills",
-  "Educational Requirements": "Bachelor's degree in marketing, advertising, or related field",  
-  "Experience Level": "2+ years",
-  "Preferred Qualifications": "Experience in financial services industry",
-  "Compensation and Benefits": "N/A"
-}

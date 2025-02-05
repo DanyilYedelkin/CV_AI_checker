@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Leads budgeting, workforce management activities, and execution of logistics functions including safety, security, inbound/outbound management, labor management, talent development, facility/equipment maintenance, and customer service. Performs evaluation and acts upon key performance indicators like safety, cost per case, inventory shrink, cases per manhour. Assesses logistics processes and implements productivity improvements and cost-savings. Manages automated picking/building system. Initiates cross-functional collaboration through regular meetings with business partners. Supports sales by observing inventory levels and coordinating with supply chain analysts. Maintains facility security, appearance and functions.",
-  "Required Skills": "Strong leadership, problem-solving, financial acumen, cross-functional collaborative agility. Ability to build culture, manage safety, handle complex situations, think proactively, hire/train/develop talent. Experience managing complex, fast-paced, high-pressure environments.",  
-  "Educational Requirements": "High school diploma or GED.",
-  "Experience Level": "3-5 years of relevant work experience.",
-  "Preferred Qualifications": "Bachelor's degree in business, supply chain, engineering. Certified forklift operator license.",
-  "Compensation and Benefits": "Competitive pay, paid training, paid time off, 401k with matching, employee stock purchase plan, group health insurance, life insurance."
-}

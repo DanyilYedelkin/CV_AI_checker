@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Installation, maintenance and troubleshooting of virtual and physical servers. Provide desktop support to end users on premise or remotely. Install and evaluate third party software tools and operating systems. Install system enhancements and assist in hardware/software analysis. Work with developers, testers, network engineers to improve efficiency. Maintain technical/process documentation.",
-  "Required Skills": "Bachelor's degree in related field. 5 years experience with Microsoft Windows and VMware. Strong TCP/IP and shell scripting skills preferred. Problem solving and performance tuning skills. Ability to work in a team and independently.",  
-  "Educational Requirements": "Bachelor's degree in related field",
-  "Experience Level": "5 years experience",
-  "Preferred Qualifications": "TCP/IP and shell scripting skills preferred",
-  "Compensation and Benefits": "Hourly wage range listed. Comprehensive salary analysis considers multiple factors. Benefits include medical, dental, vision, flexible spending account, 401k, life insurance, disability insurance, employee assistance program, paid time off."
-}

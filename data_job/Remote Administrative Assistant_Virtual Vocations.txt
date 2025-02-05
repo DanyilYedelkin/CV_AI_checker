@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "scheduling meetings interviews and events, planning and assisting with facilitating companywide events training etc, researching for culture development employee satisfaction etc",
-  "Required Skills": "high school diploma or equivalent, previous administrative experience, history of being deadlinedriven proactive extremely organized and detailoriented, basic knowledge of google docs sheets etc",
-  "Educational Requirements": "high school diploma or equivalent",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide patient care utilizing the nursing process within the standards, policies, procedures and guidelines of Mount Carmel Health System. Assess and evaluate patient care for an assigned group of patients. Assist provider with patient assessments, examinations and treatments. Perform basic medical procedures under provider supervision. Administer medications under provider direction. Thoroughly educate and explain procedures to patients and families. Document pertinent information accurately and completely.",
-  "Required Skills": "Current RN license in Ohio. BLS/CPR certification. Ability to plan, organize and manage patient care including delegation and supervision. Basic computer skills. Prior EMR experience preferred.", 
-  "Educational Requirements": "Graduate of an accredited nursing program.",
-  "Experience Level": "Experience for both new graduates and experienced nurses welcomed.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Competitive compensation and day one benefits including medical, dental, vision, retirement account with employer match, paid time off, tuition reimbursement, employee recognition incentives, discounted tuition."
-}

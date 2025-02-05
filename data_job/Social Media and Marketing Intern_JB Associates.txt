@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage social media accounts and create engaging content.",
-  "Required Skills": "Basic computer knowledge. Above average social media skills.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

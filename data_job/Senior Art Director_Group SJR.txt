@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead and actively participate in creative ideation, pitch breakthrough ideas and oversee the translation of concepts into storyboards while considering all visual elements. Design multimedia, photography, animation, etc. Provide visual direction and share design best practices throughout the work cycle. Ensure client's brand and style guidelines are adhered to.",
-  "Required Skills": "Expert knowledge of Adobe Creative Suite (Photoshop, Indesign, Illustrator), presentation design (Keynote, PowerPoint), and Figma. Proven creative and strategic thinking skills. Excellent portfolio showcasing high-end presentation design skills and clear design aesthetic.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum 8 years of experience in creative content concepting, social media experience development and design, advertising or marketing background a plus.",
-  "Preferred Qualifications": "Basic animation skills preferred.",
-  "Compensation and Benefits": "N/A"
-}

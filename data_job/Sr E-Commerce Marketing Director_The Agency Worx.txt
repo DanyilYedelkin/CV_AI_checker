@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead the ecommerce team and oversee all test & learn strategies within North America to drive growth and transformation. Oversee aspects of the digital business including media, content, copy, analytics, testing, and driving traffic and sales. Partner with sales team and other business units. Lead monthly/quarterly business reviews on KPIs.",
-  "Required Skills": "Deep understanding of ecommerce and online retail business. Ability to lead teams in a digital capacity or agile sprint teams. Strong analytical skills for data interpretation and action planning. Ability to lead cross-functional teams.",
-  "Educational Requirements": "Bachelor's degree in business or related field, MBA preferred",
-  "Experience Level": "5+ years experience leading teams in a digital capacity", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

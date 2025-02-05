@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Designing and developing print, digital and multimedia advertisements and marketing materials for the company's publications and websites.",
-  "Required Skills": "Proficiency in design software like Adobe Creative Suite. Knowledge of marketing and advertising principles. Communication and collaboration skills.",
-  "Educational Requirements": "Enrolled in or recently completed a degree program in graphic design, visual communications, design/technology, art or marketing.",
-  "Experience Level": "College junior, senior or recent graduate. No full-time professional experience required.",
-  "Preferred Qualifications": "Portfolio demonstrating creativity and design skills. Experience with digital design. Knowledge of the publishing industry.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Managing CEO's schedule, coordinating meetings/events, managing CEO's email, creating research reports, preparing documents, project managing meetings, creating/updating SOPs, coordinating travel, reviewing expenses",
-  "Required Skills": "3+ years executive assistant experience, Bachelor's degree preferred, knowledge of project management, event management, building agendas, Microsoft Office suite, web research skills",  
-  "Educational Requirements": "Bachelor's degree preferred",
-  "Experience Level": "3+ years in executive assistant role preferred",
-  "Preferred Qualifications": "Knowledge in building processes/systems, managing reporting systems, building travel itineraries",
-  "Compensation and Benefits": "N/A"
-}

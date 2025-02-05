@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Answer customer questions regarding their coverage, develop and maintain knowledge base of products and services, regularly review agreements to develop more cost-effective plans",
-  "Required Skills": "Previous experience in customer service, sales, or related fields, ability to build rapport with clients, prioritize and multitask, professional and positive demeanor, excellent communication skills",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Entrepreneurial mindset, team player, works well under pressure",
-  "Compensation and Benefits": "Weekly pay, bonuses, residual income, company-paid trips, remote work"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide exceptional customer service to channel partners. Act as a liaison between vendors and channel partners. Maintain a high level of professionalism and strong communication skills. Accurately enter and maintain channel partner orders in business systems. Coordinate order delivery with factory. Answer channel partner requests and assist other departments.",
-  "Required Skills": "Attention to detail. Ability to quickly identify issues and appropriate actions. Strong analytical and research skills. Ability to prioritize tasks and resolve issues. Strong verbal and written communication skills. Proficiency with Microsoft Office products. Experience with Dynamics and/or JD Edwards systems a plus.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

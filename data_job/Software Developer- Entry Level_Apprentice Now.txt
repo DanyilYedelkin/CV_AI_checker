@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop software and solutions for clients using appropriate software technologies. Build, test, and maintain interfaces, code, and applications. Participate in troubleshooting and requirements analysis. Design and configure integrations between systems.",
-  "Required Skills": "Basic software development and testing skills. Ability to build applications and interfaces based on requirements. Knowledge of software QA processes. Communication skills to work with teams and clients.",
-  "Educational Requirements": "High school diploma or GED required. No need for higher education or college degree.", 
-  "Experience Level": "Entry-level opportunity suitable for those without prior professional experience.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Full-time salaried role with benefits including medical, dental, vision."
-}

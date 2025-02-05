@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Engage key constituents at clients to articulate GLG's brand and value proposition; Map client organizations to identify potential new buyers/users of GLG's services; Prospect new GLG users; Design and execute on account growth objectives and renewal strategies; Push out new product/service/pricing initiatives to clients and collect feedback",
-  "Required Skills": "Bachelor's degree; Experience selling information services, solutions or account management; Ability to build strong relationships with key decision makers; Proven experience growing accounts; Self-motivated with ability to work independently; Strong verbal communication skills; Ability to articulate GLG's value proposition; Ability to read and understand people",
-  "Educational Requirements": "Bachelor's degree required", 
-  "Experience Level": "Proven experience in either selling information services, solutions or account management experience",
-  "Preferred Qualifications": "Experience selling to professional services or similar industry",
-  "Compensation and Benefits": "N/A"
-}

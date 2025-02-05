@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide quality nursing care to a variety of patients whose age may range from 18 years to over 100 years. Provide complete personal hygiene care needs. Turn and position patients to maintain proper body alignment. Lift, ambulate and transfer patients. Promote the physical independence of the patient by encouraging and teaching individual patients and groups of patients in self-care activities. Prepare patients for meals, feed and assist those requiring assistance. Take and record vital signs, weights, neurological checks and circulatory checks.",
-  "Required Skills": "Ability to provide a range of patient/resident care and contribute to the completion of the nurse care plan and recovery of patients/residents. Ability to observe patients’/residents’ physical or emotional status and refer deviations and/or problems to supervisor in a timely manner. Ability to properly use equipment, materials and supplies in simple diagnostic and treatment procedures.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "Must possess at least one year experience in mental health inpatient or outpatient.",
-  "Preferred Qualifications": "Preferred experience must possess at least two year experience in mental health inpatient or outpatient.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,0 +1,8 @@
+{
+    "Core Responsibilities": "Implemented system upgrades, managed security policies, and provided IT support for enterprise systems.",
+    "Required Skills": "Proficiency in Windows systems, endpoint management, and networking protocols.",
+    "Educational Requirements": "Bachelor's degree in IT or equivalent experience.",
+    "Experience Level": "5+ years in IT roles.",
+    "Preferred Qualifications": "AWS certification.",
+    "Compensation and Benefits": ""
+}

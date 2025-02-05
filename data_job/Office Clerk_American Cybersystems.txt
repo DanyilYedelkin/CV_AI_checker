@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "prepares work to be accomplished by gathering and sorting department documents and information, determines priority format and other requirements by reviewing instructions or references, verifies information by comparing information to original source recalculating totals, completes documents by enteringtyping data from source materials or recordings, revises documents by enteringretyping edited data, verifies documents by proofreading and rechecking requirements, reproduces documents by operating a copy machine",
-  "Required Skills": "high school diploma, at least 1 year experience in office or administrative roles, ms office knowledge, data entry skills, attention to detail",
-  "Educational Requirements": "high school diploma", 
-  "Experience Level": "at least 1 year",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "salary $15 per hour, location jacksonville fl, duration temporary"
-}

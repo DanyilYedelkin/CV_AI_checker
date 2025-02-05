@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform various accounting duties to support the bank's accounting, financial reporting and control functions. Prepare monthly financial statements, reports and records. Maintain the bank's accounting systems for accounts payable, fixed assets, prepaid expenses and accrued expenses. Reconcile general ledger accounts and bank statements. Research and resolve discrepancies in financial records. Assist with regulatory reporting, audits and examinations.",
-  "Required Skills": "5+ years experience in banking or finance. Bachelor's degree in accounting, finance or related field. Knowledge of GAAP and financial reporting. Proficiency in accounting, MS Office, communication and organizational skills.",
-  "Educational Requirements": "Bachelor's degree in accounting, finance, business or related field.",
-  "Experience Level": "Minimum 5 years experience in banking or finance.",
-  "Preferred Qualifications": "Specialized bank/finance/accounting education or training.", 
-  "Compensation and Benefits": "Medical, dental and vision insurance. Life insurance. Disability insurance. Paid holidays and PTO. 401K matching. HSA contribution. Employee discount program."
-}

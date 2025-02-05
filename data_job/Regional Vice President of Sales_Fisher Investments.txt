@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Present Fisher Investments' wealth management solutions to high-net-worth prospects; meet with prospects to evaluate their situation and provide solutions; educate prospective clients on Fisher Investments' services; help qualified consumers become Fisher Investments clients.",
-  "Required Skills": "2+ years specifically selling to stock market investors; current investment adviser representative designation or FINRA Series 7, 66, or a combination of FINRA Series 6, 63, or qualifying financial professional designations; experience bringing in new investor business; experience in high-volume phone activity and in-person meetings; record of six-figure earnings in each of the past 2 years; pay for production compensation model.",  
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years specifically selling to stock market investors",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Lucrative sales role; paid medical, dental, and vision premiums for you and dependents; 401k match up to IRS maximum; 10 paid holidays; 6 weeks paid primary caregiver parental leave; backup childcare program; cumulative learning and development framework; award-winning work environment."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Lead engineering initiatives, architect systems, implement front-end and back-end solutions, collaborate with cross-functional teams, manage projects.",
-  "Required Skills": "Proficiency in modern programming languages like JavaScript/TypeScript, Python, Java, etc.; experience with web technologies like React, Node.js, AWS, etc.; software design and architecture skills; communication and collaboration abilities.",  
-  "Educational Requirements": "Bachelor's degree in Computer Science, Engineering or related field.",
-  "Experience Level": "5+ years of software engineering experience.",
-  "Preferred Qualifications": "Experience leading teams and mentoring junior developers; expertise in ecommerce, Shopify and/or SaaS platforms.",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform regular financial analysis, accounting, budgeting and forecasting. Prepare timely and accurate financial statements and monthly closes. Enhance and implement financial and accounting systems, processes, tools and controls.",
-  "Required Skills": "5+ years of experience in public accounting. 3+ years of experience in accounting and finance in a startup or highly entrepreneurial environment. Experience with financial statement preparation, budgeting, forecasting and internal control implementation.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "5+ years in public accounting. 3+ years in a startup or entrepreneurial environment.",
-  "Preferred Qualifications": "Experience partnering with executives to drive strategic financial decisions. Best-in-class analytical skills. Strong business and financial acumen. Flexible and adaptable style.",
-  "Compensation and Benefits": "Competitive salary and bonus. Equity incentives. Platinum health insurance. 401k with company match. Additional insurance and educational stipends. Flexible work policies."
-}

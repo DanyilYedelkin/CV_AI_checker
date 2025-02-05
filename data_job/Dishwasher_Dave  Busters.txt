@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Cleaning, sanitizing and storing dishes, flatware, utensils and kitchenware. Assisting other kitchen staff. Maintaining cleanliness of kitchen area. Taking corrective actions when needed.",
-  "Required Skills": "Ability to use kitchen chemicals properly. Ability to operate kitchen equipment safely. Ability to sort and handle dishware carefully. Ability to adhere to safety and sanitation policies and procedures.",
-  "Educational Requirements": "N/A",  
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Previous maintenance experience at a hotel or restaurant.",
-  "Compensation and Benefits": "N/A"
-}

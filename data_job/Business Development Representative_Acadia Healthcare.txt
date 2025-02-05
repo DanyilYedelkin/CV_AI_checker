@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and retain referrals from physicians and other key nonphysician referral sources. Collaborate with hospital discharge planners, social workers, case managers, physicians and management to generate referrals. Manage leads and ensure efficient admissions process. Increase referral sources within facilities. Coordinate admissions based on services provided. Educate patients, families, community on programs and services.",
-  "Required Skills": "High school diploma or equivalent required. 2+ years experience in sales and/or marketing. Valid driver's license, auto insurance, and access to a car.",
-  "Educational Requirements": "High school diploma or equivalent required. Bachelor's degree in marketing or related field preferred.", 
-  "Experience Level": "2 or more years experience in sales and/or marketing required.",
-  "Preferred Qualifications": "Bachelor's degree in marketing or related health or social services field.",
-  "Compensation and Benefits": "Competitive hourly rates, medical/dental/vision insurance, 401k plan, training programs, professional growth opportunities."
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Take a lead role in the software engineering team to build a solid, scalable, quality platform that will meet the business needs. Deliver highly maintainable, scalable, quality code that fulfills business requirements and provides a basis on which to grow the entire software platform. Work closely with the product group to analyze and understand business and functional requirements, collaborate with them to design appropriate solutions and drive the development process to a successful conclusion.",
-  "Required Skills": "3+ years of demonstrated hands-on experience in software development. Extensive experience with high throughput transactional processing systems that operate at an enterprise scale. Excellent code reviewing skills with a high standard for code quality and a low tolerance for technical debt. Thorough knowledge and experience with .NET, C#, Docker, containerized deployments, WebAPI, Entity Framework. Significant experience with frontend technologies such as React, Vue.js, Bootstrap, HTML, JavaScript, TypeScript, CSS. Expertise with both relational and non-relational database technologies such as SQL, PostgreSQL, AWS Aurora, MongoDB, AWS DocumentDB.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "3+ years",
-  "Preferred Qualifications": "Prior experience in the payments space. Strong engineering background in fields such as computer science, mathematics, software engineering. Experience with other software platforms such as Python, Django, Node.",
-  "Compensation and Benefits": "Competitive salary, equity, medical, dental and vision benefits, and unlimited PTO after 90 days."
-}

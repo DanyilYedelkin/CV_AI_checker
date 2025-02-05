@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Communicate with customers via phone, email and chat. Provide knowledgeable information regarding travel destinations, culture, weather. Work with variety of vendors/suppliers to meet clients' needs. Update clients' records as necessary.",
-  "Required Skills": "N/A", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

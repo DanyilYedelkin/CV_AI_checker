@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee preconstruction, construction and postconstruction processes for real estate development projects; conduct site walkthroughs; review drawings, bids, work scopes; create and manage project schedules; coordinate owner selections within budget; manage change orders; conduct QA/QC observation; participate in value engineering",
-  "Required Skills": "Project management, estimating, and site supervision experience for historic, institutional, and healthcare projects; real estate development experience; construction field supervision experience; excellence in project communication and stakeholder collaboration; excellence in budget/schedule management; ability to provide design and layout input for efficient historic property renovation; proficiency in reading drawings; proficiency in MS Office, Bluebeam, AutoCAD or similar",  
-  "Educational Requirements": "Bachelor's or Master's degree in construction management, engineering or related field",
-  "Experience Level": "5+ years",
-  "Preferred Qualifications": "Mechanical, electrical, plumbing, and technology systems knowledge; ability to translate drawings into field implementation; proficiency in value engineering",
-  "Compensation and Benefits": "Salary range $XX,XXX; health insurance; dental insurance; PTO; site amenities"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide prescribed medical treatment and personal care services to ill and injured veterans. Uphold the standards of care as outlined by the medical center and the service policies and procedures. Provide quality nursing care to a variety of patients whose age may range from 18 years to 100 years. Provides complete personal hygiene care needs, turn and position patients to maintain proper body alignment, lift ambulates and transfer patients, promote the physical independence of the patient by encouraging and teaching individual patients and groups of patients in self-care activities such as progressive steps in personal hygiene, bathing and oral care. Also assists in teaching and encouraging other care activities such as eating, dressing, undressing and bladder and other training as needed.",
-  "Required Skills": "Must possess at least two (2) year experience in mental health inpatient or outpatient. Ability to provide a range of patient/resident care and contribute to the completion of the nurse care plan and recovery of patients/residents. Ability to observe patients/residents' physical or emotional status and refer deviations and/or problems to supervisor in a timely manner. Ability to properly use equipment, materials and supplies in simple diagnostic and treatment procedures.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "At least 2 years of experience in mental health inpatient or outpatient setting.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Responsible for Veeva.com and associated web properties from end-to-end. Work in collaboration with the creative, content and demand generation to create site experience around our customer journeys. Help plan digital aspects of integrated marketing campaigns with the marketing team.",
-  "Required Skills": "5+ years of experience leading digital initiatives including digital strategy, content strategy, SEO, SEM and UX. Primary .com in-house or SaaS experience strongly preferred, agency experience a plus. Expertise in Google Analytics and knowledge of marketing automation for setting up marketing flows and analytics processes.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "5+ years of experience leading digital initiatives including digital strategy, content strategy, SEO, SEM and UX",
-  "Preferred Qualifications": "Primary .com in-house or SaaS experience strongly preferred, agency experience a plus. Passion for learning and teaching digital trends and best practices.",
-  "Compensation and Benefits": "Flexible PTO. Allocations for continuous learning & development. Discounted gym membership."
-}

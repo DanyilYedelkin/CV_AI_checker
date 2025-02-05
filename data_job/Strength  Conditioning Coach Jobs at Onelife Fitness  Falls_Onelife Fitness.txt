@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide personalized attention and professional fitness instruction to members. Build training business through referrals and improve members' lives. Monitor, coach and instruct members in safe and effective exercise tactics.",
-  "Required Skills": "Excellent verbal and nonverbal communication skills. Ability to motivate and nurture others. Strong work ethic including punctuality, organization and attention to detail. Ability to maintain professional, friendly and positive attitude. Confidence and desire to create new relationships quickly. Ability to quickly acquire and apply new knowledge and skills. Ability to conduct assessments and create appropriate fitness programs for members.",
-  "Educational Requirements": "Nationally recognized personal training certification from a US Fitness accepted provider. CPR/AED required. Current continuing education credentials required.",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A", 
-  "Compensation and Benefits": "Discounts on services and apparel. Employee referral gift. In-house continuing education credits and CEC reimbursement. Additional full time benefits include medical, dental, vision, supplemental benefits, group life insurance, 401k retirement plan, paid time off."
-}

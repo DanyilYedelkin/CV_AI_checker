@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform administrative duties for the general manager like scheduling meetings and appointments, planning events, making travel arrangements, producing correspondence and presentations, processing bills and vouchers, coordinating office needs.",
-  "Required Skills": "Proficiency with office software and administrative procedures. Knowledge of budgets, payroll, personnel. Excellent organization, prioritization, communication and interpersonal skills.",  
-  "Educational Requirements": "High school diploma or equivalent.",
-  "Experience Level": "Typically 2 years of relevant experience in the area of responsibility.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Salary range between $35-55k. Benefits include health insurance, tuition reimbursement, paid time off, employee discounts."  
-}

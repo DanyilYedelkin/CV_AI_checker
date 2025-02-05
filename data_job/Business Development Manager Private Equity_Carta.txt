@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Represent Carta in market and oversee the company’s efforts to grow its network, deepen existing relationships and develop additional business opportunities in the private equity/buyout space.",
-  "Required Skills": "Significant knowledge of the private equity/buyout industry; Relevant network of contacts within the community specifically encompassing private equity firms, law firms and consulting firms; Strong communication, presentation and networking skills with experience leading meetings with key leaders and decision makers; Deep understanding of SaaS business models; 5+ years of relevant business development / partnerships or other industry experience",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "5+ years of relevant business development / partnerships or other industry experience",
-  "Preferred Qualifications": "Prior experience managing relationships with high-profile ecosystem partners including private equity firms, law firms, consultants or other technology companies; Prior experience in buyout deal cycles from both buy/sell side and legal process; Understanding of equity management, liquidity, fund administration or valuation services",
-  "Compensation and Benefits": "N/A"
-}

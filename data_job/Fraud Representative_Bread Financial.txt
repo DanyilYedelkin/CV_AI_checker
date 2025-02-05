@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Receive incoming investigative and verification phone calls from customers and business partners to minimize fraud loss and risk exposure; review and verify customer behavioral activity and identify potentially fraudulent activities; provide courteous and professional service to customers even in potentially escalating situations; escalate any fraud issues to the appropriate investigative unit for proper resolution; demonstrate outstanding verbal and written communication skills when working with internal and external partners",
-  "Required Skills": "Ability to utilize multiple programs simultaneously such as Experian, KIQ, FDWC and Accurint to perform job functions; demonstrate attention to detail and accuracy by analyzing data and drawing conclusions based upon the data; establish and meet critical deadlines while prioritizing multiple activities and complex projects simultaneously", 
-  "Educational Requirements": "High school diploma or GED or equivalent education",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

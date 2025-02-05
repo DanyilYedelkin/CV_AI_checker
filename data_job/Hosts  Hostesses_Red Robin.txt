@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Greet guests, seat guests, handle reservations.",
-  "Required Skills": "Friendly demeanor, great customer service skills",
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A", 
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "K retirement plan if qualified, discount on Red Robin food, discounts on various products and services."
-}

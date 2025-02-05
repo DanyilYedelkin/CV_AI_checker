@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Serve as a point of contact for outsourcing partners by answering questions and completing escalated tasks. Communicate with internal and external partners to resolve issues. Provide frontline customer service via phone, email, chat, SMS, social media, letters, etc. Meet quality and productivity goals.",
-  "Required Skills": "Accountability, customer focus, teamwork, communication skills, conflict resolution, multitasking, basic computer skills.",
-  "Educational Requirements": "High school diploma or GED required. Associate's degree preferred.", 
-  "Experience Level": "2+ years of customer service experience required. 2+ years of call center experience preferred.",
-  "Preferred Qualifications": "Experience with Microsoft applications, ecommerce platforms, SAP, IBM Sterling, Gladly.",
-  "Compensation and Benefits": "N/A"
-}

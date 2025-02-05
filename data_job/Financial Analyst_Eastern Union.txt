@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Assist in building financial models and analytic content, prepare financial projections based on client input and market research, prepare and present offering memorandum, liaise between clients and banks, assist with transaction due diligence gathering tracking and processing, liaise with fund managers and network with industry professionals within healthcare, help with miscellaneous additional assignments to facilitate the effectiveness of the overall team",
-  "Required Skills": "Bachelor's degree in finance or accounting, excellent Excel skills and proficiency in Microsoft Office applications",
-  "Educational Requirements": "Bachelor's degree in finance or accounting",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

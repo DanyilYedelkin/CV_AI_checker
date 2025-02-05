@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Oversee the construction and timely turnover of new locations. Review, manage and approve invoices. Monitor schedule and accelerate as needed. Manage transition from construction to operations. Provide feedback on vendor performance. Work on project closeout and warranty response.",
-  "Required Skills": "2+ years of construction project management experience. 1+ years of supervisory experience. Bachelor's degree in construction project management, engineering or related field.", 
-  "Educational Requirements": "Bachelor's degree in construction project management, engineering or related field.",
-  "Experience Level": "2+ years of construction project management experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Medical, dental and vision insurance. Transit discount program. 401k plan with company match. Paid time off program. Flexible spending accounts. Employee dining program. Referral bonus. Online training program. Career development. Corporate fitness discount programs. Choice of global cash card or direct deposit."
-}

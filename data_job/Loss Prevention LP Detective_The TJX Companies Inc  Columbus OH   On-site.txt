@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Executes the daily tasks required for store loss prevention and safety programs. Maintains strong partnerships with store management. Conducts apprehensions within established policies and guidelines. Communicates with store associates on damage and shrink initiatives. Identifies and resolves internal and external theft.",
-  "Required Skills": "Excellent communication skills and sound judgment. Basic computer skills. Basic time management skills. Investigative / analytical skills. Ability to respond appropriately to changes in direction or unexpected situation. Team player working effectively with peers and supervisors to accomplish tasks. Able to work a flexible schedule to support business.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "2+ years retail or security experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

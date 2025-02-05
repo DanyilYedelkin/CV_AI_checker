@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform advanced accounting duties involving ar, ap, expense management, fixed assets, internal controls, preparing and posting accruals, assistance in sales & income tax, monthly close and analytical reporting. Oversee a team of accounting associates.",
-  "Required Skills": "Bachelor's degree in accounting or finance. Minimum of 2 years of general accounting experience. Understanding of accounting principles. Strong analytical skills, written and verbal communication skills. Proficiency in MS Word and Excel.",
-  "Educational Requirements": "Bachelor's degree in accounting or finance from an accredited university.", 
-  "Experience Level": "Minimum of 2 years of general accounting experience.",
-  "Preferred Qualifications": "Public accounting experience. Experience in the utilities industry and/or in a distribution environment. Large MRP system experience. Experience managing a team of professionals.",
-  "Compensation and Benefits": "N/A"
-}

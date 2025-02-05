@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Perform nursing care duties under the direction of an RN, including: personal hygiene assistance (bathing, oral care, etc), turning and positioning patients, lifting/transferring patients, taking vital signs, feeding patients, assisting with bladder training, providing emotional support, observing and reporting on patient status",
-  "Required Skills": "Knowledge and experience providing nursing care in an inpatient setting, communication skills, ability to lift/move patients",
-  "Educational Requirements": "N/A",
-  "Experience Level": "Minimum 2 years nursing experience preferred",
-  "Preferred Qualifications": "Experience in mental health or psychiatric care",
-  "Compensation and Benefits": "N/A"
-}

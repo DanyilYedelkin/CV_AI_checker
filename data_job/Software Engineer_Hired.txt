@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and maintain client-side and server-side applications. Work with other developers and teams to ensure applications have the right features and functionality. Write tests to ensure software remains functional.",
-  "Required Skills": "Proficiency in HTML, CSS, JavaScript, ASP.NET, SQL. Experience with front-end and back-end programming languages like JavaScript, Ruby, Java, Go, Swift. Database skills including NoSQL and Node.js. Understanding of HTTP protocols, SSL, web architecture. Experience with Git version control.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Strong communication skills. Ability to work in teams. Business mindset and desire to continuously improve.",
-  "Compensation and Benefits": "N/A"
-}

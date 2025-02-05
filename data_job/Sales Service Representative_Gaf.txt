@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Facilitate the sale and flow of GAF products through big box home improvement retail accounts; Educate and promote growth of roofing category emphasis on commercial products; Ability to train individuals or small groups with emphasis on general product knowledge, application techniques and best practices; Develop and maintain close working relationships with the retail sales, service manager, GAF territory sales managers, big box home improvement retail management/pro desk/merchandising teams and store associates; Implement GAF product set integrity in stores, provide feedback on market conditions, insure proper inventory levels, maintenance of retail product categories and provide training to retail associates",
-  "Required Skills": "Intermediate proficiency using Microsoft Office suite; Intermediate understanding of commercial roofing and/or coatings products; Strong knowledge of industries process and systems; Intermediate to advanced communication skills with strong customer focus; Intermediate to advanced analytical skills; Strong organizational and presentation skills; Ability to multitask; Ability to build working relationships; Intermediate time management skills; Advanced level negotiation skills; Presentation skills in a small group setting",
-  "Educational Requirements": "BA/BS degree",
-  "Experience Level": "2 to 5 years experience in a sales, branch manager or customer service focused role, building materials industry a plus",
-  "Preferred Qualifications": "Combination of retail sales & customer service along with an interest in becoming a Territory Sales Manager desired; Highly motivated and have a strong desire for advancement in a roofing sales capacity",
-  "Compensation and Benefits": "N/A"
-}

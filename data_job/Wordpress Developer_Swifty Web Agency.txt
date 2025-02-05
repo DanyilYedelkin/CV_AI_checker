@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Build complete websites based on client needs, provide daily updates to project manager, communicate with clients for revisions",
-  "Required Skills": "Expert with WordPress, good designing and communication skills, 1+ years experience in similar roles, proficiency in HTML, CSS and JavaScript", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "1+ years",
-  "Preferred Qualifications": "Experience with popular page builders like Elementor, WP Bakery, Oxygen Builder, Divi theme. Knowledge of Woocommerce, website speed optimization, Chrome Inspector",
-  "Compensation and Benefits": "Salary range 30,000 to 50,000 INR"
-}

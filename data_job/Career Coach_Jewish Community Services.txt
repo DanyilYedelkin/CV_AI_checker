@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Evaluate client skills, interests and goals to assist them in developing a career plan; Assist job seekers in career exploration; Teach job readiness skills to individual job seekers and in a group setting; Assist in developing job leads and matching employment opportunities to appropriate clients",
-  "Required Skills": "Knowledge of current trends in career coaching, resume and job search strategies; Excellent communication skills and the ability to work as part of a team; Comfortable with databases and proficient with MS Office; Familiarity with and sensitivity to Jewish traditions, culture and values a plus; Communicate clearly, effectively and positively; Strong writing skills; Strong computer skills; Facilitation skills; Knowledge of current industry job and global employment trends",
-  "Educational Requirements": "Bachelor's degree required and Master's degree preferred",
-  "Experience Level": "Minimum 2 years career coaching/recruiting experience",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Comprehensive benefit plan & 401k match; Generous paid time off & holidays; Free JCC gym membership (taxes apply); Professional development opportunities; Legal Shield; Pet insurance; MD & College Savings Plans; Early out on Fridays"
-}

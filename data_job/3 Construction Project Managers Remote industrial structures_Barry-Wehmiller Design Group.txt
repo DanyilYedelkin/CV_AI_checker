@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Manage entire contractor bidding process, assemble bid packages, conduct job walks, evaluate bids, coordinate contractor mobilization, ensure materials & methods conform to standards, oversee safe, quality, timely and cost effective project execution through planning, coordination and control.",
-  "Required Skills": "Construction management experience, proficiency with MS Office, Project management software like Procore or Bluebeam, Ability to read P&IDs.", 
-  "Educational Requirements": "BS degree in engineering, construction management or related field. Equivalent years of experience can substitute for degree.",
-  "Experience Level": "Minimum 5 years as a construction manager, ideally in industrial structures. Total 10+ years in various construction roles.",
-  "Preferred Qualifications": "Experience in food, beverage, consumer products, pharmaceutical or related industries. Manufacturing site experience.",
-  "Compensation and Benefits": "N/A"
-}

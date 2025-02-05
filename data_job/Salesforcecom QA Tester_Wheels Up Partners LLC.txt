@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "review the functional requirement specification, hands on the whole life of the software testing, experience in regression testing functional testing and uat, prepare project plan test strategies and testing schedules, provide end to end delivery of large applications, analyze business requirements coordinate with business analysts and testing team to ensure expectations are met and match with testable requirements, perform testing activities and review deliverables",
-  "Required Skills": "2 years software testing experience, 2 years experience with participating in the testing efforts for salesforce implementation, experience with a testing tool (ALM, TFS or equivalent), experience with creation of test plans test cases and test strategies, clear and concise written communication, experience with agile/scrum",
-  "Educational Requirements": "N/A",
-  "Experience Level": "2 years software testing experience",  
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "N/A"
-}

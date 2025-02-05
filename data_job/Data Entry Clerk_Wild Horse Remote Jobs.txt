@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Data entry and administrative tasks, work independently from home, strong communication skills, flexible and professional demeanor",
-  "Required Skills": "Computer with internet access, quiet workspace, ability to work independently without supervision", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience in healthcare, warehouse, delivery, customer service helpful but not required",
-  "Compensation and Benefits": "N/A"
-}

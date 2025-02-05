@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Engage and connect with customers, provide excellent customer service, offer product information, execute operational processes to drive sales",
-  "Required Skills": "Hospitality mentality, ability to build rapport with customers, complete transactions accurately, promote loyalty programs", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Retail or service industry experience, excellent communication skills, curious and eager to learn, values diversity",
-  "Compensation and Benefits": "N/A"
-}

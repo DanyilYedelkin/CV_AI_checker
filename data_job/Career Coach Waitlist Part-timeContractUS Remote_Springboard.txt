@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Provide 1-on-1 career coaching conversations regarding job search in technical fields with students in a high-volume online coaching environment; respond promptly and supportively to student career concerns and questions via email.",
-  "Required Skills": "2+ years formal experience in recruiting, coaching or advising in a 1-on-1 capacity specifically supporting individuals' job search and career goals for technical roles; intimate knowledge of the technical hiring process and how to conduct an effective job search in tech; outstanding customer service mentality and strong attention to detail in recording student progress and following up on questions; strong communication skills especially in listening, coaching and advising.", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "2+ years formal experience in recruiting, coaching or advising in a 1-on-1 capacity specifically supporting individuals' job search and career goals for technical roles",
-  "Preferred Qualifications": "A track record of producing measurable results, meeting deadlines and balancing multiple priorities and constituencies; a genuine interest in student and career development with experience working with candidates/students as well as hiring partners preferred",
-  "Compensation and Benefits": "N/A"
-}

@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Performs daily rounds on nursing floor communicating with patients, families and staff. Complies with regulatory obligations and possesses ownership of the complaint/grievance process. Ensures hospitalâ€TMs overall compliance with state, federal and JCAHO regulations. Focuses on employee engagement. Personally creates, continually cultivates and owns a top 25 key business development relationship list. Knows, understands and effectively implements the corporate case management and PPS model. Prepares an annual operating budget, a 5 year capital budget and a strategic plan that is presented and approved by the governing board. Maintains a high ethical standard, consistently behaves in a professional and ethical manner, adhering to all policies related meets and abides by all compliance, HIPAA and professional standards.",
-  "Required Skills": "Masters degree required. Three 3 years leadership experience in healthcare. Management functions of finance, strategic planning and community education of health programs. Three 3 years operations experience in an acute care or specialty hospital setting.",  
-  "Educational Requirements": "Masters degree required",
-  "Experience Level": "Three (3) years leadership experience in healthcare. Three (3) years operations experience in an acute care or specialty hospital setting.",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Paid time off (PTO) and extended illness days (EID). Health, dental and vision insurance, life insurance, prescription coverage. A 401k retirement plan with company match. Short and long term disability. Personal and family medical leave."
-}

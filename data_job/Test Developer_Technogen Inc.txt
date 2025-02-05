@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Design, build and improve performant and scalable microservices using Node.js, TypeScript and AWS services. Work in an Agile team environment to deliver features on tight timelines.",
-  "Required Skills": "Node.js, TypeScript, DynamoDB, Redis, Docker, Kubernetes, Helm, CI/CD tools like Jenkins, experience with REST APIs, event-driven systems, test driven development, automation testing frameworks", 
-  "Educational Requirements": "N/A",
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "Experience with monitoring tools like Splunk, experience with microservice security patterns",
-  "Compensation and Benefits": "N/A"
-}

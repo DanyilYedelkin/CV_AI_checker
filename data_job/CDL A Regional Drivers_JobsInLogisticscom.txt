@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Driving freight loads an average of 2500 miles per week. No touch freight in dry vans.",
-  "Required Skills": "Valid commercial driver's license. Ability to drive long hours and overnight.",
-  "Educational Requirements": "N/A", 
-  "Experience Level": "N/A",
-  "Preferred Qualifications": "N/A",
-  "Compensation and Benefits": "Average weekly pay of $1200. Outstanding medical plan, 401k with company match, weekly direct deposit, paid holidays/sick days/vacation, monthly safety bonus, driver referral bonus."
-}

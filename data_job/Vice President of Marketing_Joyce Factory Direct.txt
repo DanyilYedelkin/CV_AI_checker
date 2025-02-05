@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Develop and execute new marketing systems and lead generation programs. Oversee existing marketing and lead gen departments. Train staff and implement processes to increase lead conversion rate.", 
-  "Required Skills": "Experience building marketing programs and analyzing results. Digital and direct marketing experience. Strong project and team management skills. Problem solving attitude. Direct contact marketing experience required. Salesforce experience a plus.",
-  "Educational Requirements": "N/A",
-  "Experience Level": "5 years marketing experience required. 1 year call center management preferred. 2 years lead generation experience required. 3 years integrated marketing preferred.",
-  "Preferred Qualifications": "Salesforce experience a plus.",
-  "Compensation and Benefits": "Salary of $100K per year. 401K with 4% matching. Employee discount. Flexible schedule. Health insurance. Health savings account. Paid time off. Bonus pay."
-}

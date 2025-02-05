@@ -1,8 +1,0 @@
- {
-  "Core Responsibilities": "Test Android OS, BSP, firmware and drivers using automation frameworks and creating custom frameworks. Interface with stakeholders throughout the testing process.",
-  "Required Skills": "Bachelor's degree or equivalent. Proficiency in Android firmware testing and test automation frameworks. Experience testing device drivers, BSPs, and protocols like SPI, UART, USB. Familiarity with tools like Jira, Confluence, TestRail, Appium, Selenium, GitHub, Jenkins, CircleCI.", 
-  "Educational Requirements": "Bachelor's degree or equivalent",
-  "Experience Level": "Minimum 2 years of Android firmware testing experience",
-  "Preferred Qualifications": "Experience improving test efficiency through increased automation coverage, reduced defects, and faster test cycles. Experience with fitness and medical device testing.",
-  "Compensation and Benefits": "N/A"
-}
